@@ -1,0 +1,240 @@
+Date,Season,Season_Time,Time,Home,Away,Home_Pts,Away_Pts,Odds_H,Odds_A,Over_Line,Odds_Over,Odds_Under,HA_Line,HA_Odds_H,HA_Odds_A
+2022-05-06,2022,WNBA,20:00,Washington Mystics F,Indiana Fever F,84.0,70.0,1.23,4.25,161.5,1.9,1.9,-9.5,1.98,1.83
+2022-05-06,2022,WNBA,23:00,Phoenix Mercury F,Las Vegas Aces F,88.0,106.0,2.7,1.5,172.0,1.9,1.9,2.0,1.9,1.9
+2022-05-06,2022,WNBA,21:00,Chicago Sky F,Los Angeles Sparks F,91.0,98.0,1.62,2.4,154.0,1.8,2.01,-5.0,1.9,1.9
+2022-05-06,2022,WNBA,23:00,Seattle Storm F,Minnesota Lynx F,97.0,74.0,1.23,4.25,160.5,1.83,1.95,-9.5,1.95,1.87
+2022-05-07,2022,WNBA,19:00,New York Liberty F,Connecticut Sun F,81.0,79.0,3.1,1.4,158.0,1.9,1.9,5.5,1.9,1.9
+2022-05-07,2022,WNBA,21:00,Dallas Wings F,Atlanta Dream F,59.0,66.0,1.26,4.0,160.5,1.9,1.9,-8.5,1.9,1.9
+2022-05-08,2022,WNBA,23:00,Las Vegas Aces F,Seattle Storm F,85.0,74.0,1.5,2.7,175.5,1.9,1.9,-5.5,1.9,1.9
+2022-05-08,2022,WNBA,16:00,Indiana Fever F,Los Angeles Sparks F,77.0,87.0,3.4,1.33,155.0,1.9,1.9,5.0,1.9,1.9
+2022-05-08,2022,WNBA,21:00,Minnesota Lynx F,Washington Mystics F,66.0,78.0,1.66,2.3,158.5,1.8,1.95,-4.0,1.9,1.9
+2022-05-10,2022,WNBA,20:00,Washington Mystics F,Las Vegas Aces F,89.0,76.0,2.75,1.47,163.5,1.9,1.9,4.5,1.9,1.9
+2022-05-10,2022,WNBA,20:00,Indiana Fever F,Minnesota Lynx F,82.0,76.0,2.35,1.64,157.0,1.82,1.97,2.5,2.0,1.83
+2022-05-11,2022,WNBA,20:00,Atlanta Dream F,Los Angeles Sparks F,77.0,75.0,2.8,1.45,160.5,1.83,2.0,2.5,1.9,1.9
+2022-05-11,2022,WNBA,21:00,Chicago Sky F,New York Liberty F,83.0,50.0,1.47,2.75,164.0,1.82,1.99,-5.5,1.98,1.83
+2022-05-11,2022,WNBA,23:00,Phoenix Mercury F,Seattle Storm F,97.0,77.0,1.83,2.0,161.0,1.9,1.9,-1.5,1.9,1.9
+2022-05-13,2022,WNBA,20:00,Washington Mystics F,Dallas Wings F,86.0,94.0,1.27,3.8,154.5,1.9,1.9,-8.0,1.9,1.9
+2022-05-13,2022,WNBA,20:30,Atlanta Dream F,Las Vegas Aces F,73.0,96.0,4.1,1.25,166.5,1.84,1.99,6.0,1.9,1.9
+2022-05-13,2022,WNBA,21:00,New York Liberty F,Indiana Fever F,86.0,92.0,1.35,3.3,158.0,1.83,1.98,-6.5,1.9,1.9
+2022-05-14,2022,WNBA,21:00,Minnesota Lynx F,Chicago Sky F,78.0,82.0,3.9,1.27,159.5,1.84,1.94,7.5,1.97,1.85
+2022-05-14,2022,WNBA,16:00,Seattle Storm F,Phoenix Mercury F,64.0,69.0,2.15,1.74,161.0,1.81,1.98,1.5,2.0,1.81
+2022-05-14,2022,WNBA,20:00,Connecticut Sun F,Los Angeles Sparks F,77.0,60.0,1.29,3.7,157.0,1.82,1.97,-8.0,1.9,1.9
+2022-05-15,2022,WNBA,15:00,New York Liberty F,Dallas Wings F,71.0,81.0,1.76,2.1,162.5,1.9,1.9,-2.0,1.9,1.9
+2022-05-15,2022,WNBA,16:00,Indiana Fever F,Atlanta Dream F,79.0,85.0,1.76,2.1,156.0,1.82,1.99,-2.5,1.96,1.86
+2022-05-17,2022,WNBA,20:00,New York Liberty F,Connecticut Sun F,65.0,92.0,4.25,1.23,153.5,1.8,2.01,7.0,1.9,1.9
+2022-05-17,2022,WNBA,20:00,Indiana Fever F,Atlanta Dream F,79.0,101.0,1.9,1.9,158.0,1.8,2.01,-1.0,1.95,1.86
+2022-05-17,2022,WNBA,21:00,Dallas Wings F,Washington Mystics F,68.0,84.0,2.35,1.64,159.5,1.9,1.9,1.5,1.9,1.9
+2022-05-17,2022,WNBA,23:00,Las Vegas Aces F,Phoenix Mercury F,86.0,74.0,1.27,3.8,169.5,1.84,1.97,-8.5,1.96,1.86
+2022-05-17,2022,WNBA,23:30,Los Angeles Sparks F,Minnesota Lynx F,84.0,87.0,1.3,3.65,159.0,1.82,1.97,-9.0,1.9,1.9
+2022-05-18,2022,WNBA,23:00,Seattle Storm F,Chicago Sky F,74.0,71.0,1.86,1.95,157.0,1.9,1.9,-4.5,1.9,1.9
+2022-05-19,2022,WNBA,23:00,Phoenix Mercury F,Dallas Wings F,84.0,94.0,1.71,2.2,158.5,1.8,1.95,-5.0,1.9,1.9
+2022-05-19,2022,WNBA,23:00,Las Vegas Aces F,Minnesota Lynx F,93.0,87.0,1.16,5.5,167.5,1.9,1.9,-12.5,1.9,1.9
+2022-05-20,2022,WNBA,23:00,Seattle Storm F,Los Angeles Sparks F,83.0,80.0,1.29,3.7,157.0,1.9,1.9,-8.0,1.9,1.9
+2022-05-20,2022,WNBA,20:00,Connecticut Sun F,Indiana Fever F,94.0,85.0,1.08,8.5,155.0,1.83,1.95,-17.0,1.98,1.81
+2022-05-20,2022,WNBA,20:30,Atlanta Dream F,Washington Mystics F,73.0,78.0,2.0,1.83,157.0,1.82,1.99,-1.5,1.9,1.9
+2022-05-21,2022,WNBA,21:00,Dallas Wings F,Minnesota Lynx F,94.0,78.0,1.74,2.15,163.0,1.83,1.98,-5.0,1.9,1.9
+2022-05-21,2022,WNBA,16:00,Las Vegas Aces F,Phoenix Mercury F,100.0,80.0,1.18,5.25,167.0,1.9,1.9,-11.5,2.0,1.83
+2022-05-22,2022,WNBA,15:00,Indiana Fever F,Connecticut Sun F,70.0,92.0,6.75,1.11,160.5,1.9,1.9,12.0,1.9,1.9
+2022-05-22,2022,WNBA,16:00,Washington Mystics F,Chicago Sky F,73.0,82.0,1.8,2.05,157.5,1.9,1.9,-2.0,1.93,1.83
+2022-05-23,2022,WNBA,23:00,Las Vegas Aces F,Los Angeles Sparks F,104.0,76.0,0.0,0.0,168.5,1.9,1.9,-11.0,2.0,1.83
+2022-05-24,2022,WNBA,20:00,Washington Mystics F,Atlanta Dream F,70.0,50.0,1.25,4.2,156.0,1.8,2.01,-8.5,1.9,1.9
+2022-05-24,2022,WNBA,20:00,Connecticut Sun F,Dallas Wings F,77.0,85.0,1.27,3.8,158.5,1.9,1.9,-8.5,1.9,1.9
+2022-05-24,2022,WNBA,21:00,Minnesota Lynx F,New York Liberty F,84.0,78.0,1.47,2.75,160.0,1.83,1.95,-6.0,1.9,1.9
+2022-05-24,2022,WNBA,21:00,Chicago Sky F,Indiana Fever F,95.0,90.0,0.0,0.0,161.5,1.84,1.99,-14.0,1.99,1.83
+2022-05-25,2022,WNBA,23:30,Los Angeles Sparks F,Phoenix Mercury F,99.0,94.0,0.0,0.0,163.5,1.84,1.94,-3.0,1.96,1.84
+2022-05-26,2022,WNBA,20:00,Connecticut Sun F,Dallas Wings F,99.0,68.0,1.26,4.0,159.0,1.9,1.9,-9.0,2.0,1.83
+2022-05-27,2022,WNBA,23:00,Seattle Storm F,New York Liberty F,79.0,71.0,1.18,5.25,155.0,1.83,1.99,-13.0,1.9,1.9
+2022-05-27,2022,WNBA,20:00,Indiana Fever F,Los Angeles Sparks F,101.0,96.0,3.15,1.38,163.5,1.9,1.9,5.5,1.95,1.87
+2022-05-28,2022,WNBA,20:00,Connecticut Sun F,Washington Mystics F,79.0,71.0,1.19,5.0,153.5,1.83,1.97,-10.5,1.99,1.82
+2022-05-28,2022,WNBA,16:00,Chicago Sky F,Las Vegas Aces F,76.0,83.0,1.95,1.86,168.5,1.9,1.9,1.0,1.9,1.9
+2022-05-29,2022,WNBA,13:00,Atlanta Dream F,Phoenix Mercury F,81.0,54.0,2.05,1.8,161.5,1.8,1.99,1.0,1.9,1.9
+2022-05-29,2022,WNBA,19:00,Seattle Storm F,New York Liberty F,92.0,61.0,1.28,3.75,151.0,1.82,1.97,-8.5,1.9,1.9
+2022-05-29,2022,WNBA,20:00,Minnesota Lynx F,Los Angeles Sparks F,83.0,85.0,1.74,2.15,167.5,1.82,1.97,-2.5,2.0,1.83
+2022-05-31,2022,WNBA,20:00,Indiana Fever F,Washington Mystics F,75.0,87.0,3.7,1.29,162.0,1.9,1.9,6.5,1.98,1.83
+2022-05-31,2022,WNBA,20:00,Chicago Sky F,Phoenix Mercury F,73.0,70.0,1.25,4.2,163.0,1.9,1.9,-9.5,1.98,1.83
+2022-05-31,2022,WNBA,22:00,Las Vegas Aces F,Connecticut Sun F,89.0,81.0,1.54,2.65,166.5,1.83,1.98,-4.5,1.9,1.9
+2022-05-31,2022,WNBA,23:30,Los Angeles Sparks F,Dallas Wings F,93.0,91.0,1.95,1.86,165.5,1.9,1.9,-3.0,1.9,1.9
+2022-06-01,2022,WNBA,20:00,New York Liberty F,Indiana Fever F,87.0,74.0,1.5,2.7,162.0,1.81,2.0,-5.5,1.9,1.9
+2022-06-01,2022,WNBA,20:00,Atlanta Dream F,Minnesota Lynx F,84.0,76.0,1.54,2.65,156.0,1.9,1.9,-5.5,1.98,1.83
+2022-06-02,2022,WNBA,23:00,Las Vegas Aces F,Connecticut Sun F,90.0,97.0,1.45,2.8,167.5,1.9,1.9,-5.0,1.9,1.9
+2022-06-03,2022,WNBA,23:00,Phoenix Mercury F,Connecticut Sun F,88.0,92.0,0.0,0.0,162.0,1.9,1.9,4.5,1.9,1.9
+2022-06-03,2022,WNBA,23:00,Seattle Storm F,Dallas Wings F,51.0,68.0,1.38,3.15,159.0,1.8,1.95,-7.5,1.9,1.9
+2022-06-03,2022,WNBA,20:30,Atlanta Dream F,Chicago Sky F,65.0,73.0,2.55,1.57,155.5,1.9,1.9,2.0,1.9,1.9
+2022-06-03,2022,WNBA,20:00,Washington Mystics F,New York Liberty F,70.0,74.0,1.13,6.25,153.0,1.8,1.95,-13.0,2.0,1.71
+2022-06-05,2022,WNBA,15:00,New York Liberty F,Minnesota Lynx F,77.0,84.0,1.68,2.25,156.0,1.9,1.9,-3.5,1.9,1.9
+2022-06-05,2022,WNBA,16:00,Atlanta Dream F,Indiana Fever F,75.0,66.0,0.0,0.0,158.0,1.81,2.0,-7.5,1.9,1.9
+2022-06-05,2022,WNBA,19:00,Seattle Storm F,Connecticut Sun F,86.0,93.0,0.0,0.0,153.5,1.8,1.97,-4.0,1.94,1.88
+2022-06-05,2022,WNBA,19:00,Phoenix Mercury F,Los Angeles Sparks F,81.0,74.0,2.3,1.66,169.5,1.9,1.9,-1.0,1.95,1.86
+2022-06-05,2022,WNBA,19:00,Las Vegas Aces F,Dallas Wings F,84.0,78.0,1.26,4.0,167.5,1.9,1.9,-9.0,1.9,1.9
+2022-06-05,2022,WNBA,19:00,Chicago Sky F,Washington Mystics F,91.0,82.0,0.0,0.0,153.5,1.9,1.9,-9.5,1.9,1.9
+2022-06-07,2022,WNBA,21:00,New York Liberty F,Minnesota Lynx F,88.0,69.0,1.71,2.2,158.5,1.8,1.95,-3.5,2.0,1.77
+2022-06-07,2022,WNBA,23:00,Seattle Storm F,Atlanta Dream F,72.0,60.0,0.0,0.0,149.5,1.9,1.9,-9.0,2.0,1.71
+2022-06-08,2022,WNBA,20:00,Connecticut Sun F,Indiana Fever F,88.0,69.0,0.0,0.0,159.5,1.9,1.9,-15.5,1.9,1.9
+2022-06-08,2022,WNBA,21:00,Washington Mystics F,Chicago Sky F,84.0,82.0,1.58,2.5,154.5,1.9,1.9,-4.5,1.99,1.8
+2022-06-10,2022,WNBA,23:00,Phoenix Mercury F,Atlanta Dream F,90.0,88.0,1.55,2.6,153.0,1.9,1.9,-4.5,1.9,1.9
+2022-06-10,2022,WNBA,21:00,Dallas Wings F,Seattle Storm F,88.0,89.0,0.0,0.0,152.0,1.81,2.0,2.0,1.95,1.86
+2022-06-10,2022,WNBA,20:00,Connecticut Sun F,Chicago Sky F,79.0,83.0,1.38,3.15,161.5,1.9,1.9,-6.5,1.96,1.88
+2022-06-10,2022,WNBA,20:00,Indiana Fever F,New York Liberty F,83.0,97.0,2.05,1.8,158.5,1.9,1.9,1.0,1.97,1.85
+2022-06-10,2022,WNBA,21:00,Minnesota Lynx F,Washington Mystics F,59.0,76.0,3.7,1.29,156.5,1.8,1.99,6.5,1.9,1.9
+2022-06-11,2022,WNBA,22:00,Los Angeles Sparks F,Las Vegas Aces F,72.0,89.0,3.4,1.33,173.5,1.9,1.9,6.0,1.97,1.85
+2022-06-12,2022,WNBA,15:00,New York Liberty F,Chicago Sky F,86.0,88.0,3.4,1.33,157.5,1.83,1.98,6.5,1.95,1.89
+2022-06-12,2022,WNBA,17:00,Dallas Wings F,Seattle Storm F,79.0,84.0,2.45,1.6,156.0,1.82,1.99,3.0,1.98,1.83
+2022-06-12,2022,WNBA,19:00,Washington Mystics F,Phoenix Mercury F,90.0,99.0,1.36,3.25,159.5,1.83,1.98,-8.0,1.9,1.9
+2022-06-12,2022,WNBA,20:00,Minnesota Lynx F,Indiana Fever F,80.0,84.0,1.76,2.1,165.0,1.9,1.9,-2.5,1.99,1.82
+2022-06-14,2022,WNBA,20:00,Washington Mystics F,Phoenix Mercury F,83.0,65.0,1.26,4.0,160.5,1.84,1.94,-9.0,1.99,1.82
+2022-06-14,2022,WNBA,22:00,Minnesota Lynx F,Seattle Storm F,79.0,81.0,3.7,1.29,155.5,1.81,1.95,5.5,1.9,1.9
+2022-06-15,2022,WNBA,14:00,Dallas Wings F,Las Vegas Aces F,84.0,92.0,4.25,1.23,171.5,1.9,1.9,8.0,1.9,1.9
+2022-06-15,2022,WNBA,20:00,Indiana Fever F,Phoenix Mercury F,80.0,93.0,1.86,1.95,167.5,1.8,1.99,-1.5,1.9,1.9
+2022-06-15,2022,WNBA,20:00,Connecticut Sun F,Atlanta Dream F,105.0,92.0,1.2,4.75,154.5,1.9,1.9,-11.0,1.99,1.84
+2022-06-16,2022,WNBA,20:00,New York Liberty F,Washington Mystics F,77.0,65.0,2.6,1.55,156.0,1.9,1.9,3.5,1.97,1.85
+2022-06-17,2022,WNBA,21:00,Chicago Sky F,Atlanta Dream F,106.0,100.0,1.28,3.75,155.5,1.9,1.9,-10.0,1.9,1.9
+2022-06-17,2022,WNBA,21:00,Dallas Wings F,Phoenix Mercury F,93.0,88.0,1.5,2.7,168.5,1.83,1.97,-5.0,1.9,1.9
+2022-06-17,2022,WNBA,20:00,Connecticut Sun F,Seattle Storm F,82.0,71.0,0.0,0.0,159.5,1.9,1.9,-8.0,1.9,1.9
+2022-06-19,2022,WNBA,13:00,New York Liberty F,Seattle Storm F,72.0,81.0,2.35,1.64,153.5,1.9,1.9,1.0,1.9,1.9
+2022-06-19,2022,WNBA,15:00,Washington Mystics F,Connecticut Sun F,71.0,63.0,2.45,1.6,154.5,1.9,1.9,2.0,1.9,1.9
+2022-06-19,2022,WNBA,16:00,Indiana Fever F,Chicago Sky F,89.0,87.0,3.9,1.27,170.5,1.81,1.98,7.0,1.9,1.9
+2022-06-19,2022,WNBA,17:00,Dallas Wings F,Los Angeles Sparks F,92.0,82.0,1.54,2.65,164.5,1.9,1.9,-4.5,1.96,1.86
+2022-06-19,2022,WNBA,19:00,Las Vegas Aces F,Minnesota Lynx F,96.0,95.0,1.06,10.5,171.0,1.83,1.98,-15.5,1.9,1.9
+2022-06-21,2022,WNBA,20:00,Atlanta Dream F,Dallas Wings F,80.0,75.0,2.55,1.57,162.5,1.9,1.9,3.0,2.0,1.81
+2022-06-21,2022,WNBA,23:00,Phoenix Mercury F,Minnesota Lynx F,71.0,84.0,1.43,2.9,166.5,1.9,1.9,-6.5,2.0,1.83
+2022-06-21,2022,WNBA,23:00,Las Vegas Aces F,Chicago Sky F,95.0,104.0,1.23,4.25,174.0,1.8,1.99,-10.5,1.9,1.9
+2022-06-21,2022,WNBA,23:30,Los Angeles Sparks F,Washington Mystics F,84.0,82.0,2.2,1.71,160.0,1.82,1.99,2.0,1.95,1.89
+2022-06-22,2022,WNBA,20:00,Connecticut Sun F,New York Liberty F,77.0,81.0,1.19,5.0,157.5,1.9,1.9,-10.5,1.9,1.9
+2022-06-23,2022,WNBA,21:00,Minnesota Lynx F,Phoenix Mercury F,100.0,88.0,1.71,2.2,165.0,1.9,1.9,-3.5,1.99,1.77
+2022-06-23,2022,WNBA,21:00,Dallas Wings F,Indiana Fever F,94.0,68.0,1.23,4.25,166.5,1.9,1.9,-10.0,2.0,1.71
+2022-06-23,2022,WNBA,23:00,Seattle Storm F,Washington Mystics F,85.0,71.0,0.0,0.0,152.0,1.9,1.9,-5.5,2.0,1.71
+2022-06-23,2022,WNBA,23:30,Los Angeles Sparks F,Chicago Sky F,59.0,82.0,0.0,0.0,169.5,1.9,1.9,3.5,2.0,1.71
+2022-06-24,2022,WNBA,20:30,Atlanta Dream F,New York Liberty F,77.0,89.0,0.0,0.0,155.0,1.9,1.9,-2.0,1.9,1.9
+2022-06-25,2022,WNBA,22:00,Seattle Storm F,Los Angeles Sparks F,77.0,85.0,1.27,3.8,159.0,1.82,2.01,-10.0,1.9,1.9
+2022-06-25,2022,WNBA,23:00,Las Vegas Aces F,Washington Mystics F,86.0,87.0,1.2,4.75,167.0,1.9,1.9,-10.0,2.0,1.81
+2022-06-25,2022,WNBA,21:00,Dallas Wings F,Phoenix Mercury F,72.0,83.0,1.35,3.3,167.5,1.8,2.01,-7.5,1.9,1.9
+2022-06-26,2022,WNBA,16:00,Atlanta Dream F,Connecticut Sun F,61.0,72.0,3.9,1.27,160.5,1.9,1.9,8.0,1.95,1.86
+2022-06-26,2022,WNBA,19:00,Chicago Sky F,Minnesota Lynx F,88.0,85.0,1.4,3.1,169.0,1.83,1.98,-7.0,1.9,1.9
+2022-06-27,2022,WNBA,23:00,Phoenix Mercury F,Indiana Fever F,83.0,71.0,1.32,3.5,163.5,1.9,1.9,-7.5,1.96,1.86
+2022-06-27,2022,WNBA,23:30,Los Angeles Sparks F,Las Vegas Aces F,73.0,79.0,3.8,1.27,174.0,1.81,2.02,6.0,1.9,1.9
+2022-06-28,2022,WNBA,20:00,Washington Mystics F,Atlanta Dream F,92.0,74.0,1.3,3.65,152.5,1.82,1.99,-8.0,1.9,1.9
+2022-06-28,2022,WNBA,21:00,Minnesota Lynx F,Dallas Wings F,92.0,64.0,1.66,2.3,163.5,1.83,1.97,-3.5,1.99,1.82
+2022-06-29,2022,WNBA,13:00,Chicago Sky F,Connecticut Sun F,91.0,83.0,1.74,2.15,164.0,1.83,1.98,-4.0,1.9,1.9
+2022-06-29,2022,WNBA,23:00,Seattle Storm F,Las Vegas Aces F,88.0,78.0,0.0,0.0,164.0,1.9,1.9,-2.0,1.9,1.9
+2022-06-29,2022,WNBA,23:00,Phoenix Mercury F,Indiana Fever F,99.0,78.0,1.32,3.45,165.5,1.9,1.9,-7.5,1.9,1.9
+2022-06-30,2022,WNBA,20:00,New York Liberty F,Atlanta Dream F,81.0,92.0,1.43,2.9,158.5,1.82,1.99,-6.0,2.0,1.85
+2022-07-01,2022,WNBA,21:00,Minnesota Lynx F,Las Vegas Aces F,85.0,91.0,2.67,1.52,173.5,1.9,1.9,4.0,1.9,1.9
+2022-07-01,2022,WNBA,23:00,Seattle Storm F,Indiana Fever F,73.0,57.0,1.11,7.0,159.5,1.9,1.9,-14.0,1.96,1.84
+2022-07-01,2022,WNBA,21:00,Dallas Wings F,Los Angeles Sparks F,89.0,97.0,1.5,2.7,164.0,1.9,1.9,-5.5,2.0,1.81
+2022-07-02,2022,WNBA,14:00,Chicago Sky F,Phoenix Mercury F,91.0,75.0,1.23,4.25,167.0,1.8,1.99,-9.5,1.9,1.9
+2022-07-03,2022,WNBA,14:00,Connecticut Sun F,Washington Mystics F,74.0,72.0,0.0,0.0,156.5,1.83,1.95,-8.5,2.0,1.81
+2022-07-03,2022,WNBA,16:00,Atlanta Dream F,Seattle Storm F,90.0,76.0,2.9,1.43,153.5,1.81,2.0,4.5,1.9,1.9
+2022-07-03,2022,WNBA,19:00,Los Angeles Sparks F,New York Liberty F,84.0,74.0,1.57,2.55,161.5,1.9,1.9,-4.5,2.0,1.83
+2022-07-03,2022,WNBA,20:00,Minnesota Lynx F,Las Vegas Aces F,102.0,71.0,2.75,1.47,172.0,1.83,1.97,4.5,2.0,1.81
+2022-07-04,2022,WNBA,20:00,Los Angeles Sparks F,Phoenix Mercury F,78.0,75.0,2.0,1.83,165.5,1.9,1.9,1.0,1.9,1.9
+2022-07-05,2022,WNBA,20:00,Indiana Fever F,Seattle Storm F,73.0,95.0,5.75,1.15,156.5,1.9,1.9,9.5,1.9,1.9
+2022-07-05,2022,WNBA,21:00,Dallas Wings F,Connecticut Sun F,82.0,71.0,2.75,1.47,161.5,1.81,1.98,4.5,1.94,1.88
+2022-07-06,2022,WNBA,14:00,Minnesota Lynx F,Chicago Sky F,81.0,78.0,2.05,1.8,167.0,1.83,1.95,1.5,1.95,1.86
+2022-07-06,2022,WNBA,21:00,Atlanta Dream F,Washington Mystics F,66.0,85.0,2.7,1.5,155.5,1.8,2.01,4.5,1.99,1.83
+2022-07-06,2022,WNBA,23:00,Las Vegas Aces F,New York Liberty F,107.0,116.0,1.16,5.5,168.0,1.83,2.0,-11.5,1.9,1.9
+2022-07-07,2022,WNBA,23:30,Los Angeles Sparks F,Seattle Storm F,69.0,106.0,2.7,1.5,160.0,1.8,2.01,4.0,1.98,1.83
+2022-07-07,2022,WNBA,20:00,Indiana Fever F,Chicago Sky F,84.0,93.0,4.5,1.22,167.0,1.9,1.9,9.0,1.9,1.9
+2022-07-07,2022,WNBA,23:00,Phoenix Mercury F,New York Liberty F,84.0,81.0,1.54,2.65,163.5,1.9,1.9,-5.5,1.9,1.9
+2022-07-12,2022,WNBA,16:00,Seattle Storm F,Dallas Wings F,83.0,74.0,0.0,0.0,159.5,1.81,2.0,-10.0,1.98,1.83
+2022-07-12,2022,WNBA,20:00,New York Liberty F,Las Vegas Aces F,101.0,107.0,3.3,1.35,172.5,1.9,1.9,6.0,2.0,1.81
+2022-07-12,2022,WNBA,21:00,Minnesota Lynx F,Phoenix Mercury F,118.0,107.0,1.31,3.55,161.5,1.9,1.9,-8.0,1.9,1.9
+2022-07-12,2022,WNBA,21:00,Chicago Sky F,Atlanta Dream F,90.0,75.0,1.22,4.5,162.5,1.8,2.01,-9.0,1.9,1.9
+2022-07-12,2022,WNBA,23:30,Los Angeles Sparks F,Washington Mystics F,81.0,94.0,3.1,1.4,156.5,1.8,1.97,4.0,1.9,1.9
+2022-07-13,2022,WNBA,13:00,Indiana Fever F,Connecticut Sun F,81.0,89.0,4.75,1.2,160.5,1.82,1.97,8.5,1.9,1.9
+2022-07-14,2022,WNBA,12:00,New York Liberty F,Las Vegas Aces F,74.0,108.0,3.2,1.37,172.0,1.9,1.9,5.5,2.0,1.83
+2022-07-14,2022,WNBA,21:00,Minnesota Lynx F,Dallas Wings F,87.0,92.0,1.5,2.7,164.5,1.83,1.98,-6.5,1.9,1.9
+2022-07-14,2022,WNBA,23:00,Phoenix Mercury F,Washington Mystics F,80.0,75.0,2.7,1.5,158.5,1.83,1.95,2.0,1.9,1.9
+2022-07-14,2022,WNBA,23:30,Los Angeles Sparks F,Chicago Sky F,68.0,80.0,3.0,1.41,164.5,1.9,1.9,4.5,1.95,1.86
+2022-07-15,2022,WNBA,20:00,Indiana Fever F,Minnesota Lynx F,77.0,87.0,2.5,1.58,164.5,1.9,1.9,3.0,1.95,1.86
+2022-07-15,2022,WNBA,20:30,Atlanta Dream F,Connecticut Sun F,68.0,93.0,3.75,1.28,154.0,1.81,1.98,7.0,1.9,1.9
+2022-07-16,2022,WNBA,21:00,Dallas Wings F,Chicago Sky F,81.0,89.0,0.0,0.0,168.5,1.8,1.95,3.5,2.0,1.71
+2022-07-17,2022,WNBA,19:00,Phoenix Mercury F,Atlanta Dream F,75.0,85.0,1.38,3.15,159.5,1.9,1.9,-6.5,1.9,1.9
+2022-07-17,2022,WNBA,14:00,Connecticut Sun F,Las Vegas Aces F,83.0,91.0,0.0,0.0,168.5,1.83,1.83,1.0,1.9,1.9
+2022-07-17,2022,WNBA,16:00,Washington Mystics F,Minnesota Lynx F,70.0,57.0,1.47,2.75,160.5,1.9,1.9,-5.5,1.99,1.84
+2022-07-17,2022,WNBA,19:00,Seattle Storm F,Indiana Fever F,81.0,65.0,0.0,0.0,158.5,1.9,1.9,-14.5,1.96,1.88
+2022-07-19,2022,WNBA,12:30,Connecticut Sun F,New York Liberty F,82.0,63.0,1.41,3.0,160.5,1.8,2.04,-9.0,1.9,1.9
+2022-07-19,2022,WNBA,23:00,Las Vegas Aces F,Atlanta Dream F,76.0,92.0,1.11,7.0,169.5,1.9,1.9,-14.5,1.9,1.9
+2022-07-19,2022,WNBA,23:30,Los Angeles Sparks F,Indiana Fever F,86.0,79.0,1.23,4.25,161.5,1.81,1.98,-9.0,1.9,1.9
+2022-07-20,2022,WNBA,13:00,Chicago Sky F,Seattle Storm F,78.0,74.0,1.71,2.2,158.5,1.82,1.99,-3.0,1.9,1.9
+2022-07-21,2022,WNBA,12:30,Washington Mystics F,New York Liberty F,78.0,69.0,1.26,4.0,156.5,1.9,1.9,-8.5,1.97,1.85
+2022-07-21,2022,WNBA,16:30,Los Angeles Sparks F,Atlanta Dream F,85.0,78.0,1.71,2.2,158.5,1.9,1.9,-2.5,1.9,1.9
+2022-07-21,2022,WNBA,23:00,Las Vegas Aces F,Indiana Fever F,90.0,77.0,1.05,12.0,174.0,1.9,1.9,-17.5,1.96,1.86
+2022-07-22,2022,WNBA,21:00,Minnesota Lynx F,Connecticut Sun F,84.0,94.0,1.76,2.1,158.5,1.83,1.95,-2.0,2.0,1.83
+2022-07-22,2022,WNBA,21:00,Chicago Sky F,Dallas Wings F,89.0,83.0,1.3,3.65,163.5,1.82,1.99,-8.0,1.9,1.9
+2022-07-22,2022,WNBA,23:00,Phoenix Mercury F,Seattle Storm F,94.0,78.0,3.15,1.38,159.5,1.82,1.99,5.0,1.99,1.84
+2022-07-23,2022,WNBA,23:00,Las Vegas Aces F,Los Angeles Sparks F,84.0,66.0,1.19,5.0,172.5,1.9,1.9,-10.5,1.98,1.83
+2022-07-23,2022,WNBA,20:00,New York Liberty F,Chicago Sky F,83.0,80.0,0.0,0.0,163.0,1.9,1.9,3.0,2.0,1.71
+2022-07-24,2022,WNBA,16:00,Indiana Fever F,Dallas Wings F,86.0,96.0,3.25,1.36,161.5,1.9,1.9,6.0,1.95,1.86
+2022-07-24,2022,WNBA,19:00,Seattle Storm F,Atlanta Dream F,82.0,72.0,1.31,3.6,156.5,1.9,1.9,-8.0,1.97,1.85
+2022-07-24,2022,WNBA,20:00,Minnesota Lynx F,Connecticut Sun F,79.0,86.0,2.8,1.45,163.5,1.9,1.9,1.5,1.95,1.86
+2022-07-28,2022,WNBA,20:00,Connecticut Sun F,Seattle Storm F,88.0,83.0,1.64,2.35,158.0,1.83,1.97,-4.0,1.99,1.82
+2022-07-28,2022,WNBA,20:00,Atlanta Dream F,Minnesota Lynx F,85.0,92.0,1.83,2.0,159.5,1.81,1.98,-2.5,1.9,1.9
+2022-07-28,2022,WNBA,21:00,Dallas Wings F,Washington Mystics F,77.0,87.0,1.76,2.1,157.0,1.85,1.95,-2.5,1.98,1.83
+2022-07-28,2022,WNBA,23:00,Phoenix Mercury F,Los Angeles Sparks F,90.0,80.0,1.54,2.65,164.0,1.9,1.9,-5.5,1.97,1.83
+2022-07-29,2022,WNBA,20:00,Indiana Fever F,Las Vegas Aces F,72.0,93.0,10.0,1.06,173.5,1.9,1.9,13.5,1.9,1.9
+2022-07-29,2022,WNBA,21:00,Chicago Sky F,New York Liberty F,89.0,81.0,1.23,4.25,164.5,1.9,1.9,-10.0,1.9,1.9
+2022-07-30,2022,WNBA,13:00,Washington Mystics F,Seattle Storm F,77.0,82.0,1.76,2.1,154.5,1.9,1.9,-3.0,1.9,1.9
+2022-07-30,2022,WNBA,20:30,Atlanta Dream F,Dallas Wings F,68.0,81.0,1.8,2.05,163.0,1.82,1.97,-2.5,1.99,1.8
+2022-07-31,2022,WNBA,16:00,Indiana Fever F,Las Vegas Aces F,69.0,94.0,12.5,1.04,171.5,1.9,1.9,16.0,1.9,1.9
+2022-07-31,2022,WNBA,20:00,Los Angeles Sparks F,Minnesota Lynx F,77.0,84.0,0.0,0.0,166.0,1.83,1.99,-1.0,1.95,1.86
+2022-07-31,2022,WNBA,15:00,New York Liberty F,Phoenix Mercury F,89.0,69.0,2.05,1.8,166.0,1.9,1.9,1.0,1.9,1.9
+2022-07-31,2022,WNBA,14:00,Connecticut Sun F,Chicago Sky F,92.0,95.0,1.54,2.65,159.0,1.82,1.99,-5.5,1.9,1.9
+2022-07-31,2022,WNBA,16:00,Washington Mystics F,Seattle Storm F,78.0,75.0,1.64,2.35,155.0,1.83,2.0,-4.0,1.97,1.85
+2022-08-02,2022,WNBA,20:00,Washington Mystics F,Las Vegas Aces F,83.0,73.0,0.0,0.0,164.0,1.81,2.0,2.5,1.9,1.9
+2022-08-02,2022,WNBA,20:00,New York Liberty F,Los Angeles Sparks F,102.0,73.0,1.43,2.9,162.0,1.9,1.9,-6.0,1.95,1.86
+2022-08-02,2022,WNBA,20:00,Connecticut Sun F,Phoenix Mercury F,87.0,63.0,1.15,5.75,166.0,1.9,1.9,-10.5,1.9,1.9
+2022-08-02,2022,WNBA,22:00,Chicago Sky F,Dallas Wings F,78.0,84.0,1.2,4.75,165.0,1.9,1.9,-11.5,1.9,1.9
+2022-08-03,2022,WNBA,20:00,New York Liberty F,Los Angeles Sparks F,64.0,61.0,1.37,3.2,162.0,1.83,1.93,-8.0,2.0,1.76
+2022-08-03,2022,WNBA,20:00,Atlanta Dream F,Indiana Fever F,91.0,81.0,0.0,0.0,157.0,1.8,1.99,-10.5,1.97,1.8
+2022-08-03,2022,WNBA,23:00,Seattle Storm F,Minnesota Lynx F,89.0,77.0,1.4,3.1,160.5,1.9,1.9,-7.0,1.95,1.86
+2022-08-04,2022,WNBA,20:00,Connecticut Sun F,Phoenix Mercury F,77.0,64.0,1.11,6.75,163.0,1.82,1.95,-13.0,1.9,1.9
+2022-08-04,2022,WNBA,21:00,Dallas Wings F,Las Vegas Aces F,82.0,80.0,4.2,1.25,170.5,1.9,1.9,7.0,1.95,1.83
+2022-08-05,2022,WNBA,20:30,Atlanta Dream F,Los Angeles Sparks F,88.0,86.0,1.47,2.75,156.5,1.82,1.95,-6.0,1.99,1.78
+2022-08-05,2022,WNBA,21:00,Chicago Sky F,Washington Mystics F,93.0,83.0,1.41,3.0,159.5,1.9,1.9,-7.0,1.99,1.78
+2022-08-06,2022,WNBA,23:00,Phoenix Mercury F,New York Liberty F,76.0,62.0,2.75,1.47,157.5,1.9,1.9,1.0,1.9,1.9
+2022-08-06,2022,WNBA,21:00,Dallas Wings F,Indiana Fever F,95.0,91.0,1.11,7.0,162.5,1.9,1.9,-14.0,1.97,1.82
+2022-08-07,2022,WNBA,14:00,Chicago Sky F,Connecticut Sun F,94.0,91.0,1.58,2.5,165.5,1.8,1.97,-5.0,2.0,1.76
+2022-08-07,2022,WNBA,16:00,Washington Mystics F,Los Angeles Sparks F,76.0,79.0,1.18,5.25,157.5,1.8,1.97,-11.5,1.98,1.77
+2022-08-07,2022,WNBA,16:10,Seattle Storm F,Las Vegas Aces F,81.0,89.0,1.68,2.25,165.5,1.84,1.94,-3.0,1.9,1.9
+2022-08-07,2022,WNBA,20:00,Minnesota Lynx F,Atlanta Dream F,81.0,71.0,1.47,2.75,161.0,1.8,1.95,-6.0,2.0,1.76
+2022-08-08,2022,WNBA,21:00,Dallas Wings F,New York Liberty F,86.0,77.0,1.55,2.6,160.5,1.9,1.9,-5.0,1.97,1.8
+2022-08-09,2022,WNBA,21:00,Chicago Sky F,Seattle Storm F,100.0,111.0,0.0,0.0,163.5,1.9,1.9,-5.5,1.97,1.82
+2022-08-09,2022,WNBA,23:00,Las Vegas Aces F,Atlanta Dream F,97.0,90.0,1.13,6.25,166.0,1.81,1.98,-13.5,1.99,1.8
+2022-08-09,2022,WNBA,23:30,Los Angeles Sparks F,Connecticut Sun F,71.0,97.0,3.8,1.27,158.5,1.9,1.9,7.5,1.9,1.9
+2022-08-10,2022,WNBA,21:00,Dallas Wings F,New York Liberty F,73.0,91.0,1.64,2.35,162.0,1.9,1.9,-5.5,1.9,1.9
+2022-08-10,2022,WNBA,23:00,Phoenix Mercury F,Minnesota Lynx F,77.0,86.0,3.15,1.38,161.0,1.9,1.9,3.5,1.9,1.9
+2022-08-11,2022,WNBA,23:00,Las Vegas Aces F,Chicago Sky F,89.0,78.0,1.8,2.05,173.0,1.9,1.9,-2.5,1.98,1.79
+2022-08-11,2022,WNBA,23:30,Los Angeles Sparks F,Connecticut Sun F,69.0,93.0,6.0,1.14,161.0,1.8,1.97,10.5,1.95,1.83
+2022-08-12,2022,WNBA,22:00,Minnesota Lynx F,Seattle Storm F,69.0,96.0,1.9,1.9,162.5,1.83,1.93,-1.0,1.95,1.86
+2022-08-12,2022,WNBA,23:00,Phoenix Mercury F,Dallas Wings F,86.0,74.0,2.05,1.8,158.5,1.9,1.9,1.0,1.9,1.9
+2022-08-12,2022,WNBA,20:00,Indiana Fever F,Washington Mystics F,70.0,82.0,7.5,1.1,158.5,1.9,1.9,11.0,1.9,1.9
+2022-08-12,2022,WNBA,20:30,Atlanta Dream F,New York Liberty F,70.0,80.0,2.05,1.8,159.5,1.9,1.9,1.5,1.9,1.9
+2022-08-14,2022,WNBA,14:00,Connecticut Sun F,Minnesota Lynx F,90.0,83.0,1.41,3.0,163.5,1.9,1.9,-10.0,1.9,1.9
+2022-08-14,2022,WNBA,15:00,New York Liberty F,Atlanta Dream F,87.0,83.0,1.5,2.7,159.5,1.8,1.97,-5.5,1.95,1.81
+2022-08-14,2022,WNBA,16:00,Washington Mystics F,Indiana Fever F,95.0,83.0,1.14,6.0,157.0,1.9,1.9,-12.5,1.9,1.9
+2022-08-14,2022,WNBA,16:00,Las Vegas Aces F,Seattle Storm F,109.0,100.0,1.37,3.2,167.5,1.9,1.9,-10.5,1.96,1.88
+2022-08-14,2022,WNBA,18:00,Phoenix Mercury F,Chicago Sky F,67.0,82.0,3.6,1.31,164.5,1.8,1.95,6.0,1.9,1.9
+2022-08-14,2022,WNBA,20:00,Los Angeles Sparks F,Dallas Wings F,88.0,116.0,3.0,1.41,162.5,1.9,1.9,3.5,1.9,1.9
+2022-08-17,2022,WNBA - PLAYOFFS - QUARTAS DE FINAL,21:00,Chicago Sky F,New York Liberty F,91.0,98.0,0.0,0.0,164.0,1.9,1.9,-11.0,2.0,1.76
+2022-08-17,2022,WNBA - PLAYOFFS - QUARTAS DE FINAL,23:00,Las Vegas Aces F,Phoenix Mercury F,79.0,63.0,1.05,12.0,167.0,1.9,1.9,-17.0,1.98,1.83
+2022-08-18,2022,WNBA - PLAYOFFS - QUARTAS DE FINAL,21:00,Connecticut Sun F,Dallas Wings F,93.0,68.0,1.18,5.25,161.5,1.9,1.9,-10.5,1.94,1.82
+2022-08-18,2022,WNBA - PLAYOFFS - QUARTAS DE FINAL,23:00,Seattle Storm F,Washington Mystics F,86.0,83.0,1.54,2.65,156.5,1.8,1.97,-5.0,1.98,1.79
+2022-08-20,2022,WNBA - PLAYOFFS - QUARTAS DE FINAL,13:00,Chicago Sky F,New York Liberty F,100.0,62.0,1.23,4.25,168.0,1.9,1.9,-10.0,1.97,1.8
+2022-08-20,2022,WNBA - PLAYOFFS - QUARTAS DE FINAL,22:00,Las Vegas Aces F,Phoenix Mercury F,117.0,80.0,1.03,15.0,163.5,1.81,1.94,-18.5,1.98,1.79
+2022-08-21,2022,WNBA - PLAYOFFS - QUARTAS DE FINAL,13:00,Connecticut Sun F,Dallas Wings F,79.0,89.0,1.11,6.75,161.5,1.9,1.9,-12.0,1.9,1.9
+2022-08-21,2022,WNBA - PLAYOFFS - QUARTAS DE FINAL,17:00,Seattle Storm F,Washington Mystics F,97.0,84.0,1.6,2.45,159.0,1.8,1.95,-4.5,1.9,1.9
+2022-08-23,2022,WNBA - PLAYOFFS - QUARTAS DE FINAL,22:00,New York Liberty F,Chicago Sky F,72.0,90.0,3.5,1.32,165.0,1.9,1.9,6.5,1.9,1.9
+2022-08-24,2022,WNBA - PLAYOFFS - QUARTAS DE FINAL,22:00,Dallas Wings F,Connecticut Sun F,58.0,73.0,3.1,1.4,164.0,1.9,1.9,4.5,1.9,1.9
+2022-08-28,2022,WNBA - PLAYOFFS - SEMIFINAIS,17:00,Las Vegas Aces F,Seattle Storm F,73.0,76.0,1.43,2.9,168.5,1.9,1.9,-6.5,2.0,1.83
+2022-08-28,2022,WNBA - PLAYOFFS - SEMIFINAIS,21:00,Chicago Sky F,Connecticut Sun F,63.0,68.0,1.57,2.55,165.5,1.9,1.9,-4.0,1.9,1.9
+2022-08-31,2022,WNBA - PLAYOFFS - SEMIFINAIS,21:00,Chicago Sky F,Connecticut Sun F,85.0,77.0,1.44,2.85,163.5,1.9,1.9,-6.5,1.99,1.8
+2022-08-31,2022,WNBA - PLAYOFFS - SEMIFINAIS,23:00,Las Vegas Aces F,Seattle Storm F,78.0,73.0,1.38,3.15,169.0,1.9,1.9,-6.5,1.99,1.84
+2022-09-04,2022,WNBA - PLAYOFFS - SEMIFINAIS,14:00,Connecticut Sun F,Chicago Sky F,72.0,76.0,1.95,1.86,161.0,1.8,1.95,-1.5,2.0,1.71
+2022-09-04,2022,WNBA - PLAYOFFS - SEMIFINAIS,16:00,Seattle Storm F,Las Vegas Aces F,98.0,110.0,1.86,1.95,164.0,1.8,1.95,-2.0,2.0,1.74
+2022-09-06,2022,WNBA - PLAYOFFS - SEMIFINAIS,21:00,Connecticut Sun F,Chicago Sky F,104.0,80.0,1.8,2.05,159.5,1.83,1.93,-1.5,1.9,1.9
+2022-09-06,2022,WNBA - PLAYOFFS - SEMIFINAIS,23:00,Seattle Storm F,Las Vegas Aces F,92.0,97.0,1.86,1.95,165.0,1.83,1.95,-2.0,1.97,1.83
+2022-09-08,2022,WNBA - PLAYOFFS - SEMIFINAIS,21:00,Chicago Sky F,Connecticut Sun F,63.0,72.0,1.54,2.65,158.0,1.81,1.98,-5.0,1.97,1.85
+2022-09-11,2022,WNBA - PLAYOFFS - FINAL,16:00,Las Vegas Aces F,Connecticut Sun F,67.0,64.0,1.4,3.1,167.0,1.8,1.99,-6.5,1.96,1.86
+2022-09-13,2022,WNBA - PLAYOFFS - FINAL,22:00,Las Vegas Aces F,Connecticut Sun F,85.0,71.0,1.47,2.75,161.0,1.9,1.9,-5.0,1.9,1.9
+2022-09-15,2022,WNBA - PLAYOFFS - FINAL,22:00,Connecticut Sun F,Las Vegas Aces F,105.0,76.0,1.83,2.0,160.0,1.9,1.9,-2.0,1.95,1.85
+2022-09-18,2022,WNBA - PLAYOFFS - FINAL,17:00,Connecticut Sun F,Las Vegas Aces F,71.0,78.0,2.1,1.76,162.5,1.84,1.94,-1.0,1.95,1.86
