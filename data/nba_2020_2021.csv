@@ -1,0 +1,1220 @@
+Unnamed: 0,Date,League,Time,Home,Away,Home_Pts,Away_Pts,Odds_H,Odds_A,Over_Line,Odds_Over,Odds_Under,HA_Line,HA_Odds_H,HA_Odds_A
+,2020-12-11,Eua Nba,21:00,Detroit Pistons,New York Knicks,84.0,90.0,1.8,2.05,216.5,1.9,1.9,-3.5,1.9,1.9
+,2020-12-11,Eua Nba,21:00,Atlanta Hawks,Orlando Magic,112.0,116.0,1.38,3.15,223.5,1.9,1.9,-7.5,1.9,1.9
+,2020-12-11,Eua Nba,22:00,Chicago Bulls,Houston Rockets,104.0,125.0,1.6,2.45,219.5,1.9,1.9,-3.5,1.86,1.95
+,2020-12-12,Eua Nba,00:00,Los Angeles Lakers,Los Angeles Clippers,87.0,81.0,3.1,1.4,219.5,1.9,1.9,3.5,1.9,1.9
+,2020-12-12,Eua Nba,22:30,Golden State Warriors,Denver Nuggets,107.0,105.0,2.45,1.6,222.5,1.9,1.9,2.5,1.95,1.86
+,2020-12-12,Eua Nba,22:00,Milwaukee Bucks,Dallas Mavericks,102.0,112.0,1.54,2.65,225.5,1.9,1.9,-4.5,1.9,1.9
+,2020-12-12,Eua Nba,22:00,Minnesota Timberwolves,Memphis Grizzlies,105.0,107.0,1.76,2.1,223.5,1.9,1.9,-1.5,1.9,1.9
+,2020-12-12,Eua Nba,23:00,Utah Jazz,Phoenix Suns,119.0,105.0,1.95,1.86,221.5,1.9,1.9,-2.5,1.95,1.86
+,2020-12-12,Eua Nba,21:00,Cleveland Cavaliers,Indiana Pacers,107.0,104.0,2.67,1.52,214.5,1.9,1.9,4.5,1.9,1.9
+,2020-12-12,Eua Nba,21:00,San Antonio Spurs,Oklahoma City Thunder,108.0,121.0,1.45,2.8,219.5,1.9,1.9,-6.5,1.9,1.9
+,2020-12-12,Eua Nba,00:30,Portland Trail Blazers,Sacramento Kings,127.0,102.0,1.47,2.75,225.5,1.9,1.9,-6.5,1.9,1.9
+,2020-12-12,Eua Nba,21:00,Charlotte Hornets,Toronto Raptors,100.0,111.0,2.75,1.47,219.5,1.9,1.9,4.5,1.9,1.9
+,2020-12-13,Eua Nba,19:00,Atlanta Hawks,Orlando Magic,116.0,107.0,1.5,2.7,224.5,1.9,1.9,-4.5,1.9,1.9
+,2020-12-13,Eua Nba,20:00,Brooklyn Nets,Washington Wizards,119.0,114.0,1.37,3.2,225.5,1.9,1.9,-7.5,1.9,1.9
+,2020-12-13,Eua Nba,21:00,Detroit Pistons,New York Knicks,99.0,91.0,1.76,2.1,210.5,1.9,1.9,-2.5,1.9,1.9
+,2020-12-13,Eua Nba,22:00,Chicago Bulls,Houston Rockets,104.0,91.0,2.2,1.71,219.5,1.9,1.9,1.5,1.9,1.9
+,2020-12-13,Eua Nba,22:30,Los Angeles Lakers,Los Angeles Clippers,131.0,106.0,2.7,1.5,211.5,1.9,1.9,3.5,1.9,1.9
+,2020-12-13,Eua Nba,23:00,Portland Trail Blazers,Sacramento Kings,106.0,121.0,1.45,2.8,225.5,1.9,1.9,-7.5,1.9,1.9
+,2020-12-14,Eua Nba,23:00,Utah Jazz,Phoenix Suns,111.0,92.0,2.0,1.83,0.0,0.0,0.0,-2.5,1.95,1.86
+,2020-12-14,Eua Nba,22:00,Milwaukee Bucks,Dallas Mavericks,112.0,128.0,1.55,2.6,224.5,1.9,1.9,-4.5,1.9,1.9
+,2020-12-14,Eua Nba,22:00,Minnesota Timberwolves,Memphis Grizzlies,104.0,123.0,1.86,1.95,220.5,1.9,1.9,3.5,1.62,0.0
+,2020-12-14,Eua Nba,21:00,Charlotte Hornets,Toronto Raptors,109.0,112.0,2.55,1.57,216.5,1.9,1.9,4.5,1.86,1.95
+,2020-12-14,Eua Nba,21:00,Miami Heat,New Orleans Pelicans,92.0,114.0,1.66,2.3,217.5,1.9,1.9,-4.5,1.9,1.9
+,2020-12-14,Eua Nba,20:00,Cleveland Cavaliers,Indiana Pacers,116.0,106.0,2.9,1.43,216.5,1.9,1.9,5.5,1.95,1.86
+,2020-12-15,Eua Nba,21:30,Philadelphia 76ers,Boston Celtics,108.0,99.0,1.54,2.65,214.5,1.9,1.9,-5.5,1.9,1.9
+,2020-12-15,Eua Nba,22:00,Houston Rockets,San Antonio Spurs,112.0,98.0,1.62,2.4,220.5,1.9,1.9,-4.5,1.95,1.86
+,2020-12-16,Eua Nba,00:00,Sacramento Kings,Golden State Warriors,114.0,113.0,1.68,2.25,220.5,1.9,1.9,-2.5,1.86,1.95
+,2020-12-16,Eua Nba,21:30,New York Knicks,Cleveland Cavaliers,100.0,93.0,1.64,2.35,210.5,1.9,1.9,-3.5,1.9,1.9
+,2020-12-16,Eua Nba,22:00,Oklahoma City Thunder,Chicago Bulls,103.0,124.0,1.95,1.86,218.5,1.9,1.9,-1.5,1.9,1.9
+,2020-12-16,Eua Nba,23:00,Phoenix Suns,Los Angeles Lakers,107.0,112.0,2.45,1.6,218.5,1.9,1.9,2.5,1.9,1.9
+,2020-12-16,Eua Nba,23:00,Denver Nuggets,Portland Trail Blazers,126.0,95.0,1.55,2.6,219.5,1.9,1.9,-4.5,1.9,1.9
+,2020-12-17,Eua Nba,23:00,Sacramento Kings,Golden State Warriors,105.0,113.0,1.8,2.05,226.5,1.9,1.9,-1.5,1.9,1.9
+,2020-12-17,Eua Nba,22:30,Dallas Mavericks,Minnesota Timberwolves,127.0,129.0,1.38,3.15,222.5,1.9,1.9,-6.5,1.86,1.95
+,2020-12-17,Eua Nba,21:00,Washington Wizards,Detroit Pistons,86.0,97.0,1.47,2.75,214.5,1.9,1.9,-5.5,1.9,1.9
+,2020-12-17,Eua Nba,22:00,Memphis Grizzlies,Atlanta Hawks,128.0,106.0,1.8,2.05,224.5,1.9,1.9,-2.5,1.9,1.9
+,2020-12-17,Eua Nba,21:00,Orlando Magic,Charlotte Hornets,115.0,123.0,1.5,2.7,219.5,1.9,1.9,-4.5,1.86,1.95
+,2020-12-17,Eua Nba,22:00,Houston Rockets,San Antonio Spurs,128.0,106.0,1.58,2.5,219.5,1.9,1.9,-4.5,1.9,1.9
+,2020-12-18,Eua Nba,22:00,Boston Celtics,Brooklyn Nets,89.0,113.0,2.25,1.68,224.5,1.9,1.9,1.5,1.9,1.9
+,2020-12-18,Eua Nba,23:00,Denver Nuggets,Portland Trail Blazers,129.0,96.0,1.47,2.75,220.5,1.9,1.9,-5.5,1.9,1.9
+,2020-12-18,Eua Nba,22:00,Oklahoma City Thunder,Chicago Bulls,103.0,105.0,2.0,1.83,221.5,1.9,1.9,1.5,1.9,1.9
+,2020-12-18,Eua Nba,22:00,New Orleans Pelicans,Milwaukee Bucks,127.0,113.0,1.86,1.95,227.5,1.9,1.9,1.5,1.9,1.9
+,2020-12-18,Eua Nba,21:30,New York Knicks,Cleveland Cavaliers,119.0,83.0,1.74,2.15,209.5,1.9,1.9,-2.5,1.95,1.86
+,2020-12-18,Eua Nba,21:00,Toronto Raptors,Miami Heat,105.0,117.0,1.66,2.3,218.5,1.9,1.9,-2.5,1.86,1.95
+,2020-12-18,Eua Nba,20:00,Indiana Pacers,Philadelphia 76ers,107.0,113.0,2.1,1.76,217.5,1.9,1.9,1.5,1.9,1.9
+,2020-12-18,Eua Nba,00:00,Los Angeles Clippers,Utah Jazz,105.0,125.0,1.54,2.65,217.5,1.9,1.9,-4.5,1.9,1.9
+,2020-12-19,Eua Nba,00:30,Phoenix Suns,Los Angeles Lakers,113.0,114.0,2.4,1.62,220.5,1.9,1.9,3.5,1.9,1.9
+,2020-12-19,Eua Nba,21:00,Washington Wizards,Detroit Pistons,99.0,96.0,1.5,2.7,208.5,1.9,1.9,-4.5,1.86,1.95
+,2020-12-19,Eua Nba,21:00,Orlando Magic,Charlotte Hornets,120.0,117.0,1.57,2.55,222.5,1.9,1.9,-4.5,1.9,1.9
+,2020-12-19,Eua Nba,22:00,Memphis Grizzlies,Atlanta Hawks,116.0,117.0,1.66,2.3,226.5,1.9,1.9,-3.5,1.95,1.86
+,2020-12-22,Eua Nba,21:00,Brooklyn Nets,Golden State Warriors,125.0,99.0,1.29,3.7,228.5,1.9,1.9,-7.5,1.9,1.9
+,2020-12-23,Eua Nba,22:00,Memphis Grizzlies,San Antonio Spurs,119.0,131.0,1.76,2.1,229.5,1.9,1.9,-2.5,1.86,1.95
+,2020-12-23,Eua Nba,22:00,Minnesota Timberwolves,Detroit Pistons,111.0,101.0,1.45,2.8,222.5,1.9,1.9,-5.5,1.9,1.9
+,2020-12-23,Eua Nba,21:30,Boston Celtics,Milwaukee Bucks,122.0,121.0,2.65,1.54,222.5,1.9,1.9,3.5,1.9,1.9
+,2020-12-23,Eua Nba,21:30,Toronto Raptors,New Orleans Pelicans,99.0,113.0,1.62,2.4,228.5,1.9,1.9,-4.5,1.9,1.9
+,2020-12-23,Eua Nba,22:00,Chicago Bulls,Atlanta Hawks,104.0,124.0,2.05,1.8,230.5,1.86,1.95,1.5,1.9,1.9
+,2020-12-23,Eua Nba,21:00,Indiana Pacers,New York Knicks,121.0,107.0,1.31,3.6,212.5,1.9,1.9,-7.5,1.9,1.9
+,2020-12-23,Eua Nba,21:00,Orlando Magic,Miami Heat,113.0,107.0,2.75,1.47,216.5,1.9,1.9,3.5,1.9,1.9
+,2020-12-23,Eua Nba,23:00,Denver Nuggets,Sacramento Kings,122.0,124.0,1.31,3.6,224.5,1.9,1.9,-8.5,1.9,1.9
+,2020-12-23,Eua Nba,00:00,Los Angeles Lakers,Los Angeles Clippers,109.0,116.0,1.74,2.15,219.5,1.9,1.9,-2.5,1.9,1.9
+,2020-12-23,Eua Nba,21:00,Cleveland Cavaliers,Charlotte Hornets,121.0,114.0,2.3,1.66,215.5,1.9,1.9,2.5,1.9,1.9
+,2020-12-23,Eua Nba,21:00,Philadelphia 76ers,Washington Wizards,113.0,107.0,1.32,3.5,229.5,1.9,1.9,-7.5,1.9,1.9
+,2020-12-24,Eua Nba,00:00,Portland Trail Blazers,Utah Jazz,100.0,120.0,2.05,1.8,225.5,1.9,1.9,-1.5,1.9,1.9
+,2020-12-24,Eua Nba,00:30,Phoenix Suns,Dallas Mavericks,106.0,102.0,1.83,2.0,232.5,1.9,1.9,-1.5,1.9,1.9
+,2020-12-25,Eua Nba,14:00,Miami Heat,New Orleans Pelicans,111.0,98.0,1.68,2.25,221.5,1.9,1.9,-4.5,1.9,1.9
+,2020-12-25,Eua Nba,16:30,Milwaukee Bucks,Golden State Warriors,138.0,99.0,1.18,5.25,229.5,1.9,1.9,-10.5,1.95,1.86
+,2020-12-25,Eua Nba,19:00,Boston Celtics,Brooklyn Nets,95.0,123.0,2.3,1.66,226.5,1.9,1.9,1.5,1.95,1.86
+,2020-12-25,Eua Nba,22:00,Los Angeles Lakers,Dallas Mavericks,138.0,115.0,1.37,3.2,227.5,1.9,1.9,-6.5,1.95,1.86
+,2020-12-26,Eua Nba,00:30,Denver Nuggets,Los Angeles Clippers,108.0,121.0,2.45,1.6,224.5,1.9,1.9,1.5,1.9,1.9
+,2020-12-26,Eua Nba,19:00,Memphis Grizzlies,Atlanta Hawks,112.0,122.0,1.71,2.2,238.5,1.9,1.9,-2.5,1.9,1.9
+,2020-12-26,Eua Nba,21:00,Washington Wizards,Orlando Magic,120.0,130.0,1.76,2.1,227.5,1.9,1.9,-1.5,1.9,1.9
+,2020-12-26,Eua Nba,21:00,Detroit Pistons,Cleveland Cavaliers,119.0,128.0,1.86,1.95,213.5,1.9,1.9,-2.5,1.9,1.9
+,2020-12-26,Eua Nba,21:00,Charlotte Hornets,Oklahoma City Thunder,107.0,109.0,1.71,2.2,216.5,1.9,1.9,-3.5,1.95,1.86
+,2020-12-26,Eua Nba,21:30,New York Knicks,Philadelphia 76ers,89.0,109.0,3.8,1.27,216.5,1.9,1.9,7.5,1.95,1.86
+,2020-12-26,Eua Nba,22:00,Chicago Bulls,Indiana Pacers,106.0,125.0,3.1,1.4,221.5,1.9,1.9,4.5,1.9,1.9
+,2020-12-26,Eua Nba,22:30,San Antonio Spurs,Toronto Raptors,119.0,114.0,2.15,1.74,225.5,1.9,1.9,1.5,1.9,1.9
+,2020-12-26,Eua Nba,23:00,Utah Jazz,Minnesota Timberwolves,111.0,116.0,1.22,4.5,225.5,1.9,1.9,-9.5,1.95,1.86
+,2020-12-27,Eua Nba,22:00,Indiana Pacers,Boston Celtics,108.0,107.0,2.3,1.66,220.5,1.9,1.9,2.5,1.95,1.86
+,2020-12-27,Eua Nba,21:30,Cleveland Cavaliers,Philadelphia 76ers,118.0,94.0,3.05,1.4,216.5,1.9,1.9,5.5,1.95,1.86
+,2020-12-27,Eua Nba,23:00,Sacramento Kings,Phoenix Suns,100.0,116.0,2.35,1.64,225.5,1.9,1.9,3.5,1.86,1.95
+,2020-12-27,Eua Nba,22:00,Chicago Bulls,Golden State Warriors,128.0,129.0,2.45,1.6,226.5,1.9,1.9,3.5,1.9,1.9
+,2020-12-27,Eua Nba,21:30,New York Knicks,Milwaukee Bucks,130.0,110.0,8.0,1.09,222.5,1.9,1.9,11.5,1.9,1.9
+,2020-12-27,Eua Nba,21:00,New Orleans Pelicans,San Antonio Spurs,98.0,95.0,1.5,2.7,227.5,1.9,1.9,-5.5,1.95,1.86
+,2020-12-27,Eua Nba,21:00,Charlotte Hornets,Brooklyn Nets,106.0,104.0,5.5,1.16,227.5,1.9,1.9,8.5,1.9,1.9
+,2020-12-27,Eua Nba,21:00,Washington Wizards,Orlando Magic,113.0,120.0,2.05,1.8,227.5,1.9,1.9,1.5,1.9,1.9
+,2020-12-27,Eua Nba,17:30,Los Angeles Clippers,Dallas Mavericks,73.0,124.0,1.66,2.3,225.5,1.9,1.9,-4.5,1.86,1.95
+,2020-12-27,Eua Nba,00:00,Portland Trail Blazers,Houston Rockets,128.0,126.0,1.3,3.65,225.5,1.9,1.9,-8.5,1.9,1.9
+,2020-12-28,Eua Nba,00:00,Los Angeles Lakers,Minnesota Timberwolves,127.0,91.0,1.19,5.0,224.5,1.9,1.9,-10.5,1.95,1.86
+,2020-12-28,Eua Nba,21:30,Brooklyn Nets,Memphis Grizzlies,111.0,116.0,2.1,1.76,226.5,1.9,1.9,-7.5,1.9,1.9
+,2020-12-28,Eua Nba,21:30,Atlanta Hawks,Detroit Pistons,128.0,120.0,1.19,5.0,223.5,1.9,1.9,-10.5,1.9,1.9
+,2020-12-28,Eua Nba,22:00,Oklahoma City Thunder,Utah Jazz,109.0,110.0,4.25,1.23,218.5,1.9,1.9,7.5,1.9,1.9
+,2020-12-28,Eua Nba,23:00,Denver Nuggets,Houston Rockets,124.0,111.0,1.37,3.2,222.5,1.9,1.9,-7.5,1.9,1.9
+,2020-12-29,Eua Nba,22:00,Oklahoma City Thunder,Orlando Magic,107.0,118.0,3.15,1.38,218.5,1.9,1.9,4.5,1.9,1.9
+,2020-12-29,Eua Nba,21:30,Miami Heat,Milwaukee Bucks,97.0,144.0,3.0,1.41,222.5,1.9,1.9,4.5,1.9,1.9
+,2020-12-29,Eua Nba,21:00,Cleveland Cavaliers,New York Knicks,86.0,95.0,1.64,2.35,214.5,1.9,1.9,-3.5,1.95,1.86
+,2020-12-29,Eua Nba,21:00,Washington Wizards,Chicago Bulls,107.0,115.0,1.41,3.0,233.5,1.9,1.9,-6.5,1.9,1.9
+,2020-12-29,Eua Nba,21:00,Indiana Pacers,Boston Celtics,111.0,116.0,1.86,1.95,217.5,1.9,1.9,9.5,1.24,0.0
+,2020-12-29,Eua Nba,21:00,Philadelphia 76ers,Toronto Raptors,100.0,93.0,1.83,2.0,217.5,1.9,1.9,-2.5,1.9,1.9
+,2020-12-29,Eua Nba,00:00,Los Angeles Lakers,Portland Trail Blazers,107.0,115.0,1.41,3.0,224.5,1.9,1.9,-5.5,1.86,1.95
+,2020-12-29,Eua Nba,21:00,Detroit Pistons,Golden State Warriors,106.0,116.0,2.55,1.57,222.5,1.9,1.9,3.5,1.9,1.9
+,2020-12-30,Eua Nba,22:30,San Antonio Spurs,Los Angeles Lakers,107.0,121.0,3.6,1.31,228.5,1.9,1.9,3.5,1.9,1.9
+,2020-12-30,Eua Nba,22:30,Dallas Mavericks,Charlotte Hornets,99.0,118.0,1.28,3.75,222.5,1.9,1.9,-8.5,1.9,1.9
+,2020-12-30,Eua Nba,21:30,Boston Celtics,Memphis Grizzlies,126.0,107.0,1.33,3.4,216.5,1.9,1.9,-7.5,1.9,1.9
+,2020-12-30,Eua Nba,00:00,Phoenix Suns,New Orleans Pelicans,111.0,86.0,1.8,2.05,221.5,1.9,1.9,-2.5,1.9,1.9
+,2020-12-30,Eua Nba,21:30,Miami Heat,Milwaukee Bucks,119.0,108.0,3.2,1.37,225.5,1.9,1.9,5.5,1.9,1.9
+,2020-12-30,Eua Nba,00:00,Los Angeles Clippers,Minnesota Timberwolves,124.0,101.0,1.15,5.75,225.5,1.9,1.9,-10.5,1.9,1.9
+,2020-12-30,Eua Nba,00:00,Sacramento Kings,Denver Nuggets,125.0,115.0,1.9,1.9,223.5,1.9,1.9,1.5,1.9,1.9
+,2020-12-30,Eua Nba,21:30,Brooklyn Nets,Atlanta Hawks,145.0,141.0,1.41,3.0,238.5,1.9,1.9,-6.5,1.9,1.9
+,2020-12-31,Eua Nba,00:00,Los Angeles Clippers,Portland Trail Blazers,128.0,105.0,1.4,3.05,225.5,1.9,1.9,-5.5,1.86,1.95
+,2020-12-31,Eua Nba,17:00,Indiana Pacers,Cleveland Cavaliers,119.0,99.0,1.3,3.65,215.5,1.9,1.9,-7.5,1.86,1.95
+,2020-12-31,Eua Nba,19:00,Washington Wizards,Chicago Bulls,130.0,133.0,1.33,3.4,234.5,1.9,1.9,-7.5,1.95,1.86
+,2020-12-31,Eua Nba,20:30,Orlando Magic,Philadelphia 76ers,92.0,116.0,2.5,1.58,217.5,1.9,1.9,2.5,1.9,1.9
+,2020-12-31,Eua Nba,21:00,Houston Rockets,Sacramento Kings,122.0,119.0,1.44,2.85,228.5,1.9,1.9,-5.5,1.9,1.9
+,2020-12-31,Eua Nba,21:30,Toronto Raptors,New York Knicks,100.0,83.0,1.26,4.0,214.5,1.9,1.9,-9.5,1.9,1.9
+,2020-12-31,Eua Nba,22:00,Oklahoma City Thunder,New Orleans Pelicans,80.0,113.0,2.8,1.45,212.5,1.86,1.95,5.5,1.9,1.9
+,2020-12-31,Eua Nba,23:00,Utah Jazz,Phoenix Suns,95.0,106.0,1.58,2.5,218.5,1.9,1.9,-3.5,1.9,1.9
+,2021-01-01,Eua Nba,22:00,Milwaukee Bucks,Chicago Bulls,126.0,96.0,1.07,9.0,231.5,1.9,1.9,-14.5,1.9,1.9
+,2021-01-01,Eua Nba,23:00,Denver Nuggets,Phoenix Suns,103.0,106.0,1.62,2.4,220.5,1.9,1.9,-4.5,1.9,1.9
+,2021-01-01,Eua Nba,23:00,Utah Jazz,Los Angeles Clippers,106.0,100.0,2.35,1.64,219.5,1.9,1.9,2.5,1.9,1.9
+,2021-01-01,Eua Nba,22:00,San Antonio Spurs,Los Angeles Lakers,103.0,109.0,3.65,1.3,229.5,1.9,1.9,5.5,1.9,1.9
+,2021-01-01,Eua Nba,21:00,Charlotte Hornets,Memphis Grizzlies,93.0,108.0,1.54,2.65,218.5,1.9,1.9,-4.5,1.9,1.9
+,2021-01-01,Eua Nba,21:30,Brooklyn Nets,Atlanta Hawks,96.0,114.0,1.41,3.0,244.5,1.9,1.9,-6.5,1.9,1.9
+,2021-01-01,Eua Nba,21:00,Dallas Mavericks,Miami Heat,93.0,83.0,2.05,1.8,222.5,1.9,1.9,-1.5,1.9,1.9
+,2021-01-01,Eua Nba,21:00,Detroit Pistons,Boston Celtics,96.0,93.0,4.2,1.25,213.5,1.9,1.9,8.5,1.9,1.9
+,2021-01-01,Eua Nba,22:00,Minnesota Timberwolves,Washington Wizards,109.0,130.0,1.95,1.86,232.5,1.9,1.9,9.5,1.24,0.0
+,2021-01-02,Eua Nba,00:30,Golden State Warriors,Portland Trail Blazers,98.0,123.0,2.4,1.62,232.5,1.9,1.9,3.5,1.9,1.9
+,2021-01-02,Eua Nba,19:00,Houston Rockets,Sacramento Kings,102.0,94.0,2.1,1.76,229.5,1.9,1.9,-4.5,1.9,1.9
+,2021-01-02,Eua Nba,21:00,Philadelphia 76ers,Charlotte Hornets,127.0,112.0,0.0,0.0,214.5,1.9,1.9,-9.5,1.9,1.9
+,2021-01-02,Eua Nba,21:00,Orlando Magic,Oklahoma City Thunder,99.0,108.0,1.52,2.67,216.5,1.9,1.9,-7.5,1.9,1.9
+,2021-01-02,Eua Nba,21:00,Indiana Pacers,New York Knicks,102.0,106.0,1.22,4.5,213.5,1.9,1.9,-9.5,1.9,1.9
+,2021-01-02,Eua Nba,21:30,New Orleans Pelicans,Toronto Raptors,120.0,116.0,1.95,1.86,212.5,1.9,1.9,1.5,1.9,1.9
+,2021-01-02,Eua Nba,21:30,Atlanta Hawks,Cleveland Cavaliers,91.0,96.0,1.44,2.85,228.5,1.9,1.9,-6.5,1.95,1.86
+,2021-01-03,Eua Nba,22:30,Golden State Warriors,Portland Trail Blazers,137.0,122.0,2.67,1.52,233.5,1.9,1.9,4.5,1.9,1.9
+,2021-01-03,Eua Nba,22:00,Chicago Bulls,Dallas Mavericks,118.0,108.0,2.55,1.57,222.5,1.9,1.9,3.5,1.86,1.95
+,2021-01-03,Eua Nba,21:00,Minnesota Timberwolves,Denver Nuggets,109.0,124.0,4.1,1.25,225.5,1.9,1.9,8.5,1.9,1.9
+,2021-01-03,Eua Nba,22:00,Phoenix Suns,Los Angeles Clippers,107.0,112.0,2.35,1.64,215.5,1.9,1.9,1.5,1.9,1.9
+,2021-01-03,Eua Nba,20:00,Brooklyn Nets,Washington Wizards,122.0,123.0,1.31,3.55,239.5,1.9,1.9,-8.5,1.9,1.9
+,2021-01-03,Eua Nba,20:00,Memphis Grizzlies,Los Angeles Lakers,94.0,108.0,4.75,1.2,219.5,1.9,1.9,9.5,1.9,1.9
+,2021-01-03,Eua Nba,17:00,Detroit Pistons,Boston Celtics,120.0,122.0,3.65,1.3,213.5,1.9,1.9,7.5,1.9,1.9
+,2021-01-03,Eua Nba,21:00,San Antonio Spurs,Utah Jazz,109.0,130.0,2.9,1.43,219.5,1.9,1.9,4.5,1.9,1.9
+,2021-01-04,Eua Nba,22:00,Houston Rockets,Dallas Mavericks,100.0,113.0,1.6,2.45,227.5,1.9,1.9,-4.5,1.9,1.9
+,2021-01-04,Eua Nba,22:00,Milwaukee Bucks,Detroit Pistons,125.0,115.0,1.05,12.25,223.5,1.9,1.9,-16.5,1.9,1.9
+,2021-01-04,Eua Nba,21:30,Atlanta Hawks,New York Knicks,108.0,113.0,1.33,3.4,222.5,1.9,1.9,-7.5,1.9,1.9
+,2021-01-04,Eua Nba,22:00,New Orleans Pelicans,Indiana Pacers,116.0,118.0,1.8,2.05,215.5,1.9,1.9,-1.5,1.9,1.9
+,2021-01-04,Eua Nba,21:30,Toronto Raptors,Boston Celtics,114.0,126.0,1.41,3.0,215.5,1.9,1.9,-6.5,1.9,1.9
+,2021-01-04,Eua Nba,21:00,Orlando Magic,Cleveland Cavaliers,103.0,83.0,1.43,2.9,214.5,1.9,1.9,-5.5,1.9,1.9
+,2021-01-04,Eua Nba,21:00,Philadelphia 76ers,Charlotte Hornets,118.0,101.0,1.27,3.8,220.5,1.9,1.9,-9.5,1.9,1.9
+,2021-01-04,Eua Nba,21:30,Miami Heat,Oklahoma City Thunder,118.0,90.0,1.23,4.25,212.5,1.86,1.95,-8.5,1.9,1.9
+,2021-01-05,Eua Nba,00:00,Golden State Warriors,Sacramento Kings,137.0,106.0,2.05,1.8,230.5,1.9,1.9,1.5,1.9,1.9
+,2021-01-05,Eua Nba,21:30,Brooklyn Nets,Utah Jazz,130.0,96.0,2.6,1.55,225.5,1.9,1.9,2.5,2.0,1.83
+,2021-01-05,Eua Nba,22:05,Memphis Grizzlies,Los Angeles Lakers,92.0,94.0,4.25,1.23,217.5,1.9,1.9,9.5,1.86,1.95
+,2021-01-05,Eua Nba,23:00,Denver Nuggets,Minnesota Timberwolves,123.0,116.0,1.15,5.75,225.5,1.9,1.9,-11.5,1.9,1.9
+,2021-01-06,Eua Nba,22:00,New Orleans Pelicans,Oklahoma City Thunder,110.0,111.0,1.27,3.8,212.5,1.9,1.9,-7.5,2.0,1.83
+,2021-01-06,Eua Nba,21:30,Atlanta Hawks,Charlotte Hornets,94.0,102.0,1.41,3.0,231.5,1.9,1.9,-5.5,1.86,1.95
+,2021-01-06,Eua Nba,23:00,Phoenix Suns,Toronto Raptors,123.0,115.0,1.66,2.3,217.5,1.9,1.9,-3.5,1.9,1.9
+,2021-01-06,Eua Nba,22:00,Milwaukee Bucks,Detroit Pistons,130.0,115.0,1.12,6.5,224.5,1.9,1.9,-13.5,1.9,1.9
+,2021-01-06,Eua Nba,21:30,Miami Heat,Boston Celtics,105.0,107.0,1.68,2.25,217.5,1.9,1.9,-3.5,1.9,1.9
+,2021-01-06,Eua Nba,00:00,Los Angeles Clippers,San Antonio Spurs,113.0,116.0,1.31,3.6,225.5,1.9,1.9,-9.5,1.95,1.86
+,2021-01-06,Eua Nba,21:00,Indiana Pacers,Houston Rockets,114.0,107.0,1.68,2.25,224.5,1.9,1.9,-2.5,1.9,1.9
+,2021-01-06,Eua Nba,21:00,Orlando Magic,Cleveland Cavaliers,105.0,94.0,1.45,2.8,213.5,1.9,1.9,-5.5,1.9,1.9
+,2021-01-06,Eua Nba,21:00,Philadelphia 76ers,Washington Wizards,141.0,136.0,1.38,3.15,231.5,1.9,1.9,-6.5,1.9,1.9
+,2021-01-06,Eua Nba,00:30,Portland Trail Blazers,Chicago Bulls,108.0,111.0,1.22,4.5,232.5,1.9,1.9,-9.5,1.9,1.9
+,2021-01-06,Eua Nba,21:30,New York Knicks,Utah Jazz,112.0,100.0,3.6,1.31,213.5,1.9,1.9,6.5,1.86,1.95
+,2021-01-07,Eua Nba,00:00,Sacramento Kings,Chicago Bulls,128.0,124.0,1.34,3.35,228.5,1.9,1.9,-7.5,1.9,1.9
+,2021-01-07,Eua Nba,00:00,Golden State Warriors,Los Angeles Clippers,101.0,108.0,2.8,1.45,228.5,1.9,1.9,-1.5,1.9,1.9
+,2021-01-07,Eua Nba,21:30,Brooklyn Nets,Philadelphia 76ers,122.0,109.0,2.6,1.55,222.5,1.9,1.9,1.5,1.9,1.9
+,2021-01-07,Eua Nba,22:00,Memphis Grizzlies,Cleveland Cavaliers,90.0,94.0,1.43,2.9,208.5,1.9,1.9,-5.5,1.86,1.95
+,2021-01-08,Eua Nba,22:00,Houston Rockets,Orlando Magic,132.0,90.0,1.35,3.3,221.5,1.9,1.9,-6.5,1.9,1.9
+,2021-01-08,Eua Nba,22:00,Memphis Grizzlies,Brooklyn Nets,115.0,110.0,1.95,1.86,217.5,1.9,1.9,1.5,1.86,1.95
+,2021-01-08,Eua Nba,21:30,Boston Celtics,Washington Wizards,116.0,107.0,1.6,2.45,233.5,1.9,1.9,-6.5,1.9,1.9
+,2021-01-08,Eua Nba,21:30,New Orleans Pelicans,Charlotte Hornets,110.0,118.0,1.34,3.35,217.5,1.9,1.9,-7.5,1.9,1.9
+,2021-01-08,Eua Nba,22:00,Milwaukee Bucks,Utah Jazz,118.0,131.0,1.41,3.0,231.5,1.9,1.9,-5.5,1.9,1.9
+,2021-01-08,Eua Nba,21:00,Detroit Pistons,Phoenix Suns,110.0,105.0,3.7,1.29,216.5,1.9,1.9,6.5,1.9,1.9
+,2021-01-08,Eua Nba,00:00,Portland Trail Blazers,Minnesota Timberwolves,135.0,117.0,1.2,4.75,232.5,1.9,1.9,-10.5,1.9,1.9
+,2021-01-08,Eua Nba,00:00,Denver Nuggets,Dallas Mavericks,117.0,124.0,1.71,2.2,222.5,1.9,1.9,-3.5,2.05,1.8
+,2021-01-08,Eua Nba,00:00,Los Angeles Lakers,San Antonio Spurs,109.0,118.0,1.25,4.2,220.5,1.9,1.9,-8.5,1.9,1.9
+,2021-01-08,Eua Nba,21:30,New York Knicks,Oklahoma City Thunder,89.0,101.0,1.64,2.35,208.5,1.86,1.95,-2.5,1.9,1.9
+,2021-01-09,Eua Nba,22:30,Dallas Mavericks,Orlando Magic,112.0,98.0,1.41,3.0,215.5,1.9,1.9,-6.5,1.95,1.86
+,2021-01-09,Eua Nba,22:00,Milwaukee Bucks,Cleveland Cavaliers,100.0,90.0,1.25,4.2,218.5,1.9,1.9,-15.5,1.9,1.9
+,2021-01-09,Eua Nba,22:00,Minnesota Timberwolves,San Antonio Spurs,122.0,125.0,2.35,1.64,230.5,1.9,1.9,2.5,1.9,1.9
+,2021-01-09,Eua Nba,21:00,Charlotte Hornets,Atlanta Hawks,113.0,105.0,2.65,1.54,226.5,1.86,1.95,4.5,1.9,1.9
+,2021-01-09,Eua Nba,21:00,Washington Wizards,Miami Heat,124.0,128.0,5.25,1.18,226.5,1.9,1.9,5.5,1.9,1.9
+,2021-01-09,Eua Nba,17:00,Philadelphia 76ers,Denver Nuggets,103.0,115.0,8.5,1.08,215.5,1.9,1.9,4.5,1.95,1.86
+,2021-01-09,Eua Nba,00:00,Golden State Warriors,Los Angeles Clippers,115.0,105.0,3.15,1.38,228.5,1.9,1.9,4.5,1.9,1.9
+,2021-01-09,Eua Nba,00:00,Los Angeles Lakers,Chicago Bulls,117.0,115.0,1.25,4.2,221.5,1.9,1.9,-9.5,1.9,1.9
+,2021-01-09,Eua Nba,00:00,Sacramento Kings,Toronto Raptors,123.0,144.0,1.95,1.86,222.5,1.9,1.9,1.5,1.9,1.9
+,2021-01-09,Eua Nba,21:00,Indiana Pacers,Phoenix Suns,117.0,125.0,1.68,2.25,215.5,1.9,1.9,-3.5,1.9,1.9
+,2021-01-10,Eua Nba,22:30,Golden State Warriors,Toronto Raptors,106.0,105.0,2.2,1.71,230.5,1.9,1.9,1.5,1.9,1.9
+,2021-01-10,Eua Nba,21:00,Houston Rockets,Los Angeles Lakers,102.0,120.0,2.55,1.57,222.5,1.9,1.9,2.5,1.95,1.86
+,2021-01-10,Eua Nba,20:00,Brooklyn Nets,Oklahoma City Thunder,116.0,129.0,1.29,3.7,222.5,1.9,1.9,-9.5,1.9,1.9
+,2021-01-10,Eua Nba,22:00,Minnesota Timberwolves,San Antonio Spurs,96.0,88.0,2.55,1.57,229.5,1.9,1.9,2.5,1.95,1.86
+,2021-01-10,Eua Nba,18:00,Los Angeles Clippers,Chicago Bulls,130.0,127.0,1.11,6.75,221.5,1.9,1.9,-11.5,1.9,1.9
+,2021-01-10,Eua Nba,00:00,Sacramento Kings,Portland Trail Blazers,99.0,125.0,2.7,1.5,233.5,1.9,1.9,5.5,1.86,1.95
+,2021-01-10,Eua Nba,20:00,New York Knicks,Denver Nuggets,89.0,114.0,2.8,1.45,212.5,1.9,1.9,5.5,1.9,1.9
+,2021-01-10,Eua Nba,17:00,Detroit Pistons,Utah Jazz,86.0,96.0,4.25,1.23,215.5,1.9,1.9,7.5,1.9,1.9
+,2021-01-11,Eua Nba,21:00,Washington Wizards,Phoenix Suns,128.0,107.0,3.1,1.4,229.5,1.9,1.9,5.5,1.9,1.9
+,2021-01-11,Eua Nba,21:00,Orlando Magic,Milwaukee Bucks,99.0,121.0,5.0,1.19,224.5,1.9,1.9,7.5,1.9,1.9
+,2021-01-11,Eua Nba,21:00,Cleveland Cavaliers,Memphis Grizzlies,91.0,101.0,2.1,1.76,205.5,1.9,1.9,-1.5,1.9,1.9
+,2021-01-11,Eua Nba,21:00,Charlotte Hornets,New York Knicks,109.0,88.0,1.54,2.65,209.5,1.9,1.9,-4.5,1.9,1.9
+,2021-01-11,Eua Nba,21:30,Atlanta Hawks,Philadelphia 76ers,112.0,94.0,1.42,2.95,220.5,1.9,1.9,-6.5,1.9,1.9
+,2021-01-12,Eua Nba,00:00,Portland Trail Blazers,Toronto Raptors,112.0,111.0,1.54,2.65,230.5,1.9,1.9,-5.5,1.9,1.9
+,2021-01-12,Eua Nba,21:00,Philadelphia 76ers,Miami Heat,137.0,134.0,1.26,4.0,209.5,1.9,1.9,-8.5,1.9,1.9
+,2021-01-12,Eua Nba,21:30,Cleveland Cavaliers,Utah Jazz,87.0,117.0,7.0,1.11,205.5,1.9,1.9,10.5,1.9,1.9
+,2021-01-12,Eua Nba,21:30,Brooklyn Nets,Denver Nuggets,122.0,116.0,1.76,2.1,230.5,1.9,1.9,-1.5,1.9,1.9
+,2021-01-12,Eua Nba,22:00,Oklahoma City Thunder,San Antonio Spurs,102.0,112.0,2.15,1.74,215.5,1.9,1.9,2.5,1.9,1.9
+,2021-01-12,Eua Nba,22:00,Houston Rockets,Los Angeles Lakers,100.0,117.0,2.7,1.5,221.5,1.9,1.9,4.5,1.9,1.9
+,2021-01-12,Eua Nba,00:00,Sacramento Kings,Indiana Pacers,127.0,122.0,2.4,1.62,225.5,1.9,1.9,3.5,1.9,1.9
+,2021-01-13,Eua Nba,22:00,Oklahoma City Thunder,Los Angeles Lakers,99.0,128.0,5.25,1.18,215.5,1.9,1.9,7.5,1.86,1.95
+,2021-01-13,Eua Nba,22:00,Minnesota Timberwolves,Memphis Grizzlies,107.0,118.0,1.71,2.2,219.5,1.83,2.0,-2.5,1.9,1.9
+,2021-01-13,Eua Nba,21:00,Charlotte Hornets,Dallas Mavericks,93.0,104.0,2.35,1.64,219.5,1.9,1.9,3.5,1.86,1.95
+,2021-01-13,Eua Nba,21:00,Detroit Pistons,Milwaukee Bucks,101.0,110.0,5.5,1.16,225.5,1.9,1.9,10.5,1.9,1.9
+,2021-01-13,Eua Nba,00:30,Golden State Warriors,Indiana Pacers,95.0,104.0,1.62,2.4,226.5,1.9,1.9,-3.5,1.9,1.9
+,2021-01-13,Eua Nba,21:30,New York Knicks,Brooklyn Nets,109.0,116.0,2.3,1.66,218.5,1.9,1.9,3.5,1.9,1.9
+,2021-01-14,Eua Nba,00:00,Sacramento Kings,Portland Trail Blazers,126.0,132.0,2.7,1.5,236.5,1.9,1.9,1.5,1.9,1.9
+,2021-01-14,Eua Nba,00:00,Los Angeles Clippers,New Orleans Pelicans,111.0,106.0,1.18,5.25,215.5,1.9,1.9,-10.5,1.9,1.9
+,2021-01-14,Eua Nba,21:00,Philadelphia 76ers,Miami Heat,125.0,108.0,1.26,4.0,222.5,1.9,1.9,-10.5,1.9,1.9
+,2021-01-14,Eua Nba,21:30,Toronto Raptors,Charlotte Hornets,111.0,108.0,1.2,4.75,218.5,1.9,1.9,-9.5,1.9,1.9
+,2021-01-14,Eua Nba,21:30,San Antonio Spurs,Houston Rockets,105.0,109.0,1.33,3.4,218.5,1.9,1.9,-7.5,1.9,1.9
+,2021-01-15,Eua Nba,23:00,Utah Jazz,Atlanta Hawks,116.0,92.0,1.4,3.1,223.5,1.9,1.9,-6.5,1.9,1.9
+,2021-01-15,Eua Nba,22:00,Oklahoma City Thunder,Chicago Bulls,127.0,125.0,2.2,1.71,224.5,1.9,1.9,-1.5,1.9,1.9
+,2021-01-15,Eua Nba,21:30,Boston Celtics,Orlando Magic,124.0,97.0,1.57,2.55,213.5,1.9,1.9,-4.5,1.95,1.86
+,2021-01-15,Eua Nba,00:00,Denver Nuggets,Golden State Warriors,114.0,104.0,1.55,2.6,225.5,1.9,1.9,-5.5,1.9,1.9
+,2021-01-15,Eua Nba,21:30,Milwaukee Bucks,Dallas Mavericks,112.0,109.0,1.31,3.6,228.5,1.9,1.9,-7.5,1.9,1.9
+,2021-01-15,Eua Nba,00:00,Portland Trail Blazers,Indiana Pacers,87.0,111.0,1.66,2.3,228.5,1.9,1.9,-3.5,1.9,1.9
+,2021-01-15,Eua Nba,21:30,Cleveland Cavaliers,New York Knicks,106.0,103.0,2.15,1.74,196.5,1.9,1.9,2.5,1.9,1.9
+,2021-01-16,Eua Nba,22:00,Memphis Grizzlies,Philadelphia 76ers,106.0,104.0,1.8,2.05,218.5,1.95,1.86,-1.5,1.95,1.86
+,2021-01-16,Eua Nba,21:30,Toronto Raptors,Charlotte Hornets,116.0,113.0,1.37,3.2,218.5,1.9,1.9,-7.5,1.9,1.9
+,2021-01-16,Eua Nba,22:00,Miami Heat,Detroit Pistons,100.0,120.0,1.45,2.8,214.5,1.9,1.9,-5.5,1.9,1.9
+,2021-01-16,Eua Nba,19:00,San Antonio Spurs,Houston Rockets,103.0,91.0,1.33,3.4,216.5,1.9,1.9,-7.5,1.95,1.86
+,2021-01-16,Eua Nba,00:00,Los Angeles Lakers,New Orleans Pelicans,112.0,95.0,1.25,4.2,218.5,1.9,1.9,-9.5,1.9,1.9
+,2021-01-16,Eua Nba,00:00,Sacramento Kings,Los Angeles Clippers,100.0,138.0,3.3,1.35,226.5,1.9,1.9,6.5,1.9,1.9
+,2021-01-16,Eua Nba,20:00,Brooklyn Nets,Orlando Magic,122.0,115.0,1.22,4.5,225.5,1.9,1.9,-9.5,1.9,1.9
+,2021-01-17,Eua Nba,00:00,Portland Trail Blazers,Atlanta Hawks,112.0,106.0,1.52,2.67,234.5,1.9,1.9,-4.5,1.9,1.9
+,2021-01-17,Eua Nba,15:00,Boston Celtics,New York Knicks,75.0,105.0,1.31,3.6,210.5,1.9,1.9,-7.5,1.95,1.86
+,2021-01-17,Eua Nba,17:00,Dallas Mavericks,Chicago Bulls,101.0,117.0,1.36,3.25,226.5,1.9,1.9,-7.5,1.95,1.86
+,2021-01-17,Eua Nba,22:00,Denver Nuggets,Utah Jazz,105.0,109.0,2.0,1.83,219.5,1.9,1.9,1.5,1.9,1.9
+,2021-01-17,Eua Nba,23:00,Sacramento Kings,New Orleans Pelicans,123.0,128.0,2.25,1.68,226.5,1.9,1.9,1.5,1.9,1.9
+,2021-01-18,Eua Nba,22:00,Chicago Bulls,Houston Rockets,125.0,120.0,2.1,1.76,225.5,1.9,1.9,-1.5,2.0,1.83
+,2021-01-18,Eua Nba,22:00,Miami Heat,Detroit Pistons,113.0,107.0,1.41,3.0,215.5,1.9,1.9,-6.5,1.9,1.9
+,2021-01-18,Eua Nba,21:30,Brooklyn Nets,Milwaukee Bucks,125.0,123.0,2.55,1.57,237.5,1.9,1.9,2.5,1.9,1.9
+,2021-01-18,Eua Nba,21:30,Toronto Raptors,Dallas Mavericks,116.0,93.0,1.62,2.4,218.5,1.83,2.0,-4.5,1.9,1.9
+,2021-01-18,Eua Nba,14:00,New York Knicks,Orlando Magic,91.0,84.0,2.1,1.76,205.5,1.9,1.9,1.5,1.9,1.9
+,2021-01-18,Eua Nba,17:00,Portland Trail Blazers,San Antonio Spurs,104.0,125.0,2.0,1.83,224.5,1.9,1.9,1.5,1.9,1.9
+,2021-01-18,Eua Nba,16:30,Atlanta Hawks,Minnesota Timberwolves,108.0,97.0,1.33,3.4,227.5,1.9,1.9,-7.5,1.95,1.86
+,2021-01-18,Eua Nba,00:00,Los Angeles Clippers,Indiana Pacers,129.0,96.0,1.28,3.75,218.5,1.9,1.9,-8.5,1.95,1.86
+,2021-01-18,Eua Nba,19:00,Memphis Grizzlies,Phoenix Suns,108.0,104.0,2.8,1.45,217.5,1.9,1.9,3.5,1.9,1.9
+,2021-01-19,Eua Nba,23:00,Denver Nuggets,Oklahoma City Thunder,119.0,101.0,1.19,5.0,219.5,1.9,1.9,-10.5,1.9,1.9
+,2021-01-19,Eua Nba,00:00,Los Angeles Lakers,Golden State Warriors,113.0,115.0,1.22,4.5,223.5,1.9,1.9,-8.5,1.9,1.9
+,2021-01-19,Eua Nba,23:00,Utah Jazz,New Orleans Pelicans,118.0,102.0,1.37,3.2,217.5,1.9,1.9,-6.5,1.9,1.9
+,2021-01-20,Eua Nba,21:00,Philadelphia 76ers,Boston Celtics,117.0,109.0,1.54,2.65,219.5,1.9,1.9,-5.5,1.9,1.9
+,2021-01-20,Eua Nba,21:00,Indiana Pacers,Dallas Mavericks,112.0,124.0,2.25,1.68,217.5,1.9,1.9,-1.5,1.95,1.86
+,2021-01-20,Eua Nba,21:00,Cleveland Cavaliers,Brooklyn Nets,147.0,135.0,5.25,1.18,222.5,1.9,1.9,9.5,1.9,1.9
+,2021-01-20,Eua Nba,21:30,Toronto Raptors,Miami Heat,102.0,111.0,1.55,2.6,0.0,0.0,0.0,-3.5,1.9,1.9
+,2021-01-20,Eua Nba,21:30,Atlanta Hawks,Detroit Pistons,123.0,115.0,1.55,2.6,219.5,1.9,1.9,-6.5,1.9,1.9
+,2021-01-20,Eua Nba,22:00,Minnesota Timberwolves,Orlando Magic,96.0,97.0,2.55,1.57,216.5,1.9,1.9,3.5,1.9,1.9
+,2021-01-20,Eua Nba,23:30,Houston Rockets,Phoenix Suns,103.0,109.0,3.0,1.41,218.5,1.9,1.9,5.5,1.95,1.86
+,2021-01-21,Eua Nba,00:00,Los Angeles Clippers,Sacramento Kings,115.0,96.0,1.15,5.75,229.5,1.9,1.9,-10.5,1.86,1.95
+,2021-01-21,Eua Nba,00:00,Golden State Warriors,San Antonio Spurs,121.0,99.0,1.86,1.95,226.5,1.9,1.9,-1.5,1.9,1.9
+,2021-01-21,Eua Nba,21:30,Milwaukee Bucks,Los Angeles Lakers,106.0,113.0,1.83,2.0,228.5,1.9,1.9,-1.5,1.95,1.86
+,2021-01-22,Eua Nba,22:30,San Antonio Spurs,Dallas Mavericks,117.0,122.0,2.1,1.76,222.5,1.9,1.9,2.5,1.9,1.9
+,2021-01-22,Eua Nba,22:00,Minnesota Timberwolves,Atlanta Hawks,98.0,116.0,3.0,1.41,223.5,1.9,1.9,4.5,1.9,1.9
+,2021-01-22,Eua Nba,21:30,Cleveland Cavaliers,Brooklyn Nets,125.0,113.0,3.2,1.37,223.5,1.9,1.9,6.5,1.9,1.9
+,2021-01-22,Eua Nba,21:30,Toronto Raptors,Miami Heat,101.0,81.0,1.76,2.1,219.5,1.9,1.9,-2.5,1.95,1.86
+,2021-01-22,Eua Nba,21:30,Philadelphia 76ers,Boston Celtics,122.0,110.0,0.0,0.0,221.5,1.9,1.9,-4.5,1.9,1.9
+,2021-01-22,Eua Nba,21:00,Detroit Pistons,Houston Rockets,102.0,103.0,1.68,2.25,214.5,1.9,1.9,-3.5,1.9,1.9
+,2021-01-22,Eua Nba,21:00,Indiana Pacers,Orlando Magic,120.0,118.0,1.5,2.7,215.5,1.9,1.9,-4.5,1.9,1.9
+,2021-01-22,Eua Nba,00:00,Golden State Warriors,New York Knicks,104.0,119.0,1.47,2.75,214.5,1.9,1.9,-5.5,1.9,1.9
+,2021-01-22,Eua Nba,00:00,Utah Jazz,New Orleans Pelicans,129.0,118.0,1.35,3.3,216.5,1.9,1.9,-6.5,1.9,1.9
+,2021-01-22,Eua Nba,21:00,Charlotte Hornets,Chicago Bulls,110.0,123.0,1.66,2.3,227.5,1.9,1.9,-3.5,1.9,1.9
+,2021-01-23,Eua Nba,23:00,Chicago Bulls,Los Angeles Lakers,90.0,101.0,4.75,1.2,226.5,1.9,1.9,9.5,1.95,1.86
+,2021-01-23,Eua Nba,23:00,Dallas Mavericks,Houston Rockets,108.0,133.0,1.33,3.4,218.5,1.9,1.9,-10.5,1.9,1.9
+,2021-01-23,Eua Nba,23:00,Phoenix Suns,Denver Nuggets,112.0,120.0,2.15,1.74,215.5,1.9,1.9,-1.5,1.9,1.9
+,2021-01-23,Eua Nba,23:00,Utah Jazz,Golden State Warriors,127.0,108.0,1.33,3.4,224.5,1.86,1.95,-7.5,1.95,1.86
+,2021-01-23,Eua Nba,22:00,Detroit Pistons,Philadelphia 76ers,110.0,114.0,4.25,1.23,215.5,1.9,1.9,4.5,1.9,1.9
+,2021-01-23,Eua Nba,22:00,Minnesota Timberwolves,New Orleans Pelicans,120.0,110.0,4.0,1.26,216.5,1.9,1.9,8.5,1.9,1.9
+,2021-01-23,Eua Nba,00:00,Los Angeles Clippers,Oklahoma City Thunder,120.0,106.0,1.08,8.5,219.5,1.9,1.9,-13.5,1.9,1.9
+,2021-01-23,Eua Nba,00:00,Sacramento Kings,New York Knicks,103.0,94.0,1.6,2.45,218.5,1.9,1.9,-4.5,1.9,1.9
+,2021-01-23,Eua Nba,22:00,Brooklyn Nets,Miami Heat,128.0,124.0,1.31,3.6,230.5,1.9,1.9,-7.5,1.9,1.9
+,2021-01-24,Eua Nba,22:00,Milwaukee Bucks,Atlanta Hawks,129.0,115.0,1.11,7.0,225.5,1.9,1.9,-11.5,1.9,1.9
+,2021-01-24,Eua Nba,21:00,Boston Celtics,Cleveland Cavaliers,141.0,103.0,1.41,3.0,212.5,1.9,1.9,-6.5,1.9,1.9
+,2021-01-24,Eua Nba,22:00,San Antonio Spurs,Washington Wizards,121.0,101.0,1.43,2.9,230.5,1.9,1.9,-7.5,1.95,1.86
+,2021-01-24,Eua Nba,18:00,Los Angeles Clippers,Oklahoma City Thunder,108.0,100.0,1.09,8.0,220.5,1.9,1.9,-13.5,1.9,1.9
+,2021-01-24,Eua Nba,15:00,Indiana Pacers,Toronto Raptors,102.0,107.0,1.55,2.6,216.5,1.9,1.9,-4.5,1.9,1.9
+,2021-01-24,Eua Nba,21:00,Orlando Magic,Charlotte Hornets,104.0,107.0,2.1,1.76,213.5,1.9,1.9,-1.5,1.95,1.86
+,2021-01-25,Eua Nba,22:30,Dallas Mavericks,Denver Nuggets,113.0,117.0,2.15,1.74,221.5,1.86,1.95,1.5,1.95,1.86
+,2021-01-25,Eua Nba,22:00,Cleveland Cavaliers,Los Angeles Lakers,108.0,115.0,6.75,1.11,212.5,1.9,1.9,10.5,1.9,1.9
+,2021-01-25,Eua Nba,21:30,Brooklyn Nets,Miami Heat,98.0,85.0,1.32,3.5,234.5,1.9,1.9,-7.5,1.9,1.9
+,2021-01-25,Eua Nba,23:00,Chicago Bulls,Boston Celtics,103.0,119.0,2.45,1.6,227.5,1.9,1.9,3.5,1.9,1.9
+,2021-01-25,Eua Nba,21:00,Indiana Pacers,Toronto Raptors,129.0,114.0,1.74,2.15,216.5,1.9,1.9,-2.5,1.9,1.9
+,2021-01-25,Eua Nba,21:00,Orlando Magic,Charlotte Hornets,117.0,108.0,1.83,2.0,212.5,1.9,1.9,-1.5,1.9,1.9
+,2021-01-25,Eua Nba,00:00,Portland Trail Blazers,New York Knicks,116.0,113.0,1.58,2.5,212.5,1.9,1.9,-3.5,1.9,1.9
+,2021-01-25,Eua Nba,21:00,Detroit Pistons,Philadelphia 76ers,119.0,104.0,2.75,1.47,215.5,1.9,1.9,4.5,1.95,1.86
+,2021-01-26,Eua Nba,00:00,Portland Trail Blazers,Oklahoma City Thunder,122.0,125.0,1.5,2.7,221.5,1.9,1.9,-5.5,1.9,1.9
+,2021-01-26,Eua Nba,00:00,Golden State Warriors,Minnesota Timberwolves,130.0,108.0,1.25,4.1,225.5,1.9,1.9,-9.5,1.9,1.9
+,2021-01-26,Eua Nba,21:30,Atlanta Hawks,Los Angeles Clippers,108.0,99.0,1.45,2.8,220.5,1.9,1.9,-5.5,1.9,1.9
+,2021-01-26,Eua Nba,22:00,Houston Rockets,Washington Wizards,107.0,88.0,1.64,2.35,230.5,1.9,1.9,-3.5,1.95,1.86
+,2021-01-26,Eua Nba,23:00,Utah Jazz,New York Knicks,108.0,94.0,1.14,6.0,211.5,1.9,1.9,-11.5,1.9,1.9
+,2021-01-27,Eua Nba,23:00,New Orleans Pelicans,Washington Wizards,124.0,106.0,1.28,3.75,226.5,1.9,1.9,-8.5,1.9,1.9
+,2021-01-27,Eua Nba,23:00,Phoenix Suns,Oklahoma City Thunder,97.0,102.0,1.29,3.7,216.5,1.9,1.9,-7.5,1.9,1.9
+,2021-01-27,Eua Nba,21:30,Atlanta Hawks,Brooklyn Nets,128.0,132.0,2.95,1.42,235.5,1.9,1.9,5.5,1.9,1.9
+,2021-01-27,Eua Nba,21:30,Miami Heat,Denver Nuggets,82.0,109.0,3.0,1.41,215.5,1.9,1.9,5.5,1.9,1.9
+,2021-01-27,Eua Nba,23:00,Utah Jazz,Dallas Mavericks,116.0,104.0,1.76,2.1,219.5,1.9,1.9,-3.5,1.9,1.9
+,2021-01-27,Eua Nba,21:30,Toronto Raptors,Milwaukee Bucks,108.0,115.0,3.1,1.4,223.5,1.9,1.9,5.5,1.9,1.9
+,2021-01-27,Eua Nba,21:30,Philadelphia 76ers,Los Angeles Lakers,107.0,106.0,2.6,1.55,221.5,1.9,1.9,2.5,2.0,1.83
+,2021-01-27,Eua Nba,21:00,Orlando Magic,Sacramento Kings,107.0,121.0,1.83,2.0,221.5,1.9,1.9,-1.5,1.9,1.9
+,2021-01-27,Eua Nba,22:30,San Antonio Spurs,Boston Celtics,110.0,106.0,2.6,1.55,223.5,1.9,1.9,3.5,1.95,1.86
+,2021-01-27,Eua Nba,21:00,Charlotte Hornets,Indiana Pacers,106.0,116.0,2.3,1.66,218.5,1.9,1.9,-1.5,2.05,1.8
+,2021-01-27,Eua Nba,21:00,Cleveland Cavaliers,Detroit Pistons,122.0,107.0,1.76,2.1,213.5,1.9,1.9,-2.5,1.9,1.9
+,2021-01-28,Eua Nba,00:00,Golden State Warriors,Minnesota Timberwolves,123.0,111.0,1.23,4.25,227.5,1.9,1.9,-9.5,1.9,1.9
+,2021-01-28,Eua Nba,21:30,Houston Rockets,Portland Trail Blazers,104.0,101.0,1.54,2.65,227.5,1.9,1.9,-4.5,1.9,1.9
+,2021-01-28,Eua Nba,22:00,Miami Heat,Los Angeles Clippers,105.0,109.0,1.76,2.1,211.5,1.9,1.9,-5.5,1.95,1.86
+,2021-01-28,Eua Nba,22:00,Detroit Pistons,Los Angeles Lakers,107.0,92.0,3.6,1.31,213.5,1.9,1.9,6.5,1.9,1.9
+,2021-01-29,Eua Nba,22:30,San Antonio Spurs,Denver Nuggets,119.0,109.0,2.5,1.58,220.5,1.9,1.9,3.5,1.9,1.9
+,2021-01-29,Eua Nba,22:00,Minnesota Timberwolves,Philadelphia 76ers,94.0,118.0,4.5,1.22,224.5,1.9,1.9,6.5,1.9,1.9
+,2021-01-29,Eua Nba,22:00,Oklahoma City Thunder,Brooklyn Nets,125.0,147.0,3.2,1.37,229.5,1.9,1.9,6.5,1.9,1.9
+,2021-01-29,Eua Nba,22:00,Orlando Magic,Los Angeles Clippers,90.0,116.0,3.7,1.29,211.5,1.9,1.9,-3.5,1.9,1.9
+,2021-01-29,Eua Nba,21:30,New York Knicks,Cleveland Cavaliers,102.0,81.0,1.83,2.0,205.5,1.86,1.95,-1.5,1.9,1.9
+,2021-01-29,Eua Nba,21:30,Toronto Raptors,Sacramento Kings,124.0,126.0,1.55,2.6,226.5,1.9,1.9,-5.5,1.9,1.9
+,2021-01-29,Eua Nba,21:00,Charlotte Hornets,Indiana Pacers,108.0,105.0,2.45,1.6,219.5,1.86,1.95,3.5,1.9,1.9
+,2021-01-29,Eua Nba,21:00,Washington Wizards,Atlanta Hawks,100.0,116.0,2.45,1.6,233.5,1.9,1.9,3.5,1.9,1.9
+,2021-01-29,Eua Nba,00:00,Phoenix Suns,Golden State Warriors,114.0,93.0,1.76,2.1,217.5,1.9,1.9,-2.5,1.9,1.9
+,2021-01-29,Eua Nba,21:30,New Orleans Pelicans,Milwaukee Bucks,131.0,126.0,3.2,1.37,228.5,1.9,1.9,6.5,1.9,1.9
+,2021-01-30,Eua Nba,22:30,Boston Celtics,Los Angeles Lakers,95.0,96.0,2.45,1.6,216.5,1.9,1.9,1.5,1.9,1.9
+,2021-01-30,Eua Nba,23:00,Dallas Mavericks,Phoenix Suns,105.0,111.0,1.86,1.95,214.5,1.9,1.9,-2.5,1.95,1.86
+,2021-01-30,Eua Nba,22:30,San Antonio Spurs,Memphis Grizzlies,112.0,129.0,1.62,2.4,219.5,1.9,1.9,-4.5,1.95,1.86
+,2021-01-30,Eua Nba,22:00,New Orleans Pelicans,Houston Rockets,112.0,126.0,1.76,2.1,222.5,1.9,1.9,-1.5,1.86,1.95
+,2021-01-30,Eua Nba,22:00,Chicago Bulls,Portland Trail Blazers,122.0,123.0,1.83,2.0,232.5,1.9,1.9,-2.5,1.9,1.9
+,2021-01-30,Eua Nba,22:00,Miami Heat,Sacramento Kings,105.0,104.0,1.38,3.15,223.5,1.9,1.9,-6.5,1.9,1.9
+,2021-01-30,Eua Nba,00:00,Utah Jazz,Dallas Mavericks,120.0,101.0,1.58,2.5,220.5,1.9,1.9,-4.5,1.95,1.86
+,2021-01-30,Eua Nba,22:00,Charlotte Hornets,Milwaukee Bucks,126.0,114.0,4.5,1.22,229.5,1.9,1.9,7.5,1.95,1.86
+,2021-01-31,Eua Nba,00:00,Golden State Warriors,Detroit Pistons,118.0,91.0,1.44,2.85,223.5,1.9,1.9,-5.5,1.95,1.86
+,2021-01-31,Eua Nba,15:00,New York Knicks,Los Angeles Clippers,115.0,129.0,4.75,1.2,209.5,1.9,1.9,8.5,1.9,1.9
+,2021-01-31,Eua Nba,17:30,Denver Nuggets,Utah Jazz,128.0,117.0,2.3,1.66,219.5,1.9,1.9,-2.5,1.9,1.9
+,2021-01-31,Eua Nba,21:00,Washington Wizards,Brooklyn Nets,149.0,146.0,3.1,1.4,243.5,1.9,1.9,6.5,1.86,1.95
+,2021-01-31,Eua Nba,21:00,Toronto Raptors,Orlando Magic,115.0,102.0,1.45,2.8,215.5,1.9,1.9,-5.5,1.9,1.9
+,2021-01-31,Eua Nba,21:00,Indiana Pacers,Philadelphia 76ers,110.0,119.0,1.68,2.25,221.5,1.9,1.9,-2.5,1.9,1.9
+,2021-01-31,Eua Nba,22:00,Minnesota Timberwolves,Cleveland Cavaliers,109.0,104.0,2.4,1.62,218.5,1.9,1.9,2.5,1.9,1.9
+,2021-02-01,Eua Nba,22:30,San Antonio Spurs,Memphis Grizzlies,102.0,133.0,1.58,2.5,220.5,1.86,1.95,-3.5,1.86,1.95
+,2021-02-01,Eua Nba,22:30,Dallas Mavericks,Phoenix Suns,108.0,109.0,1.74,2.15,216.5,1.9,1.9,-3.5,1.9,1.9
+,2021-02-01,Eua Nba,22:00,Cleveland Cavaliers,Minnesota Timberwolves,100.0,98.0,1.64,2.35,216.5,1.9,1.9,-5.5,1.9,1.9
+,2021-02-01,Eua Nba,22:00,Chicago Bulls,New York Knicks,110.0,102.0,1.6,2.45,217.5,1.9,1.9,-3.5,1.9,1.9
+,2021-02-01,Eua Nba,22:00,New Orleans Pelicans,Sacramento Kings,109.0,118.0,1.74,2.15,232.5,1.9,1.9,-3.5,1.9,1.9
+,2021-02-01,Eua Nba,21:30,Miami Heat,Charlotte Hornets,121.0,129.0,1.31,3.55,215.5,1.9,1.9,-7.5,1.86,1.95
+,2021-02-01,Eua Nba,22:00,Oklahoma City Thunder,Houston Rockets,106.0,136.0,2.7,1.5,222.5,1.9,1.9,4.5,1.9,1.9
+,2021-02-01,Eua Nba,21:30,Atlanta Hawks,Los Angeles Lakers,99.0,107.0,3.4,1.33,217.5,1.9,1.9,5.5,1.9,1.9
+,2021-02-01,Eua Nba,22:00,Milwaukee Bucks,Portland Trail Blazers,134.0,106.0,1.2,4.75,234.5,1.9,1.9,-9.5,1.86,1.95
+,2021-02-02,Eua Nba,21:00,Orlando Magic,Toronto Raptors,108.0,123.0,3.1,1.4,214.5,1.9,1.9,5.5,1.86,1.95
+,2021-02-02,Eua Nba,21:30,Brooklyn Nets,Los Angeles Clippers,124.0,120.0,2.0,1.83,241.5,1.9,1.9,-1.5,1.9,1.9
+,2021-02-02,Eua Nba,22:00,Washington Wizards,Portland Trail Blazers,121.0,132.0,1.66,2.3,239.5,1.9,1.9,-2.5,1.9,1.9
+,2021-02-02,Eua Nba,22:00,Indiana Pacers,Memphis Grizzlies,134.0,116.0,1.55,2.6,220.5,1.9,1.9,-5.5,1.9,1.9
+,2021-02-03,Eua Nba,23:30,New Orleans Pelicans,Phoenix Suns,123.0,101.0,2.2,1.71,222.5,1.9,1.9,2.5,1.9,1.9
+,2021-02-03,Eua Nba,22:30,San Antonio Spurs,Minnesota Timberwolves,111.0,108.0,1.31,3.6,222.5,1.9,1.9,-8.5,1.95,1.86
+,2021-02-03,Eua Nba,22:00,Chicago Bulls,New York Knicks,103.0,107.0,1.86,1.95,216.5,1.9,1.9,-3.5,1.9,1.9
+,2021-02-03,Eua Nba,22:00,Cleveland Cavaliers,Los Angeles Clippers,99.0,121.0,4.25,1.23,216.5,1.9,1.9,7.5,1.9,1.9
+,2021-02-03,Eua Nba,22:00,Miami Heat,Washington Wizards,100.0,103.0,1.25,4.2,227.5,1.9,1.9,-9.5,1.95,1.86
+,2021-02-03,Eua Nba,21:00,Milwaukee Bucks,Indiana Pacers,130.0,110.0,1.23,4.25,232.5,1.9,1.9,-8.5,1.86,1.95
+,2021-02-03,Eua Nba,21:30,Atlanta Hawks,Dallas Mavericks,116.0,122.0,2.1,1.76,222.5,1.9,1.9,1.5,1.9,1.9
+,2021-02-03,Eua Nba,21:00,Charlotte Hornets,Philadelphia 76ers,111.0,118.0,3.4,1.33,221.5,1.9,1.9,6.5,1.9,1.9
+,2021-02-03,Eua Nba,00:00,Golden State Warriors,Boston Celtics,107.0,111.0,2.2,1.71,224.5,1.9,1.9,2.5,1.9,1.9
+,2021-02-03,Eua Nba,00:00,Utah Jazz,Detroit Pistons,117.0,105.0,1.11,7.0,217.5,1.9,1.9,-12.5,1.9,1.9
+,2021-02-03,Eua Nba,22:00,Oklahoma City Thunder,Houston Rockets,104.0,87.0,3.15,1.38,220.5,1.9,1.9,4.5,1.9,1.9
+,2021-02-04,Eua Nba,23:00,Memphis Grizzlies,Houston Rockets,103.0,115.0,1.6,2.45,223.5,1.9,1.9,-3.5,1.9,1.9
+,2021-02-04,Eua Nba,22:00,Philadelphia 76ers,Portland Trail Blazers,105.0,121.0,1.19,5.0,222.5,1.9,1.9,-10.5,1.9,1.9
+,2021-02-04,Eua Nba,00:00,Sacramento Kings,Boston Celtics,116.0,111.0,1.83,2.0,224.5,1.9,1.9,-1.5,1.95,1.86
+,2021-02-04,Eua Nba,21:30,Dallas Mavericks,Golden State Warriors,116.0,147.0,1.57,2.55,224.5,1.86,1.95,-4.5,1.9,1.9
+,2021-02-04,Eua Nba,21:30,Atlanta Hawks,Utah Jazz,91.0,112.0,5.0,1.19,221.5,1.9,1.9,7.5,1.9,1.9
+,2021-02-05,Eua Nba,00:00,Los Angeles Lakers,Denver Nuggets,114.0,93.0,1.54,2.65,216.5,1.9,1.9,-5.5,1.95,1.86
+,2021-02-05,Eua Nba,21:00,Orlando Magic,Chicago Bulls,123.0,119.0,2.15,1.74,221.5,1.9,1.9,2.5,1.9,1.9
+,2021-02-05,Eua Nba,21:00,Indiana Pacers,New Orleans Pelicans,113.0,114.0,1.8,2.05,226.5,1.9,1.9,-3.5,1.9,1.9
+,2021-02-05,Eua Nba,21:30,Cleveland Cavaliers,Milwaukee Bucks,105.0,123.0,5.5,1.16,226.5,1.9,1.9,10.5,1.9,1.9
+,2021-02-05,Eua Nba,21:30,Brooklyn Nets,Toronto Raptors,117.0,123.0,1.45,2.8,239.5,1.9,1.9,-5.5,1.9,1.9
+,2021-02-05,Eua Nba,22:00,Oklahoma City Thunder,Minnesota Timberwolves,103.0,106.0,2.15,1.74,218.5,1.9,1.9,1.5,1.9,1.9
+,2021-02-05,Eua Nba,22:00,Miami Heat,Washington Wizards,122.0,95.0,1.37,3.2,228.5,1.9,1.9,-7.5,1.9,1.9
+,2021-02-05,Eua Nba,22:00,Charlotte Hornets,Utah Jazz,121.0,138.0,3.75,1.28,222.5,1.9,1.9,7.5,1.9,1.9
+,2021-02-05,Eua Nba,23:00,Phoenix Suns,Detroit Pistons,109.0,92.0,1.27,3.8,212.5,1.9,1.9,-8.5,1.95,1.86
+,2021-02-06,Eua Nba,22:00,Cleveland Cavaliers,Milwaukee Bucks,99.0,124.0,5.25,1.18,226.5,1.9,1.9,10.5,1.9,1.9
+,2021-02-06,Eua Nba,23:00,New Orleans Pelicans,Memphis Grizzlies,118.0,109.0,1.9,1.9,226.5,1.9,1.9,-1.5,1.95,1.86
+,2021-02-06,Eua Nba,22:30,Dallas Mavericks,Golden State Warriors,134.0,132.0,1.57,2.55,231.5,1.9,1.9,-4.5,1.95,1.86
+,2021-02-06,Eua Nba,22:00,Atlanta Hawks,Toronto Raptors,132.0,121.0,1.95,1.86,220.5,1.9,1.9,1.5,1.9,1.9
+,2021-02-06,Eua Nba,22:00,Houston Rockets,San Antonio Spurs,106.0,111.0,1.86,1.95,222.5,1.9,1.9,-1.5,1.95,1.86
+,2021-02-06,Eua Nba,22:00,Oklahoma City Thunder,Minnesota Timberwolves,120.0,118.0,1.8,2.05,218.5,1.9,1.9,-1.5,1.9,1.9
+,2021-02-06,Eua Nba,22:00,Philadelphia 76ers,Brooklyn Nets,124.0,108.0,1.34,3.35,233.5,1.9,1.9,-7.5,1.9,1.9
+,2021-02-06,Eua Nba,21:00,Orlando Magic,Chicago Bulls,92.0,118.0,2.0,1.83,223.5,1.9,1.9,1.5,1.9,1.9
+,2021-02-06,Eua Nba,19:00,Sacramento Kings,Denver Nuggets,119.0,114.0,2.1,1.76,225.5,1.9,1.9,1.5,1.9,1.9
+,2021-02-06,Eua Nba,15:00,New York Knicks,Portland Trail Blazers,110.0,99.0,2.0,1.83,214.5,1.9,1.9,1.5,1.9,1.9
+,2021-02-06,Eua Nba,00:00,Los Angeles Clippers,Boston Celtics,115.0,119.0,1.43,2.9,218.5,1.9,1.9,-6.5,1.9,1.9
+,2021-02-07,Eua Nba,00:00,Los Angeles Lakers,Detroit Pistons,135.0,129.0,1.07,9.5,212.5,1.9,1.9,-14.5,1.9,1.9
+,2021-02-07,Eua Nba,15:00,New York Knicks,Miami Heat,103.0,109.0,2.8,1.45,206.5,1.9,1.9,5.5,1.9,1.9
+,2021-02-07,Eua Nba,15:00,Indiana Pacers,Utah Jazz,95.0,103.0,2.7,1.5,223.5,1.9,1.9,3.5,1.9,1.9
+,2021-02-07,Eua Nba,15:00,Charlotte Hornets,Washington Wizards,119.0,97.0,2.0,1.83,233.5,1.9,1.9,1.5,1.9,1.9
+,2021-02-07,Eua Nba,16:00,Phoenix Suns,Boston Celtics,100.0,91.0,1.71,2.2,215.5,1.9,1.9,-3.5,1.9,1.9
+,2021-02-07,Eua Nba,17:00,Los Angeles Clippers,Sacramento Kings,110.0,113.0,1.28,3.75,228.5,1.9,1.9,-8.5,1.95,1.86
+,2021-02-08,Eua Nba,23:00,Phoenix Suns,Cleveland Cavaliers,119.0,113.0,1.44,2.85,212.5,1.9,1.9,-7.5,1.86,1.95
+,2021-02-08,Eua Nba,22:30,Dallas Mavericks,Minnesota Timberwolves,127.0,122.0,1.2,4.75,222.5,1.9,1.9,-9.5,1.9,1.9
+,2021-02-08,Eua Nba,23:30,Denver Nuggets,Milwaukee Bucks,112.0,125.0,2.15,1.74,229.5,1.9,1.9,2.5,1.9,1.9
+,2021-02-08,Eua Nba,22:00,Chicago Bulls,Washington Wizards,101.0,105.0,1.54,2.65,236.5,1.9,1.9,-4.5,1.86,1.95
+,2021-02-08,Eua Nba,22:00,Memphis Grizzlies,Toronto Raptors,113.0,128.0,2.25,1.68,222.5,1.9,1.9,2.5,1.9,1.9
+,2021-02-08,Eua Nba,21:00,Charlotte Hornets,Houston Rockets,119.0,94.0,2.1,1.76,219.5,1.9,1.9,-1.5,1.9,1.9
+,2021-02-08,Eua Nba,22:30,San Antonio Spurs,Golden State Warriors,105.0,100.0,1.83,2.0,232.5,1.9,1.9,-1.5,1.9,1.9
+,2021-02-09,Eua Nba,00:00,Los Angeles Lakers,Oklahoma City Thunder,119.0,112.0,1.18,5.25,216.5,1.9,1.9,-12.5,1.9,1.9
+,2021-02-09,Eua Nba,21:00,Detroit Pistons,Brooklyn Nets,122.0,111.0,2.9,1.43,228.5,1.9,1.9,5.5,1.9,1.9
+,2021-02-09,Eua Nba,21:30,New Orleans Pelicans,Houston Rockets,130.0,101.0,1.38,3.15,218.5,1.9,1.9,-6.5,1.95,1.86
+,2021-02-09,Eua Nba,21:30,Miami Heat,New York Knicks,98.0,96.0,1.43,2.9,206.5,1.9,1.9,-6.5,1.9,1.9
+,2021-02-09,Eua Nba,22:30,San Antonio Spurs,Golden State Warriors,91.0,114.0,2.05,1.8,229.5,1.9,1.9,-1.5,1.95,1.86
+,2021-02-10,Eua Nba,23:00,Chicago Bulls,New Orleans Pelicans,129.0,116.0,2.15,1.74,228.5,1.9,1.9,2.5,1.9,1.9
+,2021-02-10,Eua Nba,23:00,Denver Nuggets,Cleveland Cavaliers,133.0,95.0,1.2,4.75,218.5,1.9,1.9,-9.5,1.9,1.9
+,2021-02-10,Eua Nba,22:00,Brooklyn Nets,Indiana Pacers,104.0,94.0,1.95,1.86,234.5,1.9,1.9,-2.5,1.9,1.9
+,2021-02-10,Eua Nba,22:00,Memphis Grizzlies,Charlotte Hornets,130.0,114.0,1.71,2.2,223.5,1.9,1.9,-4.5,1.9,1.9
+,2021-02-10,Eua Nba,00:00,Sacramento Kings,Philadelphia 76ers,111.0,119.0,2.65,1.54,229.5,1.9,1.9,4.5,1.9,1.9
+,2021-02-10,Eua Nba,21:30,Dallas Mavericks,Atlanta Hawks,118.0,117.0,1.62,2.4,231.5,1.9,1.9,-4.5,1.9,1.9
+,2021-02-10,Eua Nba,21:00,Washington Wizards,Toronto Raptors,115.0,137.0,2.8,1.45,229.5,1.9,1.9,5.5,1.9,1.9
+,2021-02-10,Eua Nba,00:00,Portland Trail Blazers,Orlando Magic,106.0,97.0,1.4,3.1,219.5,1.9,1.9,-6.5,1.9,1.9
+,2021-02-10,Eua Nba,00:00,Utah Jazz,Boston Celtics,122.0,108.0,1.47,2.75,220.5,1.9,1.9,-5.5,1.95,1.86
+,2021-02-10,Eua Nba,22:00,Minnesota Timberwolves,Los Angeles Clippers,112.0,119.0,4.25,1.23,222.5,1.9,1.9,7.5,1.9,1.9
+,2021-02-11,Eua Nba,22:00,Detroit Pistons,Indiana Pacers,95.0,111.0,2.5,1.58,214.5,1.9,1.9,2.5,1.9,1.9
+,2021-02-11,Eua Nba,21:30,Boston Celtics,Toronto Raptors,120.0,106.0,1.71,2.2,219.5,1.9,1.9,-3.5,1.95,1.86
+,2021-02-11,Eua Nba,00:00,Phoenix Suns,Milwaukee Bucks,125.0,124.0,2.5,1.58,224.5,1.9,1.9,3.5,1.95,1.86
+,2021-02-11,Eua Nba,00:00,Los Angeles Lakers,Oklahoma City Thunder,114.0,113.0,1.11,7.0,216.5,1.9,1.9,-12.5,1.9,1.9
+,2021-02-11,Eua Nba,21:30,Houston Rockets,Miami Heat,94.0,101.0,2.05,1.8,214.5,1.9,1.9,2.5,1.9,1.9
+,2021-02-12,Eua Nba,00:00,Portland Trail Blazers,Philadelphia 76ers,118.0,114.0,3.0,1.41,228.5,1.9,1.9,5.5,1.95,1.86
+,2021-02-12,Eua Nba,00:00,Golden State Warriors,Orlando Magic,111.0,105.0,1.22,4.5,221.5,1.9,1.9,-8.5,1.9,1.9
+,2021-02-12,Eua Nba,21:00,Washington Wizards,New York Knicks,91.0,109.0,2.35,1.64,218.5,1.9,1.9,2.5,1.95,1.86
+,2021-02-12,Eua Nba,21:00,Charlotte Hornets,Minnesota Timberwolves,120.0,114.0,1.71,2.2,226.5,1.9,1.9,-4.5,1.9,1.9
+,2021-02-12,Eua Nba,21:30,Dallas Mavericks,New Orleans Pelicans,143.0,130.0,1.66,2.3,232.5,1.9,1.9,-2.5,1.86,1.95
+,2021-02-12,Eua Nba,21:30,Atlanta Hawks,San Antonio Spurs,114.0,125.0,1.71,2.2,224.5,1.9,1.9,-2.5,1.9,1.9
+,2021-02-12,Eua Nba,22:00,Chicago Bulls,Los Angeles Clippers,106.0,125.0,3.7,1.29,225.5,1.9,1.9,6.5,1.9,1.9
+,2021-02-12,Eua Nba,22:00,Boston Celtics,Detroit Pistons,102.0,108.0,1.33,3.4,210.5,1.9,1.9,-8.5,1.9,1.9
+,2021-02-12,Eua Nba,23:00,Utah Jazz,Milwaukee Bucks,129.0,115.0,1.74,2.15,232.5,1.86,1.95,-2.5,1.9,1.9
+,2021-02-12,Eua Nba,23:00,Denver Nuggets,Oklahoma City Thunder,97.0,95.0,1.11,6.75,221.5,1.9,1.9,-12.5,1.95,1.86
+,2021-02-13,Eua Nba,23:00,Utah Jazz,Miami Heat,112.0,94.0,1.34,3.35,215.5,1.9,1.9,-6.5,1.9,1.9
+,2021-02-13,Eua Nba,21:30,Atlanta Hawks,Indiana Pacers,113.0,125.0,2.05,1.8,223.5,1.9,1.9,1.5,1.9,1.9
+,2021-02-13,Eua Nba,22:30,Golden State Warriors,Brooklyn Nets,117.0,134.0,2.4,1.62,242.5,1.9,1.9,3.5,1.9,1.9
+,2021-02-13,Eua Nba,00:00,Los Angeles Lakers,Memphis Grizzlies,115.0,105.0,1.26,4.0,218.5,1.9,1.9,-8.5,1.9,1.9
+,2021-02-13,Eua Nba,17:00,Phoenix Suns,Philadelphia 76ers,120.0,111.0,1.86,1.95,221.5,1.9,1.9,-1.5,1.95,1.86
+,2021-02-13,Eua Nba,00:00,Sacramento Kings,Orlando Magic,112.0,123.0,1.38,3.15,218.5,1.9,1.9,-8.5,1.9,1.9
+,2021-02-13,Eua Nba,22:00,New York Knicks,Houston Rockets,121.0,99.0,1.9,1.9,209.5,1.9,1.9,1.5,1.9,1.9
+,2021-02-13,Eua Nba,00:00,Portland Trail Blazers,Cleveland Cavaliers,129.0,110.0,1.58,2.5,221.5,1.9,1.9,-4.5,1.9,1.9
+,2021-02-14,Eua Nba,15:00,Washington Wizards,Boston Celtics,104.0,91.0,3.4,1.33,229.5,1.9,1.9,5.5,2.0,1.83
+,2021-02-14,Eua Nba,21:00,Toronto Raptors,Minnesota Timberwolves,112.0,116.0,1.27,3.8,228.5,1.9,1.9,-8.5,1.9,1.9
+,2021-02-14,Eua Nba,21:00,Detroit Pistons,New Orleans Pelicans,123.0,112.0,2.8,1.45,220.5,1.9,1.9,4.5,1.95,1.86
+,2021-02-14,Eua Nba,21:00,Charlotte Hornets,San Antonio Spurs,110.0,122.0,2.5,1.58,226.5,1.9,1.9,1.5,1.95,1.86
+,2021-02-14,Eua Nba,21:30,Dallas Mavericks,Portland Trail Blazers,118.0,121.0,1.44,2.85,235.5,1.9,1.9,-5.5,1.9,1.9
+,2021-02-14,Eua Nba,23:00,Phoenix Suns,Orlando Magic,109.0,90.0,1.13,6.25,212.5,1.9,1.9,-11.5,1.9,1.9
+,2021-02-14,Eua Nba,22:00,Oklahoma City Thunder,Milwaukee Bucks,114.0,109.0,7.0,1.11,225.5,1.9,1.9,11.5,1.9,1.9
+,2021-02-15,Eua Nba,23:00,Utah Jazz,Philadelphia 76ers,134.0,123.0,1.26,4.0,224.5,1.9,1.9,-8.5,1.9,1.9
+,2021-02-15,Eua Nba,00:00,Sacramento Kings,Memphis Grizzlies,110.0,124.0,1.8,2.05,229.5,1.9,1.9,-2.5,1.9,1.9
+,2021-02-15,Eua Nba,00:00,Los Angeles Clippers,Cleveland Cavaliers,128.0,111.0,1.22,4.5,219.5,1.9,1.9,-12.5,1.86,1.95
+,2021-02-15,Eua Nba,00:00,Denver Nuggets,Los Angeles Lakers,122.0,105.0,2.3,1.66,215.5,1.9,1.9,1.5,1.9,1.9
+,2021-02-15,Eua Nba,21:00,Washington Wizards,Houston Rockets,131.0,119.0,1.8,2.05,227.5,1.9,1.9,-1.5,1.9,1.9
+,2021-02-15,Eua Nba,21:00,Indiana Pacers,Chicago Bulls,112.0,120.0,1.5,2.7,223.5,1.9,1.9,-5.5,1.9,1.9
+,2021-02-15,Eua Nba,21:30,New York Knicks,Atlanta Hawks,123.0,112.0,2.05,1.8,216.5,1.9,1.9,1.5,1.9,1.9
+,2021-02-16,Eua Nba,22:00,Milwaukee Bucks,Toronto Raptors,113.0,124.0,1.41,3.0,233.5,1.9,1.9,-5.5,1.86,1.95
+,2021-02-16,Eua Nba,22:00,Oklahoma City Thunder,Portland Trail Blazers,104.0,115.0,2.8,1.45,223.5,1.9,1.9,5.5,1.9,1.9
+,2021-02-16,Eua Nba,22:00,Memphis Grizzlies,New Orleans Pelicans,113.0,144.0,2.05,1.8,230.5,1.9,1.9,1.5,1.9,1.9
+,2021-02-16,Eua Nba,00:00,Golden State Warriors,Cleveland Cavaliers,129.0,98.0,1.19,5.0,224.5,1.9,1.9,-9.5,1.86,1.95
+,2021-02-16,Eua Nba,21:00,Boston Celtics,Denver Nuggets,112.0,99.0,1.76,2.1,220.5,1.9,1.9,-3.5,1.95,1.86
+,2021-02-16,Eua Nba,00:00,Sacramento Kings,Brooklyn Nets,125.0,136.0,2.65,1.54,237.5,1.9,1.9,4.5,1.9,1.9
+,2021-02-16,Eua Nba,22:00,Minnesota Timberwolves,Los Angeles Lakers,104.0,112.0,3.1,1.4,221.5,1.9,1.9,6.5,1.86,1.95
+,2021-02-16,Eua Nba,00:00,Los Angeles Clippers,Miami Heat,125.0,118.0,2.75,1.47,214.5,1.9,1.9,-5.5,1.9,1.9
+,2021-02-17,Eua Nba,00:30,Phoenix Suns,Brooklyn Nets,124.0,128.0,1.31,3.6,226.5,1.9,1.9,-7.5,1.86,1.95
+,2021-02-17,Eua Nba,23:00,New Orleans Pelicans,Portland Trail Blazers,124.0,126.0,1.57,2.55,231.5,1.86,1.95,-4.5,1.9,1.9
+,2021-02-17,Eua Nba,22:00,Chicago Bulls,Detroit Pistons,105.0,102.0,1.68,2.25,218.5,1.9,1.9,-4.5,1.83,2.0
+,2021-02-17,Eua Nba,22:00,Minnesota Timberwolves,Indiana Pacers,128.0,134.0,2.8,1.45,224.5,1.9,1.9,5.5,1.9,1.9
+,2021-02-17,Eua Nba,23:00,Memphis Grizzlies,Oklahoma City Thunder,122.0,113.0,1.35,3.3,221.5,1.9,1.9,-7.5,2.0,1.83
+,2021-02-17,Eua Nba,21:30,Boston Celtics,Atlanta Hawks,114.0,122.0,1.76,2.1,222.5,1.9,1.9,-4.5,1.95,1.86
+,2021-02-17,Eua Nba,21:30,Philadelphia 76ers,Houston Rockets,118.0,113.0,1.27,3.8,224.5,1.9,1.9,-11.5,1.95,1.86
+,2021-02-17,Eua Nba,21:00,Orlando Magic,New York Knicks,107.0,89.0,2.35,1.64,209.5,1.9,1.9,3.5,1.9,1.9
+,2021-02-17,Eua Nba,22:00,Washington Wizards,Denver Nuggets,130.0,128.0,2.7,1.5,232.5,1.9,1.9,3.5,1.95,1.86
+,2021-02-18,Eua Nba,00:00,Los Angeles Clippers,Utah Jazz,96.0,114.0,3.3,1.35,226.5,1.9,1.9,2.5,1.86,1.95
+,2021-02-18,Eua Nba,00:00,Golden State Warriors,Miami Heat,120.0,112.0,1.8,2.05,222.5,1.9,1.9,-1.5,1.9,1.9
+,2021-02-18,Eua Nba,21:30,Milwaukee Bucks,Toronto Raptors,96.0,110.0,1.32,3.5,233.5,1.9,1.9,-7.5,1.95,1.86
+,2021-02-19,Eua Nba,22:00,New Orleans Pelicans,Phoenix Suns,114.0,132.0,2.4,1.62,229.5,1.9,1.9,2.5,1.9,1.9
+,2021-02-19,Eua Nba,23:00,Minnesota Timberwolves,Toronto Raptors,81.0,86.0,2.25,1.68,225.5,1.9,1.9,2.5,1.9,1.9
+,2021-02-19,Eua Nba,22:00,Memphis Grizzlies,Detroit Pistons,109.0,95.0,1.54,2.65,219.5,1.9,1.9,-4.5,1.9,1.9
+,2021-02-19,Eua Nba,21:30,Boston Celtics,Atlanta Hawks,121.0,109.0,1.5,2.7,225.5,1.9,1.9,-4.5,1.9,1.9
+,2021-02-19,Eua Nba,22:00,Milwaukee Bucks,Oklahoma City Thunder,98.0,85.0,1.15,5.75,230.5,1.9,1.9,-10.5,1.9,1.9
+,2021-02-19,Eua Nba,21:00,Cleveland Cavaliers,Denver Nuggets,103.0,120.0,4.25,1.23,220.5,1.9,1.9,8.5,1.9,1.9
+,2021-02-19,Eua Nba,00:00,Sacramento Kings,Miami Heat,110.0,118.0,1.86,1.95,223.5,1.9,1.9,-1.5,1.9,1.9
+,2021-02-19,Eua Nba,21:00,Orlando Magic,Golden State Warriors,124.0,120.0,0.0,0.0,223.5,1.9,1.9,4.5,1.9,1.9
+,2021-02-19,Eua Nba,00:00,Los Angeles Lakers,Brooklyn Nets,98.0,109.0,0.0,0.0,230.5,1.9,1.9,-2.5,1.86,1.95
+,2021-02-19,Eua Nba,21:30,Philadelphia 76ers,Chicago Bulls,112.0,105.0,1.4,3.1,227.5,1.9,1.9,-9.5,2.0,1.83
+,2021-02-20,Eua Nba,00:00,Los Angeles Clippers,Utah Jazz,116.0,112.0,1.9,1.9,224.5,1.9,1.9,1.5,1.86,1.95
+,2021-02-20,Eua Nba,22:10,Charlotte Hornets,Golden State Warriors,102.0,100.0,2.1,1.76,230.5,1.9,1.9,1.5,1.9,1.9
+,2021-02-20,Eua Nba,22:40,Los Angeles Lakers,Miami Heat,94.0,96.0,1.62,2.4,208.5,1.9,1.9,-3.5,1.9,1.9
+,2021-02-20,Eua Nba,23:10,Memphis Grizzlies,Phoenix Suns,97.0,128.0,3.15,1.38,222.5,1.9,1.9,3.5,1.9,1.9
+,2021-02-20,Eua Nba,23:10,Chicago Bulls,Sacramento Kings,122.0,114.0,1.9,1.9,232.5,1.9,1.9,1.5,1.86,1.95
+,2021-02-21,Eua Nba,23:00,Milwaukee Bucks,Sacramento Kings,128.0,115.0,1.18,5.25,235.5,1.9,1.9,-10.5,1.9,1.9
+,2021-02-21,Eua Nba,22:00,Los Angeles Clippers,Brooklyn Nets,108.0,112.0,1.38,3.15,234.5,1.9,1.9,-6.5,1.9,1.9
+,2021-02-21,Eua Nba,21:30,Atlanta Hawks,Denver Nuggets,123.0,115.0,2.2,1.71,229.5,1.9,1.9,2.5,1.9,1.9
+,2021-02-21,Eua Nba,21:00,Cleveland Cavaliers,Oklahoma City Thunder,101.0,117.0,2.25,1.68,216.5,1.9,1.9,2.5,1.95,1.86
+,2021-02-21,Eua Nba,17:30,New Orleans Pelicans,Boston Celtics,120.0,115.0,2.15,1.74,231.5,1.9,1.9,2.5,1.86,1.95
+,2021-02-21,Eua Nba,21:00,Orlando Magic,Detroit Pistons,105.0,96.0,1.64,2.35,209.5,1.9,1.9,-2.5,1.9,1.9
+,2021-02-21,Eua Nba,21:00,Toronto Raptors,Philadelphia 76ers,110.0,103.0,2.3,1.66,223.5,1.9,1.9,2.5,1.95,1.86
+,2021-02-21,Eua Nba,00:10,Portland Trail Blazers,Washington Wizards,111.0,118.0,1.54,2.65,242.5,1.9,1.9,-4.5,1.9,1.9
+,2021-02-21,Eua Nba,21:00,New York Knicks,Minnesota Timberwolves,103.0,99.0,1.66,2.3,214.5,1.9,1.9,-2.5,1.9,1.9
+,2021-02-22,Eua Nba,23:00,Oklahoma City Thunder,Miami Heat,94.0,108.0,3.35,1.34,211.5,1.9,1.9,4.5,1.95,1.86
+,2021-02-22,Eua Nba,23:00,Phoenix Suns,Portland Trail Blazers,132.0,100.0,1.4,3.1,226.5,1.9,1.9,-6.5,1.86,1.95
+,2021-02-22,Eua Nba,23:00,Utah Jazz,Charlotte Hornets,132.0,110.0,1.11,6.75,227.5,1.9,1.9,-12.5,1.9,1.9
+,2021-02-22,Eua Nba,22:30,Dallas Mavericks,Memphis Grizzlies,102.0,92.0,1.55,2.6,228.5,1.9,1.9,-5.5,1.9,1.9
+,2021-02-22,Eua Nba,22:00,Houston Rockets,Chicago Bulls,100.0,120.0,1.9,1.9,226.5,1.9,1.9,1.5,1.9,1.9
+,2021-02-23,Eua Nba,00:00,Los Angeles Lakers,Washington Wizards,124.0,127.0,1.34,3.35,223.5,1.86,1.95,-6.5,1.9,1.9
+,2021-02-23,Eua Nba,21:00,Orlando Magic,Detroit Pistons,93.0,105.0,1.57,2.55,207.5,1.9,1.9,-4.5,1.95,1.86
+,2021-02-23,Eua Nba,21:00,Cleveland Cavaliers,Atlanta Hawks,112.0,111.0,3.75,1.28,226.5,1.9,1.9,7.5,1.86,1.95
+,2021-02-23,Eua Nba,21:30,Toronto Raptors,Philadelphia 76ers,102.0,109.0,2.15,1.74,221.5,1.9,1.9,1.5,1.95,1.86
+,2021-02-23,Eua Nba,21:30,New York Knicks,Golden State Warriors,106.0,114.0,2.5,1.58,214.5,1.9,1.9,1.5,1.9,1.9
+,2021-02-23,Eua Nba,21:30,Dallas Mavericks,Boston Celtics,110.0,107.0,2.15,1.74,222.5,1.9,1.9,1.5,1.9,1.9
+,2021-02-23,Eua Nba,21:30,Brooklyn Nets,Sacramento Kings,127.0,118.0,1.43,2.9,241.5,1.9,1.9,-7.5,1.9,1.9
+,2021-02-23,Eua Nba,22:00,Milwaukee Bucks,Minnesota Timberwolves,139.0,112.0,1.16,5.5,229.5,1.9,1.9,-11.5,2.05,1.8
+,2021-02-24,Eua Nba,22:00,Chicago Bulls,Minnesota Timberwolves,133.0,126.0,1.5,2.7,227.5,1.9,1.9,-4.5,1.86,1.95
+,2021-02-24,Eua Nba,22:00,Miami Heat,Toronto Raptors,116.0,108.0,1.76,2.1,213.5,1.9,1.9,-2.5,1.9,1.9
+,2021-02-24,Eua Nba,22:00,New Orleans Pelicans,Detroit Pistons,128.0,118.0,1.14,6.0,221.5,1.9,1.9,-11.5,1.9,1.9
+,2021-02-24,Eua Nba,22:00,Oklahoma City Thunder,San Antonio Spurs,102.0,99.0,1.95,1.86,216.5,1.9,1.9,-2.5,1.95,1.86
+,2021-02-24,Eua Nba,23:00,Phoenix Suns,Charlotte Hornets,121.0,124.0,1.25,4.2,224.5,1.9,1.9,-9.5,1.9,1.9
+,2021-02-24,Eua Nba,21:30,Cleveland Cavaliers,Houston Rockets,112.0,96.0,2.75,1.47,216.5,1.83,2.0,2.5,1.9,1.9
+,2021-02-24,Eua Nba,21:30,Indiana Pacers,Golden State Warriors,107.0,111.0,1.71,2.2,228.5,1.9,1.9,-2.5,1.9,1.9
+,2021-02-24,Eua Nba,00:00,Denver Nuggets,Portland Trail Blazers,111.0,106.0,1.41,3.0,230.5,1.9,1.9,-7.5,1.9,1.9
+,2021-02-24,Eua Nba,00:00,Los Angeles Clippers,Washington Wizards,135.0,116.0,1.12,6.5,231.5,1.9,1.9,-11.5,1.86,1.95
+,2021-02-24,Eua Nba,21:30,Atlanta Hawks,Boston Celtics,127.0,112.0,1.95,1.86,221.5,1.9,1.9,1.5,1.9,1.9
+,2021-02-25,Eua Nba,00:00,Utah Jazz,Los Angeles Lakers,114.0,89.0,1.26,4.0,217.5,1.9,1.9,-8.5,1.86,1.95
+,2021-02-25,Eua Nba,21:00,Philadelphia 76ers,Dallas Mavericks,111.0,97.0,1.54,2.65,224.5,1.9,1.9,-5.5,1.9,1.9
+,2021-02-25,Eua Nba,21:30,New York Knicks,Sacramento Kings,140.0,121.0,1.86,1.95,222.5,1.9,1.9,-1.5,1.95,1.86
+,2021-02-25,Eua Nba,21:30,Brooklyn Nets,Orlando Magic,129.0,92.0,1.25,4.2,226.5,1.9,1.9,-9.5,1.9,1.9
+,2021-02-25,Eua Nba,22:00,Memphis Grizzlies,Los Angeles Clippers,122.0,94.0,3.6,1.31,225.5,1.9,1.9,7.5,1.9,1.9
+,2021-02-25,Eua Nba,23:00,Denver Nuggets,Washington Wizards,110.0,112.0,1.27,3.8,236.5,1.9,1.9,-7.5,1.86,1.95
+,2021-02-25,Eua Nba,23:30,Milwaukee Bucks,New Orleans Pelicans,129.0,125.0,1.28,3.75,240.5,1.9,1.9,-8.5,1.9,1.9
+,2021-02-26,Eua Nba,22:00,Chicago Bulls,Phoenix Suns,97.0,106.0,3.2,1.37,224.5,1.9,1.9,5.5,1.95,1.86
+,2021-02-26,Eua Nba,22:00,Detroit Pistons,Sacramento Kings,107.0,110.0,2.0,1.83,224.5,1.86,1.95,1.5,1.9,1.9
+,2021-02-26,Eua Nba,22:00,Memphis Grizzlies,Los Angeles Clippers,99.0,119.0,3.7,1.29,223.5,1.9,1.9,5.5,1.9,1.9
+,2021-02-26,Eua Nba,21:30,Toronto Raptors,Houston Rockets,122.0,111.0,1.38,3.15,218.5,1.9,1.9,-8.5,1.9,1.9
+,2021-02-26,Eua Nba,22:00,Oklahoma City Thunder,Atlanta Hawks,118.0,109.0,2.75,1.47,222.5,1.9,1.9,3.5,1.9,1.9
+,2021-02-26,Eua Nba,21:30,Boston Celtics,Indiana Pacers,118.0,112.0,1.68,2.25,218.5,1.9,1.9,-2.5,1.9,1.9
+,2021-02-26,Eua Nba,22:00,Miami Heat,Utah Jazz,124.0,116.0,3.05,1.4,216.5,1.9,1.9,5.5,1.9,1.9
+,2021-02-27,Eua Nba,22:30,Brooklyn Nets,Dallas Mavericks,98.0,115.0,1.95,1.86,233.5,1.9,1.9,-3.5,1.9,1.9
+,2021-02-27,Eua Nba,22:00,New York Knicks,Indiana Pacers,110.0,107.0,1.9,1.9,216.5,1.9,1.9,-1.5,1.9,1.9
+,2021-02-27,Eua Nba,22:00,Oklahoma City Thunder,Denver Nuggets,96.0,126.0,3.2,1.37,219.5,1.9,1.9,6.5,1.9,1.9
+,2021-02-27,Eua Nba,22:00,Orlando Magic,Utah Jazz,109.0,124.0,4.75,1.2,217.5,1.9,1.9,9.5,1.9,1.9
+,2021-02-27,Eua Nba,21:00,Washington Wizards,Minnesota Timberwolves,128.0,112.0,1.58,2.5,235.5,1.9,1.9,-4.5,1.9,1.9
+,2021-02-27,Eua Nba,21:00,Philadelphia 76ers,Cleveland Cavaliers,109.0,112.0,1.15,5.75,221.5,1.9,1.9,-11.5,1.9,1.9
+,2021-02-27,Eua Nba,22:00,San Antonio Spurs,New Orleans Pelicans,117.0,114.0,2.1,1.76,226.5,1.9,1.9,1.5,1.95,1.86
+,2021-02-27,Eua Nba,00:00,Los Angeles Lakers,Portland Trail Blazers,102.0,93.0,1.47,2.75,220.5,1.9,1.9,-5.5,1.95,1.86
+,2021-02-27,Eua Nba,00:00,Golden State Warriors,Charlotte Hornets,130.0,121.0,1.4,3.1,232.5,1.9,1.9,-6.5,1.9,1.9
+,2021-02-28,Eua Nba,23:00,Minnesota Timberwolves,Phoenix Suns,99.0,118.0,5.25,1.18,224.5,1.9,1.9,10.5,1.9,1.9
+,2021-02-28,Eua Nba,22:00,Detroit Pistons,New York Knicks,90.0,109.0,2.0,1.83,209.5,1.9,1.9,1.5,1.9,1.9
+,2021-02-28,Eua Nba,22:00,Houston Rockets,Memphis Grizzlies,84.0,133.0,2.45,1.6,221.5,1.9,1.9,1.5,1.9,1.9
+,2021-02-28,Eua Nba,17:30,Milwaukee Bucks,Los Angeles Clippers,105.0,100.0,1.8,2.05,232.5,1.9,1.9,-1.5,1.86,1.95
+,2021-02-28,Eua Nba,22:00,Miami Heat,Atlanta Hawks,109.0,99.0,1.71,2.2,219.5,1.9,1.9,-6.5,1.9,1.9
+,2021-02-28,Eua Nba,21:00,Boston Celtics,Washington Wizards,111.0,110.0,1.37,3.2,231.5,1.9,1.9,-6.5,1.9,1.9
+,2021-02-28,Eua Nba,22:00,Los Angeles Lakers,Golden State Warriors,117.0,91.0,1.68,2.25,220.5,1.9,1.9,-3.5,2.0,1.83
+,2021-03-01,Eua Nba,00:00,Sacramento Kings,Charlotte Hornets,126.0,127.0,1.6,2.45,235.5,1.9,1.9,-3.5,1.86,1.95
+,2021-03-01,Eua Nba,21:00,Philadelphia 76ers,Indiana Pacers,130.0,114.0,1.66,2.3,222.5,1.9,1.9,-5.5,1.95,1.86
+,2021-03-01,Eua Nba,21:00,Orlando Magic,Dallas Mavericks,124.0,130.0,3.3,1.35,220.5,1.9,1.9,6.5,1.95,1.86
+,2021-03-01,Eua Nba,22:00,New Orleans Pelicans,Utah Jazz,129.0,124.0,3.25,1.36,234.5,1.9,1.9,6.5,1.9,1.9
+,2021-03-01,Eua Nba,22:00,Chicago Bulls,Denver Nuggets,112.0,118.0,2.55,1.57,225.5,1.9,1.9,4.5,1.86,1.95
+,2021-03-01,Eua Nba,22:30,San Antonio Spurs,Brooklyn Nets,113.0,124.0,2.55,1.57,233.5,1.9,1.9,3.5,2.0,1.83
+,2021-03-01,Eua Nba,23:00,Houston Rockets,Cleveland Cavaliers,90.0,101.0,1.68,2.25,216.5,1.9,1.9,-5.5,2.0,1.83
+,2021-03-02,Eua Nba,23:00,Milwaukee Bucks,Denver Nuggets,97.0,128.0,1.31,3.6,234.5,1.9,1.9,-7.5,1.9,1.9
+,2021-03-02,Eua Nba,21:30,Boston Celtics,Los Angeles Clippers,117.0,112.0,2.8,1.45,220.5,1.9,1.9,3.5,1.95,1.86
+,2021-03-02,Eua Nba,22:30,San Antonio Spurs,New York Knicks,119.0,93.0,2.05,1.8,211.5,1.9,1.9,-3.5,2.0,1.83
+,2021-03-02,Eua Nba,21:00,Washington Wizards,Memphis Grizzlies,111.0,125.0,1.9,1.9,235.5,1.9,1.9,-1.5,1.9,1.9
+,2021-03-02,Eua Nba,00:30,Portland Trail Blazers,Charlotte Hornets,123.0,111.0,1.27,3.8,229.5,1.9,1.9,-8.5,1.95,1.86
+,2021-03-02,Eua Nba,21:30,Miami Heat,Atlanta Hawks,80.0,94.0,1.76,2.1,217.5,1.9,1.9,-3.5,1.9,1.9
+,2021-03-03,Eua Nba,00:00,Los Angeles Lakers,Phoenix Suns,104.0,114.0,2.0,1.83,213.5,1.9,1.9,-1.5,1.95,1.86
+,2021-03-03,Eua Nba,21:00,Toronto Raptors,Detroit Pistons,105.0,129.0,1.29,3.7,211.5,1.9,1.9,-8.5,2.0,1.83
+,2021-03-03,Eua Nba,21:00,Philadelphia 76ers,Utah Jazz,131.0,123.0,2.4,1.62,226.5,1.9,1.9,2.5,1.95,1.86
+,2021-03-03,Eua Nba,21:00,Cleveland Cavaliers,Indiana Pacers,111.0,114.0,3.3,1.35,216.5,1.86,1.95,5.5,1.9,1.9
+,2021-03-03,Eua Nba,21:30,Houston Rockets,Brooklyn Nets,114.0,132.0,5.5,1.16,226.5,1.9,1.9,6.5,2.0,1.83
+,2021-03-03,Eua Nba,22:00,Orlando Magic,Atlanta Hawks,112.0,115.0,2.3,1.66,217.5,1.9,1.9,2.5,1.9,1.9
+,2021-03-03,Eua Nba,22:00,New Orleans Pelicans,Chicago Bulls,124.0,128.0,1.41,3.0,236.5,1.9,1.9,-5.5,1.9,1.9
+,2021-03-03,Eua Nba,22:00,Minnesota Timberwolves,Charlotte Hornets,102.0,135.0,2.1,1.76,229.5,1.9,1.9,1.5,1.86,1.95
+,2021-03-03,Eua Nba,22:30,Dallas Mavericks,Oklahoma City Thunder,87.0,78.0,1.47,2.75,220.5,1.9,1.9,-7.5,1.86,1.95
+,2021-03-04,Eua Nba,23:00,San Antonio Spurs,Oklahoma City Thunder,102.0,107.0,1.33,3.4,218.5,1.9,1.9,-6.5,1.9,1.9
+,2021-03-04,Eua Nba,22:30,New Orleans Pelicans,Miami Heat,93.0,103.0,2.1,1.76,224.5,1.9,1.9,-3.5,1.9,1.9
+,2021-03-04,Eua Nba,22:00,Indiana Pacers,Denver Nuggets,103.0,113.0,2.45,1.6,225.5,1.9,1.9,3.5,1.9,1.9
+,2021-03-04,Eua Nba,22:00,Memphis Grizzlies,Milwaukee Bucks,111.0,112.0,3.1,1.4,233.5,1.9,1.9,5.5,1.95,1.86
+,2021-03-04,Eua Nba,21:00,Boston Celtics,Toronto Raptors,132.0,125.0,1.27,3.9,216.5,1.9,1.9,-8.5,1.9,1.9
+,2021-03-04,Eua Nba,21:00,Washington Wizards,Los Angeles Clippers,119.0,117.0,4.0,1.26,234.5,1.9,1.9,5.5,1.9,1.9
+,2021-03-04,Eua Nba,00:00,Portland Trail Blazers,Golden State Warriors,108.0,106.0,1.95,1.86,232.5,1.9,1.9,1.5,1.9,1.9
+,2021-03-04,Eua Nba,00:00,Sacramento Kings,Los Angeles Lakers,123.0,120.0,1.55,2.6,223.5,1.9,1.9,-4.5,1.86,1.95
+,2021-03-04,Eua Nba,21:30,New York Knicks,Detroit Pistons,114.0,104.0,1.33,3.4,205.5,1.9,1.9,-6.5,1.9,1.9
+,2021-03-05,Eua Nba,00:00,Portland Trail Blazers,Sacramento Kings,123.0,119.0,1.52,2.67,236.5,1.9,1.9,-4.5,1.95,1.86
+,2021-03-05,Eua Nba,00:00,Phoenix Suns,Golden State Warriors,120.0,98.0,1.1,7.5,220.5,1.9,1.9,-12.5,1.9,1.9
+,2021-03-07,Eua Nba,22:00,Team Durant,Team LeBron,150.0,170.0,2.55,1.57,310.5,1.9,1.9,3.5,1.9,1.9
+,2021-03-10,Eua Nba,22:00,Memphis Grizzlies,Washington Wizards,127.0,112.0,1.66,2.3,236.5,1.9,1.9,-3.5,1.9,1.9
+,2021-03-10,Eua Nba,22:30,Dallas Mavericks,San Antonio Spurs,115.0,104.0,1.55,2.6,219.5,1.9,1.9,-4.5,1.9,1.9
+,2021-03-11,Eua Nba,23:00,Oklahoma City Thunder,Dallas Mavericks,116.0,108.0,2.1,1.76,215.5,1.9,1.9,1.5,1.9,1.9
+,2021-03-11,Eua Nba,22:00,Chicago Bulls,Philadelphia 76ers,105.0,127.0,1.66,2.3,227.5,1.9,1.9,-3.5,1.95,1.86
+,2021-03-11,Eua Nba,22:00,Miami Heat,Orlando Magic,111.0,103.0,1.23,4.25,209.5,1.9,1.9,-6.5,1.9,1.9
+,2021-03-11,Eua Nba,21:30,Toronto Raptors,Atlanta Hawks,120.0,121.0,2.35,1.64,225.5,1.9,1.9,1.5,2.0,1.83
+,2021-03-11,Eua Nba,22:00,New Orleans Pelicans,Minnesota Timberwolves,105.0,135.0,1.27,3.8,237.5,1.9,1.9,-8.5,1.95,1.86
+,2021-03-11,Eua Nba,21:30,Brooklyn Nets,Boston Celtics,121.0,109.0,1.71,2.2,232.5,1.9,1.9,-2.5,1.9,1.9
+,2021-03-11,Eua Nba,21:00,Charlotte Hornets,Detroit Pistons,105.0,102.0,1.54,2.65,220.5,1.9,1.9,-5.5,1.9,1.9
+,2021-03-11,Eua Nba,22:00,Milwaukee Bucks,New York Knicks,134.0,101.0,1.14,6.0,222.5,1.9,1.9,-10.5,1.9,1.9
+,2021-03-12,Eua Nba,23:00,San Antonio Spurs,Orlando Magic,104.0,77.0,1.33,3.4,214.5,1.9,1.9,-7.5,1.9,1.9
+,2021-03-12,Eua Nba,23:00,Chicago Bulls,Miami Heat,90.0,101.0,2.1,1.76,219.5,1.9,1.9,2.5,1.86,1.95
+,2021-03-12,Eua Nba,22:00,Memphis Grizzlies,Denver Nuggets,102.0,103.0,2.25,1.68,227.5,1.9,1.9,2.5,1.9,1.9
+,2021-03-12,Eua Nba,00:00,Sacramento Kings,Houston Rockets,125.0,105.0,1.4,3.1,227.5,1.9,1.9,-5.5,1.9,1.9
+,2021-03-12,Eua Nba,22:00,Washington Wizards,Philadelphia 76ers,101.0,127.0,2.35,1.64,233.5,1.9,1.9,3.5,1.86,1.95
+,2021-03-12,Eua Nba,00:00,Los Angeles Clippers,Golden State Warriors,130.0,104.0,1.34,3.35,229.5,1.9,1.9,-7.5,1.9,1.9
+,2021-03-12,Eua Nba,00:00,Portland Trail Blazers,Phoenix Suns,121.0,127.0,2.65,1.54,226.5,1.9,1.9,2.5,1.95,1.86
+,2021-03-12,Eua Nba,22:00,New Orleans Pelicans,Cleveland Cavaliers,116.0,82.0,1.36,3.25,225.5,1.9,1.9,-7.5,1.95,1.86
+,2021-03-13,Eua Nba,00:00,Utah Jazz,Houston Rockets,114.0,99.0,1.02,16.0,225.5,1.9,1.9,-18.5,1.9,1.9
+,2021-03-13,Eua Nba,00:30,Los Angeles Lakers,Indiana Pacers,105.0,100.0,1.55,2.6,216.5,1.9,1.9,-4.5,1.95,1.86
+,2021-03-13,Eua Nba,16:00,Oklahoma City Thunder,New York Knicks,97.0,119.0,2.65,1.54,208.5,1.9,1.9,4.5,1.9,1.9
+,2021-03-13,Eua Nba,21:00,Washington Wizards,Milwaukee Bucks,119.0,125.0,7.5,1.1,236.5,1.9,1.9,10.5,1.9,1.9
+,2021-03-13,Eua Nba,21:00,Charlotte Hornets,Toronto Raptors,114.0,104.0,1.71,2.2,229.5,1.9,1.9,-2.5,1.9,1.9
+,2021-03-13,Eua Nba,21:00,Brooklyn Nets,Detroit Pistons,100.0,95.0,1.14,6.0,225.5,1.9,1.9,-11.5,1.9,1.9
+,2021-03-13,Eua Nba,21:30,Atlanta Hawks,Sacramento Kings,121.0,106.0,1.58,2.5,237.5,1.9,1.9,-3.5,1.9,1.9
+,2021-03-13,Eua Nba,22:00,Minnesota Timberwolves,Portland Trail Blazers,121.0,125.0,2.7,1.5,233.5,1.9,1.9,4.5,1.9,1.9
+,2021-03-14,Eua Nba,00:00,Phoenix Suns,Indiana Pacers,111.0,122.0,1.33,3.4,222.5,1.9,1.9,-7.5,1.9,1.9
+,2021-03-14,Eua Nba,00:00,Denver Nuggets,Dallas Mavericks,103.0,116.0,1.86,1.95,225.5,1.9,1.9,-2.5,1.9,1.9
+,2021-03-14,Eua Nba,17:00,Golden State Warriors,Utah Jazz,131.0,119.0,3.6,1.31,231.5,1.9,1.9,6.5,1.9,1.9
+,2021-03-14,Eua Nba,19:30,Philadelphia 76ers,San Antonio Spurs,134.0,99.0,1.5,2.7,222.5,1.9,1.9,-4.5,1.86,1.95
+,2021-03-14,Eua Nba,20:00,Orlando Magic,Miami Heat,97.0,102.0,3.5,1.32,206.5,1.9,1.9,6.5,2.0,1.83
+,2021-03-14,Eua Nba,20:30,Atlanta Hawks,Cleveland Cavaliers,100.0,82.0,1.45,2.8,221.5,1.9,1.9,-6.5,1.9,1.9
+,2021-03-14,Eua Nba,21:00,Minnesota Timberwolves,Portland Trail Blazers,114.0,112.0,2.7,1.5,233.5,1.9,1.9,4.5,1.95,1.86
+,2021-03-14,Eua Nba,21:00,Houston Rockets,Boston Celtics,107.0,134.0,6.0,1.14,221.5,1.9,1.9,10.5,1.9,1.9
+,2021-03-14,Eua Nba,22:00,New Orleans Pelicans,Los Angeles Clippers,135.0,115.0,2.9,1.43,232.5,1.9,1.9,5.5,1.95,1.86
+,2021-03-14,Eua Nba,22:00,Chicago Bulls,Toronto Raptors,118.0,95.0,1.6,2.45,228.5,1.9,1.9,-3.5,1.9,1.9
+,2021-03-14,Eua Nba,15:00,Oklahoma City Thunder,Memphis Grizzlies,128.0,122.0,4.0,1.26,220.5,1.9,1.9,5.5,2.0,1.83
+,2021-03-15,Eua Nba,23:30,Golden State Warriors,Los Angeles Lakers,97.0,128.0,1.95,1.86,222.5,1.9,1.9,1.5,1.86,1.95
+,2021-03-15,Eua Nba,23:00,Denver Nuggets,Indiana Pacers,121.0,106.0,1.57,2.55,223.5,1.9,1.9,-4.5,1.9,1.9
+,2021-03-15,Eua Nba,23:00,Phoenix Suns,Memphis Grizzlies,122.0,99.0,1.33,3.4,0.0,0.0,0.0,-7.5,1.95,1.86
+,2021-03-15,Eua Nba,20:00,Charlotte Hornets,Sacramento Kings,122.0,116.0,1.66,2.3,239.5,1.9,1.9,-3.5,1.95,1.86
+,2021-03-15,Eua Nba,21:00,Brooklyn Nets,New York Knicks,117.0,112.0,1.27,3.8,223.5,1.9,1.9,-8.5,1.9,1.9
+,2021-03-15,Eua Nba,21:00,Detroit Pistons,San Antonio Spurs,99.0,109.0,2.0,1.83,211.5,1.9,1.9,1.5,1.9,1.9
+,2021-03-15,Eua Nba,20:00,Washington Wizards,Milwaukee Bucks,122.0,133.0,3.9,1.27,237.5,1.9,1.9,8.5,1.86,1.95
+,2021-03-15,Eua Nba,22:00,Dallas Mavericks,Los Angeles Clippers,99.0,109.0,2.0,1.83,227.5,1.9,1.9,1.5,1.9,1.9
+,2021-03-16,Eua Nba,23:00,Portland Trail Blazers,New Orleans Pelicans,125.0,124.0,1.8,2.05,238.5,1.9,1.9,-2.5,2.0,1.83
+,2021-03-16,Eua Nba,23:30,Los Angeles Lakers,Minnesota Timberwolves,137.0,121.0,0.0,0.0,223.5,1.9,1.9,-8.5,1.9,1.9
+,2021-03-16,Eua Nba,21:00,Chicago Bulls,Oklahoma City Thunder,123.0,102.0,1.35,3.3,223.5,1.9,1.9,-6.5,1.9,1.9
+,2021-03-16,Eua Nba,21:00,Philadelphia 76ers,New York Knicks,99.0,96.0,1.33,3.4,215.5,1.86,1.95,-6.5,1.9,1.9
+,2021-03-16,Eua Nba,21:00,Miami Heat,Cleveland Cavaliers,113.0,98.0,1.15,5.75,206.5,1.9,1.9,-11.5,1.9,1.9
+,2021-03-16,Eua Nba,20:30,Boston Celtics,Utah Jazz,109.0,117.0,2.4,1.62,227.5,1.9,1.9,3.5,1.95,1.86
+,2021-03-16,Eua Nba,21:00,Houston Rockets,Atlanta Hawks,107.0,119.0,4.0,1.26,223.5,1.9,1.9,8.5,1.9,1.9
+,2021-03-17,Eua Nba,20:00,Washington Wizards,Sacramento Kings,119.0,121.0,1.86,1.95,245.5,1.9,1.9,-2.5,1.95,1.86
+,2021-03-17,Eua Nba,20:00,Philadelphia 76ers,Milwaukee Bucks,105.0,109.0,3.05,1.4,234.5,1.9,1.9,5.5,1.9,1.9
+,2021-03-17,Eua Nba,20:00,Indiana Pacers,Brooklyn Nets,115.0,124.0,1.76,2.1,230.5,1.9,1.9,-1.5,1.86,1.95
+,2021-03-17,Eua Nba,20:00,Detroit Pistons,Toronto Raptors,116.0,112.0,3.15,1.38,215.5,1.9,1.9,2.5,1.9,1.9
+,2021-03-17,Eua Nba,21:00,Houston Rockets,Golden State Warriors,94.0,108.0,6.25,1.13,225.5,1.9,1.9,10.5,1.9,1.9
+,2021-03-17,Eua Nba,21:00,Cleveland Cavaliers,Boston Celtics,117.0,110.0,3.6,1.31,212.5,1.9,1.9,7.5,1.86,1.95
+,2021-03-17,Eua Nba,21:00,Chicago Bulls,San Antonio Spurs,99.0,106.0,1.8,2.05,222.5,1.9,1.9,-1.5,1.9,1.9
+,2021-03-17,Eua Nba,22:00,Memphis Grizzlies,Miami Heat,89.0,85.0,1.95,1.86,218.5,1.9,1.9,-1.5,1.95,1.86
+,2021-03-17,Eua Nba,22:00,Denver Nuggets,Charlotte Hornets,129.0,104.0,1.38,3.15,228.5,1.9,1.9,-6.5,1.95,1.86
+,2021-03-17,Eua Nba,22:30,Dallas Mavericks,Los Angeles Clippers,105.0,89.0,2.1,1.76,225.5,1.9,1.9,2.5,1.86,1.95
+,2021-03-18,Eua Nba,23:30,Los Angeles Lakers,Charlotte Hornets,116.0,105.0,1.32,3.5,224.5,1.9,1.9,-7.5,1.9,1.9
+,2021-03-18,Eua Nba,23:00,Portland Trail Blazers,New Orleans Pelicans,101.0,93.0,1.8,2.05,239.5,1.9,1.9,-1.5,1.9,1.9
+,2021-03-18,Eua Nba,23:00,Phoenix Suns,Minnesota Timberwolves,119.0,123.0,1.11,6.75,228.5,1.9,1.9,-10.5,1.86,1.95
+,2021-03-18,Eua Nba,20:00,Washington Wizards,Utah Jazz,131.0,122.0,5.75,1.15,235.5,1.9,1.9,9.5,2.0,1.83
+,2021-03-18,Eua Nba,20:30,New York Knicks,Orlando Magic,94.0,93.0,1.47,2.75,206.5,1.9,1.9,-6.5,1.9,1.9
+,2021-03-18,Eua Nba,20:30,Atlanta Hawks,Oklahoma City Thunder,116.0,93.0,1.27,3.8,224.5,1.9,1.9,-7.5,1.9,1.9
+,2021-03-19,Eua Nba,23:00,Phoenix Suns,Minnesota Timberwolves,113.0,101.0,1.15,5.75,231.5,1.9,1.9,-11.5,1.9,1.9
+,2021-03-19,Eua Nba,22:00,Denver Nuggets,Chicago Bulls,131.0,127.0,1.33,3.4,224.5,1.9,1.9,-7.5,1.9,1.9
+,2021-03-19,Eua Nba,21:00,Houston Rockets,Detroit Pistons,100.0,113.0,1.74,2.15,214.5,1.9,1.9,-2.5,1.9,1.9
+,2021-03-19,Eua Nba,21:00,Memphis Grizzlies,Golden State Warriors,103.0,116.0,1.38,3.15,220.5,1.9,1.9,-9.5,1.95,1.86
+,2021-03-19,Eua Nba,23:00,Portland Trail Blazers,Dallas Mavericks,125.0,119.0,2.25,1.68,227.5,1.9,1.9,2.5,1.9,1.9
+,2021-03-19,Eua Nba,21:00,Orlando Magic,Brooklyn Nets,121.0,113.0,5.5,1.16,222.5,1.9,1.9,8.5,1.95,1.86
+,2021-03-19,Eua Nba,21:00,Toronto Raptors,Utah Jazz,112.0,115.0,2.75,1.47,229.5,1.9,1.9,3.5,1.95,1.86
+,2021-03-19,Eua Nba,20:30,Boston Celtics,Sacramento Kings,96.0,107.0,1.34,3.35,231.5,1.9,1.9,-7.5,1.95,1.86
+,2021-03-19,Eua Nba,20:30,Cleveland Cavaliers,San Antonio Spurs,110.0,116.0,2.7,1.5,210.5,1.9,1.9,1.5,1.95,1.86
+,2021-03-19,Eua Nba,21:00,Miami Heat,Indiana Pacers,110.0,137.0,1.55,2.6,215.5,1.9,1.9,-4.5,1.95,1.86
+,2021-03-20,Eua Nba,16:30,Los Angeles Lakers,Atlanta Hawks,94.0,99.0,1.62,2.4,219.5,1.9,1.9,-3.5,1.9,1.9
+,2021-03-20,Eua Nba,21:00,Philadelphia 76ers,Sacramento Kings,129.0,105.0,1.57,2.55,229.5,1.9,1.9,-6.5,1.9,1.9
+,2021-03-20,Eua Nba,21:00,Memphis Grizzlies,Golden State Warriors,111.0,103.0,1.38,3.15,218.5,1.9,1.9,-6.5,1.9,1.9
+,2021-03-20,Eua Nba,22:00,Milwaukee Bucks,San Antonio Spurs,120.0,113.0,1.13,6.25,228.5,1.95,1.86,-11.5,1.9,1.9
+,2021-03-20,Eua Nba,23:00,Los Angeles Clippers,Charlotte Hornets,125.0,98.0,1.2,4.75,230.5,1.9,1.9,-9.5,1.9,1.9
+,2021-03-21,Eua Nba,21:00,New York Knicks,Philadelphia 76ers,100.0,101.0,1.95,1.86,211.5,1.9,1.9,1.5,1.9,1.9
+,2021-03-21,Eua Nba,23:00,Phoenix Suns,Los Angeles Lakers,111.0,94.0,1.18,5.25,212.5,1.9,1.9,-10.5,1.95,1.86
+,2021-03-21,Eua Nba,23:00,Portland Trail Blazers,Dallas Mavericks,92.0,132.0,2.1,1.76,228.5,1.9,1.9,1.5,1.9,1.9
+,2021-03-21,Eua Nba,20:00,Brooklyn Nets,Washington Wizards,113.0,106.0,1.25,4.1,245.5,1.9,1.9,-8.5,1.9,1.9
+,2021-03-21,Eua Nba,15:00,Houston Rockets,Oklahoma City Thunder,112.0,114.0,1.5,2.7,215.5,1.9,1.9,-7.5,1.9,1.9
+,2021-03-21,Eua Nba,20:00,Detroit Pistons,Chicago Bulls,86.0,100.0,2.4,1.62,217.5,1.9,1.9,3.5,1.9,1.9
+,2021-03-21,Eua Nba,16:30,Boston Celtics,Orlando Magic,112.0,96.0,1.25,4.2,215.5,1.9,1.9,-8.5,1.86,1.95
+,2021-03-21,Eua Nba,16:00,Denver Nuggets,New Orleans Pelicans,108.0,113.0,1.4,3.1,230.5,1.9,1.9,-6.5,1.9,1.9
+,2021-03-21,Eua Nba,20:00,Cleveland Cavaliers,Toronto Raptors,116.0,105.0,3.35,1.34,216.5,1.9,1.9,7.5,1.86,1.95
+,2021-03-21,Eua Nba,14:00,Miami Heat,Indiana Pacers,106.0,109.0,1.62,2.4,216.5,1.9,1.9,-4.5,1.9,1.9
+,2021-03-22,Eua Nba,23:00,Los Angeles Clippers,Atlanta Hawks,119.0,110.0,1.41,3.0,223.5,1.9,1.9,-6.5,1.95,1.86
+,2021-03-22,Eua Nba,20:30,Cleveland Cavaliers,Sacramento Kings,105.0,119.0,2.6,1.55,222.5,1.9,1.9,4.5,1.9,1.9
+,2021-03-22,Eua Nba,21:00,Minnesota Timberwolves,Oklahoma City Thunder,103.0,112.0,1.5,2.7,225.5,1.9,1.9,-4.5,1.9,1.9
+,2021-03-22,Eua Nba,21:30,San Antonio Spurs,Charlotte Hornets,97.0,100.0,1.47,2.75,221.5,1.9,1.9,-5.5,1.9,1.9
+,2021-03-22,Eua Nba,22:00,Milwaukee Bucks,Indiana Pacers,140.0,113.0,0.0,0.0,228.5,1.9,1.9,-6.5,1.9,1.9
+,2021-03-22,Eua Nba,22:00,Memphis Grizzlies,Boston Celtics,132.0,126.0,1.54,2.65,217.5,1.9,1.9,-4.5,1.86,1.95
+,2021-03-22,Eua Nba,22:00,Houston Rockets,Toronto Raptors,117.0,99.0,4.0,1.26,221.5,1.9,1.9,8.5,1.9,1.9
+,2021-03-22,Eua Nba,22:00,Chicago Bulls,Utah Jazz,95.0,120.0,4.75,1.2,227.5,1.9,1.9,8.5,1.9,1.9
+,2021-03-23,Eua Nba,23:00,Portland Trail Blazers,Brooklyn Nets,112.0,116.0,1.76,2.1,231.5,1.9,1.9,-4.5,1.9,1.9
+,2021-03-23,Eua Nba,21:00,Miami Heat,Phoenix Suns,100.0,110.0,2.05,1.8,213.5,1.9,1.9,-1.5,2.0,1.83
+,2021-03-23,Eua Nba,23:00,Golden State Warriors,Philadelphia 76ers,98.0,108.0,2.55,1.57,216.5,1.9,1.9,3.5,1.95,1.86
+,2021-03-23,Eua Nba,20:30,New York Knicks,Washington Wizards,131.0,113.0,1.71,2.2,223.5,1.9,1.9,-2.5,1.9,1.9
+,2021-03-23,Eua Nba,20:30,New Orleans Pelicans,Los Angeles Lakers,128.0,111.0,1.45,2.8,220.5,1.9,1.9,-6.5,1.9,1.9
+,2021-03-23,Eua Nba,20:00,Orlando Magic,Denver Nuggets,99.0,110.0,3.6,1.31,216.5,1.9,1.9,7.5,1.9,1.9
+,2021-03-24,Eua Nba,20:00,Indiana Pacers,Detroit Pistons,116.0,111.0,1.31,3.6,217.5,1.9,1.9,-7.5,1.9,1.9
+,2021-03-24,Eua Nba,23:00,Utah Jazz,Brooklyn Nets,118.0,88.0,1.09,8.0,227.5,1.9,1.9,-12.5,1.86,1.95
+,2021-03-24,Eua Nba,21:30,San Antonio Spurs,Los Angeles Clippers,101.0,134.0,2.95,1.42,220.5,1.9,1.9,26.5,1.03,0.0
+,2021-03-24,Eua Nba,21:00,Chicago Bulls,Cleveland Cavaliers,94.0,103.0,1.31,3.6,213.5,1.9,1.9,-7.5,1.95,1.86
+,2021-03-24,Eua Nba,21:00,Houston Rockets,Charlotte Hornets,97.0,122.0,2.5,1.58,222.5,1.9,1.9,3.5,1.86,1.95
+,2021-03-24,Eua Nba,23:00,Sacramento Kings,Atlanta Hawks,110.0,108.0,2.25,1.68,230.5,1.9,1.9,2.5,1.9,1.9
+,2021-03-24,Eua Nba,21:00,Oklahoma City Thunder,Memphis Grizzlies,107.0,116.0,3.3,1.35,218.5,1.9,1.9,4.5,1.9,1.9
+,2021-03-24,Eua Nba,21:00,Orlando Magic,Phoenix Suns,112.0,111.0,4.5,1.22,212.5,1.9,1.9,7.5,1.9,1.9
+,2021-03-24,Eua Nba,20:30,Milwaukee Bucks,Boston Celtics,121.0,119.0,1.37,3.2,229.5,1.83,2.0,-6.5,1.9,1.9
+,2021-03-24,Eua Nba,20:30,Toronto Raptors,Denver Nuggets,135.0,111.0,2.05,1.8,221.5,1.9,1.9,1.5,1.9,1.9
+,2021-03-24,Eua Nba,21:00,Minnesota Timberwolves,Dallas Mavericks,108.0,128.0,3.75,1.28,229.5,1.9,1.9,8.5,1.9,1.9
+,2021-03-25,Eua Nba,20:30,New York Knicks,Washington Wizards,106.0,102.0,1.68,2.25,223.5,1.9,1.9,-2.5,1.86,1.95
+,2021-03-25,Eua Nba,20:30,Miami Heat,Portland Trail Blazers,122.0,125.0,2.2,1.71,216.5,1.9,1.9,-3.5,1.95,1.86
+,2021-03-25,Eua Nba,21:30,San Antonio Spurs,Los Angeles Clippers,85.0,98.0,1.95,1.86,220.5,1.9,1.9,1.5,1.9,1.9
+,2021-03-25,Eua Nba,23:00,Sacramento Kings,Golden State Warriors,141.0,119.0,1.55,2.6,223.5,1.9,1.9,-4.5,1.9,1.9
+,2021-03-25,Eua Nba,23:00,Los Angeles Lakers,Philadelphia 76ers,101.0,109.0,3.0,1.41,211.5,1.9,1.9,4.5,1.9,1.9
+,2021-03-26,Eua Nba,21:30,Dallas Mavericks,Indiana Pacers,94.0,109.0,2.05,1.8,225.5,1.9,1.9,-4.5,1.9,1.9
+,2021-03-26,Eua Nba,23:30,Los Angeles Lakers,Cleveland Cavaliers,100.0,86.0,1.55,2.6,206.5,1.9,1.9,-5.5,1.95,1.86
+,2021-03-26,Eua Nba,23:00,Golden State Warriors,Atlanta Hawks,108.0,124.0,3.25,1.36,217.5,1.9,1.9,5.5,1.95,1.86
+,2021-03-26,Eua Nba,22:00,Utah Jazz,Memphis Grizzlies,117.0,114.0,1.18,5.25,226.5,1.9,1.9,-10.5,1.9,1.9
+,2021-03-26,Eua Nba,21:00,Charlotte Hornets,Miami Heat,110.0,105.0,2.05,1.8,213.5,1.9,1.9,1.5,1.9,1.9
+,2021-03-26,Eua Nba,20:30,Milwaukee Bucks,Boston Celtics,114.0,122.0,1.43,2.9,232.5,1.9,1.9,-5.5,1.9,1.9
+,2021-03-26,Eua Nba,21:00,New Orleans Pelicans,Denver Nuggets,108.0,113.0,2.2,1.71,231.5,1.9,1.9,2.5,1.9,1.9
+,2021-03-26,Eua Nba,21:00,Orlando Magic,Portland Trail Blazers,105.0,112.0,5.0,1.19,214.5,1.9,1.9,9.5,1.9,1.9
+,2021-03-26,Eua Nba,20:00,Detroit Pistons,Brooklyn Nets,111.0,113.0,3.25,1.36,217.5,1.9,1.9,5.5,1.95,1.86
+,2021-03-26,Eua Nba,21:00,Minnesota Timberwolves,Houston Rockets,107.0,101.0,1.57,2.55,225.5,1.9,1.9,-4.5,1.9,1.9
+,2021-03-26,Eua Nba,20:30,Toronto Raptors,Phoenix Suns,100.0,104.0,2.35,1.64,223.5,1.9,1.9,3.5,1.86,1.95
+,2021-03-27,Eua Nba,21:00,Washington Wizards,Detroit Pistons,106.0,92.0,1.45,2.8,223.5,1.9,1.9,-5.5,1.86,1.95
+,2021-03-27,Eua Nba,21:00,Minnesota Timberwolves,Houston Rockets,107.0,129.0,1.54,2.65,227.5,1.9,1.9,-4.5,1.9,1.9
+,2021-03-27,Eua Nba,21:00,Milwaukee Bucks,New York Knicks,96.0,102.0,2.15,1.74,216.5,1.9,1.9,-9.5,1.9,1.9
+,2021-03-27,Eua Nba,21:30,San Antonio Spurs,Chicago Bulls,120.0,104.0,1.83,2.0,219.5,1.9,1.9,-3.5,1.9,1.9
+,2021-03-27,Eua Nba,22:00,Utah Jazz,Memphis Grizzlies,126.0,110.0,1.23,4.25,227.5,1.9,1.9,-10.5,1.9,1.9
+,2021-03-27,Eua Nba,22:00,Oklahoma City Thunder,Boston Celtics,94.0,111.0,3.15,1.38,216.5,1.9,1.9,6.5,1.9,1.9
+,2021-03-27,Eua Nba,22:00,New Orleans Pelicans,Dallas Mavericks,112.0,103.0,1.45,2.8,224.5,1.9,1.9,-4.5,1.86,1.95
+,2021-03-27,Eua Nba,23:00,Sacramento Kings,Cleveland Cavaliers,100.0,98.0,1.23,4.25,221.5,1.9,1.9,-8.5,1.9,1.9
+,2021-03-27,Eua Nba,23:00,Los Angeles Clippers,Philadelphia 76ers,122.0,112.0,1.47,2.75,220.5,1.9,1.9,-5.5,1.9,1.9
+,2021-03-28,Eua Nba,23:00,Los Angeles Lakers,Orlando Magic,96.0,93.0,1.34,3.35,207.5,1.9,1.9,-7.5,1.9,1.9
+,2021-03-28,Eua Nba,20:00,Toronto Raptors,Portland Trail Blazers,117.0,122.0,2.2,1.71,228.5,1.9,1.9,-1.5,2.0,1.83
+,2021-03-28,Eua Nba,14:00,Charlotte Hornets,Phoenix Suns,97.0,101.0,3.1,1.4,219.5,1.9,1.9,6.5,1.9,1.9
+,2021-03-28,Eua Nba,22:00,Denver Nuggets,Atlanta Hawks,126.0,102.0,1.5,2.7,221.5,1.9,1.9,-4.5,1.86,1.95
+,2021-03-29,Eua Nba,23:00,Golden State Warriors,Chicago Bulls,116.0,102.0,1.8,2.05,224.5,1.9,1.9,-1.5,1.9,1.9
+,2021-03-29,Eua Nba,22:00,Utah Jazz,Cleveland Cavaliers,114.0,75.0,1.04,12.5,219.5,1.9,1.9,-16.5,1.9,1.9
+,2021-03-29,Eua Nba,21:30,San Antonio Spurs,Sacramento Kings,115.0,132.0,1.71,2.2,229.5,1.9,1.9,-2.5,1.9,1.9
+,2021-03-29,Eua Nba,21:00,Detroit Pistons,Toronto Raptors,118.0,104.0,2.8,1.45,214.5,1.9,1.9,3.5,1.9,1.9
+,2021-03-29,Eua Nba,23:00,Los Angeles Clippers,Milwaukee Bucks,129.0,105.0,2.05,1.8,229.5,1.9,1.9,-2.5,1.9,1.9
+,2021-03-29,Eua Nba,21:00,Oklahoma City Thunder,Dallas Mavericks,106.0,127.0,6.0,1.14,216.5,1.9,1.9,9.5,1.9,1.9
+,2021-03-29,Eua Nba,20:30,Boston Celtics,New Orleans Pelicans,109.0,115.0,1.68,2.25,229.5,1.9,1.9,-3.5,1.9,1.9
+,2021-03-29,Eua Nba,20:30,Brooklyn Nets,Minnesota Timberwolves,112.0,107.0,1.16,5.5,238.5,1.9,1.9,-11.5,1.9,1.9
+,2021-03-29,Eua Nba,20:30,New York Knicks,Miami Heat,88.0,98.0,2.35,1.64,204.5,1.9,1.9,3.5,1.86,1.95
+,2021-03-29,Eua Nba,20:00,Washington Wizards,Indiana Pacers,132.0,124.0,3.35,1.34,229.5,1.9,1.9,3.5,1.9,1.9
+,2021-03-29,Eua Nba,21:00,Houston Rockets,Memphis Grizzlies,110.0,120.0,3.8,1.27,221.5,1.9,1.9,5.5,1.9,1.9
+,2021-03-30,Eua Nba,20:00,Washington Wizards,Charlotte Hornets,104.0,114.0,2.6,1.55,224.5,1.9,1.9,2.5,1.9,1.9
+,2021-03-30,Eua Nba,22:00,Denver Nuggets,Philadelphia 76ers,104.0,95.0,1.45,2.8,219.5,1.9,1.9,-4.5,1.9,1.9
+,2021-03-30,Eua Nba,23:00,Phoenix Suns,Atlanta Hawks,117.0,110.0,1.41,3.0,220.5,1.9,1.9,-7.5,1.9,1.9
+,2021-03-30,Eua Nba,23:00,Los Angeles Clippers,Orlando Magic,96.0,103.0,1.13,6.25,214.5,1.9,1.9,-11.5,1.9,1.9
+,2021-03-31,Eua Nba,21:30,San Antonio Spurs,Sacramento Kings,120.0,106.0,1.71,2.2,230.5,1.9,1.9,-2.5,1.9,1.9
+,2021-03-31,Eua Nba,23:00,Los Angeles Lakers,Milwaukee Bucks,97.0,112.0,3.8,1.27,221.5,1.9,1.9,8.5,1.9,1.9
+,2021-03-31,Eua Nba,23:00,Phoenix Suns,Chicago Bulls,121.0,116.0,1.29,3.7,215.5,1.9,1.9,-7.5,1.9,1.9
+,2021-03-31,Eua Nba,21:00,Memphis Grizzlies,Utah Jazz,107.0,111.0,2.95,1.42,225.5,1.9,1.9,4.5,1.9,1.9
+,2021-03-31,Eua Nba,20:30,Brooklyn Nets,Houston Rockets,120.0,108.0,1.09,8.0,229.5,1.9,1.9,-14.5,1.9,1.9
+,2021-03-31,Eua Nba,21:00,Oklahoma City Thunder,Toronto Raptors,113.0,103.0,3.4,1.33,220.5,1.9,1.9,7.5,1.86,1.95
+,2021-03-31,Eua Nba,20:30,Boston Celtics,Dallas Mavericks,108.0,113.0,1.86,1.95,222.5,1.9,1.9,-1.5,1.9,1.9
+,2021-03-31,Eua Nba,20:00,Detroit Pistons,Portland Trail Blazers,101.0,124.0,3.7,1.29,219.5,1.9,1.9,6.5,1.9,1.9
+,2021-03-31,Eua Nba,20:00,Indiana Pacers,Miami Heat,87.0,92.0,2.0,1.83,216.5,1.9,1.9,1.5,1.9,1.9
+,2021-03-31,Eua Nba,21:00,Minnesota Timberwolves,New York Knicks,102.0,101.0,2.3,1.66,217.5,1.9,1.9,3.5,1.9,1.9
+,2021-04-01,Eua Nba,20:00,Detroit Pistons,Washington Wizards,120.0,91.0,1.95,1.86,218.5,1.9,1.9,2.5,1.95,1.86
+,2021-04-01,Eua Nba,20:00,Cleveland Cavaliers,Philadelphia 76ers,94.0,114.0,4.75,1.2,210.5,1.9,1.9,7.5,2.0,1.83
+,2021-04-01,Eua Nba,20:30,Brooklyn Nets,Charlotte Hornets,111.0,89.0,1.68,2.25,221.5,1.9,1.9,-3.5,1.9,1.9
+,2021-04-01,Eua Nba,21:00,New Orleans Pelicans,Orlando Magic,110.0,115.0,1.45,2.8,212.5,1.9,1.9,-10.5,1.9,1.9
+,2021-04-01,Eua Nba,21:00,Miami Heat,Golden State Warriors,116.0,109.0,1.68,2.25,217.5,1.9,1.9,-3.5,1.9,1.9
+,2021-04-01,Eua Nba,21:30,San Antonio Spurs,Atlanta Hawks,129.0,134.0,1.83,2.0,220.5,1.9,1.9,-1.5,1.95,1.86
+,2021-04-01,Eua Nba,23:00,Los Angeles Clippers,Denver Nuggets,94.0,101.0,1.76,2.1,219.5,1.9,1.9,1.5,1.9,1.9
+,2021-04-02,Eua Nba,23:00,Sacramento Kings,Los Angeles Lakers,94.0,115.0,1.55,2.6,220.5,1.9,1.9,-4.5,1.9,1.9
+,2021-04-02,Eua Nba,23:00,Phoenix Suns,Oklahoma City Thunder,140.0,103.0,1.07,9.0,219.5,1.9,1.9,-13.5,1.86,1.95
+,2021-04-02,Eua Nba,23:00,Portland Trail Blazers,Milwaukee Bucks,109.0,127.0,2.3,1.66,236.5,1.9,1.9,2.5,1.9,1.9
+,2021-04-02,Eua Nba,22:00,New Orleans Pelicans,Atlanta Hawks,103.0,126.0,2.0,1.83,212.5,1.9,1.9,-1.5,1.9,1.9
+,2021-04-02,Eua Nba,21:00,Memphis Grizzlies,Minnesota Timberwolves,120.0,108.0,1.36,3.25,230.5,1.9,1.9,-6.5,1.86,1.95
+,2021-04-02,Eua Nba,21:00,Indiana Pacers,Charlotte Hornets,97.0,114.0,1.52,2.67,218.5,1.9,1.9,-5.5,1.9,1.9
+,2021-04-02,Eua Nba,20:00,Toronto Raptors,Golden State Warriors,130.0,77.0,1.45,2.8,218.5,1.9,1.9,-5.5,1.95,1.86
+,2021-04-02,Eua Nba,20:30,Boston Celtics,Houston Rockets,118.0,102.0,1.11,6.75,223.5,1.9,1.9,-11.5,1.9,1.9
+,2021-04-02,Eua Nba,20:30,New York Knicks,Dallas Mavericks,86.0,99.0,2.7,1.5,211.5,1.9,1.9,5.5,1.86,1.95
+,2021-04-02,Eua Nba,22:00,Utah Jazz,Chicago Bulls,113.0,106.0,1.14,6.0,223.5,1.9,1.9,-13.5,1.9,1.9
+,2021-04-03,Eua Nba,23:00,Sacramento Kings,Milwaukee Bucks,128.0,129.0,2.3,1.66,237.5,1.9,1.9,2.5,1.95,1.86
+,2021-04-03,Eua Nba,22:00,San Antonio Spurs,Indiana Pacers,133.0,139.0,1.37,3.2,218.5,1.9,1.9,-5.5,1.86,1.95
+,2021-04-03,Eua Nba,22:00,Utah Jazz,Orlando Magic,137.0,91.0,1.06,10.5,214.5,1.9,1.9,-16.5,1.9,1.9
+,2021-04-03,Eua Nba,23:00,Portland Trail Blazers,Oklahoma City Thunder,133.0,85.0,1.1,7.25,227.5,1.9,1.9,-12.5,1.9,1.9
+,2021-04-03,Eua Nba,21:00,Miami Heat,Cleveland Cavaliers,115.0,101.0,1.1,7.5,204.5,1.9,1.9,-12.5,1.9,1.9
+,2021-04-03,Eua Nba,21:00,Philadelphia 76ers,Minnesota Timberwolves,122.0,113.0,1.08,8.5,225.5,1.9,1.9,-13.5,1.9,1.9
+,2021-04-03,Eua Nba,20:00,Washington Wizards,Dallas Mavericks,87.0,109.0,2.85,1.44,226.5,1.9,1.9,4.5,1.9,1.9
+,2021-04-03,Eua Nba,21:00,Detroit Pistons,New York Knicks,81.0,125.0,2.2,1.71,201.5,1.9,1.9,1.5,1.9,1.9
+,2021-04-04,Eua Nba,15:00,Chicago Bulls,Brooklyn Nets,115.0,107.0,2.2,1.71,224.5,1.9,1.9,2.5,1.9,1.9
+,2021-04-04,Eua Nba,16:30,Los Angeles Clippers,Los Angeles Lakers,104.0,86.0,1.16,5.5,212.5,1.9,1.9,-10.5,1.86,1.95
+,2021-04-04,Eua Nba,19:00,Boston Celtics,Charlotte Hornets,116.0,86.0,1.22,4.5,215.5,1.9,1.9,-10.5,2.0,1.83
+,2021-04-04,Eua Nba,20:00,Philadelphia 76ers,Memphis Grizzlies,100.0,116.0,1.62,2.4,223.5,1.9,1.9,-3.5,1.9,1.9
+,2021-04-04,Eua Nba,20:30,Atlanta Hawks,Golden State Warriors,117.0,111.0,1.83,2.0,223.5,1.9,1.9,-1.5,1.9,1.9
+,2021-04-04,Eua Nba,21:00,Houston Rockets,New Orleans Pelicans,115.0,122.0,2.25,1.68,220.5,1.9,1.9,2.5,1.95,1.86
+,2021-04-04,Eua Nba,23:00,Denver Nuggets,Orlando Magic,119.0,109.0,1.04,13.0,212.5,1.9,1.9,-16.5,1.86,1.95
+,2021-04-05,Eua Nba,20:00,Brooklyn Nets,New York Knicks,114.0,112.0,1.4,3.05,216.5,1.9,1.9,-6.5,1.9,1.9
+,2021-04-05,Eua Nba,21:00,Houston Rockets,Phoenix Suns,130.0,133.0,8.5,1.08,216.5,1.9,1.9,10.5,1.95,1.86
+,2021-04-05,Eua Nba,20:00,Dallas Mavericks,Utah Jazz,111.0,103.0,2.85,1.44,221.5,1.9,1.9,4.5,1.9,1.9
+,2021-04-05,Eua Nba,20:00,Toronto Raptors,Washington Wizards,103.0,101.0,1.44,2.85,224.5,1.9,1.9,-5.5,1.9,1.9
+,2021-04-05,Eua Nba,20:00,Oklahoma City Thunder,Detroit Pistons,108.0,132.0,2.3,1.66,211.5,1.9,1.9,22.5,1.05,0.0
+,2021-04-05,Eua Nba,20:00,San Antonio Spurs,Cleveland Cavaliers,101.0,125.0,1.28,3.75,215.5,1.9,1.9,-9.5,1.9,1.9
+,2021-04-05,Eua Nba,20:00,Minnesota Timberwolves,Sacramento Kings,116.0,106.0,2.45,1.6,234.5,1.9,1.9,2.5,2.0,1.83
+,2021-04-06,Eua Nba,20:00,Indiana Pacers,Chicago Bulls,97.0,113.0,2.1,1.76,223.5,1.9,1.9,-1.5,2.0,1.83
+,2021-04-06,Eua Nba,20:30,Toronto Raptors,Los Angeles Lakers,101.0,110.0,2.0,1.83,207.5,1.9,1.9,-2.5,1.9,1.9
+,2021-04-06,Eua Nba,20:30,Boston Celtics,Philadelphia 76ers,96.0,106.0,1.9,1.9,221.5,1.9,1.9,1.5,1.9,1.9
+,2021-04-06,Eua Nba,20:30,Atlanta Hawks,New Orleans Pelicans,123.0,107.0,1.62,2.4,224.5,1.86,1.95,-3.5,1.9,1.9
+,2021-04-06,Eua Nba,21:00,Miami Heat,Memphis Grizzlies,112.0,124.0,1.4,3.1,215.5,1.9,1.9,-6.5,1.9,1.9
+,2021-04-06,Eua Nba,22:00,Denver Nuggets,Detroit Pistons,134.0,119.0,1.12,6.5,213.5,1.9,1.9,-13.5,1.9,1.9
+,2021-04-06,Eua Nba,23:00,Los Angeles Clippers,Portland Trail Blazers,133.0,116.0,1.4,3.1,226.5,1.9,1.9,-6.5,1.9,1.9
+,2021-04-06,Eua Nba,23:00,Golden State Warriors,Milwaukee Bucks,122.0,121.0,2.25,1.68,232.5,1.9,1.9,2.5,1.95,1.86
+,2021-04-07,Eua Nba,21:00,Atlanta Hawks,Memphis Grizzlies,113.0,131.0,2.05,1.8,224.5,1.9,1.9,-3.5,1.9,1.9
+,2021-04-07,Eua Nba,23:00,Phoenix Suns,Utah Jazz,117.0,113.0,2.2,1.71,224.5,1.9,1.9,1.5,1.95,1.86
+,2021-04-07,Eua Nba,22:00,Denver Nuggets,San Antonio Spurs,106.0,96.0,1.5,2.7,218.5,1.9,1.9,-6.5,1.9,1.9
+,2021-04-07,Eua Nba,21:00,Houston Rockets,Dallas Mavericks,102.0,93.0,5.0,1.19,221.5,1.9,1.9,10.5,1.9,1.9
+,2021-04-07,Eua Nba,20:00,Indiana Pacers,Minnesota Timberwolves,141.0,137.0,2.1,1.76,227.5,1.9,1.9,-3.5,1.9,1.9
+,2021-04-07,Eua Nba,20:30,Boston Celtics,New York Knicks,101.0,99.0,1.64,2.35,208.5,1.9,1.9,-3.5,1.9,1.9
+,2021-04-07,Eua Nba,20:30,Brooklyn Nets,New Orleans Pelicans,139.0,111.0,1.25,4.2,230.5,1.86,1.95,-10.5,1.9,1.9
+,2021-04-07,Eua Nba,20:00,Orlando Magic,Washington Wizards,116.0,131.0,2.7,1.5,222.5,1.9,1.9,2.5,1.9,1.9
+,2021-04-07,Eua Nba,21:00,Oklahoma City Thunder,Charlotte Hornets,102.0,113.0,2.75,1.47,213.5,1.9,1.9,4.5,1.95,1.86
+,2021-04-08,Eua Nba,20:30,Toronto Raptors,Chicago Bulls,113.0,122.0,2.67,1.52,216.5,1.9,1.9,-6.5,2.0,1.83
+,2021-04-08,Eua Nba,20:30,Miami Heat,Los Angeles Lakers,110.0,104.0,1.2,4.75,203.5,1.9,1.9,-9.5,1.9,1.9
+,2021-04-08,Eua Nba,21:00,Oklahoma City Thunder,Cleveland Cavaliers,102.0,129.0,2.5,1.58,213.5,1.9,1.9,3.5,1.95,1.86
+,2021-04-08,Eua Nba,22:00,Dallas Mavericks,Milwaukee Bucks,116.0,101.0,1.68,2.25,226.5,1.9,1.9,-2.5,1.9,1.9
+,2021-04-08,Eua Nba,23:00,Utah Jazz,Portland Trail Blazers,122.0,103.0,1.45,2.8,230.5,1.9,1.9,-6.5,1.9,1.9
+,2021-04-08,Eua Nba,23:00,Sacramento Kings,Detroit Pistons,101.0,113.0,1.3,3.65,224.5,1.9,1.9,-7.5,1.9,1.9
+,2021-04-08,Eua Nba,23:00,Los Angeles Clippers,Phoenix Suns,113.0,103.0,1.43,2.9,221.5,1.9,1.9,-5.5,1.9,1.9
+,2021-04-09,Eua Nba,23:00,Golden State Warriors,Washington Wizards,107.0,110.0,1.55,2.6,238.5,1.9,1.9,-4.5,1.95,1.86
+,2021-04-09,Eua Nba,23:00,Los Angeles Clippers,Houston Rockets,126.0,109.0,1.14,6.0,221.5,1.9,1.9,-13.5,1.9,1.9
+,2021-04-09,Eua Nba,22:00,Denver Nuggets,San Antonio Spurs,121.0,119.0,1.36,3.25,217.5,1.9,1.9,-8.5,1.9,1.9
+,2021-04-09,Eua Nba,22:00,Milwaukee Bucks,Charlotte Hornets,119.0,127.0,2.3,1.66,218.5,1.9,1.9,-9.5,1.95,1.86
+,2021-04-09,Eua Nba,21:00,New Orleans Pelicans,Philadelphia 76ers,101.0,94.0,2.85,1.44,225.5,1.9,1.9,5.5,1.9,1.9
+,2021-04-09,Eua Nba,20:30,Boston Celtics,Minnesota Timberwolves,145.0,136.0,1.25,4.2,227.5,1.9,1.9,-8.5,1.86,1.95
+,2021-04-09,Eua Nba,20:30,New York Knicks,Memphis Grizzlies,133.0,129.0,2.05,1.8,213.5,1.9,1.9,1.5,1.9,1.9
+,2021-04-09,Eua Nba,20:00,Orlando Magic,Indiana Pacers,106.0,111.0,3.15,1.38,217.5,1.9,1.9,4.5,1.95,1.86
+,2021-04-09,Eua Nba,21:00,Atlanta Hawks,Chicago Bulls,120.0,108.0,1.68,2.25,225.5,1.9,1.9,-2.5,1.9,1.9
+,2021-04-10,Eua Nba,20:30,Cleveland Cavaliers,Toronto Raptors,115.0,135.0,1.66,2.3,215.5,1.9,1.9,-2.5,1.86,1.95
+,2021-04-10,Eua Nba,21:30,Brooklyn Nets,Los Angeles Lakers,101.0,126.0,1.13,6.25,221.5,1.9,1.9,-11.5,1.95,1.86
+,2021-04-10,Eua Nba,22:00,Utah Jazz,Sacramento Kings,128.0,112.0,1.12,6.5,229.5,1.9,1.9,-12.5,1.9,1.9
+,2021-04-10,Eua Nba,22:00,Oklahoma City Thunder,Philadelphia 76ers,93.0,117.0,5.25,1.18,216.5,1.9,1.9,2.5,1.9,1.9
+,2021-04-10,Eua Nba,23:00,Portland Trail Blazers,Detroit Pistons,118.0,103.0,1.13,6.25,223.5,1.9,1.9,-11.5,1.95,1.86
+,2021-04-10,Eua Nba,23:00,Phoenix Suns,Washington Wizards,134.0,106.0,1.09,8.0,224.5,1.9,1.9,-13.5,1.95,1.86
+,2021-04-10,Eua Nba,23:00,Golden State Warriors,Houston Rockets,125.0,109.0,1.33,3.4,226.5,1.9,1.9,-8.5,1.9,1.9
+,2021-04-11,Eua Nba,21:00,Memphis Grizzlies,Indiana Pacers,125.0,132.0,1.6,2.45,227.5,1.9,1.9,-3.5,1.86,1.95
+,2021-04-11,Eua Nba,23:00,Portland Trail Blazers,Miami Heat,98.0,107.0,1.9,1.9,221.5,1.9,1.9,-1.5,1.86,1.95
+,2021-04-11,Eua Nba,21:00,Dallas Mavericks,San Antonio Spurs,117.0,119.0,1.4,3.1,220.5,1.9,1.9,-6.5,1.95,1.86
+,2021-04-11,Eua Nba,21:00,Minnesota Timberwolves,Chicago Bulls,121.0,117.0,2.5,1.58,232.5,1.9,1.9,4.5,1.9,1.9
+,2021-04-11,Eua Nba,23:00,Los Angeles Clippers,Detroit Pistons,131.0,124.0,1.1,7.5,213.5,1.9,1.9,-11.5,1.9,1.9
+,2021-04-11,Eua Nba,20:00,Cleveland Cavaliers,New Orleans Pelicans,109.0,116.0,4.5,1.22,223.5,1.9,1.9,6.5,1.9,1.9
+,2021-04-11,Eua Nba,20:00,Orlando Magic,Milwaukee Bucks,87.0,124.0,4.2,1.25,222.5,1.9,1.9,8.5,1.9,1.9
+,2021-04-11,Eua Nba,16:00,Denver Nuggets,Boston Celtics,87.0,105.0,1.62,2.4,221.5,1.9,1.9,-6.5,1.9,1.9
+,2021-04-11,Eua Nba,14:00,Charlotte Hornets,Atlanta Hawks,101.0,105.0,1.68,2.25,213.5,1.9,1.9,-2.5,1.9,1.9
+,2021-04-11,Eua Nba,21:00,New York Knicks,Toronto Raptors,102.0,96.0,1.64,2.35,213.5,1.9,1.9,-3.5,1.95,1.86
+,2021-04-12,Eua Nba,20:30,New York Knicks,Los Angeles Lakers,111.0,96.0,1.86,1.95,204.5,1.9,1.9,-3.5,1.9,1.9
+,2021-04-12,Eua Nba,20:30,Dallas Mavericks,Philadelphia 76ers,95.0,113.0,2.45,1.6,216.5,1.9,1.9,2.5,1.95,1.86
+,2021-04-12,Eua Nba,21:00,Orlando Magic,San Antonio Spurs,97.0,120.0,3.2,1.37,216.5,1.9,1.9,5.5,1.9,1.9
+,2021-04-12,Eua Nba,22:00,Utah Jazz,Washington Wizards,121.0,125.0,1.15,5.75,233.5,1.86,1.95,-13.5,1.9,1.9
+,2021-04-12,Eua Nba,22:00,New Orleans Pelicans,Sacramento Kings,117.0,110.0,1.76,2.1,231.5,1.9,1.9,-3.5,1.9,1.9
+,2021-04-12,Eua Nba,22:00,Memphis Grizzlies,Chicago Bulls,101.0,90.0,1.76,2.1,228.5,1.9,1.9,-2.5,1.9,1.9
+,2021-04-12,Eua Nba,23:00,Phoenix Suns,Houston Rockets,126.0,120.0,1.11,7.0,227.5,1.9,1.9,-12.5,1.9,1.9
+,2021-04-12,Eua Nba,23:00,Golden State Warriors,Denver Nuggets,116.0,107.0,2.75,1.47,225.5,1.9,1.9,3.5,1.9,1.9
+,2021-04-13,Eua Nba,23:00,Phoenix Suns,Miami Heat,106.0,86.0,1.6,2.45,214.5,1.9,1.9,-3.5,1.95,1.86
+,2021-04-13,Eua Nba,23:00,Portland Trail Blazers,Boston Celtics,115.0,116.0,1.86,1.95,227.5,1.9,1.9,-1.5,1.95,1.86
+,2021-04-13,Eua Nba,22:00,Utah Jazz,Oklahoma City Thunder,106.0,96.0,1.05,12.0,221.5,1.9,1.9,-17.5,1.9,1.9
+,2021-04-13,Eua Nba,17:00,Minnesota Timberwolves,Brooklyn Nets,97.0,127.0,3.5,1.32,231.5,1.9,1.9,5.5,1.9,1.9
+,2021-04-13,Eua Nba,20:30,Indiana Pacers,Los Angeles Clippers,115.0,126.0,2.3,1.66,228.5,1.9,1.9,1.5,2.0,1.83
+,2021-04-13,Eua Nba,20:30,Toronto Raptors,Atlanta Hawks,103.0,108.0,1.8,2.05,220.5,1.9,1.9,-3.5,2.0,1.83
+,2021-04-13,Eua Nba,21:00,Charlotte Hornets,Los Angeles Lakers,93.0,101.0,2.0,1.83,205.5,1.9,1.9,-2.5,2.0,1.83
+,2021-04-14,Eua Nba,23:00,Denver Nuggets,Miami Heat,123.0,106.0,1.47,2.75,208.5,1.9,1.9,-5.5,1.95,1.86
+,2021-04-14,Eua Nba,22:00,Houston Rockets,Indiana Pacers,124.0,132.0,2.4,1.62,232.5,1.9,1.9,3.5,1.9,1.9
+,2021-04-14,Eua Nba,23:00,Sacramento Kings,Washington Wizards,111.0,123.0,2.1,1.76,236.5,1.9,1.9,1.5,1.95,1.86
+,2021-04-14,Eua Nba,22:30,Memphis Grizzlies,Dallas Mavericks,113.0,114.0,2.3,1.66,225.5,1.9,1.9,1.5,1.9,1.9
+,2021-04-14,Eua Nba,22:00,Oklahoma City Thunder,Golden State Warriors,109.0,147.0,7.25,1.1,222.5,1.9,1.9,10.5,1.9,1.9
+,2021-04-14,Eua Nba,20:00,Philadelphia 76ers,Brooklyn Nets,123.0,117.0,1.25,4.1,225.5,1.9,1.9,-8.5,1.86,1.95
+,2021-04-14,Eua Nba,21:00,Detroit Pistons,Los Angeles Clippers,98.0,100.0,2.05,1.8,216.5,1.9,1.9,-9.5,1.9,1.9
+,2021-04-14,Eua Nba,21:00,New Orleans Pelicans,New York Knicks,106.0,116.0,1.76,2.1,219.5,1.9,1.9,-2.5,1.95,1.86
+,2021-04-14,Eua Nba,20:30,Toronto Raptors,San Antonio Spurs,117.0,112.0,2.8,1.45,220.5,1.9,1.9,2.5,1.86,1.95
+,2021-04-14,Eua Nba,20:00,Charlotte Hornets,Cleveland Cavaliers,90.0,103.0,1.66,2.3,210.5,1.9,1.9,-4.5,1.9,1.9
+,2021-04-14,Eua Nba,17:30,Minnesota Timberwolves,Milwaukee Bucks,105.0,130.0,5.25,1.18,233.5,1.9,1.9,8.5,1.9,1.9
+,2021-04-14,Eua Nba,21:00,Chicago Bulls,Orlando Magic,106.0,115.0,1.2,4.75,214.5,1.9,1.9,-9.5,1.9,1.9
+,2021-04-15,Eua Nba,20:30,Atlanta Hawks,Milwaukee Bucks,109.0,120.0,2.65,1.54,228.5,1.83,2.0,4.5,1.9,1.9
+,2021-04-15,Eua Nba,21:00,Cleveland Cavaliers,Golden State Warriors,101.0,119.0,2.85,1.44,222.5,1.9,1.9,5.5,1.86,1.95
+,2021-04-15,Eua Nba,23:00,Phoenix Suns,Sacramento Kings,122.0,114.0,1.1,7.25,227.5,1.9,1.9,-13.5,1.9,1.9
+,2021-04-15,Eua Nba,23:00,Los Angeles Lakers,Boston Celtics,113.0,121.0,3.6,1.31,211.5,1.9,1.9,6.5,1.9,1.9
+,2021-04-16,Eua Nba,22:30,Dallas Mavericks,New York Knicks,109.0,117.0,1.38,3.15,210.5,1.9,1.9,-6.5,1.9,1.9
+,2021-04-16,Eua Nba,21:30,San Antonio Spurs,Portland Trail Blazers,106.0,107.0,1.8,2.05,229.5,1.9,1.9,-1.5,1.9,1.9
+,2021-04-16,Eua Nba,21:00,Chicago Bulls,Memphis Grizzlies,115.0,126.0,2.5,1.58,219.5,1.9,1.9,3.5,1.9,1.9
+,2021-04-16,Eua Nba,21:00,Houston Rockets,Denver Nuggets,99.0,128.0,4.25,1.23,223.5,1.9,1.9,8.5,1.95,1.86
+,2021-04-16,Eua Nba,21:00,Minnesota Timberwolves,Miami Heat,119.0,111.0,3.2,1.37,219.5,1.9,1.9,6.5,1.95,1.86
+,2021-04-16,Eua Nba,20:30,Toronto Raptors,Orlando Magic,113.0,102.0,1.64,2.35,212.5,1.9,1.9,-2.5,1.9,1.9
+,2021-04-16,Eua Nba,20:00,Detroit Pistons,Oklahoma City Thunder,110.0,104.0,1.68,2.25,215.5,1.9,1.9,-3.5,1.9,1.9
+,2021-04-16,Eua Nba,20:00,Philadelphia 76ers,Los Angeles Clippers,106.0,103.0,1.54,2.65,218.5,1.9,1.9,-5.5,1.9,1.9
+,2021-04-16,Eua Nba,20:00,Washington Wizards,New Orleans Pelicans,117.0,115.0,2.3,1.66,239.5,1.9,1.9,1.5,1.9,1.9
+,2021-04-16,Eua Nba,16:00,Utah Jazz,Indiana Pacers,119.0,111.0,1.16,5.5,233.5,1.9,1.9,-10.5,1.9,1.9
+,2021-04-16,Eua Nba,20:30,Brooklyn Nets,Charlotte Hornets,130.0,115.0,1.11,7.0,222.5,1.9,1.9,-13.5,1.9,1.9
+,2021-04-17,Eua Nba,17:30,Los Angeles Lakers,Utah Jazz,127.0,115.0,1.83,2.0,214.5,1.95,1.86,-1.5,1.86,1.95
+,2021-04-17,Eua Nba,21:00,Washington Wizards,Detroit Pistons,121.0,100.0,1.55,2.6,226.5,1.9,1.9,-4.5,1.9,1.9
+,2021-04-17,Eua Nba,21:00,Chicago Bulls,Cleveland Cavaliers,106.0,96.0,1.66,2.3,211.5,1.9,1.9,-2.5,1.9,1.9
+,2021-04-17,Eua Nba,21:30,Boston Celtics,Golden State Warriors,119.0,114.0,1.66,2.3,225.5,1.9,1.9,-4.5,1.86,1.95
+,2021-04-17,Eua Nba,22:00,Milwaukee Bucks,Memphis Grizzlies,115.0,128.0,1.26,4.0,236.5,1.9,1.9,-8.5,1.9,1.9
+,2021-04-17,Eua Nba,23:00,Phoenix Suns,San Antonio Spurs,85.0,111.0,1.11,6.75,223.5,1.9,1.9,-11.5,1.86,1.95
+,2021-04-18,Eua Nba,23:00,Los Angeles Clippers,Minnesota Timberwolves,124.0,105.0,1.12,6.5,231.5,1.9,1.9,-11.5,1.86,1.95
+,2021-04-18,Eua Nba,20:30,Dallas Mavericks,Sacramento Kings,107.0,121.0,1.27,3.9,228.5,1.9,1.9,-8.5,1.9,1.9
+,2021-04-18,Eua Nba,20:00,Charlotte Hornets,Portland Trail Blazers,109.0,101.0,2.6,1.55,216.5,1.9,1.9,3.5,1.9,1.9
+,2021-04-18,Eua Nba,14:00,Atlanta Hawks,Indiana Pacers,129.0,117.0,1.76,2.1,231.5,1.9,1.9,-4.5,2.0,1.83
+,2021-04-18,Eua Nba,20:00,Toronto Raptors,Oklahoma City Thunder,112.0,106.0,1.47,2.75,215.5,1.9,1.9,-11.5,1.9,1.9
+,2021-04-18,Eua Nba,16:30,Miami Heat,Brooklyn Nets,109.0,107.0,2.75,1.47,222.5,1.9,1.9,3.5,1.9,1.9
+,2021-04-18,Eua Nba,14:00,New York Knicks,New Orleans Pelicans,122.0,112.0,2.0,1.83,216.5,1.9,1.9,-2.5,1.9,1.9
+,2021-04-18,Eua Nba,20:00,Orlando Magic,Houston Rockets,110.0,114.0,2.0,1.83,218.5,1.9,1.9,24.5,1.03,0.0
+,2021-04-19,Eua Nba,21:00,Indiana Pacers,San Antonio Spurs,94.0,109.0,2.4,1.62,230.5,1.9,1.9,1.5,1.9,1.9
+,2021-04-19,Eua Nba,23:00,Los Angeles Lakers,Utah Jazz,97.0,111.0,3.25,1.36,214.5,1.9,1.9,5.5,1.9,1.9
+,2021-04-19,Eua Nba,22:00,Denver Nuggets,Memphis Grizzlies,139.0,137.0,1.29,3.7,226.5,1.9,1.9,-7.5,1.86,1.95
+,2021-04-19,Eua Nba,21:00,Miami Heat,Houston Rockets,113.0,91.0,1.52,2.67,215.5,1.9,1.9,-9.5,1.9,1.9
+,2021-04-19,Eua Nba,20:00,Detroit Pistons,Cleveland Cavaliers,109.0,105.0,2.4,1.62,211.5,1.9,1.9,-1.5,1.9,1.9
+,2021-04-19,Eua Nba,21:00,Washington Wizards,Oklahoma City Thunder,119.0,107.0,1.11,7.0,229.5,1.9,1.9,-12.5,1.9,1.9
+,2021-04-19,Eua Nba,20:30,Boston Celtics,Chicago Bulls,96.0,102.0,1.54,2.65,211.5,1.9,1.9,-6.5,1.9,1.9
+,2021-04-19,Eua Nba,20:30,Philadelphia 76ers,Golden State Warriors,96.0,107.0,1.5,2.7,223.5,1.9,1.9,-9.5,1.9,1.9
+,2021-04-19,Eua Nba,21:00,Milwaukee Bucks,Phoenix Suns,127.0,128.0,1.66,2.3,233.5,1.9,1.9,-2.5,1.86,1.95
+,2021-04-20,Eua Nba,20:30,New York Knicks,Charlotte Hornets,109.0,97.0,1.54,2.65,208.5,1.9,1.9,-5.5,1.9,1.9
+,2021-04-20,Eua Nba,20:30,New Orleans Pelicans,Brooklyn Nets,129.0,134.0,1.68,2.25,231.5,1.9,1.9,-3.5,1.9,1.9
+,2021-04-20,Eua Nba,20:30,Atlanta Hawks,Orlando Magic,112.0,96.0,1.11,7.0,217.5,1.9,1.9,-12.5,1.95,1.86
+,2021-04-20,Eua Nba,23:00,Sacramento Kings,Minnesota Timberwolves,120.0,134.0,1.62,2.4,237.5,1.9,1.9,-3.5,1.9,1.9
+,2021-04-20,Eua Nba,23:00,Portland Trail Blazers,Los Angeles Clippers,112.0,113.0,2.75,1.47,222.5,1.9,1.9,4.5,1.9,1.9
+,2021-04-21,Eua Nba,23:00,Los Angeles Clippers,Memphis Grizzlies,117.0,105.0,2.6,1.55,224.5,1.9,1.9,-4.5,2.0,1.83
+,2021-04-21,Eua Nba,23:00,Portland Trail Blazers,Denver Nuggets,105.0,106.0,2.05,1.8,224.5,1.95,1.86,1.5,1.95,1.86
+,2021-04-21,Eua Nba,21:30,Dallas Mavericks,Detroit Pistons,127.0,117.0,1.15,5.75,217.5,1.9,1.9,-12.5,1.9,1.9
+,2021-04-21,Eua Nba,23:00,Sacramento Kings,Minnesota Timberwolves,128.0,125.0,1.66,2.3,237.5,1.83,2.0,-4.5,1.9,1.9
+,2021-04-21,Eua Nba,21:30,San Antonio Spurs,Miami Heat,87.0,107.0,2.05,1.8,214.5,1.9,1.9,-1.5,2.0,1.83
+,2021-04-21,Eua Nba,20:00,Philadelphia 76ers,Phoenix Suns,113.0,116.0,2.25,1.68,216.5,1.9,1.9,1.5,1.86,1.95
+,2021-04-21,Eua Nba,21:00,New York Knicks,Atlanta Hawks,137.0,127.0,2.0,1.83,215.5,1.9,1.9,-2.5,2.0,1.83
+,2021-04-21,Eua Nba,20:00,Washington Wizards,Golden State Warriors,118.0,114.0,2.1,1.76,238.5,1.9,1.9,2.5,1.9,1.9
+,2021-04-21,Eua Nba,20:00,Toronto Raptors,Brooklyn Nets,114.0,103.0,1.57,2.55,227.5,1.9,1.9,-4.5,1.95,1.86
+,2021-04-21,Eua Nba,21:00,Houston Rockets,Utah Jazz,89.0,112.0,6.0,1.14,224.5,1.9,1.9,10.5,1.9,1.9
+,2021-04-21,Eua Nba,20:00,Cleveland Cavaliers,Chicago Bulls,121.0,105.0,2.1,1.76,210.5,1.9,1.9,1.5,1.9,1.9
+,2021-04-21,Eua Nba,20:00,Indiana Pacers,Oklahoma City Thunder,122.0,116.0,1.25,4.2,224.5,1.9,1.9,-10.5,1.9,1.9
+,2021-04-22,Eua Nba,20:00,Orlando Magic,New Orleans Pelicans,100.0,135.0,5.0,1.19,219.5,1.9,1.9,7.5,2.0,1.83
+,2021-04-22,Eua Nba,20:00,Milwaukee Bucks,Philadelphia 76ers,124.0,117.0,1.37,3.2,225.5,1.9,1.9,-7.5,1.9,1.9
+,2021-04-22,Eua Nba,20:00,Boston Celtics,Phoenix Suns,99.0,86.0,2.0,1.83,219.5,1.9,1.9,1.5,1.86,1.95
+,2021-04-22,Eua Nba,21:30,San Antonio Spurs,Detroit Pistons,106.0,91.0,1.33,3.4,214.5,1.9,1.9,-10.5,1.86,1.95
+,2021-04-22,Eua Nba,22:00,Chicago Bulls,Charlotte Hornets,108.0,91.0,1.83,2.0,207.5,1.95,1.86,-2.5,2.0,1.83
+,2021-04-22,Eua Nba,22:30,Dallas Mavericks,Los Angeles Lakers,115.0,110.0,1.62,2.4,213.5,1.9,1.9,-3.5,1.9,1.9
+,2021-04-23,Eua Nba,23:00,Golden State Warriors,Denver Nuggets,118.0,97.0,2.2,1.71,227.5,1.9,1.9,2.5,1.9,1.9
+,2021-04-23,Eua Nba,23:00,Portland Trail Blazers,Memphis Grizzlies,128.0,130.0,1.55,2.6,232.5,1.9,1.9,-3.5,1.86,1.95
+,2021-04-23,Eua Nba,21:00,Charlotte Hornets,Cleveland Cavaliers,108.0,102.0,1.83,2.0,208.5,1.9,1.9,-1.5,1.9,1.9
+,2021-04-23,Eua Nba,20:30,Atlanta Hawks,Miami Heat,118.0,103.0,3.25,1.36,211.5,1.9,1.9,4.5,2.0,1.83
+,2021-04-23,Eua Nba,21:00,Oklahoma City Thunder,Washington Wizards,109.0,129.0,4.5,1.22,229.5,1.9,1.9,8.5,1.9,1.9
+,2021-04-23,Eua Nba,20:30,Brooklyn Nets,Boston Celtics,109.0,104.0,1.64,2.35,224.5,1.9,1.9,-5.5,1.9,1.9
+,2021-04-23,Eua Nba,21:00,Houston Rockets,Los Angeles Clippers,104.0,109.0,4.75,1.2,220.5,1.9,1.9,9.5,1.9,1.9
+,2021-04-24,Eua Nba,22:00,Utah Jazz,Minnesota Timberwolves,96.0,101.0,1.1,7.25,230.5,1.9,1.9,-13.5,1.9,1.9
+,2021-04-24,Eua Nba,23:00,Denver Nuggets,Houston Rockets,129.0,116.0,1.07,9.5,218.5,1.9,1.9,-13.5,1.9,1.9
+,2021-04-24,Eua Nba,21:30,Dallas Mavericks,Los Angeles Lakers,108.0,93.0,1.76,2.1,216.5,1.9,1.9,-2.5,1.9,1.9
+,2021-04-24,Eua Nba,20:00,Indiana Pacers,Detroit Pistons,115.0,109.0,1.57,2.55,221.5,1.9,1.9,-5.5,1.9,1.9
+,2021-04-24,Eua Nba,21:00,New Orleans Pelicans,San Antonio Spurs,108.0,110.0,1.66,2.3,220.5,1.83,2.0,-3.5,1.86,1.95
+,2021-04-24,Eua Nba,16:30,Milwaukee Bucks,Philadelphia 76ers,132.0,94.0,1.23,4.25,226.5,1.9,1.9,-7.5,1.95,1.86
+,2021-04-24,Eua Nba,14:00,New York Knicks,Toronto Raptors,120.0,103.0,1.9,1.9,213.5,1.9,1.9,-3.5,1.9,1.9
+,2021-04-24,Eua Nba,21:00,Miami Heat,Chicago Bulls,106.0,101.0,1.54,2.65,203.5,1.9,1.9,-4.5,1.9,1.9
+,2021-04-25,Eua Nba,14:00,Charlotte Hornets,Boston Celtics,125.0,104.0,3.75,1.28,211.5,1.9,1.9,7.5,1.95,1.86
+,2021-04-25,Eua Nba,16:30,Brooklyn Nets,Phoenix Suns,128.0,119.0,1.83,2.0,227.5,1.9,1.9,-2.5,1.9,1.9
+,2021-04-25,Eua Nba,17:00,Portland Trail Blazers,Memphis Grizzlies,113.0,120.0,1.62,2.4,221.5,1.9,1.9,-4.5,1.9,1.9
+,2021-04-25,Eua Nba,20:00,Washington Wizards,Cleveland Cavaliers,119.0,110.0,1.34,3.35,225.5,1.9,1.9,-9.5,1.9,1.9
+,2021-04-25,Eua Nba,20:30,Atlanta Hawks,Milwaukee Bucks,111.0,104.0,2.9,1.43,226.5,1.9,1.9,5.5,1.9,1.9
+,2021-04-25,Eua Nba,21:00,Orlando Magic,Indiana Pacers,112.0,131.0,2.9,1.43,223.5,1.9,1.9,5.5,1.9,1.9
+,2021-04-25,Eua Nba,23:00,Golden State Warriors,Sacramento Kings,117.0,113.0,1.32,3.5,226.5,1.86,1.95,-9.5,1.9,1.9
+,2021-04-26,Eua Nba,21:00,Minnesota Timberwolves,Utah Jazz,105.0,104.0,4.75,1.2,225.5,1.9,1.9,9.5,1.9,1.9
+,2021-04-26,Eua Nba,23:00,Sacramento Kings,Dallas Mavericks,113.0,106.0,3.1,1.4,223.5,1.9,1.9,5.5,1.95,1.86
+,2021-04-26,Eua Nba,22:00,Denver Nuggets,Memphis Grizzlies,120.0,96.0,1.6,2.45,228.5,1.9,1.9,-4.5,1.9,1.9
+,2021-04-26,Eua Nba,21:00,New Orleans Pelicans,Los Angeles Clippers,120.0,103.0,2.1,1.76,227.5,1.9,1.9,1.5,1.86,1.95
+,2021-04-26,Eua Nba,21:00,Miami Heat,Chicago Bulls,102.0,110.0,1.41,3.0,205.5,1.9,1.9,-5.5,1.9,1.9
+,2021-04-26,Eua Nba,20:30,Toronto Raptors,Cleveland Cavaliers,112.0,96.0,1.12,6.5,212.5,1.9,1.9,-11.5,1.9,1.9
+,2021-04-26,Eua Nba,20:00,Detroit Pistons,Atlanta Hawks,100.0,86.0,2.5,1.58,215.5,1.9,1.9,3.5,1.86,1.95
+,2021-04-26,Eua Nba,20:00,Orlando Magic,Los Angeles Lakers,103.0,114.0,6.0,1.14,207.5,1.9,1.9,9.5,1.9,1.9
+,2021-04-26,Eua Nba,20:00,Philadelphia 76ers,Oklahoma City Thunder,121.0,90.0,1.05,12.0,218.5,1.9,1.9,-13.5,1.9,1.9
+,2021-04-26,Eua Nba,20:00,Washington Wizards,San Antonio Spurs,143.0,146.0,2.1,1.76,227.5,1.9,1.9,1.5,2.0,1.83
+,2021-04-26,Eua Nba,20:30,New York Knicks,Phoenix Suns,110.0,118.0,2.2,1.71,214.5,1.9,1.9,1.5,2.0,1.83
+,2021-04-27,Eua Nba,20:00,Indiana Pacers,Portland Trail Blazers,112.0,133.0,2.9,1.43,230.5,1.9,1.9,3.5,2.0,1.83
+,2021-04-27,Eua Nba,20:00,Charlotte Hornets,Milwaukee Bucks,104.0,114.0,4.5,1.22,220.5,1.86,1.95,9.5,1.9,1.9
+,2021-04-27,Eua Nba,20:00,Boston Celtics,Oklahoma City Thunder,115.0,119.0,1.13,6.25,214.5,1.9,1.9,-12.5,1.9,1.9
+,2021-04-27,Eua Nba,20:30,Toronto Raptors,Brooklyn Nets,103.0,116.0,2.7,1.5,231.5,1.9,1.9,5.5,1.9,1.9
+,2021-04-27,Eua Nba,22:00,Houston Rockets,Minnesota Timberwolves,107.0,114.0,2.2,1.71,229.5,1.9,1.9,1.5,1.95,1.86
+,2021-04-27,Eua Nba,22:30,Golden State Warriors,Dallas Mavericks,103.0,133.0,1.58,2.5,221.5,1.9,1.9,-5.5,1.86,1.95
+,2021-04-28,Eua Nba,23:00,Phoenix Suns,Los Angeles Clippers,109.0,101.0,1.55,2.6,220.5,1.9,1.9,-4.5,1.9,1.9
+,2021-04-28,Eua Nba,22:00,Denver Nuggets,New Orleans Pelicans,114.0,112.0,1.6,2.45,228.5,1.9,1.9,-3.5,1.9,1.9
+,2021-04-28,Eua Nba,22:00,Memphis Grizzlies,Portland Trail Blazers,109.0,130.0,1.8,2.05,239.5,1.9,1.9,-2.5,1.9,1.9
+,2021-04-28,Eua Nba,21:00,Miami Heat,San Antonio Spurs,116.0,111.0,1.5,2.7,210.5,1.9,1.9,-5.5,1.95,1.86
+,2021-04-28,Eua Nba,23:00,Sacramento Kings,Utah Jazz,105.0,154.0,4.25,1.23,221.5,1.9,1.9,7.5,1.9,1.9
+,2021-04-28,Eua Nba,20:30,New York Knicks,Chicago Bulls,113.0,94.0,1.58,2.5,207.5,1.9,1.9,-5.5,1.9,1.9
+,2021-04-28,Eua Nba,20:30,Washington Wizards,Los Angeles Lakers,116.0,107.0,1.95,1.86,223.5,1.9,1.9,-0.5,1.95,1.86
+,2021-04-28,Eua Nba,20:00,Cleveland Cavaliers,Orlando Magic,104.0,109.0,1.6,2.45,208.5,1.9,1.9,-3.5,1.86,1.95
+,2021-04-28,Eua Nba,20:00,Philadelphia 76ers,Atlanta Hawks,127.0,83.0,1.2,4.75,212.5,1.9,1.9,-9.5,1.86,1.95
+,2021-04-28,Eua Nba,20:30,Boston Celtics,Charlotte Hornets,120.0,111.0,1.4,3.1,214.5,1.9,1.9,-7.5,1.9,1.9
+,2021-04-29,Eua Nba,20:00,Indiana Pacers,Brooklyn Nets,113.0,130.0,2.8,1.45,233.5,1.9,1.9,4.5,1.95,1.86
+,2021-04-29,Eua Nba,20:00,Detroit Pistons,Dallas Mavericks,105.0,115.0,3.6,1.31,212.5,1.9,1.9,6.5,1.95,1.86
+,2021-04-29,Eua Nba,21:00,Minnesota Timberwolves,Golden State Warriors,126.0,114.0,2.5,1.58,233.5,1.9,1.9,2.5,1.9,1.9
+,2021-04-29,Eua Nba,21:00,Houston Rockets,Milwaukee Bucks,143.0,136.0,8.5,1.08,231.5,1.9,1.9,12.5,1.9,1.9
+,2021-04-29,Eua Nba,22:00,Oklahoma City Thunder,New Orleans Pelicans,95.0,109.0,4.25,1.23,228.5,1.9,1.9,8.5,1.9,1.9
+,2021-04-29,Eua Nba,22:00,Denver Nuggets,Toronto Raptors,121.0,111.0,1.52,2.67,217.5,1.9,1.9,-4.5,1.9,1.9
+,2021-04-30,Eua Nba,23:30,Los Angeles Lakers,Sacramento Kings,106.0,110.0,1.14,6.0,222.5,1.9,1.9,-11.5,1.86,1.95
+,2021-04-30,Eua Nba,23:00,Phoenix Suns,Utah Jazz,121.0,100.0,1.6,2.45,218.5,1.9,1.9,-4.5,1.9,1.9
+,2021-04-30,Eua Nba,22:00,Chicago Bulls,Milwaukee Bucks,98.0,108.0,2.1,1.76,220.5,1.9,1.9,1.5,1.95,1.86
+,2021-04-30,Eua Nba,20:30,Cleveland Cavaliers,Washington Wizards,93.0,122.0,3.15,1.38,224.5,1.86,1.95,6.5,1.9,1.9
+,2021-04-30,Eua Nba,21:00,Memphis Grizzlies,Orlando Magic,92.0,75.0,1.1,7.25,222.5,1.9,1.9,-12.5,1.86,1.95
+,2021-04-30,Eua Nba,20:30,Boston Celtics,San Antonio Spurs,143.0,140.0,1.52,2.67,219.5,1.9,1.9,-4.5,1.9,1.9
+,2021-04-30,Eua Nba,20:00,Philadelphia 76ers,Atlanta Hawks,126.0,104.0,1.34,3.35,219.5,1.9,1.9,-9.5,1.9,1.9
+,2021-04-30,Eua Nba,21:00,Brooklyn Nets,Portland Trail Blazers,109.0,128.0,2.3,1.66,240.5,1.9,1.9,-1.5,2.0,1.83
+,2021-05-01,Eua Nba,23:00,Los Angeles Clippers,Denver Nuggets,104.0,110.0,1.45,2.8,221.5,1.9,1.9,-5.5,1.9,1.9
+,2021-05-01,Eua Nba,23:00,Utah Jazz,Toronto Raptors,106.0,102.0,1.35,3.3,216.5,1.9,1.9,-7.5,1.9,1.9
+,2021-05-01,Eua Nba,22:00,Dallas Mavericks,Washington Wizards,125.0,124.0,1.54,2.65,229.5,1.9,1.9,-5.5,1.9,1.9
+,2021-05-01,Eua Nba,21:00,Atlanta Hawks,Chicago Bulls,108.0,97.0,1.25,4.1,210.5,1.9,1.9,-8.5,1.9,1.9
+,2021-05-01,Eua Nba,21:00,Oklahoma City Thunder,Indiana Pacers,95.0,152.0,3.75,1.28,224.5,1.9,1.9,6.5,1.95,1.86
+,2021-05-01,Eua Nba,21:00,Minnesota Timberwolves,New Orleans Pelicans,136.0,140.0,2.4,1.62,234.5,1.9,1.9,3.5,1.9,1.9
+,2021-05-01,Eua Nba,21:00,Cleveland Cavaliers,Miami Heat,107.0,124.0,6.25,1.13,208.5,1.9,1.9,10.5,1.9,1.9
+,2021-05-01,Eua Nba,20:00,Charlotte Hornets,Detroit Pistons,107.0,94.0,1.28,3.75,212.5,1.9,1.9,-7.5,1.9,1.9
+,2021-05-01,Eua Nba,20:30,Houston Rockets,Golden State Warriors,87.0,113.0,4.2,1.25,232.5,1.9,1.9,7.5,1.95,1.86
+,2021-05-01,Eua Nba,21:00,Orlando Magic,Memphis Grizzlies,112.0,111.0,6.25,1.13,217.5,1.9,1.9,10.5,1.9,1.9
+,2021-05-02,Eua Nba,16:30,Milwaukee Bucks,Brooklyn Nets,117.0,114.0,1.74,2.15,240.5,1.9,1.9,-3.5,1.95,1.86
+,2021-05-02,Eua Nba,20:30,Boston Celtics,Portland Trail Blazers,119.0,129.0,1.95,1.86,231.5,1.9,1.9,-2.5,1.9,1.9
+,2021-05-02,Eua Nba,21:00,San Antonio Spurs,Philadelphia 76ers,111.0,113.0,5.25,1.18,219.5,1.9,1.9,5.5,2.0,1.83
+,2021-05-02,Eua Nba,21:00,Oklahoma City Thunder,Phoenix Suns,120.0,123.0,10.0,1.06,221.5,1.9,1.9,14.5,2.05,1.8
+,2021-05-02,Eua Nba,21:00,Houston Rockets,New York Knicks,97.0,122.0,5.5,1.16,215.5,1.9,1.9,9.5,1.9,1.9
+,2021-05-02,Eua Nba,21:00,Dallas Mavericks,Sacramento Kings,99.0,111.0,1.33,3.4,227.5,1.9,1.9,-7.5,1.9,1.9
+,2021-05-02,Eua Nba,21:00,Charlotte Hornets,Miami Heat,111.0,121.0,2.8,1.45,211.5,1.9,1.9,5.5,1.9,1.9
+,2021-05-02,Eua Nba,23:00,Los Angeles Lakers,Toronto Raptors,114.0,121.0,1.19,5.0,214.5,1.9,1.9,-9.5,1.9,1.9
+,2021-05-03,Eua Nba,23:00,Los Angeles Lakers,Denver Nuggets,93.0,89.0,2.5,1.58,213.5,1.9,1.9,-1.5,1.95,1.86
+,2021-05-03,Eua Nba,23:00,Utah Jazz,San Antonio Spurs,110.0,99.0,1.31,3.6,219.5,1.9,1.9,-7.5,1.9,1.9
+,2021-05-03,Eua Nba,22:00,Memphis Grizzlies,New York Knicks,104.0,118.0,1.57,2.55,216.5,1.9,1.9,-3.5,1.86,1.95
+,2021-05-03,Eua Nba,22:00,Chicago Bulls,Philadelphia 76ers,94.0,106.0,3.65,1.3,210.5,1.9,1.9,5.5,1.95,1.86
+,2021-05-03,Eua Nba,20:30,New Orleans Pelicans,Golden State Warriors,108.0,123.0,1.8,2.05,236.5,1.9,1.9,-3.5,1.95,1.86
+,2021-05-03,Eua Nba,20:00,Detroit Pistons,Orlando Magic,112.0,119.0,1.8,2.05,210.5,1.9,1.9,-2.5,1.95,1.86
+,2021-05-03,Eua Nba,20:00,Washington Wizards,Indiana Pacers,154.0,141.0,1.54,2.65,244.5,1.9,1.9,-4.5,1.9,1.9
+,2021-05-03,Eua Nba,21:00,Atlanta Hawks,Portland Trail Blazers,123.0,114.0,1.74,2.15,234.5,1.9,1.9,-2.5,1.95,1.86
+,2021-05-04,Eua Nba,20:00,Detroit Pistons,Charlotte Hornets,99.0,102.0,2.6,1.55,215.5,1.9,1.9,2.5,1.95,1.86
+,2021-05-04,Eua Nba,20:00,Cleveland Cavaliers,Phoenix Suns,118.0,134.0,6.75,1.11,214.5,1.9,1.9,12.5,1.86,1.95
+,2021-05-04,Eua Nba,20:30,Milwaukee Bucks,Brooklyn Nets,124.0,118.0,1.76,2.1,241.5,1.9,1.9,-2.5,1.95,1.86
+,2021-05-04,Eua Nba,21:00,Oklahoma City Thunder,Sacramento Kings,99.0,103.0,2.75,1.47,227.5,1.9,1.9,4.5,1.9,1.9
+,2021-05-04,Eua Nba,21:00,New Orleans Pelicans,Golden State Warriors,108.0,103.0,1.8,2.05,234.5,1.9,1.9,-2.5,1.95,1.86
+,2021-05-04,Eua Nba,21:00,Miami Heat,Dallas Mavericks,113.0,127.0,1.9,1.9,214.5,1.9,1.9,-3.5,1.9,1.9
+,2021-05-04,Eua Nba,23:00,Los Angeles Clippers,Toronto Raptors,105.0,100.0,1.15,5.75,217.5,1.9,1.9,-11.5,1.9,1.9
+,2021-05-05,Eua Nba,21:00,Atlanta Hawks,Phoenix Suns,135.0,103.0,1.95,1.86,227.5,1.9,1.9,1.5,1.9,1.9
+,2021-05-05,Eua Nba,22:00,Utah Jazz,San Antonio Spurs,126.0,94.0,1.37,3.2,218.5,1.9,1.9,-7.5,1.9,1.9
+,2021-05-05,Eua Nba,21:00,Houston Rockets,Philadelphia 76ers,115.0,135.0,9.0,1.07,220.5,1.9,1.9,13.5,1.9,1.9
+,2021-05-05,Eua Nba,22:00,Denver Nuggets,New York Knicks,113.0,97.0,1.64,2.35,214.5,1.9,1.9,-3.5,1.9,1.9
+,2021-05-05,Eua Nba,21:00,Milwaukee Bucks,Washington Wizards,135.0,134.0,1.58,2.5,239.5,1.9,1.9,-7.5,1.9,1.9
+,2021-05-05,Eua Nba,21:00,Minnesota Timberwolves,Memphis Grizzlies,135.0,139.0,2.4,1.62,224.5,1.9,1.9,-2.5,1.95,1.86
+,2021-05-05,Eua Nba,20:30,Cleveland Cavaliers,Portland Trail Blazers,105.0,141.0,6.25,1.13,224.5,1.9,1.9,10.5,1.95,1.86
+,2021-05-05,Eua Nba,20:00,Orlando Magic,Boston Celtics,96.0,132.0,6.75,1.11,217.5,1.9,1.9,9.5,1.9,1.9
+,2021-05-05,Eua Nba,21:00,Indiana Pacers,Sacramento Kings,93.0,104.0,1.41,3.0,239.5,1.9,1.9,-6.5,1.9,1.9
+,2021-05-06,Eua Nba,23:00,Golden State Warriors,Oklahoma City Thunder,118.0,97.0,1.09,8.0,226.5,1.9,1.9,-14.5,1.95,1.86
+,2021-05-06,Eua Nba,23:00,Los Angeles Clippers,Los Angeles Lakers,118.0,94.0,1.26,4.0,210.5,1.9,1.9,-8.5,1.9,1.9
+,2021-05-06,Eua Nba,21:00,Detroit Pistons,Memphis Grizzlies,111.0,97.0,4.5,1.22,218.5,1.9,1.9,9.5,1.86,1.95
+,2021-05-06,Eua Nba,20:30,Toronto Raptors,Washington Wizards,129.0,131.0,2.15,1.74,233.5,1.9,1.9,-2.5,1.95,1.86
+,2021-05-06,Eua Nba,20:30,Dallas Mavericks,Brooklyn Nets,113.0,109.0,2.3,1.66,233.5,1.9,1.9,2.5,1.95,1.86
+,2021-05-06,Eua Nba,21:00,Indiana Pacers,Atlanta Hawks,133.0,126.0,3.0,1.41,238.5,1.9,1.9,4.5,2.0,1.83
+,2021-05-06,Eua Nba,20:00,Charlotte Hornets,Chicago Bulls,99.0,120.0,2.65,1.54,216.5,1.9,1.9,2.5,1.9,1.9
+,2021-05-07,Eua Nba,23:00,Phoenix Suns,New York Knicks,128.0,105.0,1.36,3.25,216.5,1.9,1.9,-6.5,1.86,1.95
+,2021-05-07,Eua Nba,23:00,Sacramento Kings,San Antonio Spurs,104.0,113.0,2.65,1.54,223.5,1.9,1.9,2.5,1.9,1.9
+,2021-05-07,Eua Nba,22:00,Utah Jazz,Denver Nuggets,127.0,120.0,1.55,2.6,214.5,1.9,1.9,-4.5,1.9,1.9
+,2021-05-07,Eua Nba,21:30,Dallas Mavericks,Cleveland Cavaliers,110.0,90.0,1.16,5.5,216.5,1.9,1.9,-10.5,1.9,1.9
+,2021-05-07,Eua Nba,23:00,Portland Trail Blazers,Los Angeles Lakers,106.0,101.0,1.3,3.65,220.5,1.9,1.9,-8.5,1.9,1.9
+,2021-05-07,Eua Nba,21:00,Miami Heat,Minnesota Timberwolves,121.0,112.0,1.28,3.75,220.5,1.9,1.9,-7.5,1.86,1.95
+,2021-05-07,Eua Nba,21:00,Milwaukee Bucks,Houston Rockets,141.0,133.0,1.04,13.5,229.5,1.9,1.9,-17.5,1.9,1.9
+,2021-05-07,Eua Nba,20:30,Chicago Bulls,Boston Celtics,121.0,99.0,2.6,1.55,221.5,1.9,1.9,2.5,1.9,1.9
+,2021-05-07,Eua Nba,20:00,Philadelphia 76ers,New Orleans Pelicans,109.0,107.0,1.11,6.75,223.5,1.9,1.9,-11.5,1.9,1.9
+,2021-05-07,Eua Nba,21:00,Charlotte Hornets,Orlando Magic,122.0,112.0,1.31,3.6,214.5,1.9,1.9,-7.5,1.9,1.9
+,2021-05-08,Eua Nba,23:00,Golden State Warriors,Oklahoma City Thunder,136.0,97.0,1.08,8.5,222.5,1.9,1.9,-14.5,1.95,1.86
+,2021-05-08,Eua Nba,23:00,Portland Trail Blazers,San Antonio Spurs,124.0,102.0,1.41,3.0,227.5,1.9,1.9,-5.5,1.86,1.95
+,2021-05-08,Eua Nba,23:00,Denver Nuggets,Brooklyn Nets,119.0,125.0,2.4,1.62,229.5,1.9,1.9,2.5,1.9,1.9
+,2021-05-08,Eua Nba,20:00,Indiana Pacers,Washington Wizards,132.0,133.0,2.6,1.55,246.5,1.9,1.9,3.5,1.95,1.86
+,2021-05-08,Eua Nba,20:00,Philadelphia 76ers,Detroit Pistons,118.0,104.0,1.22,4.5,216.5,1.9,1.9,-10.5,1.9,1.9
+,2021-05-08,Eua Nba,23:00,Utah Jazz,Houston Rockets,124.0,116.0,1.05,12.0,225.5,1.9,1.9,-15.5,1.86,1.95
+,2021-05-08,Eua Nba,20:30,Toronto Raptors,Memphis Grizzlies,99.0,109.0,3.0,1.41,226.5,1.9,1.9,4.5,1.9,1.9
+,2021-05-09,Eua Nba,14:00,Boston Celtics,Miami Heat,124.0,130.0,1.86,1.95,212.5,1.9,1.9,-4.5,1.9,1.9
+,2021-05-09,Eua Nba,16:30,Los Angeles Clippers,New York Knicks,100.0,106.0,1.3,3.65,214.5,1.9,1.9,-8.5,1.9,1.9
+,2021-05-09,Eua Nba,20:00,Orlando Magic,Minnesota Timberwolves,96.0,128.0,3.5,1.32,228.5,1.9,1.9,6.5,1.9,1.9
+,2021-05-09,Eua Nba,20:00,Cleveland Cavaliers,Dallas Mavericks,97.0,124.0,5.0,1.19,216.5,1.9,1.9,9.5,1.95,1.86
+,2021-05-09,Eua Nba,20:00,Charlotte Hornets,New Orleans Pelicans,110.0,112.0,1.66,2.3,220.5,1.9,1.9,-5.5,1.95,1.86
+,2021-05-09,Eua Nba,21:00,Detroit Pistons,Chicago Bulls,96.0,108.0,4.5,1.22,216.5,1.9,1.9,8.5,1.95,1.86
+,2021-05-09,Eua Nba,23:00,Sacramento Kings,Oklahoma City Thunder,126.0,98.0,1.22,4.5,221.5,1.9,1.9,-10.5,1.9,1.9
+,2021-05-09,Eua Nba,23:00,Los Angeles Lakers,Phoenix Suns,123.0,110.0,3.15,1.38,213.5,1.9,1.9,5.5,1.95,1.86
+,2021-05-10,Eua Nba,23:00,Portland Trail Blazers,Houston Rockets,140.0,129.0,1.05,12.25,236.5,1.9,1.9,-14.5,1.9,1.9
+,2021-05-10,Eua Nba,23:00,Golden State Warriors,Utah Jazz,119.0,116.0,2.1,1.76,225.5,1.9,1.9,2.5,1.86,1.95
+,2021-05-10,Eua Nba,21:00,Memphis Grizzlies,New Orleans Pelicans,115.0,110.0,1.2,4.75,223.5,1.9,1.9,-9.5,1.86,1.95
+,2021-05-10,Eua Nba,20:30,Atlanta Hawks,Washington Wizards,125.0,124.0,1.27,3.8,234.5,1.9,1.9,-8.5,1.9,1.9
+,2021-05-10,Eua Nba,21:30,San Antonio Spurs,Milwaukee Bucks,146.0,125.0,3.35,1.34,232.5,1.9,1.9,6.5,1.86,1.95
+,2021-05-10,Eua Nba,20:30,Cleveland Cavaliers,Indiana Pacers,102.0,111.0,4.5,1.22,226.5,1.9,1.9,4.5,1.95,1.86
+,2021-05-11,Eua Nba,23:00,Golden State Warriors,Phoenix Suns,122.0,116.0,2.67,1.52,229.5,1.9,1.9,4.5,1.95,1.86
+,2021-05-11,Eua Nba,23:00,Los Angeles Lakers,New York Knicks,101.0,99.0,1.71,2.2,210.5,1.9,1.9,-5.5,1.95,1.86
+,2021-05-11,Eua Nba,23:00,Sacramento Kings,Oklahoma City Thunder,122.0,106.0,1.22,4.5,222.5,1.9,1.9,-11.5,1.9,1.9
+,2021-05-11,Eua Nba,22:00,Milwaukee Bucks,Orlando Magic,114.0,102.0,1.05,11.0,227.5,1.9,1.9,-14.5,1.9,1.9
+,2021-05-11,Eua Nba,21:00,Chicago Bulls,Brooklyn Nets,107.0,115.0,2.65,1.54,232.5,1.9,1.9,4.5,1.9,1.9
+,2021-05-11,Eua Nba,20:00,Detroit Pistons,Minnesota Timberwolves,100.0,119.0,3.5,1.32,226.5,1.9,1.9,6.5,1.95,1.86
+,2021-05-11,Eua Nba,21:00,Memphis Grizzlies,Dallas Mavericks,133.0,104.0,2.35,1.64,223.5,1.9,1.9,1.5,1.9,1.9
+,2021-05-11,Eua Nba,20:30,Boston Celtics,Miami Heat,121.0,129.0,2.0,1.83,219.5,1.9,1.9,1.5,1.9,1.9
+,2021-05-11,Eua Nba,20:30,Toronto Raptors,Los Angeles Clippers,96.0,115.0,8.5,1.08,217.5,1.9,1.9,11.5,1.9,1.9
+,2021-05-11,Eua Nba,20:00,Charlotte Hornets,Denver Nuggets,112.0,117.0,3.0,1.41,218.5,1.9,1.9,5.5,1.9,1.9
+,2021-05-11,Eua Nba,21:00,Indiana Pacers,Philadelphia 76ers,103.0,94.0,2.8,1.45,234.5,1.9,1.9,5.5,1.9,1.9
+,2021-05-12,Eua Nba,20:00,Atlanta Hawks,Washington Wizards,120.0,116.0,1.35,3.3,238.5,1.9,1.9,-6.5,1.9,1.9
+,2021-05-12,Eua Nba,21:00,Cleveland Cavaliers,Boston Celtics,102.0,94.0,3.0,1.41,217.5,1.9,1.9,6.5,1.9,1.9
+,2021-05-12,Eua Nba,21:00,Brooklyn Nets,San Antonio Spurs,128.0,116.0,1.47,2.75,231.5,1.9,1.9,-5.5,1.9,1.9
+,2021-05-12,Eua Nba,22:00,Dallas Mavericks,New Orleans Pelicans,125.0,107.0,1.2,4.75,216.5,1.9,1.9,-10.5,1.95,1.86
+,2021-05-12,Eua Nba,22:30,Utah Jazz,Portland Trail Blazers,98.0,105.0,1.86,1.95,233.5,1.9,1.9,-3.5,1.95,1.86
+,2021-05-12,Eua Nba,23:30,Los Angeles Lakers,Houston Rockets,124.0,122.0,1.19,5.0,219.5,1.9,1.9,-13.5,1.9,1.9
+,2021-05-13,Eua Nba,23:00,Phoenix Suns,Portland Trail Blazers,118.0,117.0,1.74,2.15,230.5,1.9,1.9,-5.5,1.9,1.9
+,2021-05-13,Eua Nba,21:00,Chicago Bulls,Toronto Raptors,114.0,102.0,1.18,5.25,216.5,1.9,1.9,-10.5,1.9,1.9
+,2021-05-13,Eua Nba,21:00,Memphis Grizzlies,Sacramento Kings,116.0,110.0,1.25,4.1,227.5,1.95,1.86,-8.5,1.9,1.9
+,2021-05-13,Eua Nba,21:00,Minnesota Timberwolves,Denver Nuggets,103.0,114.0,2.1,1.76,230.5,1.9,1.9,2.5,1.9,1.9
+,2021-05-13,Eua Nba,20:30,Atlanta Hawks,Orlando Magic,116.0,93.0,1.1,7.5,219.5,1.9,1.9,-13.5,1.9,1.9
+,2021-05-13,Eua Nba,20:30,New York Knicks,San Antonio Spurs,102.0,98.0,1.5,2.7,215.5,1.9,1.9,-5.5,1.9,1.9
+,2021-05-13,Eua Nba,20:00,Indiana Pacers,Milwaukee Bucks,133.0,142.0,4.5,1.22,237.5,1.9,1.9,8.5,1.9,1.9
+,2021-05-13,Eua Nba,20:30,Miami Heat,Philadelphia 76ers,106.0,94.0,1.83,2.0,217.5,1.9,1.9,-2.5,1.9,1.9
+,2021-05-13,Eua Nba,20:00,Charlotte Hornets,Los Angeles Clippers,90.0,113.0,4.2,1.25,219.5,1.9,1.9,8.5,1.95,1.86
+,2021-05-14,Eua Nba,20:00,Washington Wizards,Cleveland Cavaliers,120.0,105.0,1.25,4.2,224.5,1.9,1.9,-9.5,1.9,1.9
+,2021-05-14,Eua Nba,21:00,Philadelphia 76ers,Orlando Magic,122.0,97.0,1.06,10.0,213.5,1.9,1.9,-14.5,1.9,1.9
+,2021-05-14,Eua Nba,21:00,Oklahoma City Thunder,Utah Jazz,93.0,109.0,10.5,1.06,220.5,1.9,1.9,13.5,2.0,1.83
+,2021-05-14,Eua Nba,21:00,Detroit Pistons,Denver Nuggets,91.0,104.0,4.0,1.26,215.5,1.9,1.9,8.5,1.9,1.9
+,2021-05-14,Eua Nba,22:00,Memphis Grizzlies,Sacramento Kings,107.0,106.0,1.62,2.4,223.5,1.9,1.9,-8.5,1.9,1.9
+,2021-05-14,Eua Nba,22:00,Houston Rockets,Los Angeles Clippers,122.0,115.0,3.5,1.32,226.5,1.9,1.9,7.5,1.86,1.95
+,2021-05-14,Eua Nba,22:00,Dallas Mavericks,Toronto Raptors,114.0,110.0,1.05,11.0,219.5,1.86,1.95,-14.5,1.9,1.9
+,2021-05-14,Eua Nba,22:30,Golden State Warriors,New Orleans Pelicans,125.0,122.0,1.83,2.0,220.5,1.9,1.9,-6.5,1.9,1.9
+,2021-05-15,Eua Nba,15:00,Minnesota Timberwolves,Boston Celtics,108.0,124.0,1.5,2.7,229.5,1.9,1.9,-5.5,1.9,1.9
+,2021-05-15,Eua Nba,21:00,Milwaukee Bucks,Miami Heat,122.0,108.0,1.57,2.55,230.5,1.9,1.9,-4.5,1.9,1.9
+,2021-05-15,Eua Nba,14:00,Brooklyn Nets,Chicago Bulls,105.0,91.0,1.14,6.0,231.5,1.9,1.9,-11.5,1.9,1.9
+,2021-05-15,Eua Nba,14:00,Indiana Pacers,Los Angeles Lakers,115.0,122.0,4.2,1.25,226.5,1.9,1.9,6.5,1.9,1.9
+,2021-05-15,Eua Nba,15:00,San Antonio Spurs,Phoenix Suns,103.0,140.0,6.0,1.14,221.5,1.9,1.9,10.5,1.9,1.9
+,2021-05-15,Eua Nba,14:00,New York Knicks,Charlotte Hornets,118.0,109.0,1.43,2.9,211.5,1.9,1.9,-6.5,1.9,1.9
+,2021-05-16,Eua Nba,14:00,Washington Wizards,Charlotte Hornets,115.0,110.0,1.36,3.25,227.5,1.9,1.9,-6.5,1.9,1.9
+,2021-05-16,Eua Nba,14:00,Toronto Raptors,Indiana Pacers,113.0,125.0,2.95,1.42,227.5,1.9,1.9,5.5,1.9,1.9
+,2021-05-16,Eua Nba,14:00,New York Knicks,Boston Celtics,96.0,92.0,1.11,7.0,211.5,1.9,1.9,-11.5,1.9,1.9
+,2021-05-16,Eua Nba,15:00,San Antonio Spurs,Phoenix Suns,121.0,123.0,2.15,1.74,220.5,1.9,1.9,2.5,1.9,1.9
+,2021-05-16,Eua Nba,16:30,Golden State Warriors,Memphis Grizzlies,113.0,101.0,1.62,2.4,228.5,1.9,1.9,-4.5,1.9,1.9
+,2021-05-16,Eua Nba,20:00,Philadelphia 76ers,Orlando Magic,128.0,117.0,1.41,3.0,213.5,1.9,1.9,-9.5,1.9,1.9
+,2021-05-16,Eua Nba,22:00,Chicago Bulls,Milwaukee Bucks,118.0,112.0,3.2,1.37,222.5,1.9,1.9,1.5,1.9,1.9
+,2021-05-16,Eua Nba,20:00,Atlanta Hawks,Houston Rockets,124.0,95.0,1.33,3.4,230.5,1.9,1.9,-12.5,1.9,1.9
+,2021-05-16,Eua Nba,21:00,Detroit Pistons,Miami Heat,107.0,120.0,2.3,1.66,213.5,1.9,1.9,2.5,1.9,1.9
+,2021-05-16,Eua Nba,22:00,Sacramento Kings,Utah Jazz,99.0,121.0,6.75,1.11,221.5,1.9,1.9,7.5,1.9,1.9
+,2021-05-16,Eua Nba,22:00,Portland Trail Blazers,Denver Nuggets,132.0,116.0,1.26,4.0,229.5,1.9,1.9,-10.5,1.9,1.9
+,2021-05-16,Eua Nba,22:00,Oklahoma City Thunder,Los Angeles Clippers,117.0,112.0,3.7,1.29,220.5,1.9,1.9,7.5,1.83,2.0
+,2021-05-16,Eua Nba,22:00,New Orleans Pelicans,Los Angeles Lakers,98.0,110.0,4.5,1.22,221.5,1.9,1.9,5.5,1.9,1.9
+,2021-05-16,Eua Nba,22:00,Minnesota Timberwolves,Dallas Mavericks,136.0,121.0,3.25,1.36,229.5,1.9,1.9,5.5,1.9,1.9
+,2021-05-16,Eua Nba,20:00,Brooklyn Nets,Cleveland Cavaliers,123.0,109.0,1.09,8.0,224.5,1.9,1.9,-14.5,1.9,1.9
+,2021-05-18,Eua Nba,19:30,Indiana Pacers,Charlotte Hornets,144.0,117.0,1.8,2.05,226.5,1.9,1.9,-3.5,1.95,1.86
+,2021-05-18,Eua Nba,22:00,Boston Celtics,Washington Wizards,118.0,100.0,1.8,2.05,232.5,1.9,1.9,-2.5,1.95,1.86
+,2021-05-19,Eua Nba,20:30,Memphis Grizzlies,San Antonio Spurs,100.0,96.0,1.52,2.67,222.5,1.9,1.9,-4.5,1.9,1.9
+,2021-05-19,Eua Nba,23:00,Los Angeles Lakers,Golden State Warriors,103.0,100.0,1.4,3.1,217.5,1.9,1.9,-6.5,1.9,1.9
+,2021-05-20,Eua Nba,21:00,Washington Wizards,Indiana Pacers,142.0,115.0,1.62,2.4,237.5,1.9,1.9,-3.5,1.9,1.9
+,2021-05-21,Eua Nba,22:00,Golden State Warriors,Memphis Grizzlies,112.0,117.0,1.5,2.7,220.5,1.9,1.9,-4.5,1.9,1.9
+,2021-05-22,Eua Nba,15:00,Milwaukee Bucks,Miami Heat,109.0,107.0,1.45,2.8,225.5,1.9,1.9,-5.5,1.9,1.9
+,2021-05-22,Eua Nba,17:30,Los Angeles Clippers,Dallas Mavericks,103.0,113.0,1.41,3.0,217.5,1.9,1.9,-5.5,1.86,1.95
+,2021-05-22,Eua Nba,21:00,Brooklyn Nets,Boston Celtics,104.0,93.0,1.25,4.2,225.5,1.9,1.9,-7.5,1.9,1.9
+,2021-05-22,Eua Nba,23:30,Denver Nuggets,Portland Trail Blazers,109.0,123.0,1.86,1.95,226.5,1.9,1.9,-1.5,1.95,1.86
+,2021-05-23,Eua Nba,14:00,Philadelphia 76ers,Washington Wizards,125.0,118.0,1.28,3.75,227.5,1.9,1.9,-7.5,1.9,1.9
+,2021-05-23,Eua Nba,16:30,Phoenix Suns,Los Angeles Lakers,99.0,90.0,1.76,2.1,212.5,1.9,1.9,-2.5,1.9,1.9
+,2021-05-23,Eua Nba,20:00,New York Knicks,Atlanta Hawks,105.0,107.0,1.83,2.0,213.5,1.9,1.9,-1.5,1.9,1.9
+,2021-05-23,Eua Nba,22:30,Utah Jazz,Memphis Grizzlies,109.0,112.0,1.27,3.9,215.5,1.9,1.9,-8.5,1.9,1.9
+,2021-05-24,Eua Nba,20:30,Milwaukee Bucks,Miami Heat,132.0,98.0,1.5,2.7,221.5,1.9,1.9,-4.5,1.86,1.95
+,2021-05-24,Eua Nba,23:00,Denver Nuggets,Portland Trail Blazers,128.0,109.0,1.76,2.1,224.5,1.9,1.9,-1.5,1.86,1.95
+,2021-05-25,Eua Nba,23:30,Los Angeles Clippers,Dallas Mavericks,121.0,127.0,1.32,3.5,215.5,1.9,1.9,-6.5,1.86,1.95
+,2021-05-25,Eua Nba,23:00,Phoenix Suns,Los Angeles Lakers,102.0,109.0,2.1,1.76,208.5,1.9,1.9,1.5,1.95,1.86
+,2021-05-25,Eua Nba,20:30,Brooklyn Nets,Boston Celtics,130.0,108.0,1.2,4.75,226.5,1.9,1.9,-9.5,1.95,1.86
+,2021-05-26,Eua Nba,23:00,Utah Jazz,Memphis Grizzlies,141.0,129.0,1.2,4.75,216.5,1.9,1.9,-9.5,1.86,1.95
+,2021-05-26,Eua Nba,20:00,Philadelphia 76ers,Washington Wizards,120.0,95.0,1.25,4.1,228.5,1.9,1.9,-8.5,1.9,1.9
+,2021-05-26,Eua Nba,20:30,New York Knicks,Atlanta Hawks,101.0,92.0,1.76,2.1,212.5,1.9,1.9,-2.5,1.9,1.9
+,2021-05-27,Eua Nba,20:30,Miami Heat,Milwaukee Bucks,84.0,113.0,1.95,1.86,223.5,1.9,1.9,1.5,1.83,2.0
+,2021-05-27,Eua Nba,23:00,Los Angeles Lakers,Phoenix Suns,109.0,95.0,1.35,3.3,209.5,1.9,1.9,-6.5,1.9,1.9
+,2021-05-27,Eua Nba,23:30,Portland Trail Blazers,Denver Nuggets,115.0,120.0,1.58,2.5,227.5,1.9,1.9,-4.5,1.9,1.9
+,2021-05-28,Eua Nba,20:00,Atlanta Hawks,New York Knicks,105.0,94.0,1.52,2.67,210.5,1.9,1.9,-4.5,1.9,1.9
+,2021-05-28,Eua Nba,21:30,Boston Celtics,Brooklyn Nets,125.0,119.0,3.5,1.32,226.5,1.9,1.9,6.5,1.9,1.9
+,2021-05-28,Eua Nba,22:30,Dallas Mavericks,Los Angeles Clippers,108.0,118.0,2.25,1.68,219.5,1.9,1.9,-1.5,2.0,1.83
+,2021-05-29,Eua Nba,14:30,Miami Heat,Milwaukee Bucks,103.0,120.0,0.0,0.0,221.5,1.9,1.9,3.5,1.95,1.86
+,2021-05-29,Eua Nba,17:00,Portland Trail Blazers,Denver Nuggets,115.0,95.0,1.47,2.75,227.5,1.9,1.9,-4.5,1.9,1.9
+,2021-05-29,Eua Nba,20:00,Washington Wizards,Philadelphia 76ers,103.0,132.0,2.85,1.44,227.5,1.9,1.9,5.5,1.83,2.0
+,2021-05-29,Eua Nba,22:30,Memphis Grizzlies,Utah Jazz,111.0,121.0,2.8,1.45,222.5,1.9,1.9,5.5,1.86,1.95
+,2021-05-30,Eua Nba,14:00,Atlanta Hawks,New York Knicks,113.0,96.0,1.5,2.7,209.5,1.9,1.9,-4.5,1.9,1.9
+,2021-05-30,Eua Nba,16:30,Los Angeles Lakers,Phoenix Suns,92.0,100.0,1.34,3.35,208.5,1.9,1.9,-6.5,1.9,1.9
+,2021-05-30,Eua Nba,20:00,Boston Celtics,Brooklyn Nets,126.0,141.0,4.5,1.22,227.5,1.9,1.9,6.5,1.95,1.86
+,2021-05-30,Eua Nba,22:30,Dallas Mavericks,Los Angeles Clippers,81.0,106.0,2.45,1.6,219.5,1.9,1.9,2.5,1.9,1.9
+,2021-05-31,Eua Nba,22:30,Memphis Grizzlies,Utah Jazz,113.0,120.0,2.9,1.43,223.5,1.9,1.9,5.5,1.95,1.86
+,2021-05-31,Eua Nba,20:00,Washington Wizards,Philadelphia 76ers,122.0,114.0,4.0,1.26,229.5,1.9,1.9,7.5,2.0,1.83
+,2021-06-01,Eua Nba,23:00,Phoenix Suns,Los Angeles Lakers,115.0,85.0,1.5,2.7,207.5,1.9,1.9,-5.5,1.9,1.9
+,2021-06-01,Eua Nba,20:30,Brooklyn Nets,Boston Celtics,123.0,109.0,1.1,7.5,231.5,1.9,1.9,-12.5,1.86,1.95
+,2021-06-01,Eua Nba,22:00,Denver Nuggets,Portland Trail Blazers,147.0,140.0,1.76,2.1,226.5,1.9,1.9,-1.5,1.86,1.95
+,2021-06-02,Eua Nba,20:00,Philadelphia 76ers,Washington Wizards,129.0,112.0,1.41,3.0,229.5,1.9,1.9,-6.5,1.9,1.9
+,2021-06-02,Eua Nba,20:30,New York Knicks,Atlanta Hawks,89.0,103.0,1.86,1.95,207.5,1.9,1.9,-2.5,1.9,1.9
+,2021-06-02,Eua Nba,22:30,Utah Jazz,Memphis Grizzlies,126.0,110.0,1.2,4.75,224.5,1.95,1.86,-10.5,1.9,1.9
+,2021-06-02,Eua Nba,23:00,Los Angeles Clippers,Dallas Mavericks,100.0,105.0,1.29,3.7,217.5,1.9,1.9,-7.5,1.86,1.95
+,2021-06-03,Eua Nba,21:00,Portland Trail Blazers,Denver Nuggets,115.0,126.0,1.5,2.7,227.5,1.9,1.9,-4.5,1.9,1.9
+,2021-06-03,Eua Nba,23:30,Los Angeles Lakers,Phoenix Suns,100.0,113.0,1.66,2.3,207.5,1.9,1.9,-2.5,1.86,1.95
+,2021-06-04,Eua Nba,22:00,Dallas Mavericks,Los Angeles Clippers,97.0,104.0,2.3,1.66,215.5,1.9,1.9,2.5,1.95,1.86
+,2021-06-05,Eua Nba,20:30,Brooklyn Nets,Milwaukee Bucks,115.0,107.0,1.58,2.5,239.5,1.9,1.9,-4.5,1.95,1.86
+,2021-06-06,Eua Nba,14:00,Philadelphia 76ers,Atlanta Hawks,124.0,128.0,1.52,2.67,219.5,1.9,1.9,-4.5,1.86,1.95
+,2021-06-06,Eua Nba,16:30,Los Angeles Clippers,Dallas Mavericks,126.0,111.0,1.38,3.15,209.5,1.9,1.9,-6.5,1.9,1.9
+,2021-06-07,Eua Nba,20:30,Brooklyn Nets,Milwaukee Bucks,125.0,86.0,2.05,1.8,233.5,1.9,1.9,-2.5,1.95,1.86
+,2021-06-07,Eua Nba,23:00,Phoenix Suns,Denver Nuggets,122.0,105.0,1.41,3.0,219.5,1.86,1.95,-5.5,1.86,1.95
+,2021-06-08,Eua Nba,23:00,Utah Jazz,Los Angeles Clippers,112.0,109.0,1.66,2.3,220.5,1.9,1.9,-3.5,1.95,1.86
+,2021-06-08,Eua Nba,20:30,Philadelphia 76ers,Atlanta Hawks,118.0,102.0,1.37,3.2,222.5,1.9,1.9,-6.5,1.9,1.9
+,2021-06-09,Eua Nba,22:30,Phoenix Suns,Denver Nuggets,123.0,98.0,1.43,2.9,221.5,1.9,1.9,-5.5,1.86,1.95
+,2021-06-10,Eua Nba,23:00,Utah Jazz,Los Angeles Clippers,117.0,111.0,1.71,2.2,221.5,1.9,1.9,-2.5,1.9,1.9
+,2021-06-10,Eua Nba,20:30,Milwaukee Bucks,Brooklyn Nets,86.0,83.0,1.64,2.35,233.5,1.9,1.9,-3.5,1.95,1.86
+,2021-06-11,Eua Nba,23:00,Denver Nuggets,Phoenix Suns,102.0,116.0,1.76,2.1,222.5,1.9,1.9,-1.5,1.86,1.95
+,2021-06-11,Eua Nba,20:30,Atlanta Hawks,Philadelphia 76ers,111.0,127.0,2.1,1.76,223.5,1.9,1.9,1.5,1.95,1.86
+,2021-06-12,Eua Nba,21:30,Los Angeles Clippers,Utah Jazz,132.0,106.0,1.5,2.7,222.5,1.9,1.9,-4.5,1.9,1.9
+,2021-06-13,Eua Nba,16:00,Milwaukee Bucks,Brooklyn Nets,107.0,96.0,2.1,1.76,228.5,1.9,1.9,1.5,1.95,1.86
+,2021-06-13,Eua Nba,21:00,Denver Nuggets,Phoenix Suns,118.0,125.0,2.25,1.68,221.5,1.9,1.9,2.5,1.95,1.86
+,2021-06-14,Eua Nba,20:30,Atlanta Hawks,Philadelphia 76ers,103.0,100.0,2.25,1.68,225.5,1.9,1.9,2.5,1.95,1.86
+,2021-06-14,Eua Nba,23:00,Los Angeles Clippers,Utah Jazz,118.0,104.0,1.45,2.8,223.5,1.9,1.9,-4.5,1.86,1.95
+,2021-06-15,Eua Nba,21:30,Brooklyn Nets,Milwaukee Bucks,114.0,108.0,2.0,1.83,217.5,1.9,1.9,1.5,1.9,1.9
+,2021-06-16,Eua Nba,20:30,Philadelphia 76ers,Atlanta Hawks,106.0,109.0,1.33,3.4,223.5,1.9,1.9,-7.5,1.95,1.86
+,2021-06-16,Eua Nba,23:00,Utah Jazz,Los Angeles Clippers,111.0,119.0,1.26,4.0,219.5,1.9,1.9,-8.5,1.9,1.9
+,2021-06-17,Eua Nba,21:30,Milwaukee Bucks,Brooklyn Nets,104.0,89.0,1.54,2.65,220.5,1.9,1.9,-5.5,1.9,1.9
+,2021-06-18,Eua Nba,20:30,Atlanta Hawks,Philadelphia 76ers,99.0,104.0,2.35,1.64,221.5,1.9,1.9,2.5,1.9,1.9
+,2021-06-18,Eua Nba,23:00,Los Angeles Clippers,Utah Jazz,131.0,119.0,0.0,0.0,218.5,1.9,1.9,1.5,1.95,1.86
+,2021-06-19,Eua Nba,21:30,Brooklyn Nets,Milwaukee Bucks,111.0,115.0,1.76,2.1,214.5,1.9,1.9,-1.5,1.9,1.9
+,2021-06-20,Eua Nba,21:00,Philadelphia 76ers,Atlanta Hawks,96.0,103.0,1.35,3.3,215.5,1.9,1.9,-7.5,1.9,1.9
+,2021-06-20,Eua Nba,16:30,Phoenix Suns,Los Angeles Clippers,120.0,114.0,1.58,2.5,218.5,1.9,1.9,-4.5,1.95,1.86
+,2021-06-22,Eua Nba,22:00,Phoenix Suns,Los Angeles Clippers,104.0,103.0,1.52,2.67,222.5,1.9,1.9,-6.5,1.9,1.9
+,2021-06-23,Eua Nba,21:30,Milwaukee Bucks,Atlanta Hawks,113.0,116.0,1.28,3.75,224.5,1.9,1.9,-8.5,1.9,1.9
+,2021-06-24,Eua Nba,22:00,Los Angeles Clippers,Phoenix Suns,106.0,92.0,1.95,1.86,218.5,1.86,1.95,1.5,1.83,2.0
+,2021-06-25,Eua Nba,21:30,Milwaukee Bucks,Atlanta Hawks,125.0,91.0,1.27,3.8,225.5,1.9,1.9,-8.5,1.9,1.9
+,2021-06-26,Eua Nba,22:00,Los Angeles Clippers,Phoenix Suns,80.0,84.0,1.9,1.9,217.5,1.9,1.9,1.5,1.86,1.95
+,2021-06-27,Eua Nba,21:30,Atlanta Hawks,Milwaukee Bucks,102.0,113.0,2.67,1.52,224.5,1.9,1.9,4.5,1.95,1.86
+,2021-06-28,Eua Nba,22:00,Phoenix Suns,Los Angeles Clippers,102.0,116.0,1.36,3.25,211.5,1.9,1.9,-6.5,1.86,1.95
+,2021-06-29,Eua Nba,21:30,Atlanta Hawks,Milwaukee Bucks,110.0,88.0,4.2,1.25,218.5,1.9,1.9,5.5,1.95,1.86
+,2021-06-30,Eua Nba,22:00,Los Angeles Clippers,Phoenix Suns,103.0,130.0,1.95,1.86,214.5,1.9,1.9,1.5,1.9,1.9
+,2021-07-01,Eua Nba,21:30,Milwaukee Bucks,Atlanta Hawks,123.0,112.0,1.5,2.7,212.5,1.95,1.86,-4.5,1.9,1.9
+,2021-07-03,Eua Nba,21:30,Atlanta Hawks,Milwaukee Bucks,107.0,118.0,1.62,2.4,216.5,1.9,1.9,-3.5,1.9,1.9
+,2021-07-06,Eua Nba,22:00,Phoenix Suns,Milwaukee Bucks,118.0,105.0,1.47,2.75,217.5,1.9,1.9,-5.5,1.95,1.86
+,2021-07-08,Eua Nba,22:00,Phoenix Suns,Milwaukee Bucks,118.0,108.0,1.52,2.67,219.5,1.9,1.9,-5.5,1.95,1.86
+,2021-07-11,Eua Nba,21:00,Milwaukee Bucks,Phoenix Suns,120.0,100.0,1.5,2.7,220.5,1.9,1.9,-4.5,1.9,1.9
+,2021-07-14,Eua Nba,22:00,Milwaukee Bucks,Phoenix Suns,109.0,103.0,1.5,2.7,220.5,1.9,1.9,-4.5,1.9,1.9
+,2021-07-17,Eua Nba,22:00,Phoenix Suns,Milwaukee Bucks,119.0,123.0,1.58,2.5,218.5,1.9,1.9,-4.5,1.9,1.9
+,2021-07-20,Eua Nba,22:00,Milwaukee Bucks,Phoenix Suns,105.0,98.0,1.54,2.65,221.5,1.9,1.9,-4.5,1.9,1.9
