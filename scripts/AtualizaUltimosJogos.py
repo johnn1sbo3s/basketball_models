@@ -35,13 +35,13 @@ def atualiza_ultimos_jogos(id_jogos):
             if Status.lower() == 'encerrado' or Status.lower() or 'após pênaltis' or Status.lower() == 'após tempo extra':
                 Home_Pts = float(wd_Chrome.find_element(By.CSS_SELECTOR,'div.detailScore__wrapper').text.split('-')[0])
                 Away_Pts = float(wd_Chrome.find_element(By.CSS_SELECTOR,'div.detailScore__wrapper').text.split('-')[1])
+                Status = Status.title()
 
             # Pegando as Informacoes Básicas do Jogo
             Home = wd_Chrome.find_element(By.CSS_SELECTOR,'div.duelParticipant__home')
             Home = Home.find_element(By.CSS_SELECTOR,'div.participant__participantName').text
             Away = wd_Chrome.find_element(By.CSS_SELECTOR,'div.duelParticipant__away')
             Away = Away.find_element(By.CSS_SELECTOR,'div.participant__participantName').text
-            Status = Status.title()
             
             base_jogos.loc[base_jogos.shape[0],['Fixture ID', 'Home', 'Away' , 'Home_Pts', 'Away_Pts', 'Status']] = [
                 link, Home, Away, Home_Pts, Away_Pts, Status
