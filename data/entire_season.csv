@@ -5353,3 +5353,35 @@ Date,League,Time,Home,Away,Home_Pts,Away_Pts,Odds_H,Odds_A,Over_Line,Odds_Over,O
 2023-10-24,Brasil Nbb,20:00,Botafogo,Pato,71.0,79.0,2.55,1.48,154.5,1.83,1.83,4.5,1.83,1.83
 2023-10-24,Eua Nba,20:30,Denver Nuggets,Los Angeles Lakers,119.0,107.0,1.45,2.8,227.5,1.91,1.91,-5.5,1.91,1.91
 2023-10-24,Eua Nba,23:00,Golden State Warriors,Phoenix Suns,104.0,108.0,1.87,1.95,232.5,1.91,1.91,26.5,1.02,0.0
+2023-10-25,Japão B.League,07:00,Ryukyu,Brave Thunders,66.0,87.0,1.5,2.5,159.5,1.83,1.83,-5.5,1.83,1.83
+2023-10-25,Japão B.League,07:05,Hokkaido,Chiba,77.0,82.0,6.75,1.09,164.5,1.83,1.83,10.5,1.83,1.83
+2023-10-25,Japão B.League,07:05,Kyoto,Osaka,74.0,83.0,2.75,1.4,161.5,1.83,1.83,5.5,1.83,1.83
+2023-10-25,Japão B.League,07:05,Yokohama,Sun Rockers Shibuya,60.0,83.0,1.53,2.4,162.5,1.83,1.83,-3.5,1.8,1.87
+2023-10-25,Japão B.League,07:05,Toyama,SeaHorses Mikawa,59.0,90.0,2.75,1.4,157.5,1.83,1.83,3.5,1.83,1.83
+2023-10-25,Japão B.League,07:05,Sendai,Gunma,87.0,75.0,1.71,2.0,159.5,1.83,1.83,-1.5,1.83,1.83
+2023-10-25,Japão B.League,07:05,Saga,Shinshu,80.0,74.0,1.71,2.0,152.5,1.83,1.83,-1.5,1.83,1.83
+2023-10-25,Japão B.League,07:05,Diamond Dolphins,Hiroshima D.,93.0,89.0,1.33,3.25,158.5,1.83,1.83,-8.5,1.83,1.83
+2023-10-25,Japão B.League,07:05,Nagasaki,Shimane,77.0,73.0,2.2,1.63,164.5,1.83,1.83,1.5,1.83,1.83
+2023-10-25,Japão B.League,07:05,NeoPhoenix,Nagoya Fighting Eagles,89.0,80.0,1.29,3.5,157.5,1.83,1.83,-7.5,1.83,1.83
+2023-10-25,Japão B.League,07:25,Utsunomiya Brex,Ibaraki Robots,96.0,80.0,1.15,4.75,152.5,1.83,1.83,-10.5,1.83,1.83
+2023-10-25,Japão B.League,07:35,Alvark,Akita,67.0,51.0,1.1,6.5,148.5,1.83,1.83,-12.5,1.83,1.83
+2023-10-25,China Cba,08:35,Shanxi Zhongyu,Tianjin,124.0,113.0,1.22,4.3,205.5,1.87,1.87,-8.5,1.83,1.91
+2023-10-25,China Cba,08:35,Shandong,Jilin,93.0,95.0,1.38,3.1,196.5,1.87,1.87,-5.5,1.83,1.91
+2023-10-25,China Cba,08:35,Ningbo Rockets,Fujian,79.0,109.0,2.75,1.45,203.5,1.87,1.87,3.5,1.87,1.87
+2023-10-25,China Cba,08:35,Jiangsu Dragons,Shanghai,96.0,105.0,4.6,1.2,199.5,1.87,1.87,9.5,1.87,1.87
+2023-10-25,China Cba,08:35,Guangzhou,Xinjiang,99.0,84.0,2.35,1.61,192.5,1.87,1.87,2.5,1.91,1.83
+2023-10-25,Europa Euroliga Feminina,13:00,DVTK F,Lublin F,74.0,44.0,1.15,4.75,132.5,1.83,1.83,-10.5,1.83,1.83
+2023-10-25,Europa Eurocopa,13:00,Lietkabelis,Trento,92.0,93.0,1.65,2.35,157.5,1.95,1.87,-4.5,1.91,1.91
+2023-10-25,Europa Eurocopa,13:00,Cluj-Napoca,Buducnost,89.0,74.0,1.8,2.05,159.5,1.91,1.91,-1.5,1.91,1.91
+2023-10-25,Europa Liga Dos Campeões,13:00,Bursaspor,Bonn,73.0,91.0,2.0,1.71,153.5,1.83,1.83,1.5,1.83,1.83
+2023-10-25,Europa Euroliga Feminina,13:00,CBK Mersin F,Polkowice F,77.0,57.0,1.34,3.15,150.5,1.83,1.83,-6.5,1.83,1.83
+2023-10-25,Europa Euroliga Feminina,13:00,Fenerbahce F,Schio F,90.0,64.0,1.02,12.0,149.5,1.83,1.83,-19.5,1.83,1.83
+2023-10-25,Europa Euroliga Feminina,13:00,UNI Gyor F,Landes F,79.0,66.0,1.67,2.1,147.5,1.91,1.77,8.5,1.17,0.0
+2023-10-25,Europa Eurocopa,13:30,Cedevita Olimpija,Prometey,83.0,90.0,2.35,1.65,167.5,1.91,1.91,3.5,1.87,1.95
+2023-10-25,Europa Eurocopa,14:00,Turk Telekom,Ulm,78.0,91.0,1.69,2.25,162.5,1.91,1.91,-2.5,1.91,1.91
+2023-10-25,Europa Euroliga Feminina,14:15,Valencia F,Sepsi S. F,68.0,57.0,1.02,11.0,140.5,1.83,1.83,-18.5,1.83,1.83
+2023-10-25,Europa Euroliga Feminina,15:00,Lyon F,Zaragoza F,64.0,67.0,2.25,1.57,136.5,1.83,1.83,3.5,1.8,1.87
+2023-10-25,Europa Euroliga Feminina,15:00,ESB Villeneuve F,Virtus Bologna F,78.0,62.0,1.57,2.25,146.5,1.83,1.83,-2.5,1.8,1.87
+2023-10-25,Europa Eurocopa,15:00,Slask Wroclaw,Aris,63.0,80.0,2.35,1.65,152.5,1.91,1.91,1.5,1.95,1.87
+2023-10-25,Europa Liga Dos Campeões,15:00,Cholet,VEF Riga,74.0,73.0,1.18,4.4,158.5,1.83,1.83,-9.5,1.83,1.83
+2023-10-25,Europa Euroliga Feminina,15:30,Perfumerias Avenida F,USK Prague F,53.0,64.0,1.53,2.4,145.5,1.83,1.83,-4.5,1.91,1.77
