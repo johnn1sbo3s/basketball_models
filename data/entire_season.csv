@@ -5585,3 +5585,35 @@ Date,League,Time,Home,Away,Home_Pts,Away_Pts,Odds_H,Odds_A,Over_Line,Odds_Over,O
 2023-10-31,Eua Nba,20:30,Cleveland Cavaliers,New York Knicks,91.0,109.0,1.91,1.91,0.0,0.0,0.0,7.5,1.69,0.0
 2023-10-31,Eua Nba,23:00,Phoenix Suns,San Antonio Spurs,114.0,115.0,1.36,3.25,227.5,1.91,1.91,-6.5,1.91,1.91
 2023-10-31,Eua Nba,23:30,Los Angeles Clippers,Orlando Magic,118.0,102.0,1.32,3.5,220.5,1.91,1.91,-7.5,1.91,1.91
+2023-11-01,Austrália Liga Feminina Wnbl,05:00,Adelaide Lightning F,Melbourne Boomers F,60.0,68.0,4.33,1.2,161.5,1.87,1.87,8.5,1.87,1.87
+2023-11-01,China Cba,08:30,Guangzhou,Beijing Royal Fighters,104.0,117.0,1.36,3.2,199.5,1.87,1.87,-7.5,1.87,1.87
+2023-11-01,China Cba,08:30,Guangdong,Tianjin,105.0,112.0,1.08,8.25,209.5,1.87,1.87,-13.5,1.87,1.87
+2023-11-01,China Cba,08:30,Fujian,Jiangsu Dragons,110.0,89.0,1.25,4.1,206.5,1.87,1.87,-8.5,1.87,1.87
+2023-11-01,China Cba,08:30,Liaoning,Jilin,106.0,76.0,1.08,8.25,197.5,1.87,1.87,-13.5,1.87,1.87
+2023-11-01,China Cba,08:30,Zhejiang Guangsha,Shenzhen,100.0,98.0,1.87,1.87,196.5,1.87,1.87,-1.5,1.95,1.8
+2023-11-01,Europa Eurocopa,14:00,Besiktas,Venezia,74.0,68.0,1.43,2.9,155.5,1.91,1.91,-5.5,1.91,1.91
+2023-11-01,Europa Eurocopa,14:00,Prometey,Paris,79.0,96.0,2.5,1.59,172.5,1.91,1.91,4.5,1.91,1.91
+2023-11-01,Europa Liga Dos Campeões,14:00,Hapoel Jerusalem,Galatasaray,99.0,96.0,1.53,2.4,158.5,1.83,1.83,-3.5,1.83,1.83
+2023-11-01,Europa Liga Dos Campeões,14:30,Pinar Karsiyaka,Oldenburg,85.0,83.0,1.63,2.2,165.5,1.83,1.83,-3.5,1.83,1.83
+2023-11-01,Europa Liga Dos Campeões,14:30,Murcia,Igokea,72.0,47.0,1.18,4.4,163.5,1.83,1.83,-9.5,1.83,1.83
+2023-11-01,Europa Eurocopa,15:00,Aris,Cluj-Napoca,59.0,61.0,1.8,2.05,154.5,1.91,1.91,-1.5,1.91,1.91
+2023-11-01,Europa Eurocopa,15:30,JL Bourg,Buducnost,78.0,73.0,1.59,2.5,160.5,1.95,1.87,-3.5,1.91,1.91
+2023-11-01,Europa Eurocopa,15:30,Ulm,Slask Wroclaw,108.0,103.0,1.07,10.0,166.5,1.91,1.91,-14.5,1.91,1.91
+2023-11-01,Europa Liga Dos Campeões,16:00,Bonn,Hapoel Holon,74.0,75.0,1.18,4.4,162.5,1.83,1.83,-9.5,1.83,1.83
+2023-11-01,Europa Liga Dos Campeões,16:30,Benfica,PAOK,94.0,72.0,1.53,2.4,155.5,1.83,1.83,-3.5,1.83,1.83
+2023-11-01,Europa Euroliga Feminina,16:30,Virtus Bologna F,CBK Mersin F,65.0,73.0,2.55,1.48,148.5,1.87,1.8,4.5,1.83,1.83
+2023-11-01,Europa Eurocopa,17:00,Gran Canaria,Lietkabelis,88.0,77.0,1.08,9.0,162.5,1.91,1.91,-14.5,1.95,1.87
+2023-11-01,Brasil Nbb,20:00,Caxias do Sul,Vasco da Gama,63.0,68.0,2.0,1.71,145.5,1.83,1.83,-4.5,1.83,1.83
+2023-11-01,Eua Nba,20:00,Toronto Raptors,Milwaukee Bucks,130.0,111.0,2.7,1.5,0.0,0.0,0.0,4.5,1.91,1.91
+2023-11-01,Eua Nba,20:00,Detroit Pistons,Portland Trail Blazers,101.0,110.0,1.59,2.5,0.0,0.0,0.0,-4.5,1.91,1.91
+2023-11-01,Eua Nba,20:30,Atlanta Hawks,Washington Wizards,130.0,121.0,1.29,3.75,237.5,1.91,1.91,-8.5,1.91,1.91
+2023-11-01,Eua Nba,20:30,Boston Celtics,Indiana Pacers,155.0,104.0,1.15,5.75,231.5,1.91,1.91,-11.5,1.91,1.91
+2023-11-01,Eua Nba,20:30,Miami Heat,Brooklyn Nets,105.0,109.0,1.43,2.95,222.5,1.91,1.91,19.5,1.01,0.0
+2023-11-01,Eua Nba,20:30,New York Knicks,Cleveland Cavaliers,89.0,95.0,1.36,3.25,210.5,1.91,1.91,-6.5,1.91,1.91
+2023-11-01,Eua Nba,20:30,Oklahoma City Thunder,New Orleans Pelicans,106.0,110.0,1.61,2.45,225.5,1.91,1.91,-3.5,1.91,1.91
+2023-11-01,Eua Nba,21:00,Minnesota Timberwolves,Denver Nuggets,110.0,89.0,2.25,1.69,223.5,1.91,1.91,12.5,1.18,0.0
+2023-11-01,Eua Nba,21:00,Houston Rockets,Charlotte Hornets,128.0,119.0,1.77,2.1,222.5,1.91,1.91,-2.5,1.91,1.91
+2023-11-01,Eua Nba,21:30,Dallas Mavericks,Chicago Bulls,114.0,105.0,1.5,2.7,224.5,1.91,1.91,20.5,1.01,0.0
+2023-11-01,Eua Nba,22:00,Utah Jazz,Memphis Grizzlies,133.0,109.0,1.69,2.25,228.5,1.91,1.91,-2.5,1.91,1.91
+2023-11-01,Eua Nba,23:00,Golden State Warriors,Sacramento Kings,102.0,101.0,1.36,3.3,226.5,1.91,1.91,18.5,1.01,0.0
+2023-11-01,Eua Nba,23:00,Los Angeles Lakers,Los Angeles Clippers,130.0,125.0,1.45,2.8,224.5,1.91,1.91,-5.5,1.91,1.91
