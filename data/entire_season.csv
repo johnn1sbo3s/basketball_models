@@ -5703,3 +5703,49 @@ Date,League,Time,Home,Away,Home_Pts,Away_Pts,Odds_H,Odds_A,Over_Line,Odds_Over,O
 2023-11-04,Eua Nba,21:00,Minnesota Timberwolves,Utah Jazz,123.0,95.0,1.33,3.4,225.5,1.91,1.91,-7.5,1.91,1.91
 2023-11-04,Eua Nba,21:00,Brooklyn Nets,Boston Celtics,114.0,124.0,4.5,1.22,229.5,1.91,1.91,9.5,1.91,1.91
 2023-11-04,Eua Nba,22:00,Denver Nuggets,Chicago Bulls,123.0,101.0,1.27,3.9,216.5,1.91,1.91,-9.5,1.91,1.91
+2023-11-05,Coreia Do Sul Kbl,02:00,Mobis Phoebus,Wonju DB,79.0,90.0,2.25,1.69,167.5,1.8,2.05,3.5,1.8,2.05
+2023-11-05,Austrália Nbl,02:00,Sydney Kings,NZ Breakers,87.0,85.0,1.36,3.2,181.5,1.87,1.95,-6.5,1.91,1.91
+2023-11-05,Japão B.League,02:05,Utsunomiya Brex,NeoPhoenix,75.0,73.0,1.5,2.5,155.5,1.83,1.83,5.5,1.16,0.0
+2023-11-05,Japão B.League,02:05,Shinshu,Toyama,83.0,79.0,1.29,3.5,160.5,1.83,1.83,-8.5,1.83,1.83
+2023-11-05,Japão B.League,02:05,Sendai,Yokohama,84.0,87.0,2.1,1.67,156.5,1.83,1.83,-1.5,1.91,1.77
+2023-11-05,Japão B.League,02:05,Saga,Akita,70.0,64.0,1.42,2.7,0.0,0.0,0.0,5.5,1.16,0.0
+2023-11-05,Japão B.League,02:05,Osaka,Ryukyu,76.0,94.0,1.83,1.83,157.5,1.87,1.8,-2.5,1.83,1.83
+2023-11-05,Coreia Do Sul Wkbl Feminina,02:25,Woori WON F,Busan BNK Sum F,74.0,70.0,1.17,5.5,133.5,1.91,1.91,-11.5,1.91,1.91
+2023-11-05,Japão B.League,03:05,Ibaraki Robots,Nagasaki,92.0,88.0,4.3,1.2,169.5,1.83,1.83,9.5,1.83,1.83
+2023-11-05,Japão B.League,03:05,Gunma,Diamond Dolphins,78.0,94.0,3.15,1.34,158.5,1.83,1.83,4.5,1.83,1.83
+2023-11-05,Japão B.League,03:05,Chiba,SeaHorses Mikawa,101.0,90.0,1.48,2.55,164.5,1.83,1.83,-4.5,1.83,1.83
+2023-11-05,Austrália Liga Feminina Wnbl,03:30,Canberra Capitals F,Adelaide Lightning F,79.0,82.0,2.4,1.53,156.5,1.87,1.87,3.5,1.9,1.85
+2023-11-05,Japão B.League,03:35,Nagoya Fighting Eagles,Hokkaido,62.0,77.0,1.48,2.55,154.5,1.83,1.83,-4.5,1.83,1.83
+2023-11-05,Japão B.League,03:35,Hiroshima D.,Kyoto,86.0,75.0,1.17,4.5,0.0,0.0,0.0,-11.5,2.0,1.71
+2023-11-05,Coreia Do Sul Kbl,04:00,KoGas,Anyang JungKwanJang,80.0,91.0,2.7,1.5,165.5,1.91,1.91,5.5,1.83,2.0
+2023-11-05,Espanha Acb,08:30,Granada,Real Madrid,76.0,83.0,7.25,1.11,171.5,1.91,1.91,12.5,1.91,1.91
+2023-11-05,Espanha Acb,08:30,Murcia,Manresa,87.0,74.0,1.28,3.8,168.5,1.91,1.91,-7.5,1.87,1.95
+2023-11-05,China Cba,08:35,Ningbo Rockets,Xinjiang,113.0,118.0,16.5,1.02,192.5,1.87,1.87,16.5,1.87,1.87
+2023-11-05,China Cba,08:35,Qingdao,Guangdong,109.0,111.0,3.2,1.36,206.5,1.87,1.87,4.5,1.87,1.87
+2023-11-05,China Cba,08:35,Shanghai,Beijing,88.0,80.0,3.15,1.37,201.5,1.87,1.87,5.5,1.95,1.8
+2023-11-05,China Cba,08:35,Sichuan,Nanjing Tongxi,106.0,109.0,2.9,1.43,201.5,1.87,1.87,5.5,1.87,1.87
+2023-11-05,França Lnb,10:30,Paris,Ada Blois,72.0,65.0,1.07,9.5,167.5,1.91,1.91,-14.5,1.91,1.91
+2023-11-05,Alemanha Bbl,11:30,Heidelberg,Bamberg,90.0,109.0,1.59,2.5,179.5,1.91,1.91,-3.5,1.91,1.91
+2023-11-05,Polônia Liga De Basquete,11:30,Lancut,Spojnia Stargard,73.0,86.0,2.55,1.48,0.0,0.0,0.0,4.5,1.83,1.83
+2023-11-05,Itália Liga A,12:00,Pistoia,Venezia,85.0,77.0,3.15,1.38,157.5,2.0,1.83,5.5,2.0,1.83
+2023-11-05,Grécia Liga De Basquete,12:15,PAOK,Olympiakos,63.0,77.0,10.5,1.06,155.5,1.91,1.91,14.5,1.91,1.91
+2023-11-05,Itália Liga A,12:30,Brindisi,Milano,57.0,87.0,5.25,1.18,156.5,1.91,1.91,10.5,1.87,1.95
+2023-11-05,França Lnb,12:30,Strasbourg,Dijon,64.0,81.0,1.61,2.45,153.5,1.91,1.91,-3.5,1.91,1.91
+2023-11-05,Alemanha Bbl,13:00,Braunschweig,Bayern,83.0,81.0,6.25,1.13,164.5,1.91,1.91,11.5,1.91,1.91
+2023-11-05,Espanha Acb,13:00,Baskonia,Gran Canaria,79.0,88.0,1.37,3.2,167.5,1.91,1.91,-6.5,1.91,1.91
+2023-11-05,Espanha Acb,13:00,Breogan,Barcelona,63.0,79.0,5.5,1.17,156.5,2.1,1.77,10.5,1.91,1.91
+2023-11-05,Itália Liga A,13:00,Tortona,Brescia,59.0,87.0,1.74,2.15,157.5,1.95,1.87,-2.5,1.95,1.87
+2023-11-05,Polônia Liga De Basquete,13:30,Slask Wroclaw,Zielona Gora,77.0,66.0,1.3,3.4,168.5,1.83,1.83,-7.5,1.83,1.83
+2023-11-05,Itália Liga A,13:30,Treviso,Scafati,87.0,97.0,1.8,2.05,164.5,1.91,1.91,-2.5,1.87,1.95
+2023-11-05,Itália Liga A,14:15,Trento,Reggiana,98.0,88.0,1.59,2.5,162.5,1.87,1.95,-3.5,1.91,1.91
+2023-11-05,Espanha Acb,14:30,Joventut,Valencia,80.0,76.0,2.65,1.54,166.5,2.0,1.83,-1.5,2.0,1.83
+2023-11-05,Alemanha Bbl,14:30,Ulm,Bonn,105.0,87.0,1.43,2.9,172.5,1.91,1.91,-5.5,1.91,1.91
+2023-11-05,Alemanha Bbl,14:30,Ludwigsburg,Rostock,96.0,77.0,1.2,4.75,172.5,1.91,1.91,-9.5,1.91,1.91
+2023-11-05,França Lnb,15:00,Limoges,Lyon-Villeurbanne,79.0,68.0,3.5,1.32,160.5,1.95,1.87,7.5,1.91,1.91
+2023-11-05,Itália Liga A,15:00,Varese,Sassari,90.0,79.0,1.71,2.2,169.5,1.91,1.91,-1.5,1.83,2.0
+2023-11-05,Grécia Liga De Basquete,15:15,Promitheas,Lavrio,100.0,73.0,1.18,5.25,159.5,1.91,1.91,-9.5,1.87,1.95
+2023-11-05,Itália Liga A,16:00,Cremona,Virtus Bologna,93.0,83.0,5.25,1.18,162.5,1.83,2.0,9.5,1.95,1.87
+2023-11-05,Eua Nba,17:00,Detroit Pistons,Phoenix Suns,106.0,120.0,2.85,1.44,222.5,1.91,1.91,5.5,1.91,1.91
+2023-11-05,Eua Nba,17:30,San Antonio Spurs,Toronto Raptors,116.0,123.0,2.3,1.67,224.5,1.91,1.91,2.5,1.91,1.91
+2023-11-05,Eua Nba,20:00,Cleveland Cavaliers,Golden State Warriors,115.0,104.0,1.83,2.0,224.5,1.91,1.91,-1.5,1.91,1.91
+2023-11-05,Argentina Liga A,21:00,Comunicaciones Mercedes,La Union,76.0,75.0,1.77,1.91,163.5,1.83,1.83,-1.5,1.83,1.83
