@@ -5951,3 +5951,94 @@ Date,League,Time,Home,Away,Home_Pts,Away_Pts,Odds_H,Odds_A,Over_Line,Odds_Over,O
 2023-11-07,Eua Ncaa,22:30,Michigan,NC Asheville,99.0,74.0,1.12,6.12,141.5,1.8,1.91,-12.5,1.8,1.91
 2023-11-07,Eua Ncaa,23:00,Depaul,IPFW,74.0,82.0,1.14,5.6,143.5,1.91,1.91,-12.5,1.91,1.91
 2023-11-07,Eua Ncaa,23:00,Baylor,Auburn,88.0,82.0,1.8,2.0,142.5,1.8,1.95,-3.5,2.05,1.74
+2023-11-07,Uruguai Liga Uruguaia,21:00,Defensor Sporting,Urupan,78.0,67.0,1.87,1.83,158.5,1.8,1.86,-1.5,2.04,1.69
+2023-11-07,Uruguai Liga Uruguaia,21:00,Trouville,Hebraica y Macabi,93.0,74.0,2.26,1.58,160.5,1.83,1.83,2.5,1.94,1.77
+2023-11-08,Eua Ncaa,00:00,UC Riverside,California Merced,76.0,69.0,1.61,2.12,133.5,1.84,1.84,-41.5,2.09,1.66
+2023-11-08,Eua Ncaa,00:00,Loyola Marymount,Westcliff,109.0,68.0,1.61,2.12,142.5,1.84,1.84,-45.5,2.0,1.72
+2023-11-08,Eua Ncaa,00:00,Nevada,Sacramento State,77.0,63.0,1.1,7.7,137.5,1.83,1.83,-14.5,1.97,1.74
+2023-11-08,Eua Ncaa,00:00,San Jose State,UC Irvine,72.0,64.0,2.23,1.64,127.5,1.8,1.91,3.5,1.83,1.83
+2023-11-08,Austrália Liga Feminina Wnbl,05:00,Canberra Capitals F,Southside F,79.0,104.0,2.37,1.57,160.5,1.87,1.79,2.5,2.0,1.72
+2023-11-08,Filipinas Copa Commissioners,05:00,Blackwater Bossing,Converge FiberXers,103.0,84.0,2.46,1.53,205.5,1.87,1.87,3.5,1.98,1.74
+2023-11-08,Coreia Do Sul Wkbl Feminina,07:00,S-Birds F,KB Stars F,57.0,82.0,3.93,1.24,141.5,1.88,1.78,6.5,2.08,1.67
+2023-11-08,Japão B.League,07:05,Brave Thunders,Shinshu,75.0,59.0,1.14,5.46,158.5,1.86,1.88,-13.5,2.05,1.68
+2023-11-08,Japão B.League,07:05,Toyama,Shimane,83.0,92.0,3.47,1.3,158.5,1.87,1.87,6.5,2.07,1.67
+2023-11-08,Japão B.League,07:05,NeoPhoenix,Yokohama,94.0,93.0,1.37,3.03,163.5,1.87,1.87,-7.5,2.01,1.72
+2023-11-08,Japão B.League,07:05,Akita,Sendai,66.0,87.0,1.63,2.24,153.5,1.87,1.89,-4.5,2.1,1.65
+2023-11-08,Japão B.League,07:05,Kyoto,Ryukyu,71.0,87.0,4.68,1.18,155.5,1.87,1.89,10.5,1.95,1.76
+2023-11-08,Japão B.League,07:05,Hiroshima D.,Saga,80.0,61.0,1.36,3.08,150.5,1.9,1.86,-7.5,2.01,1.72
+2023-11-08,Japão B.League,07:05,Gunma,Chiba,78.0,86.0,4.05,1.23,165.5,1.87,1.87,8.5,2.0,1.72
+2023-11-08,Japão B.League,07:05,Diamond Dolphins,Nagasaki,101.0,97.0,1.44,2.73,168.5,1.87,1.87,-6.5,2.08,1.66
+2023-11-08,Japão B.League,07:05,Nagoya Fighting Eagles,Osaka,82.0,74.0,3.08,1.36,152.5,1.87,1.79,5.5,2.02,1.71
+2023-11-08,Japão B.League,07:05,SeaHorses Mikawa,Sun Rockers Shibuya,62.0,86.0,1.3,3.47,159.5,1.87,1.79,-9.5,2.1,1.65
+2023-11-08,Japão B.League,07:25,Utsunomiya Brex,Hokkaido,74.0,44.0,1.17,4.91,150.5,1.88,1.88,-12.5,1.97,1.75
+2023-11-08,Japão B.League,07:35,Alvark,Ibaraki Robots,79.0,60.0,1.04,9.95,152.5,1.86,1.88,-19.5,2.06,1.68
+2023-11-08,China Cba,08:35,Zhejiang Chouzhou,Guangzhou,105.0,100.0,1.25,3.91,201.5,1.85,1.91,-10.5,1.98,1.77
+2023-11-08,China Cba,08:35,Sichuan,Fujian,129.0,140.0,4.04,1.24,212.5,1.85,1.91,7.5,1.98,1.77
+2023-11-08,China Cba,08:35,Shandong,Guangdong,112.0,88.0,3.12,1.36,206.5,1.83,1.89,5.5,1.98,1.77
+2023-11-08,China Cba,08:35,Beijing,Nanjing Tongxi,103.0,102.0,1.2,4.59,197.5,1.81,1.94,-11.5,2.0,1.76
+2023-11-08,Filipinas Copa Commissioners,09:00,Meralco Bolts,Rain Or Shine Paint.,107.0,102.0,1.6,2.3,194.5,1.86,1.88,-4.5,2.01,1.72
+2023-11-08,Europa Copa Europeia Da Fiba,12:00,Sabah Baku,Mornar Bar,81.0,74.0,1.9,1.86,155.5,1.88,1.86,-1.5,2.04,1.69
+2023-11-08,Grécia Copa Da Grécia,12:00,Ermis Schimatari,Panionios,80.0,90.0,3.72,1.24,155.5,1.86,1.8,8.5,1.85,1.81
+2023-11-08,Europa Copa Europeia Da Fiba,13:00,Manisa,Bakken Bears,85.0,80.0,1.18,4.77,164.5,1.88,1.88,-12.5,2.0,1.72
+2023-11-08,Europa Copa Europeia Da Fiba,13:00,TSU,Gottingen,85.0,86.0,4.05,1.23,167.5,1.87,1.87,8.5,2.0,1.72
+2023-11-08,Rússia Liga Vtb United,13:00,Nizhny Novgorod,Saratov,65.0,75.0,1.47,2.75,159.5,1.86,1.88,-6.5,2.04,1.71
+2023-11-08,Finlândia Divisão I Feminina,13:30,Turun NMKY F,Puhuttaret F,67.0,59.0,1.49,2.47,132.5,1.86,1.8,-4.5,1.86,1.8
+2023-11-08,Europa Liga Letônia,13:30,TAL TECH,Latvijas Universitate,73.0,81.0,1.05,8.45,154.5,1.87,1.79,-17.5,2.0,1.72
+2023-11-08,Europa Copa Europeia Da Fiba,13:30,Kataja,Legia,85.0,89.0,4.05,1.23,155.5,1.88,1.88,8.5,2.0,1.72
+2023-11-08,Rússia Liga Vtb United,13:30,Zenit Petersburg,Parma Perm,78.0,54.0,1.19,4.88,153.5,1.81,1.95,-11.5,2.07,1.69
+2023-11-08,República Tcheca Nbl,13:30,Pardubice,Opava,91.0,103.0,2.46,1.53,170.5,1.88,1.88,3.5,2.0,1.72
+2023-11-08,Macedônia Do Norte Prva Liga,13:30,MZT Skopje,Feniks 2010,73.0,64.0,1.06,7.6,154.5,1.84,1.82,-16.5,1.91,1.76
+2023-11-08,Finlândia Korisliiga,13:30,Pyrinto Tampere,Kobrat,75.0,88.0,2.63,1.47,169.5,1.87,1.79,3.5,2.06,1.68
+2023-11-08,Europa Copa Europeia Da Fiba,13:30,Jonava,Karhu Basket,98.0,94.0,1.2,4.48,162.5,1.87,1.87,-11.5,2.01,1.71
+2023-11-08,Lituânia King Mindaugas Cup,13:30,Neptunas,Mazeikiai,109.0,80.0,1.41,2.73,168.5,1.86,1.8,-6.5,2.01,1.72
+2023-11-08,Europa Eurocopa,14:00,BC Wolves,Prometey,85.0,71.0,1.82,1.94,169.5,1.87,1.79,-2.5,2.09,1.66
+2023-11-08,Europa Eurocopa,14:00,Besiktas,Hamburg,90.0,78.0,1.07,7.8,160.5,1.84,1.88,-16.5,2.03,1.7
+2023-11-08,Europa Eurocopa,14:00,Cluj-Napoca,Ulm,86.0,75.0,1.74,2.04,166.5,1.88,1.88,-2.5,1.98,1.74
+2023-11-08,Eslováquia Extraliga,14:00,Nitra,BC Komarno,89.0,98.0,5.96,1.1,159.5,1.82,1.85,12.5,2.03,1.7
+2023-11-08,Eslováquia Extraliga,14:00,Iskra Svit,Inter Bratislava,96.0,83.0,1.58,2.26,159.5,1.8,1.86,-4.5,2.01,1.72
+2023-11-08,Rússia Liga Vtb United,14:00,CSKA Moscow,Samara,94.0,76.0,1.12,6.45,161.5,1.83,1.95,-14.5,2.04,1.73
+2023-11-08,Europa Copa Alpe Adria,14:00,Olomoucko,Vienna,100.0,84.0,2.24,1.59,169.5,1.88,1.78,2.5,1.96,1.76
+2023-11-08,Europa Copa Alpe Adria,14:00,Dabrowa Gornicza,Dinamo Zagreb,92.0,73.0,1.11,5.69,173.5,1.81,1.85,-13.5,1.97,1.74
+2023-11-08,Europa Copa Europeia Da Fiba,14:00,Alba Fehervar,Sporting CP,106.0,102.0,1.47,2.63,168.5,1.87,1.89,-5.5,1.94,1.77
+2023-11-08,Europa Eurocopa,14:00,Turk Telekom,Gran Canaria,69.0,82.0,2.41,1.55,160.5,1.87,1.79,2.5,2.06,1.68
+2023-11-08,Europa Enbl,14:00,Brno,Voluntari,72.0,75.0,2.94,1.36,155.5,1.86,1.8,6.5,1.8,1.86
+2023-11-08,Eslováquia Extraliga,14:00,BKM Lucenec,Prievidza,92.0,85.0,2.03,1.7,155.5,1.8,1.86,1.5,1.91,1.8
+2023-11-08,Europa Copa Europeia Da Fiba,14:30,Spojnia Stargard,Den Bosch,73.0,65.0,1.3,3.44,159.5,1.88,1.88,-8.5,1.95,1.76
+2023-11-08,Europa Copa Europeia Da Fiba,14:30,Rostock,AEK,86.0,73.0,1.31,3.38,160.5,1.87,1.79,-8.5,2.0,1.72
+2023-11-08,Europa Copa Europeia Da Fiba,14:30,Nymburk,Bahcesehir Kol.,91.0,96.0,2.01,1.77,168.5,1.87,1.79,1.5,1.86,1.88
+2023-11-08,Europa Liga Dos Campeões,14:30,Szczecin,AEK Athens,77.0,86.0,2.07,1.72,164.5,1.87,1.87,1.5,1.92,1.82
+2023-11-08,Europa Enbl,15:00,Svendborg,Lublin,62.0,102.0,3.64,1.25,170.5,1.83,1.83,6.5,2.07,1.67
+2023-11-08,Europa Copa Europeia Da Fiba,15:00,Levice,CSM Oradea,65.0,82.0,2.28,1.61,156.5,1.88,1.88,1.5,2.08,1.67
+2023-11-08,Europa Copa Europeia Da Fiba,15:00,Peja,Chemnitz,63.0,99.0,5.88,1.12,164.5,1.81,1.95,11.5,1.99,1.75
+2023-11-08,Europa Eurocopa,15:00,Buducnost,Aris,63.0,65.0,1.34,3.18,152.5,1.87,1.79,-8.5,2.09,1.66
+2023-11-08,Europa Copa Alpe Adria,15:00,Kapfenberg,Usti n. Labem,87.0,79.0,1.8,1.9,168.5,1.8,1.86,-1.5,1.94,1.77
+2023-11-08,Suécia Superettan,15:00,RIG Mark,Hogsbo,56.0,80.0,2.53,1.47,149.5,1.83,1.83,3.5,2.0,1.72
+2023-11-08,Bósnia E Herzegovina Prvenstvo Bih,15:30,Borac Banja Luka,Posusje,69.0,77.0,1.1,5.96,150.5,1.82,1.84,-14.5,2.06,1.68
+2023-11-08,Europa Eurocopa,16:00,Slask Wroclaw,Trento,75.0,84.0,2.23,1.64,161.5,1.87,1.89,1.5,2.07,1.67
+2023-11-08,Europa Liga Dos Campeões,16:00,Bonn,Breogan,86.0,71.0,1.51,2.52,155.5,1.88,1.88,-5.5,2.06,1.67
+2023-11-08,Europa Copa Europeia Da Fiba,16:00,Bilbao,Anwil Wloclawek,76.0,71.0,1.15,5.25,159.5,1.86,1.88,-13.5,2.09,1.66
+2023-11-08,Europa Copa Europeia Da Fiba,16:00,Gravelines-Dunkerque,Leiden,74.0,46.0,1.44,2.73,152.5,1.85,1.89,-6.5,2.02,1.73
+2023-11-08,Europa Copa Europeia Da Fiba,16:00,Zaragoza,Brindisi,91.0,72.0,1.09,6.87,156.5,1.83,1.91,-15.5,2.03,1.68
+2023-11-08,Suécia Superettan,16:00,Sloga Uppsala,Norrort,87.0,84.0,1.79,1.92,154.5,1.87,1.79,-2.5,2.09,1.66
+2023-11-08,Europa Eurobasket Feminino,16:30,Bélgica F,Polónia F,62.0,67.0,1.02,12.5,141.5,1.83,1.93,-25.5,2.0,1.72
+2023-11-08,Europa Copa Europeia Da Fiba,16:30,Caledonia Gladiators,CSU Sibiu,96.0,67.0,1.14,5.56,152.5,1.83,1.93,-13.5,2.02,1.69
+2023-11-08,Europa Copa Europeia Da Fiba,16:30,Varese,Keravnos S.,97.0,90.0,1.03,11.5,169.5,1.86,1.88,-19.5,2.02,1.73
+2023-11-08,Europa Eurocopa,16:30,Paris,Hapoel Tel-Aviv,114.0,87.0,1.57,2.37,173.5,1.89,1.87,-4.5,1.99,1.73
+2023-11-08,Europa Eurocopa,16:30,Joventut,London Lions,76.0,87.0,1.29,3.51,169.5,1.86,1.8,-8.5,2.02,1.71
+2023-11-08,Europa Liga Dos Campeões,17:00,Benfica,Hapoel Jerusalem,66.0,84.0,2.11,1.71,160.5,1.8,1.95,1.5,1.97,1.8
+2023-11-08,Europa Liga Dos Campeões,17:00,Tenerife,VEF Riga,76.0,55.0,1.05,9.4,156.5,1.8,1.93,-16.5,2.03,1.72
+2023-11-08,Europa Copa Europeia Da Fiba,17:00,FC Porto,Norrkoping,84.0,64.0,1.17,4.82,160.5,1.87,1.89,-12.5,2.02,1.71
+2023-11-08,Brasil Nbb,19:30,São José,Minas,67.0,77.0,3.94,1.24,162.5,1.88,1.88,8.5,1.97,1.74
+2023-11-08,Argentina Liga A,20:00,Ferro,Quimsa,64.0,74.0,3.44,1.3,159.5,1.8,1.86,6.5,2.02,1.71
+2023-11-08,Brasil Nbb,20:00,Mogi,Pato,70.0,87.0,1.58,2.34,150.5,1.8,1.93,-5.5,2.07,1.67
+2023-11-08,Brasil Nbb,20:00,São Paulo,Unifacisa,94.0,86.0,1.56,2.38,154.5,1.87,1.89,-4.5,1.98,1.74
+2023-11-08,Eua Nba,21:00,Philadelphia 76ers,Boston Celtics,106.0,103.0,2.15,1.82,225.5,1.82,2.11,1.5,2.05,1.89
+2023-11-08,Eua Nba,21:00,Indiana Pacers,Utah Jazz,134.0,118.0,1.42,3.23,241.5,1.83,2.05,-6.5,1.97,1.97
+2023-11-08,Eua Nba,21:00,Charlotte Hornets,Washington Wizards,116.0,132.0,1.65,2.44,238.5,1.83,2.05,-3.5,2.05,1.89
+2023-11-08,Argentina Liga A,21:00,San Martin,San Lorenzo,64.0,66.0,1.31,3.38,149.5,1.87,1.79,-8.5,1.99,1.73
+2023-11-08,Uruguai Liga Uruguaia,21:00,Trouville,Hebraica y Macabi,93.0,74.0,2.63,1.44,162.5,1.87,1.79,3.5,2.08,1.67
+2023-11-08,Eua Ncaa,21:00,Ohio,Troy,88.0,70.0,1.23,3.97,146.5,1.8,1.91,-8.5,1.73,0.0
+2023-11-08,Eua Ncaa,21:00,Pennsylvania,Bucknell,80.0,61.0,1.08,7.7,142.5,1.8,1.91,-15.5,1.83,1.83
+2023-11-08,Eua Ncaa,21:00,SMU Mustangs,Western Illinois,90.0,53.0,1.02,13.5,142.5,1.8,1.91,-18.5,1.91,1.8
+2023-11-08,Eua Ncaa,21:00,Syracuse,Canisius,89.0,77.0,1.08,7.7,148.5,1.83,1.83,-12.5,1.87,0.0
+2023-11-08,Uruguai Liga Uruguaia,21:00,Defensor Sporting,Urupan,78.0,67.0,1.42,2.59,155.5,1.83,1.83,-7.5,2.08,1.63
