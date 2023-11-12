@@ -6549,3 +6549,30 @@ Date,League,Time,Home,Away,Home_Pts,Away_Pts,Odds_H,Odds_A,Over_Line,Odds_Over,O
 2023-11-11,Eua Ncaa,18:00,Seton Hall,Fairleigh Dickinson,85.0,55.0,1.02,18.0,146.5,1.91,1.91,-19.5,2.0,1.71
 2023-11-11,Portugal Taça Da Liga,18:00,Oliveirense,Ovarense,111.0,60.0,1.25,3.64,151.5,1.83,1.83,-10.5,2.08,1.63
 2023-11-11,Portugal Taça Da Liga,18:15,Lusitania,FC Porto,70.0,101.0,12.5,1.02,165.5,1.83,1.83,19.5,2.08,1.63
+2023-11-11,Argentina Liga A,19:00,Platense,Zarate,79.0,67.0,1.16,5.05,151.5,1.86,1.88,-12.5,1.97,1.74
+2023-11-11,Eua Ncaa,19:00,Seattle,Montana State,71.0,68.0,1.1,7.7,142.5,1.8,1.95,-13.5,2.1,1.67
+2023-11-11,Eua Ncaa,19:00,Mississippi St.,Tenn. Martin,87.0,63.0,1.01,25.0,142.5,1.91,1.91,-23.5,2.0,1.77
+2023-11-11,Eua Ncaa,19:30,Winthrop,Drexel,72.0,74.0,1.8,2.05,137.5,1.8,1.95,-2.5,2.1,1.67
+2023-11-11,Chile Copa Do Chile,19:45,Liceo Pablo Neruda,Leones Quilpue,51.0,111.0,11.6,1.02,154.5,1.8,1.87,33.5,2.0,1.72
+2023-11-11,Argentina Liga A,20:00,Instituto de Cordoba,Independiente de Oliva,84.0,66.0,1.19,4.53,157.5,1.8,1.86,-11.5,2.07,1.67
+2023-11-11,Eua Ncaa,20:00,Providence,Wisc. Milwaukee,79.0,69.0,1.03,17.0,151.5,1.91,1.91,-18.5,2.0,1.71
+2023-11-11,Eua Nba,20:00,Orlando Magic,Milwaukee Bucks,112.0,97.0,2.47,1.55,0.0,0.0,0.0,3.5,1.95,1.85
+2023-11-11,Chile Copa Do Chile,20:00,Puerto Montt,CD Puerto Varas,63.0,72.0,5.85,1.11,146.5,1.8,1.86,11.5,2.01,1.68
+2023-11-11,Eua Ncaa,20:00,Cleveland State,Ohio,82.0,78.0,1.91,1.91,149.5,1.8,1.95,-2.5,2.1,1.63
+2023-11-11,Chile Copa Do Chile,20:30,U. De Concepcion,Puente Alto,87.0,84.0,1.02,11.0,151.5,1.8,1.86,-19.5,1.95,1.72
+2023-11-11,Eua Nba,21:00,Boston Celtics,Toronto Raptors,117.0,94.0,1.32,3.89,0.0,0.0,0.0,-9.5,1.9,1.9
+2023-11-11,Eua Ncaa,21:00,Kent State,Fresno State,79.0,69.0,1.77,2.1,140.5,1.8,1.95,-3.5,2.0,1.71
+2023-11-11,Eua Ncaa,21:00,UNLV,Stetson,71.0,55.0,1.12,6.9,148.5,1.8,1.95,-12.5,2.1,1.67
+2023-11-11,Eua Ncaa,21:00,Niagara,Bucknell,64.0,73.0,1.11,7.2,132.5,1.91,1.91,-11.5,2.0,1.71
+2023-11-11,Argentina Liga A,21:00,Union De Santa Fe,Obras,91.0,98.0,2.73,1.44,163.5,1.87,1.89,3.5,2.02,1.7
+2023-11-11,Eua Ncaa,21:00,Santa Clara,St. Francis (PA),82.0,59.0,1.01,25.0,145.5,1.91,1.91,-23.5,2.0,1.71
+2023-11-11,Eua Ncaa,21:00,Toledo,La Lafayette,87.0,78.0,1.41,3.07,152.5,1.8,1.95,-7.5,2.1,1.67
+2023-11-11,Eua Ncaa,21:00,Columbia,Albany,75.0,78.0,1.37,3.29,148.5,1.8,1.95,-7.5,2.0,1.71
+2023-11-11,Eua Nba,21:30,Atlanta Hawks,Miami Heat,109.0,117.0,1.6,2.56,228.5,1.97,1.97,-6.5,1.9,1.9
+2023-11-11,Eua Ncaa,22:00,Bradley,Utah State,72.0,66.0,1.49,2.74,136.5,1.91,1.91,-6.5,2.1,1.67
+2023-11-11,Eua Ncaa,22:00,Georgetown,Holy Cross,67.0,68.0,1.04,16.0,147.5,1.8,1.95,-17.5,2.1,1.67
+2023-11-11,Eua Ncaa,22:00,North Texas,Nebraska O.,75.0,64.0,1.05,13.0,138.5,1.91,1.91,-16.5,2.1,1.67
+2023-11-11,Eua Ncaa,22:00,St. Louis,Illinois State,80.0,71.0,1.25,4.19,144.5,1.8,1.95,-9.5,2.1,1.67
+2023-11-11,Eua Ncaa,22:00,Richmond,Siena,90.0,48.0,1.1,7.7,143.5,1.91,1.91,-13.5,2.1,1.67
+2023-11-11,Argentina Liga A,22:00,Argentino,Penarol,81.0,66.0,2.37,1.57,164.5,1.87,1.79,2.5,2.0,1.72
+2023-11-11,Eua Ncaa,22:00,Loyola (Ill).,Eastern Illinois,89.0,65.0,1.02,18.0,137.5,1.8,1.95,-19.5,2.0,1.71
