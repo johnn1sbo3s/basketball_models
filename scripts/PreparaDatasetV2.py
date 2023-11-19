@@ -11,33 +11,148 @@ def calcular_mediacg(_df):
         if len(df_cum) == 5:
             df_cum.loc[(df_cum['Home'] == home), 'real_cg'] = df_cum['CustoGolHome']
             df_cum.loc[(df_cum['Away'] == home), 'real_cg'] = df_cum['CustoGolAway']
+            df_cum.loc[(df_cum['Home'] == home), 'real_pontos'] = df_cum['PontosHome']
+            df_cum.loc[(df_cum['Away'] == home), 'real_pontos'] = df_cum['PontosAway']
+            df_cum.loc[(df_cum['Home'] == home), 'real_odds'] = df_cum['Odds_H']
+            df_cum.loc[(df_cum['Away'] == home), 'real_odds'] = df_cum['Odds_A']
+            df_cum.loc[(df_cum['Home'] == home), 'gols_feitos'] = df_cum['Home_Pts']
+            df_cum.loc[(df_cum['Away'] == home), 'gols_feitos'] = df_cum['Away_Pts']
+            df_cum.loc[(df_cum['Home'] == home), 'gols_tomados'] = df_cum['Away_Pts']
+            df_cum.loc[(df_cum['Away'] == home), 'gols_tomados'] = df_cum['Home_Pts']
+            last_cg = df_cum['real_cg'].iloc[-1]
+            media_pts = df_cum['real_pontos'].mean()
+            dp_pts = df_cum['real_pontos'].std()
+            cv_pts = dp_pts / media_pts
             media_CG = df_cum['real_cg'].mean()
             dp_CG = df_cum['real_cg'].std()
             cv_CG = dp_CG / media_CG
+            media_odds = df_cum['real_odds'].mean()
+            dp_odds = df_cum['real_odds'].std()
+            cv_odds = dp_odds / media_odds
+            gols_feitos = df_cum['gols_feitos'].sum()
+            gols_tomados = df_cum['gols_tomados'].sum()
+            saldo_gols = gols_feitos - gols_tomados
             final_df.loc[row.name, 'Avg_CG_H'] = media_CG
             final_df.loc[row.name, 'DP_CG_H'] = dp_CG
             final_df.loc[row.name, 'CV_CG_H'] = cv_CG
+            final_df.loc[row.name, 'Avg_Pontos_H'] = media_pts
+            final_df.loc[row.name, 'DP_Pontos_H'] = dp_pts
+            final_df.loc[row.name, 'CV_Pontos_H'] = cv_pts
+            final_df.loc[row.name, 'CG_H_Last_Game'] = last_cg
+            final_df.loc[row.name, 'Media_Odds_Geral_H'] = media_odds
+            final_df.loc[row.name, 'DP_Odds_Geral_H'] = dp_odds
+            final_df.loc[row.name, 'CV_Odds_Geral_H'] = cv_odds
+            final_df.loc[row.name, 'Saldo_Gols_H'] = saldo_gols
         else:
-            final_df.loc[row.name, 'Avg_CG_H'] = np.nan
-            final_df.loc[row.name, 'DP_CG_H'] = np.nan
-            final_df.loc[row.name, 'CV_CG_H'] = np.nan
+            final_df.loc[row.name, 'Avg_CG_H'] = 0
+            final_df.loc[row.name, 'DP_CG_H'] = 0
+            final_df.loc[row.name, 'CV_CG_H'] = 0
+            final_df.loc[row.name, 'Avg_Pontos_H'] = 0
+            final_df.loc[row.name, 'DP_Pontos_H'] = 0
+            final_df.loc[row.name, 'CV_Pontos_H'] = 0
+            final_df.loc[row.name, 'CG_H_Last_Game'] = 0
+            final_df.loc[row.name, 'Media_Odds_Geral_H'] = 0
+            final_df.loc[row.name, 'DP_Odds_Geral_H'] = 0
+            final_df.loc[row.name, 'CV_Odds_Geral_H'] = 0
+            final_df.loc[row.name, 'Saldo_Gols_H'] = 0
 
         df_cum = _df[(_df['Date'] < date) & ((_df['Home'] == away) | (_df['Away'] == away))].tail(5)
         if len(df_cum) == 5:
             df_cum.loc[(df_cum['Home'] == away), 'real_cg'] = df_cum['CustoGolHome']
             df_cum.loc[(df_cum['Away'] == away), 'real_cg'] = df_cum['CustoGolAway']
+            df_cum.loc[(df_cum['Home'] == away), 'real_pontos'] = df_cum['PontosHome']
+            df_cum.loc[(df_cum['Away'] == away), 'real_pontos'] = df_cum['PontosAway']
+            df_cum.loc[(df_cum['Home'] == away), 'real_odds'] = df_cum['Odds_H']
+            df_cum.loc[(df_cum['Away'] == away), 'real_odds'] = df_cum['Odds_A']
+            df_cum.loc[(df_cum['Home'] == away), 'gols_feitos'] = df_cum['Home_Pts']
+            df_cum.loc[(df_cum['Away'] == away), 'gols_feitos'] = df_cum['Away_Pts']
+            df_cum.loc[(df_cum['Home'] == away), 'gols_tomados'] = df_cum['Away_Pts']
+            df_cum.loc[(df_cum['Away'] == away), 'gols_tomados'] = df_cum['Home_Pts']
+            last_cg = df_cum['real_cg'].iloc[-1]
+            media_pts = df_cum['real_pontos'].mean()
+            dp_pts = df_cum['real_pontos'].std()
+            cv_pts = dp_pts / media_pts
             media_CG = df_cum['real_cg'].mean()
             dp_CG = df_cum['real_cg'].std()
             cv_CG = dp_CG / media_CG
+            media_odds = df_cum['real_odds'].mean()
+            dp_odds = df_cum['real_odds'].std()
+            cv_odds = dp_odds / media_odds
+            gols_feitos = df_cum['gols_feitos'].sum()
+            gols_tomados = df_cum['gols_tomados'].sum()
+            saldo_gols = gols_feitos - gols_tomados
             final_df.loc[row.name, 'Avg_CG_A'] = media_CG
             final_df.loc[row.name, 'DP_CG_A'] = dp_CG
             final_df.loc[row.name, 'CV_CG_A'] = cv_CG
+            final_df.loc[row.name, 'Avg_Pontos_A'] = media_pts
+            final_df.loc[row.name, 'DP_Pontos_A'] = dp_pts
+            final_df.loc[row.name, 'CV_Pontos_A'] = cv_pts
+            final_df.loc[row.name, 'CG_A_Last_Game'] = last_cg
+            final_df.loc[row.name, 'Media_Odds_Geral_A'] = media_odds
+            final_df.loc[row.name, 'DP_Odds_Geral_A'] = dp_odds
+            final_df.loc[row.name, 'CV_Odds_Geral_A'] = cv_odds
+            final_df.loc[row.name, 'Saldo_Gols_A'] = saldo_gols
         else:
-            final_df.loc[row.name, 'Avg_CG_A'] = np.nan
-            final_df.loc[row.name, 'DP_CG_A'] = np.nan
-            final_df.loc[row.name, 'CV_CG_A'] = np.nan
+            final_df.loc[row.name, 'Avg_CG_A'] = 0
+            final_df.loc[row.name, 'DP_CG_A'] = 0
+            final_df.loc[row.name, 'CV_CG_A'] = 0
+            final_df.loc[row.name, 'Avg_Pontos_A'] = 0
+            final_df.loc[row.name, 'DP_Pontos_A'] = 0
+            final_df.loc[row.name, 'CV_Pontos_A'] = 0
+            final_df.loc[row.name, 'CG_A_Last_Game'] = 0
+            final_df.loc[row.name, 'Media_Odds_Geral_A'] = 0
+            final_df.loc[row.name, 'DP_Odds_Geral_A'] = 0
+            final_df.loc[row.name, 'CV_Odds_Geral_A'] = 0
+            final_df.loc[row.name, 'Saldo_Gols_A'] = 0
 
     _df.apply(calcular_media, axis=1)
+
+    return final_df
+
+
+def get_last_info(_df):
+    final_df = _df.copy()
+
+    # Ordena o DataFrame pelo campo 'Date'
+    final_df.sort_values(by='Date', inplace=True)
+    final_df.reset_index(drop=True, inplace=True)
+
+    # Inicializa as colunas de gols das últimas partidas e odds
+    final_df['Goals_Last_H'] = 0
+    final_df['Goals_Last_A'] = 0
+    final_df['Last_Odd_H'] = 0
+    final_df['Last_Odd_A'] = 0
+
+    # Função para obter os gols das últimas partidas e odds
+    def get_goals_and_odds(row):
+        date, home, away = row['Date'], row['Home'], row['Away']
+
+        # Filtra os jogos anteriores do time da casa
+        prev_games_home = _df[((_df['Home'] == home) | (_df['Away'] == home)) & (_df['Date'] < date)]
+        if not prev_games_home.empty:
+            # Seleciona o último jogo
+            last_game_home = prev_games_home.iloc[-1]
+            if last_game_home['Home'] == home:
+                final_df.loc[row.name, 'Goals_Last_H'] = last_game_home['Home_Pts']
+                final_df.loc[row.name, 'Last_Odd_H'] = last_game_home['Odds_H']
+            else:
+                final_df.loc[row.name, 'Goals_Last_H'] = last_game_home['Away_Pts']
+                final_df.loc[row.name, 'Last_Odd_H'] = last_game_home['Odds_A']
+
+        # Filtra os jogos anteriores do time visitante
+        prev_games_away = _df[((_df['Home'] == away) | (_df['Away'] == away)) & (_df['Date'] < date)]
+        if not prev_games_away.empty:
+            # Seleciona o último jogo
+            last_game_away = prev_games_away.iloc[-1]
+            if last_game_away['Home'] == away:
+                final_df.loc[row.name, 'Goals_Last_A'] = last_game_away['Home_Pts']
+                final_df.loc[row.name, 'Last_Odd_A'] = last_game_away['Odds_H']
+            else:
+                final_df.loc[row.name, 'Goals_Last_A'] = last_game_away['Away_Pts']
+                final_df.loc[row.name, 'Last_Odd_A'] = last_game_away['Odds_A']
+
+    # Aplica a função get_goals_and_odds a cada linha do DataFrame
+    final_df.apply(get_goals_and_odds, axis=1)
 
     return final_df
 
@@ -100,13 +215,11 @@ def prepara_df(_df):
     
     _df['P_Diff'] = ((1 / _df['Odds_H']) + (1 / _df['Odds_A'])) - 1
 
-    _df['Porc_Over_Home'] = _df.groupby('Home')['Back_Over'].rolling(5).mean().reset_index(level=0, drop=True)
-    _df['Porc_Over_Away'] = _df.groupby('Away')['Back_Over'].rolling(5).mean().reset_index(level=0, drop=True)
-    _df['Porc_Over_Home']  = _df.groupby('Home')['Porc_Over_Home'].shift(1)
-    _df['Porc_Over_Away']  = _df.groupby('Away')['Porc_Over_Away'].shift(1)
-    _df['Porc_Over_Home'] = _df['Porc_Over_Home'].replace(np.nan, 0)
-    _df['Porc_Over_Away'] = _df['Porc_Over_Away'].replace(np.nan, 0)
-    _df.reset_index(inplace=True, drop=True)
+    # Pontos
+    _df.loc[((_df['Home_Pts']) > (_df['Away_Pts'])), 'PontosHome'] = 3
+    _df.loc[((_df['Home_Pts']) < (_df['Away_Pts'])), 'PontosHome'] = 0
+    _df.loc[((_df['Home_Pts']) < (_df['Away_Pts'])), 'PontosAway'] = 3
+    _df.loc[((_df['Home_Pts']) > (_df['Away_Pts'])), 'PontosAway'] = 0
 
     # Custo do gol
     _df['CustoGolHome'] = _df['Home_Pts'] / (1 / _df['Odds_H'])
@@ -118,6 +231,9 @@ def prepara_df(_df):
     # Média, dp e cv do custo do gol
     _df = calcular_mediacg(_df)
 
+    # Últimos gols e odds
+    _df = get_last_info(_df)
+
     _df['MediaCustoGolHome'] = _df.groupby('Home')['CustoGolHome'].rolling(window=5).mean().reset_index(level=0, drop=True)
     _df['MediaCustoGolAway'] = _df.groupby('Away')['CustoGolAway'].rolling(window=5).mean().reset_index(level=0, drop=True)
     _df['MediaCustoGolHome']  = _df.groupby('Home')['MediaCustoGolHome'].shift(1)
@@ -125,34 +241,6 @@ def prepara_df(_df):
     _df['MediaCustoGolHome'] = _df['MediaCustoGolHome'].replace(np.nan, 0)
     _df['MediaCustoGolAway'] = _df['MediaCustoGolAway'].replace(np.nan, 0)
     
-    # Último custo do gol
-    _df['Last_CG_H']  = _df.groupby('Home')['CustoGolHome'].shift(1)
-    _df['Last_CG_A']  = _df.groupby('Away')['CustoGolAway'].shift(1)
-    _df['Last_CG_H'] = _df['Last_CG_H'].replace(np.nan, 0)
-    _df['Last_CG_A'] = _df['Last_CG_A'].replace(np.nan, 0)
-    
-    limit_up_h = _df.CustoGolHome.mean() + _df.CustoGolHome.std()
-    limit_up_a = _df.CustoGolAway.mean() + _df.CustoGolAway.std()
-    _df.loc[(_df['CustoGolHome'] > limit_up_h), 'Acima_Last_CG_H'] = 1
-    _df.loc[(_df['CustoGolHome'] <= limit_up_h), 'Acima_Last_CG_H'] = 0
-    _df.loc[(_df['CustoGolAway'] > limit_up_a), 'Acima_Last_CG_A'] = 1
-    _df.loc[(_df['CustoGolAway'] <= limit_up_a), 'Acima_Last_CG_A'] = 0
-    _df['Acima_Last_CG_H']  = _df.groupby('Home')['Acima_Last_CG_H'].shift(1)
-    _df['Acima_Last_CG_A']  = _df.groupby('Away')['Acima_Last_CG_A'].shift(1)
-    _df['Acima_Last_CG_H'] = _df['Acima_Last_CG_H'].replace(np.nan, 0)
-    _df['Acima_Last_CG_A'] = _df['Acima_Last_CG_A'].replace(np.nan, 0)
-
-    limit_down_h = _df.CustoGolHome.mean() - _df.CustoGolHome.std()
-    limit_down_a = _df.CustoGolAway.mean() - _df.CustoGolAway.std()
-    _df.loc[(_df['CustoGolHome'] < limit_down_h), 'Abaixo_Last_CG_H'] = 1
-    _df.loc[(_df['CustoGolHome'] >= limit_down_h), 'Abaixo_Last_CG_H'] = 0
-    _df.loc[(_df['CustoGolAway'] < limit_down_a), 'Abaixo_Last_CG_A'] = 1
-    _df.loc[(_df['CustoGolAway'] >= limit_down_a), 'Abaixo_Last_CG_A'] = 0
-    _df['Abaixo_Last_CG_H']  = _df.groupby('Home')['Abaixo_Last_CG_H'].shift(1)
-    _df['Abaixo_Last_CG_A']  = _df.groupby('Away')['Abaixo_Last_CG_A'].shift(1)
-    _df['Abaixo_Last_CG_H'] = _df['Abaixo_Last_CG_H'].replace(np.nan, 0)
-    _df['Abaixo_Last_CG_A'] = _df['Abaixo_Last_CG_A'].replace(np.nan, 0)
-
     _df['CV_ML'] = (_df[['Odds_H', 'Odds_A']].std(axis=1)) / (_df[['Odds_H', 'Odds_A']].mean(axis=1))
     _df['CV_Over'] = (_df[['Odds_Over', 'Odds_Under']].std(axis=1)) / (_df[['Odds_Over', 'Odds_Under']].mean(axis=1))
     _df['CV_HA'] = (_df[['HA_Odds_H', 'HA_Odds_A']].std(axis=1)) / (_df[['HA_Odds_H', 'HA_Odds_A']].mean(axis=1))
@@ -199,5 +287,7 @@ def prepara_df(_df):
     _df['Avg_Porc_BA_Real'] = _df.groupby('Away')['Avg_Porc_BA_Real'].shift(1)
     _df['Avg_Porc_BA_Real'] = _df['Avg_Porc_BA_Real'].fillna(0)
     _df['Dist_Porc_BA'] = _df['Avg_Porc_BA_Real'] - _df['Avg_Porc_BA_Bookie']
+
+    _df.drop(columns=['CustoGolHome', 'CustoGolAway', 'PontosHome', 'PontosAway'], inplace=True)
 
     return _df
