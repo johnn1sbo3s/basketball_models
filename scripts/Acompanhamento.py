@@ -30,7 +30,7 @@ def get_results(data, target, odds):
     print(f'Dias: {dias:.0f} ({total_dias:.0f} totais)')
 
 
-    df_by_day = data.groupby('Date').agg({'Profit': 'sum', 'Fixture ID': 'count'}).reset_index()
+    df_by_day = data.groupby('Date').agg({'Profit': 'sum', odds: 'count'}).reset_index()
     df_by_day = df_by_day.rename(columns={'Profit': 'Total_Profit', 'Fixture ID': 'Qtd_Games'})
     df_by_day['Total_Profit'] = df_by_day['Total_Profit'].round(2)
     df_by_day['Acumulado'] = df_by_day['Total_Profit'].cumsum()
