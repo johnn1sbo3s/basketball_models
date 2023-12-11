@@ -10909,3 +10909,215 @@ Date,League,Time,Home,Away,Home_Pts,Away_Pts,Odds_H,Odds_A,Over_Line,Odds_Over,O
 2023-12-09,Eua Ncaa,23:00,Oregon,UTEP,71.0,49.0,1.07,8.2,145.5,1.83,1.83,-13.5,1.91,1.91
 2023-12-09,Eua Ncaa,23:00,Utah Tech,Idaho,62.0,63.0,1.3,3.66,141.5,1.91,1.91,-8.5,2.0,1.71
 2023-12-09,Eua Ncaa,23:00,Marquette,Notre Dame,78.0,59.0,1.02,14.5,137.5,1.8,1.91,-21.5,1.83,1.83
+2023-12-10,Eua Ncaa,00:00,UNLV,Loyola Marymount,75.0,78.0,1.67,2.33,143.5,1.91,1.91,-4.5,2.05,1.71
+2023-12-10,Austrália Nbl,00:00,Melbourne United,Brisbane Bullets,103.0,68.0,1.35,3.27,177.5,1.88,1.88,-8.5,2.08,1.66
+2023-12-10,Eua Ncaa,00:30,San Diego Toreros,Arizona State,89.0,84.0,4.14,1.26,147.5,1.91,1.91,7.5,2.0,1.71
+2023-12-10,Eua Ncaa,00:30,San Diego State,UC Irvine,63.0,62.0,1.18,5.4,139.5,1.91,1.91,-12.5,2.1,1.67
+2023-12-10,Eua Ncaa,01:00,Washington,Gonzaga,78.0,73.0,2.37,1.65,163.5,1.91,1.91,1.5,2.1,1.67
+2023-12-10,Austrália Liga Feminina Wnbl,01:30,Adelaide Lightning F,Perth Lynx F,95.0,98.0,2.39,1.55,155.5,1.87,1.85,2.5,2.09,1.66
+2023-12-10,Coreia Do Sul Kbl,02:00,Goyang Sono,KoGas,76.0,84.0,1.39,2.96,163.5,1.8,1.86,-7.5,2.08,1.67
+2023-12-10,Cazaquistão Higher League,02:00,ChelSU Kostanay,Karaganda,93.0,71.0,1.45,2.62,151.5,1.85,1.85,-5.5,2.01,1.72
+2023-12-10,Japão B2.League,02:00,Yamagata Wyverns,Altiri Chiba,87.0,100.0,5.08,1.14,166.5,1.85,1.85,10.5,2.0,1.72
+2023-12-10,Japão B2.League,02:00,Shiga,Nara,97.0,79.0,1.25,3.69,152.5,1.87,1.79,-13.5,2.0,1.35
+2023-12-10,Japão B2.League,02:00,Koshigaya Alphas,Iwate,73.0,64.0,1.1,6.3,141.5,1.83,1.87,-14.5,1.98,1.74
+2023-12-10,Japão B2.League,02:00,Kobe,Fukushima,85.0,88.0,1.37,2.93,157.5,1.83,1.87,-7.5,2.06,1.68
+2023-12-10,Austrália Nbl,02:00,Sydney Kings,South East Melbourne,94.0,104.0,1.41,2.94,190.5,1.86,1.8,-7.5,2.1,1.65
+2023-12-10,Japão B2.League,02:00,Ehime Orange Vikings,Aomori,94.0,100.0,2.93,1.37,163.5,1.85,1.85,4.5,2.1,1.65
+2023-12-10,Japão B.League,02:05,Kyoto,Shimane,75.0,106.0,3.08,1.34,156.5,1.8,1.9,5.5,2.0,1.69
+2023-12-10,Japão B.League,02:05,Akita,Yokohama,74.0,73.0,1.56,2.32,154.5,1.85,1.85,-4.5,1.97,1.73
+2023-12-10,Japão B.League,02:05,Nagasaki,Nagoya Fighting Eagles,72.0,67.0,1.48,2.53,159.5,1.8,1.9,-5.5,1.97,1.73
+2023-12-10,Japão B.League,02:05,Sun Rockers Shibuya,Osaka,77.0,65.0,1.24,3.77,151.5,1.85,1.85,-11.5,2.06,1.65
+2023-12-10,Japão B.League,02:05,Sendai,SeaHorses Mikawa,76.0,83.0,2.19,1.63,159.5,1.82,1.88,1.5,2.01,1.7
+2023-12-10,Japão B.League,02:05,Saga,Ibaraki Robots,81.0,68.0,1.26,3.61,152.5,1.86,1.84,-9.5,1.97,1.73
+2023-12-10,Japão B.League,02:05,Toyama,Alvark,67.0,92.0,10.5,1.03,154.5,1.87,1.83,16.5,1.98,1.7
+2023-12-10,Japão B2.League,02:10,Niigata,Kumamoto,72.0,80.0,6.69,1.08,153.5,1.82,1.84,12.5,2.07,1.67
+2023-12-10,Japão B.League,02:55,Hiroshima D.,NeoPhoenix,83.0,103.0,2.18,1.64,163.5,1.84,1.86,1.5,1.99,1.71
+2023-12-10,Japão B2.League,03:00,Shizuoka,Fukuoka,77.0,89.0,1.93,1.79,149.5,1.85,1.85,-1.5,2.09,1.66
+2023-12-10,Taiwan Liga T1,03:00,New Taipei CTBC DEA,Taipei Taishin Mars,86.0,85.0,1.45,2.61,187.5,1.85,1.85,-6.5,2.09,1.66
+2023-12-10,Japão B.League,03:05,Utsunomiya Brex,Brave Thunders,76.0,74.0,1.84,1.88,149.5,1.85,1.83,-2.5,2.1,1.62
+2023-12-10,Japão B.League,03:05,Gunma,Hokkaido,79.0,73.0,1.29,3.37,156.5,1.81,1.87,-9.5,2.07,1.67
+2023-12-10,Japão B.League,03:05,Diamond Dolphins,Chiba,99.0,71.0,1.97,1.76,165.5,1.83,1.87,-2.5,2.0,1.72
+2023-12-10,Taiwan P. League+,03:30,Kaohsiung Steelers,Formosa Dreamers,90.0,91.0,2.2,1.62,185.5,1.84,1.86,-3.5,2.07,1.64
+2023-12-10,Austrália Liga Feminina Wnbl,03:30,Canberra Capitals F,Townsville F,55.0,84.0,4.65,1.18,155.5,1.88,1.85,9.5,2.06,1.68
+2023-12-10,Coreia Do Sul Kbl,04:00,Wonju DB,Anyang JungKwanJang,88.0,83.0,1.21,4.38,172.5,1.87,1.79,-11.5,2.07,1.67
+2023-12-10,Filipinas Copa Commissioners,04:00,NorthPort,Meralco Bolts,99.0,125.0,2.39,1.55,202.5,1.85,1.87,2.5,2.08,1.66
+2023-12-10,Taiwan Liga T1,05:30,Kaohsiung Aquas,Tainan TSG GhostHawks,110.0,82.0,1.98,1.75,195.5,1.85,1.85,1.5,1.85,1.85
+2023-12-10,Taiwan P. League+,06:00,Taoyuan Pauian Pilots,Hsinchu Jko Lioneers,81.0,98.0,1.28,3.44,188.5,1.83,1.85,-9.5,2.03,1.7
+2023-12-10,Japão B.League,06:05,Ryukyu,Shinshu,83.0,79.0,1.09,6.36,155.5,1.84,1.86,-16.5,2.07,1.67
+2023-12-10,Cazaquistão Higher League,06:30,Turan,Bars Petropavlovsk,87.0,85.0,1.36,3.0,157.5,1.85,1.85,-8.5,2.09,1.66
+2023-12-10,Turquia Superliga,07:00,Darussafaka,Manisa,87.0,89.0,2.67,1.45,157.5,1.85,1.89,-5.5,2.04,1.66
+2023-12-10,Finlândia Divisão I Feminina,07:00,Pantterit F,Kataja F,53.0,62.0,1.11,5.88,127.5,1.85,1.85,-13.5,1.97,1.74
+2023-12-10,Filipinas Copa Commissioners,07:15,Magnolia Hotshots,San Miguel Beermen,94.0,90.0,1.35,3.09,199.5,1.86,1.87,-7.5,1.94,1.77
+2023-12-10,Rússia Liga Vtb United,07:30,CSKA Moscow,Zenit Petersburg,104.0,89.0,1.59,2.38,158.5,1.84,1.94,-4.5,2.01,1.76
+2023-12-10,Bulgária Nbl,08:00,Minyor,Cherno More,88.0,81.0,1.62,2.2,164.5,1.8,1.86,-4.5,2.09,1.66
+2023-12-10,Turquia Kbsl Feminina,08:00,Ormanspor F,Galatasaray F,89.0,95.0,2.34,1.55,154.5,1.85,1.85,-2.5,2.04,1.66
+2023-12-10,Grécia A1 Feminina,08:00,Proteas Voulas F,Olympiakos F,56.0,77.0,12.5,1.01,132.5,1.85,1.85,18.5,2.02,1.71
+2023-12-10,Espanha Liga Feminina,08:00,Jairis F,Gran Canaria F,61.0,66.0,1.39,2.84,140.5,1.87,1.79,-6.5,1.98,1.74
+2023-12-10,Espanha Leb Plata,08:00,Algeciras,Iraurgi SB,75.0,72.0,2.53,1.48,153.5,1.85,1.85,3.5,2.0,1.72
+2023-12-10,Portugal Lfb Feminina,08:00,Galitos F,CDEFF F,74.0,60.0,1.49,2.5,127.5,1.85,1.85,-5.5,2.01,1.72
+2023-12-10,Espanha Leb Ouro,08:00,Clavijo,Real Valladolid,69.0,77.0,3.37,1.29,146.5,1.85,1.85,5.5,2.03,1.7
+2023-12-10,Turquia Tbl,08:00,Kapakli Spor,Ankara Kolejliler,92.0,83.0,2.29,1.58,167.5,1.87,1.79,2.5,1.97,1.75
+2023-12-10,Itália Liga A,08:00,Basket Napoli,Reggiana,87.0,89.0,1.54,2.5,167.5,1.85,1.93,-5.5,2.01,1.76
+2023-12-10,Espanha Liga Feminina,08:15,Zaragoza F,IDK Gipuzkoa F,66.0,65.0,1.22,3.98,128.5,1.85,1.85,-10.5,2.03,1.7
+2023-12-10,Grécia Copa Da Grécia,08:30,Melission F,Ioannina F,55.0,86.0,11.7,1.01,130.5,1.85,1.85,20.5,2.01,1.71
+2023-12-10,Espanha Acb,08:30,Joventut,Obradoiro CAB,78.0,69.0,1.37,3.12,164.5,1.83,1.97,-7.5,2.03,1.75
+2023-12-10,China Wcba Feminina,08:30,Shanghai F,Sichuan F,81.0,90.0,5.08,1.14,158.5,1.83,1.87,9.5,2.07,1.64
+2023-12-10,Espanha Acb,08:30,Real Madrid,Gran Canaria,97.0,71.0,1.19,4.85,169.5,1.8,1.96,-12.5,2.06,1.69
+2023-12-10,China Wcba Feminina,08:30,Wuhan F,Xiamen F,78.0,73.0,1.02,11.0,139.5,1.81,1.89,-18.5,1.91,1.78
+2023-12-10,Portugal Lfb Feminina,08:30,ACD Ferragudo F,Quinta Dos Lombos F,42.0,63.0,3.44,1.28,127.5,1.86,1.84,6.5,2.08,1.66
+2023-12-10,Turquia Kbsl Feminina,08:30,Antalya 07 F,Botas F,83.0,78.0,1.7,2.05,155.5,1.85,1.85,-2.5,1.95,1.76
+2023-12-10,China Cba,08:35,Jilin,Ningbo Rockets,116.0,100.0,1.34,3.14,191.5,1.83,1.91,-8.5,1.98,1.71
+2023-12-10,China Cba,08:35,Nanjing Tongxi,Zhejiang Guangsha,104.0,121.0,3.13,1.34,195.5,1.83,1.91,5.5,2.03,1.68
+2023-12-10,China Cba,08:35,Liaoning,Beijing Royal Fighters,113.0,89.0,1.23,3.97,203.5,1.83,1.91,-13.5,2.07,1.67
+2023-12-10,China Cba,08:35,Sichuan,Shanghai,110.0,119.0,5.58,1.13,212.5,1.85,1.89,11.5,1.97,1.72
+2023-12-10,Portugal Lfb Feminina,09:00,Uniao Sportiva F,CAB Madeira F,86.0,50.0,1.14,5.19,132.5,1.85,1.85,-12.5,1.97,1.75
+2023-12-10,Finlândia Divisão I Feminina,09:00,Tapiolan Honka II F,Lappeenranta F,49.0,51.0,1.59,2.26,128.5,1.85,1.85,-4.5,2.08,1.67
+2023-12-10,Turquia Kbsl Feminina,09:30,Tarsus F,Nesibe Aydin F,78.0,73.0,3.2,1.32,152.5,1.85,1.85,5.5,2.1,1.65
+2023-12-10,Turquia Superliga,09:30,Turk Telekom,Petkim Spor,81.0,79.0,1.56,2.36,159.5,1.83,1.91,-5.5,2.01,1.68
+2023-12-10,Áustria Liga Zweite,09:30,Dornbirn Lions,Celovec,91.0,63.0,1.73,2.01,151.5,1.85,1.85,-2.5,2.01,1.72
+2023-12-10,Rússia Liga Vtb United,09:30,Nizhny Novgorod,Parma Perm,72.0,74.0,2.15,1.71,151.5,1.81,1.95,1.5,1.99,1.78
+2023-12-10,Turquia Tbl,09:45,Konyaspor,Sigortam.net ITU,83.0,82.0,2.68,1.43,159.5,1.8,1.86,4.5,1.97,1.75
+2023-12-10,Grécia Liga De Elite,10:00,Lefkadas,Milon Aons,67.0,74.0,2.06,1.69,147.5,1.82,1.88,1.5,1.9,1.8
+2023-12-10,Rússia Liga Vtb United,10:00,Saratov,Uralmash Ekaterinburg,87.0,98.0,1.96,1.85,161.5,1.83,1.93,-1.5,2.1,1.7
+2023-12-10,Sérvia 1. Zls Feminino,10:00,Novosadska Novi Sad F,Nis F,82.0,57.0,1.41,2.76,139.5,1.85,1.85,-5.5,1.85,1.85
+2023-12-10,Europa Wbbl (Fem.),10:00,Panevezys F,Kibirkstis Vilnius F,42.0,76.0,13.3,26.0,148.5,1.84,1.84,35.5,2.0,1.72
+2023-12-10,Reino Unido Wbbl (Fem.),10:15,BA London Lions F,Nottingham Wildcats F,140.0,42.0,1.71,1.99,157.5,1.84,1.86,-55.5,1.85,1.85
+2023-12-10,França Lnb,10:30,Le Portel,Monaco,67.0,74.0,3.9,1.26,160.5,1.82,1.94,7.5,2.08,1.71
+2023-12-10,Alemanha Pro A,10:30,Munster,Bremerhaven,89.0,82.0,1.69,2.06,166.5,1.85,1.85,-5.5,2.07,1.67
+2023-12-10,Áustria Copa Da Áustria,10:45,Traiskirchen,UBSC Graz,85.0,66.0,1.29,3.37,151.5,1.83,1.87,-9.5,2.05,1.65
+2023-12-10,Alemanha Pro A,11:00,Jena,Koblenz,96.0,79.0,1.22,3.98,163.5,1.85,1.85,-11.5,2.07,1.67
+2023-12-10,Suécia Superettan,11:00,Sloga Uppsala,Malbas,79.0,63.0,1.46,2.59,154.5,1.85,1.85,-6.5,2.07,1.67
+2023-12-10,Reino Unido Wbbl (Fem.),11:00,Manchester Giants F,Essex Rebels F,76.0,87.0,2.05,1.7,149.5,1.85,1.85,-1.5,1.85,1.85
+2023-12-10,França Lfb Feminina,11:15,Landes F,ESB Villeneuve F,66.0,64.0,1.83,1.89,143.5,1.88,1.79,-1.5,1.97,1.74
+2023-12-10,Polônia Liga De Basquete,11:30,Anwil Wloclawek,Spojnia Stargard,78.0,69.0,1.33,3.21,153.5,1.82,1.9,-8.5,1.99,1.73
+2023-12-10,Turquia Tbl,11:30,Mersin B. B. S.,Gaziantep,77.0,86.0,1.65,2.15,154.5,1.83,1.87,-3.5,1.96,1.75
+2023-12-10,Finlândia I Divisão A,11:30,Helsingin NMKY,ToPo,93.0,94.0,5.72,1.12,173.5,1.85,1.85,11.5,2.0,1.72
+2023-12-10,Reino Unido Bbl,12:00,Sheffield Sharks,Cheshire Phoenix,85.0,104.0,1.71,2.03,161.5,1.87,1.79,-2.5,1.95,1.76
+2023-12-10,Portugal Lfb Feminina,12:00,Benfica F,Imortal F,46.0,55.0,1.47,2.56,130.5,1.85,1.85,-5.5,2.01,1.72
+2023-12-10,Suíça Liga Sb,12:00,Sdent BBC Nyon,SAM Massagno,62.0,81.0,4.61,1.17,153.5,1.82,1.84,9.5,2.04,1.7
+2023-12-10,Noruega Blno,12:00,Froya,Centrum Tigers,77.0,69.0,1.4,2.8,154.5,1.85,1.85,-12.5,1.98,1.72
+2023-12-10,Suécia Superettan,12:00,Wetterbygden Stars,Tureberg,71.0,56.0,1.78,1.94,158.5,1.81,1.89,-2.5,2.0,1.72
+2023-12-10,Bélgica Copa Da Bélgica,12:00,Oostende,Limburg,70.0,78.0,1.37,2.89,146.5,1.87,1.79,-7.5,2.09,1.66
+2023-12-10,Bélgica Copa Da Bélgica,12:00,Spirou Charleroi,Circus Brussels,47.0,43.0,1.51,2.5,143.5,1.82,1.84,-6.5,2.06,1.68
+2023-12-10,Polônia 1. Liga,12:00,Bydgoszcz,Starogard Gdanski,73.0,60.0,1.45,2.61,147.5,1.81,1.85,-5.5,1.95,1.76
+2023-12-10,Polônia 1. Liga,12:00,HydroTruck Radom,GKS Tychy,82.0,83.0,1.68,2.1,153.5,1.83,1.85,-3.5,2.06,1.68
+2023-12-10,Turquia Superliga,12:00,Bursaspor,Merkezefendi,85.0,87.0,1.17,4.74,161.5,1.81,1.93,-13.5,1.98,1.7
+2023-12-10,Polônia Liga Feminina De Basquete,12:00,Pruszkow F,AZS Poznan F,52.0,80.0,7.8,1.06,141.5,1.85,1.85,19.5,2.06,1.68
+2023-12-10,República Tcheca 1. Liga,12:00,Jindrichuv Hradec,Chomutov,112.0,75.0,1.02,12.5,163.5,1.85,1.85,-22.5,2.07,1.67
+2023-12-10,Finlândia Divisão I Feminina,12:00,Korihait F,Lahti Basketball F,50.0,62.0,2.32,1.56,131.5,1.85,1.85,2.5,1.99,1.73
+2023-12-10,Finlândia Divisão I Feminina,12:00,Turun NMKY F,BC Nokia F,39.0,53.0,2.93,1.37,133.5,1.85,1.85,4.5,2.1,1.66
+2023-12-10,Áustria Liga Zweite,12:00,Wagram,Mistelbach,74.0,66.0,1.69,2.09,138.5,1.87,1.79,-3.5,2.06,1.68
+2023-12-10,Geórgia Superliga,12:00,Batumi,Gau,76.0,85.0,1.33,3.12,170.5,1.85,1.85,-7.5,1.9,1.8
+2023-12-10,Finlândia I Divisão A,12:00,Kipina,Huima,94.0,83.0,1.09,6.47,171.5,1.86,1.84,-14.5,1.99,1.73
+2023-12-10,Alemanha Dbbl Feminina,12:00,Osnabruck F,TK Hannover F,65.0,58.0,1.62,2.2,133.5,1.85,1.83,-7.5,2.09,1.66
+2023-12-10,Europa Liga Letônia,12:00,Viimsi,Valmiera Glass Via,96.0,82.0,1.76,1.97,164.5,1.87,1.83,-2.5,2.04,1.69
+2023-12-10,Europa Liga Bnxt,12:00,Yoast Utd,Leiden,83.0,79.0,6.47,1.09,153.5,1.85,1.85,12.5,2.0,1.72
+2023-12-10,Alemanha Dbbl Feminina,12:00,Keltern F,Herner F,82.0,53.0,1.23,3.84,141.5,1.8,1.87,-11.5,2.1,1.65
+2023-12-10,Alemanha Dbbl Feminina,12:00,Eigner Angels Nordlingen F,Saarlouis F,62.0,57.0,1.48,2.53,138.5,1.84,1.86,-5.5,1.95,1.76
+2023-12-10,Alemanha Pro B,12:00,Sandersdorf,Berlin Braves,77.0,76.0,1.48,2.53,155.5,1.85,1.85,-6.5,2.07,1.67
+2023-12-10,Finlândia Korisliiga Feminina,12:00,Kouvottaret F,Pyrinto F,78.0,83.0,2.12,1.67,156.5,1.8,1.86,1.5,1.93,1.78
+2023-12-10,Alemanha Pro A,12:00,Vechta 2,Nurnberger,77.0,96.0,1.91,1.81,158.5,1.87,1.79,-1.5,2.09,1.66
+2023-12-10,Áustria Superliga Feminina,12:00,UBI Graz F,Polten F,65.0,69.0,10.5,1.03,129.5,1.85,1.85,13.5,2.02,1.7
+2023-12-10,Grécia Liga De Basquete,12:15,Aris,Peristeri,81.0,73.0,1.82,1.96,152.5,1.86,1.8,-2.5,2.08,1.66
+2023-12-10,Lituânia Lkl,12:20,Neptunas,Jonava,69.0,64.0,1.4,2.8,167.5,1.85,1.85,-6.5,1.98,1.74
+2023-12-10,Bósnia E Herzegovina Prvenstvo Bih Feminina,12:30,Kozara F,Mladi Krajisnik F,64.0,76.0,1.39,2.84,120.5,1.83,1.87,-6.5,1.95,1.76
+2023-12-10,Itália Liga A,12:30,Brescia,Sassari,110.0,65.0,1.22,4.39,163.5,1.85,1.93,-11.5,2.06,1.69
+2023-12-10,França Lnb,12:30,Nancy,Limoges,67.0,75.0,1.58,2.4,157.5,1.83,1.93,-5.5,2.05,1.73
+2023-12-10,Noruega Blno,13:00,Ammerud,Tromso,81.0,86.0,4.3,1.19,165.5,1.83,1.87,8.5,2.06,1.67
+2023-12-10,República Tcheca Zbl Feminina,13:00,Ostrava F,USK Prague F,63.0,110.0,1.63,2.08,141.5,1.88,1.78,44.5,1.98,1.72
+2023-12-10,Espanha Leb Ouro,13:00,Gipuzkoa,Leyma Coruna,84.0,91.0,1.62,2.2,159.5,1.83,1.85,-3.5,1.95,1.76
+2023-12-10,República Tcheca 1. Liga,13:00,Svitavy,Hradec Kralove,86.0,81.0,1.76,1.97,170.5,1.81,1.85,-2.5,2.02,1.71
+2023-12-10,República Tcheca Nbl,13:00,Srsni Pisek,Pardubice,105.0,83.0,3.31,1.3,172.5,1.85,1.85,6.5,2.07,1.67
+2023-12-10,Croácia Premijer Liga,13:00,Zadar,Cibona,79.0,83.0,1.04,8.9,155.5,1.88,1.82,-17.5,2.07,1.67
+2023-12-10,Portugal Taça De Portugal,13:00,Imortal,Galomar,98.0,89.0,1.77,1.95,151.5,1.81,1.89,-1.5,1.87,1.83
+2023-12-10,Chipre Divisão A,13:00,Paeek,Etha Encomi,94.0,108.0,1.59,2.26,154.5,1.85,1.85,-4.5,2.01,1.72
+2023-12-10,Islândia Copa Da Islândia,13:00,Breidablik,Tindastoll,81.0,89.0,5.72,1.12,178.5,1.85,1.85,11.5,2.0,1.72
+2023-12-10,Islândia Copa Da Islândia,13:00,Hamar,Hottur,82.0,84.0,3.98,1.22,177.5,1.85,1.85,8.5,2.0,1.72
+2023-12-10,Espanha Acb,13:00,Baskonia,Tenerife,104.0,100.0,1.33,3.38,164.5,1.87,1.92,-7.5,2.03,1.75
+2023-12-10,Alemanha Copa Da Alemanha,13:00,Bonn,Bayern,78.0,86.0,2.34,1.57,163.5,1.8,1.87,1.5,2.1,1.65
+2023-12-10,Alemanha Pro A,13:00,Trier,Kirchheim,95.0,67.0,1.53,2.39,170.5,1.87,1.79,-5.5,2.09,1.66
+2023-12-10,Turquia Tb2L,13:00,Cozum Ankara,Tesvikiye,59.0,80.0,1.47,2.56,143.5,1.85,1.85,-5.5,2.01,1.72
+2023-12-10,Espanha Acb,13:00,Murcia,Valencia,77.0,85.0,1.55,2.47,158.5,1.88,1.9,-4.5,2.0,1.79
+2023-12-10,Itália Liga A,13:00,Cremona,Treviso,70.0,76.0,1.49,2.65,166.5,1.82,1.96,-6.5,2.07,1.72
+2023-12-10,Reino Unido Bbl,13:30,London Lions,Leicester Riders,100.0,62.0,1.15,5.03,178.5,1.81,1.85,-12.5,1.97,1.74
+2023-12-10,Eua Ncaa,13:30,North Texas,Fordham,59.0,60.0,1.4,3.12,128.5,1.91,1.91,-6.5,2.0,1.71
+2023-12-10,Polônia Liga De Basquete,13:30,Legia,Slask Wroclaw,82.0,98.0,1.17,4.69,154.5,1.87,1.87,-12.5,2.05,1.69
+2023-12-10,Itália Liga A,13:30,Milano,Virtus Bologna,82.0,80.0,1.55,2.47,158.5,1.88,1.92,-5.5,2.06,1.71
+2023-12-10,Suíça Liga Sb Feminina,13:30,Baden F,Pully F,73.0,78.0,1.65,2.15,135.5,1.85,1.85,-3.5,2.0,1.72
+2023-12-10,República Tcheca 1. Liga,14:00,Brno U23,Zlin,99.0,58.0,1.06,7.7,160.5,1.85,1.85,-17.5,1.94,1.76
+2023-12-10,República Tcheca Nbl,14:00,Usti n. Labem,Ostrava,94.0,88.0,1.18,4.42,164.5,1.84,1.86,-11.5,1.97,1.75
+2023-12-10,Áustria Copa Da Áustria,14:00,Klosterneuburg,Wels,78.0,81.0,1.3,3.31,147.5,1.85,1.85,-9.5,2.09,1.63
+2023-12-10,Itália Série A2,14:00,Pallacanestro Nardo,Trieste,75.0,83.0,3.69,1.25,159.5,1.8,1.86,7.5,2.0,1.72
+2023-12-10,Eua Ncaa,14:00,Providence,Brown,74.0,54.0,1.06,11.0,138.5,1.8,1.95,-16.5,2.0,1.71
+2023-12-10,Bósnia E Herzegovina Prvenstvo Bih,14:00,Slavija,Posusje,86.0,65.0,1.61,2.22,163.5,1.87,1.83,-4.5,2.03,1.7
+2023-12-10,Áustria Liga Zweite,14:00,Vienna United,Mattersburg,79.0,61.0,1.5,2.47,138.5,1.85,1.85,-5.5,2.07,1.68
+2023-12-10,Áustria Liga Zweite,14:00,Gussing Blackbirds,Kufstein,65.0,60.0,1.34,3.08,142.5,1.87,1.79,-7.5,1.99,1.73
+2023-12-10,Itália Série A2,14:00,Sebastiani Rieti,Treviglio,85.0,76.0,2.07,1.7,161.5,1.83,1.85,1.5,1.92,1.79
+2023-12-10,Itália Série A1 Feminina,14:00,Venezia F,Ragusa F,73.0,62.0,1.06,8.1,136.5,1.85,1.85,-16.5,1.98,1.74
+2023-12-10,Itália Série A1 Feminina,14:00,Oxygen Roma F,Faenza F,77.0,54.0,1.41,2.76,140.5,1.87,1.79,-6.5,2.01,1.72
+2023-12-10,Itália Série A2,14:00,Chiusi,Cividale,51.0,69.0,1.73,2.01,143.5,1.88,1.79,-2.5,2.01,1.72
+2023-12-10,Itália Série A2,14:00,Monferrato,Vigevano,86.0,61.0,1.39,2.84,162.5,1.85,1.83,-6.5,1.95,1.76
+2023-12-10,Itália Série A1 Feminina,14:00,Schio F,San Martino F,74.0,67.0,1.06,7.9,144.5,1.85,1.85,-16.5,1.98,1.74
+2023-12-10,Itália Série A1 Feminina,14:00,San Giovanni F,Sanga Milano F,77.0,53.0,1.02,11.1,132.5,1.85,1.85,-19.5,2.06,1.68
+2023-12-10,Chipre Divisão A,14:00,Keravnos S.,Anorthosis,75.0,72.0,1.13,5.35,156.5,1.85,1.85,-14.5,2.08,1.66
+2023-12-10,Itália Série A1 Feminina,14:00,Campobasso F,Brixia F,78.0,75.0,1.03,9.9,131.5,1.85,1.85,-18.5,2.06,1.68
+2023-12-10,Noruega Blno,14:00,Bærum,Gimle,80.0,75.0,2.18,1.64,157.5,1.85,1.85,1.5,1.99,1.71
+2023-12-10,Itália Série A2,14:00,Assigeco Piacenza,Cento,77.0,59.0,1.5,2.47,152.5,1.83,1.87,-5.5,2.04,1.69
+2023-12-10,Eslovênia Liga Nova Kbm,14:00,Hopsi Polzela,Krka,92.0,111.0,6.84,1.08,165.5,1.85,1.85,10.5,1.95,1.74
+2023-12-10,Itália Série A2,14:00,Basket Torino,Agrigento,88.0,77.0,1.28,3.44,162.5,1.86,1.84,-9.5,2.09,1.66
+2023-12-10,Polônia 1. Liga,14:00,Alstom Krakow,Gornik Walbrzych,85.0,92.0,6.2,1.1,153.5,1.87,1.79,11.5,2.1,1.65
+2023-12-10,Polônia 1. Liga,14:00,Kotwica Kolobrzeg,Sokol Miedzychod,85.0,73.0,1.07,7.28,170.5,1.8,1.86,-15.5,1.99,1.73
+2023-12-10,Polônia Liga Feminina De Basquete,14:00,Sleza Wroclaw F,Gorzow F,81.0,72.0,1.64,2.17,150.5,1.83,1.87,-3.5,1.96,1.75
+2023-12-10,Itália Série A2,14:00,Udine,Verona,76.0,63.0,1.49,2.5,149.5,1.84,1.86,-5.5,2.03,1.7
+2023-12-10,Espanha Liga Feminina,14:15,Barcelona CBS F,Valencia F,42.0,92.0,6.95,1.08,126.5,1.83,1.87,13.5,1.95,1.76
+2023-12-10,Espanha Leb Ouro,14:30,Estudiantes,Lleida,75.0,72.0,1.25,3.69,155.5,1.87,1.83,-9.5,1.95,1.76
+2023-12-10,Lituânia Lkl,14:30,Zalgiris Kaunas,Nevezis,102.0,98.0,1.04,9.0,161.5,1.84,1.86,-17.5,1.98,1.74
+2023-12-10,Itália Liga A,14:30,Pesaro,Trento,74.0,87.0,2.22,1.67,167.5,1.83,1.93,1.5,2.04,1.74
+2023-12-10,Portugal Lfb Feminina,14:30,Barcelos F,Gdessa Barreiro F,64.0,77.0,2.93,1.37,133.5,1.87,1.79,4.5,2.08,1.67
+2023-12-10,Portugal Taça De Portugal,14:30,CD Póvoa,CAQ Queluz,88.0,84.0,1.22,3.98,162.5,1.85,1.85,-10.5,2.0,1.72
+2023-12-10,Espanha Acb,14:30,Zaragoza,Barcelona,101.0,99.0,4.26,1.23,162.5,1.83,1.95,7.5,2.01,1.78
+2023-12-10,Eua Ncaa,15:00,AR Little Rock,Winthrop,68.0,85.0,1.91,1.91,158.5,1.8,1.95,-1.5,2.0,1.69
+2023-12-10,Eua Ncaa,15:00,Saint Josephs,Princeton,74.0,70.0,1.87,1.95,137.5,1.8,1.95,-2.5,2.1,1.67
+2023-12-10,Eua Ncaa,15:00,Wagner,Boston University,59.0,73.0,1.61,2.47,124.5,1.8,1.95,-4.5,2.0,1.71
+2023-12-10,Itália Série A2,15:00,Rimini,Orzinuovi,90.0,76.0,1.37,2.93,148.5,1.86,1.8,-7.5,2.08,1.67
+2023-12-10,Reino Unido Wbbl (Fem.),15:00,Sheffield Hatters F,Caledonia Gladiators F,87.0,67.0,1.75,1.98,148.5,1.85,1.85,-3.5,1.89,1.81
+2023-12-10,Bósnia E Herzegovina Prvenstvo Bih,15:00,Mrkonjic Grad,Prijedor,81.0,71.0,1.47,2.56,162.5,1.83,1.87,-5.5,2.0,1.72
+2023-12-10,França Lnb,15:00,Paris,Lyon-Villeurbanne,92.0,86.0,1.59,2.38,161.5,1.8,1.96,-4.5,2.06,1.73
+2023-12-10,Hungria Nacional,15:00,Szombathely,Zalakeramia,100.0,72.0,1.03,9.65,169.5,1.83,1.87,-18.5,2.01,1.68
+2023-12-10,Reino Unido Bbl,15:00,Caledonia Gladiators,Manchester Giants,86.0,80.0,1.27,3.53,170.5,1.85,1.85,-9.5,2.06,1.68
+2023-12-10,Grécia Liga De Basquete,15:15,Panathinaikos,PAOK,97.0,85.0,1.06,9.0,157.5,1.88,1.79,-18.5,1.94,1.77
+2023-12-10,Israel Superliga,15:30,Ironi Kiryat Ata,Maccabi Ironi Ramat Gan,71.0,94.0,1.66,2.17,166.5,1.86,1.88,-4.5,2.1,1.62
+2023-12-10,Itália Liga A,15:30,Brindisi,Varese,86.0,81.0,1.48,2.68,168.5,1.84,1.94,-6.5,2.04,1.72
+2023-12-10,Áustria Liga Zweite,15:30,Salzburg,Worthersee Piraten,56.0,89.0,3.61,1.26,143.5,1.87,1.83,7.5,2.0,1.72
+2023-12-10,Polônia Liga De Basquete,15:30,Zielona Gora,Dziki Warszawa,91.0,97.0,1.75,2.01,165.5,1.88,1.78,-2.5,2.01,1.72
+2023-12-10,Eua Ncaa,16:00,Northwestern,Detroit,91.0,59.0,1.02,18.0,132.5,1.91,1.91,-25.5,2.05,1.71
+2023-12-10,Eua Ncaa,16:00,VCU Rams,Alcorn State,86.0,58.0,1.07,10.5,142.5,1.91,1.91,-15.5,2.1,1.67
+2023-12-10,Eua Ncaa,16:00,Miami,Colorado,63.0,90.0,1.87,1.95,152.5,1.8,1.95,-2.5,2.05,1.71
+2023-12-10,Eua Ncaa,16:00,Coll Of Charltn,Rhode Island,85.0,70.0,1.21,4.67,148.5,1.91,1.91,-10.5,2.0,1.71
+2023-12-10,Polônia Liga Feminina De Basquete,16:00,Lublin F,Polonia W. F,75.0,50.0,1.01,13.0,144.5,1.83,1.87,-20.5,1.98,1.74
+2023-12-10,Eua Ncaa,16:00,Ball State,Siu Edwardsville,83.0,71.0,1.71,2.23,135.5,1.91,1.91,-3.5,2.1,1.67
+2023-12-10,Croácia Premijer Liga,16:00,GKK Sibenka,Split,75.0,98.0,4.46,1.18,155.5,1.82,1.88,8.5,2.09,1.63
+2023-12-10,Macedônia Do Norte Prva Liga,16:00,Feniks 2010,TFT Skopje,75.0,79.0,1.54,2.37,149.5,1.85,1.85,-9.5,2.04,1.69
+2023-12-10,Áustria Superliga Feminina,16:15,Vienna United F,Vienna Timberwolves F,54.0,63.0,4.56,1.17,129.5,1.83,1.87,10.5,2.03,1.7
+2023-12-10,Itália Série A2,16:30,Cantu,Latina,90.0,72.0,1.04,9.1,168.5,1.87,1.79,-17.5,1.99,1.73
+2023-12-10,Itália Série A2,16:30,Forli,Fortitudo Bologna,77.0,74.0,1.49,2.5,152.5,1.85,1.85,-5.5,2.03,1.7
+2023-12-10,Itália Série A2,16:30,Trapani,Urania Milano,104.0,83.0,1.11,5.99,170.5,1.85,1.85,-12.5,2.06,1.68
+2023-12-10,Eua Ncaa,17:00,Eastern Illinois,Central Arkansas,70.0,73.0,1.44,2.94,141.5,1.91,1.91,-6.5,2.1,1.67
+2023-12-10,Eua Ncaa,17:00,North Alabama,Morehead State,77.0,86.0,1.95,1.87,140.5,1.91,1.91,-1.5,2.1,1.67
+2023-12-10,Eua Ncaa,17:00,Chicago St,St. Thomas (Minn.),50.0,66.0,2.51,1.59,132.5,1.91,1.91,2.5,2.1,1.67
+2023-12-10,Eua Ncaa,18:00,East Tennessee St,Tennessee Tech,73.0,72.0,1.27,3.97,137.5,1.91,1.91,-9.5,2.0,1.71
+2023-12-10,Eua Ncaa,18:00,Texas A&M,Memphis,75.0,81.0,1.3,3.66,149.5,1.91,1.91,-9.5,2.1,1.67
+2023-12-10,Eua Ncaa,18:00,UCF Knights,Ole Miss,68.0,70.0,1.63,2.42,138.5,1.91,1.91,-4.5,2.0,1.71
+2023-12-10,Eua Ncaa,18:00,USC,Long Beach State,79.0,84.0,1.08,8.8,156.5,1.91,1.91,-15.5,2.1,1.67
+2023-12-10,Eua Ncaa,18:30,Boston College,St. Johns,86.0,80.0,3.07,1.41,151.5,1.91,1.91,4.5,2.1,1.67
+2023-12-10,Eua Ncaa,18:30,Iowa,Michigan,80.0,90.0,1.59,2.51,159.5,1.8,1.95,-5.5,2.05,1.71
+2023-12-10,Eua Ncaa,18:30,NC Greensboro,Elon,82.0,73.0,1.11,7.5,147.5,1.91,1.91,-13.5,2.1,1.67
+2023-12-10,Eua Ncaa,19:00,Iona,St. Francis (PA),61.0,54.0,1.06,11.0,140.5,1.91,1.91,-17.5,2.05,1.71
+2023-12-10,Eua Ncaa,19:00,Lipscomb,Tennessee State,78.0,71.0,1.37,3.24,152.5,1.91,1.91,-7.5,2.1,1.67
+2023-12-10,Argentina Liga A,20:00,Platense,Independiente de Oliva,82.0,77.0,1.23,3.86,153.5,1.88,1.79,-10.5,2.03,1.7
+2023-12-10,Eua Ncaa,20:30,Oklahoma State,Tulsa,72.0,57.0,1.42,3.04,144.5,2.05,1.71,-7.5,2.1,1.67
+2023-12-10,Eua Ncaa,20:30,Nebraska,Michigan State,77.0,70.0,2.42,1.63,141.5,1.91,1.91,2.5,2.0,1.71
+2023-12-10,Chile Copa Do Chile,20:30,Valdivia,Espanol Osorno,65.0,66.0,2.39,1.53,143.5,1.85,1.85,1.5,1.95,1.72
+2023-12-10,Eua Ncaa,21:00,Temple,Albany,78.0,73.0,1.38,3.17,152.5,1.8,1.95,-8.5,2.1,1.67
+2023-12-10,Argentina Liga A,21:00,La Union,Olimpico,78.0,96.0,3.2,1.32,159.5,1.87,1.79,5.5,2.08,1.67
+2023-12-10,Eua Ncaa,22:00,Washington State,Grambling St.,83.0,65.0,1.01,20.0,137.5,1.8,1.95,-23.5,2.05,1.71
