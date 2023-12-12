@@ -1,0 +1,69 @@
+Fixture ID,Date,League,Time,Home,Away,Odds_H,Odds_A,Over_Line,Odds_Over,Odds_Under,HA_Line,HA_Odds_H,HA_Odds_A
+lnxkX89T,2023-12-12,Brasil Nbb,20:00,São José,Mogi,1.17,4.56,156.5,1.87,1.79,-11.5,1.98,1.74
+6mKN8vEl,2023-12-12,Espanha Acb,16:30,Baskonia,Palencia,1.06,9.4,165.5,1.83,1.93,-16.5,2.07,1.7
+GjB4xXA8,2023-12-12,Eua Nba,21:30,Boston Celtics,Cleveland Cavaliers,1.21,5.31,222.5,1.8,2.08,-10.5,2.01,1.93
+fsA8yiQE,2023-12-12,Eua Nba,21:30,Dallas Mavericks,Los Angeles Lakers,2.11,1.85,232.5,1.8,2.08,1.5,2.01,1.93
+x6aDzBuL,2023-12-12,Eua Nba,22:00,Chicago Bulls,Denver Nuggets,3.38,1.39,218.5,1.8,2.08,6.5,2.09,1.85
+nJcwxEML,2023-12-12,Europa Eurocopa,14:00,BC Wolves,Hapoel Tel-Aviv,3.08,1.34,174.5,1.86,1.84,5.5,2.02,1.71
+tYMIuBum,2023-12-12,Europa Eurocopa,14:00,Cluj-Napoca,Slask Wroclaw,1.03,10.0,163.5,1.86,1.84,-18.5,2.01,1.71
+zXFRwkAa,2023-12-12,Europa Eurocopa,15:00,Aris,Lietkabelis,1.7,2.07,153.5,1.86,1.8,-3.5,2.09,1.66
+UgFVx9P5,2023-12-12,Europa Eurocopa,15:00,Ulm,Gran Canaria,2.19,1.63,171.5,1.87,1.79,1.5,2.02,1.71
+hdbZxf7F,2023-12-12,Europa Eurocopa,16:30,Paris,Venezia,1.22,3.98,167.5,1.83,1.85,-10.5,1.96,1.75
+dO95LtUT,2023-12-12,Argentina Liga A,22:10,San Martin,Olimpico,2.24,1.6,152.5,1.83,1.85,1.5,2.03,1.7
+Eo1NrZMm,2023-12-12,Ásia Wasl,14:00,Al-Rayyan,Al Muharraq,2.76,1.41,171.5,1.83,1.87,-1.5,2.03,1.67
+AV3rR3f8,2023-12-12,Catar Liga De Basquete Do Catar,13:00,Catar,Al Gharafa,1.57,2.31,155.5,1.85,1.85,-4.5,1.98,1.74
+ze0zHodr,2023-12-12,Croácia Copa Da Croácia,14:00,Cibona,Skrljevo,1.04,9.45,157.5,1.87,1.79,-18.5,1.96,1.96
+rVM8wiC0,2023-12-12,Eslovênia 1. Skl Feminino,16:45,Triglav F,Cinkarna Celje F,16.0,1.01,144.5,1.87,1.79,22.5,2.1,1.66
+S2xgmN3d,2023-12-12,Eua Ncaa,14:00,Southern,Champion Christian Tigers,1.67,2.03,158.5,1.83,1.83,-49.5,2.08,1.63
+23B0Rw3i,2023-12-12,Eua Ncaa,20:00,UMass Lowell,LIU Sharks,1.06,11.0,150.5,1.8,1.95,-19.5,2.0,1.71
+EH3uYNIl,2023-12-12,Eua Ncaa,20:30,Seton Hall,Monmouth (N.J.),1.07,9.8,140.5,1.91,1.91,-16.5,2.1,1.67
+EyfBTul2,2023-12-12,Eua Ncaa,21:00,Cincinnati,Bryant University,1.04,13.5,151.5,1.8,1.95,-20.5,2.1,1.67
+0pSH7Xb4,2023-12-12,Eua Ncaa,21:00,Duke,Hofstra,1.07,9.8,143.5,1.8,1.95,-16.5,2.1,1.67
+ravKvD42,2023-12-12,Eua Ncaa,21:00,Louisiana Tech,SE Louisiana,1.08,9.3,133.5,1.91,1.91,-15.5,2.1,1.67
+hQwgP2h0,2023-12-12,Eua Ncaa,21:00,Maryland,Alcorn State,1.03,18.0,143.5,1.91,1.91,-22.5,2.0,1.71
+QygmUy84,2023-12-12,Eua Ncaa,21:00,N. Carolina A&T,N.Carolina Central,2.56,1.55,149.5,1.8,1.95,2.5,2.1,1.67
+Yoh5haQT,2023-12-12,Eua Ncaa,21:00,N.C. State,Tenn. Martin,1.03,16.0,163.5,1.8,1.95,-21.5,2.1,1.67
+AaBvTWdU,2023-12-12,Eua Ncaa,21:00,Radford,VMI,1.08,9.3,144.5,1.91,1.91,-15.5,2.0,1.71
+6TscOM76,2023-12-12,Eua Ncaa,21:00,South Florida,Arkansas-Pine Bluff,1.05,11.5,159.5,1.91,1.91,-18.5,2.05,1.71
+bZdP0eQp,2023-12-12,Eua Ncaa,21:00,St. Peters,UMBC Retrievers,1.3,3.66,145.5,1.91,1.91,-9.5,2.0,1.71
+vcbuZ4YG,2023-12-12,Eua Ncaa,21:00,Wright State,Western Kentucky,1.43,2.92,162.5,1.8,1.95,-6.5,2.0,1.71
+jVji06ut,2023-12-12,Eua Ncaa,21:30,Sam Houston St.,Louisiana Monroe,1.25,4.19,137.5,1.91,1.91,-9.5,2.0,1.71
+0js1NtNC,2023-12-12,Eua Ncaa,22:00,Illinois (Chi.),Wisc. Green Bay,1.13,6.6,130.5,1.8,1.95,-13.5,2.0,1.71
+nZ33qWAq,2023-12-12,Eua Ncaa,22:00,Minnesota,IUPUI,1.03,16.0,137.5,1.91,1.91,-24.5,2.0,1.77
+lSTMOcmm,2023-12-12,Eua Ncaa,22:00,Northern Iowa,Prairie View A&M,1.08,8.8,145.5,1.8,1.95,-15.5,2.1,1.67
+AyVIPwYt,2023-12-12,Eua Ncaa,22:00,Southern Illinois,Austin Peay,1.16,5.6,128.5,1.91,1.91,-12.5,2.0,1.71
+CEhyUCsO,2023-12-12,Eua Ncaa,22:30,Georgetown,Coppin State,1.03,17.0,139.5,1.91,1.91,-23.5,2.05,1.71
+th98K7rf,2023-12-12,Eua Ncaa,23:00,Boise State,Northwestern St.,1.03,18.0,143.5,1.8,1.95,-23.5,2.0,1.77
+ruvjZYOO,2023-12-12,Eua Ncaa,23:00,Texas Tech,Oral Roberts,1.11,7.5,143.5,1.8,1.95,-14.5,2.1,1.67
+GMskBYmK,2023-12-12,Europa Liga Dos Campeões,14:00,Tofas,Igokea,1.28,3.53,163.5,1.8,1.92,-9.5,2.1,1.62
+WzL9KK4C,2023-12-12,Europa Liga Dos Campeões,14:30,Opava,Rytas,12.5,1.02,172.5,1.81,1.91,21.5,2.09,1.63
+0APDJvKI,2023-12-12,Europa Liga Dos Campeões,14:30,Promitheas,Dijon,1.67,2.15,162.5,1.83,1.91,-3.5,1.97,1.72
+AH2yQnIh,2023-12-12,Europa Liga Dos Campeões,16:30,Oostende,Strasbourg,2.1,1.7,152.5,1.81,1.93,1.5,1.93,1.77
+Kv6FtqiL,2023-12-12,Europa Copa Europeia Da Fiba,17:00,FC Porto,Bilbao,2.74,1.43,153.5,1.85,1.87,4.5,1.97,1.75
+CS9GzHRF,2023-12-12,Europa Copa Alpe Adria,14:00,Dabrowa Gornicza,Spisski Rytieri,1.1,6.31,179.5,1.8,1.86,-14.5,2.03,1.7
+CzCS8brq,2023-12-12,Europa Bibl,13:30,Sigal Prishtina,Pljevlja,1.02,11.6,156.5,1.82,1.88,-27.5,1.82,1.88
+SW5DojG1,2023-12-12,Europa Enbl,14:00,Spartak Pleven,Juventus,6.36,1.09,160.5,1.85,1.85,12.5,2.0,1.72
+lbAKnZtB,2023-12-12,Europa Liga Letônia,14:00,BK Liepaja,Rigas Zelli,2.59,1.46,154.5,1.85,1.85,3.5,2.02,1.7
+ze6GmFR4,2023-12-12,Europa Liga Letônia,14:00,Tartu Ulikool,Keila,1.26,3.61,158.5,1.85,1.85,-9.5,2.0,1.72
+QN7lJPQm,2023-12-12,Europa Euroliga Feminina,16:00,Lyon F,Fenerbahce F,8.65,1.06,156.5,1.81,1.85,18.5,2.02,1.71
+zcab6sU9,2023-12-12,Finlândia Korisliiga,13:30,KTP Basket,Kouvot,1.54,2.41,179.5,1.8,1.86,-5.5,2.09,1.66
+I5ERVWSm,2023-12-12,Islândia Premier League Feminina,15:15,Thor AK Akureyri F,Valur F,1.37,2.91,146.5,1.81,1.85,-7.5,2.04,1.69
+QVHZTAc0,2023-12-12,Islândia Premier League Feminina,16:15,Fjolnir F,Keflavik F,6.57,1.09,153.5,1.88,1.79,18.5,1.99,1.73
+McBrSlSC,2023-12-12,Islândia Premier League Feminina,16:15,Hafnarfjordur F,Breidablik F,1.05,8.25,148.5,1.8,1.87,-20.5,2.06,1.68
+W8IVUjrf,2023-12-12,Islândia Premier League Feminina,16:15,Stjarnan F,Snaefell F,1.05,8.8,150.5,1.83,1.87,-29.5,2.07,1.67
+4MGwTUC6,2023-12-12,Islândia Premier League Feminina,17:15,Grindavik F,Njardvik F,2.07,1.7,148.5,1.87,1.79,1.5,1.94,1.77
+EBEt8rn0,2023-12-12,Israel Liga Leumit,14:00,Elitzur Ashkelon,Elitzor Netania,1.66,2.13,167.5,1.85,1.85,-3.5,2.0,1.72
+0SGh5tWI,2023-12-12,Israel Liga Leumit,14:30,Gilboa Galil,Safed,1.26,3.61,165.5,1.85,1.85,-9.5,2.0,1.72
+06J0DwOu,2023-12-12,Israel Liga Leumit,15:45,Elitzur Shomron,Ironi Nahariya,1.89,1.83,162.5,1.85,1.85,-1.5,2.07,1.67
+tSusG7Yp,2023-12-12,Lituânia Nkl,13:00,Kauno Atletas,Zalgiris Kaunas 2,1.94,1.78,149.5,1.81,1.85,1.5,2.05,1.68
+Y7VPkd2k,2023-12-12,Lituânia Nkl,13:00,Vytis VDU,Suduva-Mantinga,2.48,1.5,162.5,1.87,1.79,2.5,2.1,1.65
+4jvemcsp,2023-12-12,Lituânia Nkl,14:00,Vilniaus Stekas,Vilkaviskis,1.94,1.78,156.5,1.85,1.85,1.5,1.85,1.85
+h4G340a0,2023-12-12,México Lnbp,21:00,Fuerza Regia,Astros,1.37,2.93,166.5,1.83,1.87,-8.5,2.03,1.67
+O8K0OZfQ,2023-12-12,Portugal Lfb Feminina,18:30,Natacao F,Esgueira F,3.12,1.33,133.5,1.8,1.9,7.5,1.85,1.85
+8Uuh20Bp,2023-12-12,Rússia Superliga,13:00,Tambov,Dome-Springs Izhevsk,1.3,3.34,156.5,1.8,1.9,-8.5,1.97,1.73
+OtIeYIwb,2023-12-12,Suécia Basketligan,15:04,Norrkoping,Nassjo,1.1,6.09,168.5,1.87,1.79,-14.5,2.08,1.66
+65NjZbOi,2023-12-12,Suécia Basketligan,15:04,Umeå IK,Koping Stars,2.05,1.7,167.5,1.8,1.86,1.5,1.91,1.8
+SEOnzu9o,2023-12-12,Suécia Basketligan,15:04,Uppsala,BC Lulea,2.31,1.57,172.5,1.85,1.85,2.5,1.99,1.73
+0pQnM7DF,2023-12-12,Suécia Superettan,15:00,Norrort,AIK Basket,2.93,1.37,158.5,1.87,1.79,5.5,1.97,1.74
+4bUCxSYq,2023-12-12,Uruguai Liga Uruguaia,21:00,Malvin,Larre Borges,1.14,5.19,165.5,1.86,1.84,-12.5,1.98,1.74
+bLTGynlj,2023-12-12,Uruguai Liga Uruguaia,21:15,Nacional,Penarol,1.81,1.91,159.5,1.81,1.85,-1.5,1.94,1.77
