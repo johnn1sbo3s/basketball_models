@@ -1,6 +1,6 @@
 import pandas as pd
-import glob
 import warnings
+from IPython.display import display
 warnings.filterwarnings("ignore")
 import matplotlib.pyplot as plt
 
@@ -29,11 +29,18 @@ def get_results(data, target, odds):
     print(f'\nProfit: {plb:.2f} | Entradas: {entradas:.0f}')
     print(f'Dias: {dias:.0f} ({total_dias:.0f} totais)')
 
-
     df_by_day = data.groupby('Date').agg({'Profit': 'sum', odds: 'count'}).reset_index()
-    df_by_day = df_by_day.rename(columns={'Profit': 'Total_Profit', 'Fixture ID': 'Qtd_Games'})
+    df_by_day = df_by_day.rename(columns={'Profit': 'Total_Profit', odds: 'Qtd_Games'})
     df_by_day['Total_Profit'] = df_by_day['Total_Profit'].round(2)
     df_by_day['Acumulado'] = df_by_day['Total_Profit'].cumsum()
+
+    data['Date'] = pd.to_datetime(data['Date'])
+    df_1M = data.groupby(pd.Grouper(key='Date', freq='1M')).agg({'Profit': 'sum', odds: 'count'}).reset_index()
+    df_1M = df_1M.rename(columns={'Profit': 'Total_Profit', odds: 'Qtd_Games'})
+    df_1M['Total_Profit'] = df_1M['Total_Profit'].astype(float)
+    df_1M['Total_Profit'] = df_1M['Total_Profit'].round(2)
+    df_1M['ROI'] = df_1M['Total_Profit'] / df_1M['Qtd_Games']
+    df_1M['ROI'] = df_1M['ROI'].round(2)
 
     # Divida a largura da figura em duas colunas
     fig, axes = plt.subplots(nrows=1, ncols=2, figsize=(17, 5))
@@ -51,5 +58,12 @@ def get_results(data, target, odds):
 
     # Exiba os gráficos
     plt.show()
+
+    print('\nPor Mês --------------------------------------')
+    display(df_1M)
+    print('\nDias --------------------------------------')
+    display(df_by_day)
+    print('\nJogos -------------------------------------')
+    display(df_odds)
 
     return df_odds, df_by_day
