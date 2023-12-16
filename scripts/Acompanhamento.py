@@ -43,7 +43,7 @@ def get_results(data, target, odds):
     df_1M['ROI'] = df_1M['ROI'].round(2)
 
     # Divida a largura da figura em duas colunas
-    fig, axes = plt.subplots(nrows=1, ncols=2, figsize=(17, 5))
+    fig, axes = plt.subplots(nrows=1, ncols=2, figsize=(18, 3))
 
     # Primeiro gráfico (Acumulado por aposta)
     df_odds['Acumulado'].plot(ax=axes[0], linewidth=2)
