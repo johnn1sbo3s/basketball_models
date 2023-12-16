@@ -50,7 +50,7 @@ def get_results(data, target, odds):
     axes[0].set_title('Acumulado por aposta')
 
     # Segundo gráfico (Acumulado por dia)
-    df_by_day['Acumulado'].plot(ax=axes[1], linewidth=2, marker='o')
+    df_by_day['Acumulado'].plot(ax=axes[1], linewidth=2)
     axes[1].set_title('Acumulado por dia')
 
     # Ajuste de layout para aumentar o espaço horizontal
