@@ -13285,3 +13285,20 @@ Date,League,Time,Home,Away,Home_Pts,Away_Pts,Odds_H,Odds_A,Over_Line,Odds_Over,O
 2023-12-27,Eua Nba,22:00,Oklahoma City Thunder,New York Knicks,129.0,120.0,1.74,2.28,236.5,1.81,2.07,-3.5,2.09,1.85
 2023-12-27,Eua Nba,22:00,Houston Rockets,Phoenix Suns,113.0,129.0,2.03,1.91,223.5,1.81,2.07,1.5,1.91,2.03
 2023-12-27,Eua Nba,22:30,Dallas Mavericks,Cleveland Cavaliers,110.0,113.0,1.6,2.56,229.5,1.81,2.07,-4.5,2.02,1.9
+2023-12-28,Eua Ncaa,21:00,LIU Sharks,Albany,69.0,86.0,4.89,1.18,153.5,1.83,1.83,9.5,2.0,1.71
+2023-12-28,Eua Ncaa,21:00,Cleveland State,Oakland,75.0,67.0,1.73,2.1,143.5,1.83,1.83,-2.5,2.0,1.71
+2023-12-28,Eua Nba,21:30,Boston Celtics,Detroit Pistons,128.0,122.0,1.07,12.6,231.5,1.8,2.09,-17.5,2.01,1.93
+2023-12-28,Eua Ncaa,22:00,Texas Tech,Sam Houston St.,96.0,60.0,1.05,9.3,139.5,1.83,1.83,-17.5,2.0,1.71
+2023-12-28,Eua Ncaa,22:00,UTSA Roadrunners,Prairie View A&M,103.0,89.0,1.64,2.23,148.5,1.91,1.91,-4.5,2.05,1.71
+2023-12-28,Eua Nba,22:00,New Orleans Pelicans,Utah Jazz,112.0,105.0,1.28,4.26,237.5,1.83,2.05,-9.5,2.06,1.87
+2023-12-28,Eua Nba,22:00,Minnesota Timberwolves,Dallas Mavericks,118.0,110.0,1.17,6.27,225.5,1.8,1.92,-13.5,2.08,1.71
+2023-12-28,Eua Nba,22:00,Chicago Bulls,Indiana Pacers,104.0,120.0,1.78,2.2,234.5,1.89,2.04,-3.5,2.09,1.85
+2023-12-28,Eua Ncaa,22:30,Tennessee Tech,AR Little Rock,75.0,81.0,2.0,1.8,152.5,1.8,1.95,1.5,1.83,1.83
+2023-12-28,Eua Ncaa,22:30,Tennessee State,Tenn. Martin,75.0,91.0,1.51,2.61,161.5,1.8,1.95,-5.5,2.0,1.71
+2023-12-28,Eua Ncaa,23:00,UC Davis,UC Santa Barbara,76.0,62.0,2.14,1.76,146.5,1.8,1.95,1.5,1.95,1.77
+2023-12-28,Eua Ncaa,23:00,East. Washington,Portland State,91.0,57.0,1.67,2.28,150.5,1.8,1.95,-4.5,2.05,1.71
+2023-12-28,Eua Ncaa,23:00,Idaho,Sacramento State,61.0,58.0,1.67,2.28,139.5,1.91,1.91,-4.5,2.05,1.71
+2023-12-28,Eua Ncaa,23:00,Idaho State,Montana State,66.0,74.0,1.8,2.05,134.5,1.91,1.91,-2.5,2.0,1.71
+2023-12-28,Eua Ncaa,23:00,Oregon,USC,82.0,74.0,1.69,2.22,150.5,1.91,1.91,-3.5,2.0,1.71
+2023-12-28,Eua Nba,23:00,Denver Nuggets,Memphis Grizzlies,142.0,105.0,1.32,3.93,222.5,1.86,2.07,-8.5,1.97,1.97
+2023-12-28,Eua Ncaa,23:00,Weber State,Montana,93.0,63.0,1.51,2.64,132.5,1.8,1.95,-5.5,2.0,1.71
