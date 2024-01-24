@@ -16926,3 +16926,75 @@ Date,League,Time,Home,Away,Home_Pts,Away_Pts,Odds_H,Odds_A,Over_Line,Odds_Over,O
 2024-01-22,Eua Ncaa,23:00,Kansas,Cincinnati,74.0,69.0,1.29,3.76,145.5,1.8,1.95,-8.5,2.0,1.71
 2024-01-22,Eua Ncaa,23:00,Jackson State,Texas Southern,73.0,64.0,1.49,2.74,141.5,1.91,1.91,-6.5,2.1,1.67
 2024-01-22,Eua Nba,23:00,Phoenix Suns,Chicago Bulls,115.0,113.0,1.45,3.07,227.5,1.85,2.09,-6.5,2.08,1.86
+2024-01-23,Eua Nba,00:00,Sacramento Kings,Atlanta Hawks,122.0,107.0,1.33,3.77,236.5,1.83,2.05,-8.5,2.06,1.87
+2024-01-23,Coreia Do Sul Kbl,07:00,Wonju DB,Mobis Phoebus,91.0,99.0,1.24,4.01,173.5,1.8,1.86,-10.5,2.04,1.7
+2024-01-23,Coreia Do Sul Kbl,07:00,Goyang Sono,Seoul Thunders,87.0,79.0,1.45,2.72,159.5,1.88,1.86,-6.5,2.02,1.71
+2024-01-23,China Cba,08:35,Jilin,Guangdong,111.0,116.0,3.21,1.33,210.5,1.8,1.9,6.5,1.94,1.76
+2024-01-23,Irã Superliga,09:30,Tabiat,Padafan Raad,94.0,55.0,1.01,13.1,155.5,1.85,1.85,-27.5,2.0,1.69
+2024-01-23,Catar Liga De Basquete Do Catar,12:00,Al Arabi,Al Ahli,68.0,61.0,2.02,1.72,152.5,1.85,1.85,1.5,1.87,1.83
+2024-01-23,Geórgia Copa Da Geórgia,13:00,Mega Tbilisi,Rustavi,83.0,74.0,2.09,1.69,182.5,1.83,1.83,2.5,1.83,1.83
+2024-01-23,Lituânia Lkl,13:00,Pieno Zvaigzdes,Zalgiris Kaunas,71.0,98.0,6.47,1.09,166.5,1.8,1.86,12.5,2.0,1.72
+2024-01-23,Rússia Liga Vtb United,13:30,MBA Moscow,Unics Kazan,62.0,85.0,5.15,1.17,157.5,1.83,1.93,9.5,2.07,1.7
+2024-01-23,Europa Wbbl Feminina,13:30,LCC F,TTT Riga F,71.0,84.0,5.24,1.14,142.5,1.85,1.85,12.5,1.87,1.83
+2024-01-23,Bahrein Premier League,13:30,Al-Hala,Al Ittihad,88.0,94.0,2.59,1.46,178.5,1.83,1.87,1.5,2.07,1.67
+2024-01-23,Polônia 1. Liga,14:00,MKKS Koszalin,Slask Wroclaw II,102.0,103.0,1.71,2.03,169.5,1.87,1.83,-2.5,2.0,1.72
+2024-01-23,Europa Eurocopa,14:00,Cluj-Napoca,Trento,88.0,83.0,1.37,2.93,165.5,1.83,1.85,-8.5,2.1,1.65
+2024-01-23,República Tcheca Zbl Feminina,14:00,Slavia Prague F,Hradec Kralove F,85.0,71.0,1.22,3.98,143.5,1.85,1.85,-11.5,2.05,1.69
+2024-01-23,Europa Copa Alpe Adria,14:00,Dabrowa Gornicza,Kapfenberg,99.0,73.0,1.09,6.57,177.5,1.87,1.83,-12.5,1.45,0.0
+2024-01-23,Israel Liga Leumit,14:00,Elitzur Ashkelon,Ironi Nahariya,81.0,86.0,1.43,2.68,174.5,1.85,1.85,-6.5,2.01,1.72
+2024-01-23,Israel Liga Leumit,14:00,Maccabi Haifa,Maccabi Maale Adumim,72.0,82.0,1.67,2.12,167.5,1.85,1.85,-3.5,2.0,1.72
+2024-01-23,República Tcheca 1. Liga,14:15,Zlin,Olomouc,124.0,91.0,1.25,3.69,167.5,1.82,1.84,-13.5,1.97,1.74
+2024-01-23,Europa Liga Dos Campeões,14:30,Promitheas,AEK Athens,80.0,79.0,1.48,2.62,163.5,1.81,1.91,-6.5,2.03,1.68
+2024-01-23,Europa Liga Dos Campeões,14:30,Pinar Karsiyaka,Tenerife,97.0,106.0,1.77,2.02,162.5,1.89,1.89,-2.5,2.0,1.75
+2024-01-23,Suécia Superettan,15:00,Norrort,Huddinge,61.0,74.0,2.15,1.65,145.5,1.8,1.9,1.5,1.88,1.82
+2024-01-23,Europa Eurocopa,15:00,Buducnost,Ulm,80.0,84.0,1.69,2.08,167.5,1.86,1.84,-3.5,2.08,1.67
+2024-01-23,Israel Liga Leumit,15:00,Gilboa Galil,Ramat Hasharon,94.0,71.0,1.75,1.98,160.5,1.85,1.85,-2.5,2.01,1.72
+2024-01-23,Israel Liga Leumit,15:00,Safed,Elitzor Netania,82.0,85.0,2.12,1.67,160.5,1.85,1.85,1.5,2.0,1.72
+2024-01-23,Islândia Premier League Feminina,15:15,Thor AK Akureyri F,Grindavik F,72.0,85.0,2.56,1.47,151.5,1.85,1.85,4.5,1.87,1.83
+2024-01-23,Bósnia E Herzegovina Prvenstvo Bih,16:00,Posusje,Leotar Trebinje,67.0,87.0,2.15,1.65,157.5,1.86,1.84,1.5,2.07,1.68
+2024-01-23,Europa Liga Dos Campeões,16:00,Dijon,Ludwigsburg,82.0,89.0,1.45,2.72,160.5,1.83,1.91,-6.5,2.0,1.75
+2024-01-23,Europa Liga Dos Campeões,16:00,Bonn,Galatasaray,89.0,76.0,1.55,2.43,164.5,1.88,1.9,-5.5,2.06,1.69
+2024-01-23,Islândia Premier League Feminina,16:15,Hafnarfjordur F,Stjarnan F,74.0,65.0,1.37,2.93,146.5,1.84,1.86,-6.5,1.87,1.83
+2024-01-23,Europa Eurocopa,16:30,Paris,Joventut,89.0,82.0,1.23,3.86,174.5,1.85,1.83,-10.5,2.1,1.65
+2024-01-23,Europa Enbl,16:30,Newcastle Eagles,Liege,100.0,92.0,2.62,1.45,168.5,1.8,1.86,3.5,2.1,1.66
+2024-01-23,Europa Liga Dos Campeões,16:30,Murcia,Hapoel Holon,78.0,61.0,1.22,4.24,158.5,1.86,1.88,-10.5,2.02,1.7
+2024-01-23,Europa Copa Europeia Da Fiba,17:00,FC Porto,Balkan,92.0,80.0,1.06,8.2,157.5,1.87,1.87,-17.5,2.09,1.63
+2024-01-23,Uruguai Liga Uruguaia,20:00,Defensor Sporting,Malvin,85.0,82.0,1.5,2.47,160.5,1.87,1.79,-5.5,2.06,1.68
+2024-01-23,Uruguai Liga Uruguaia,20:00,Hebraica y Macabi,Larre Borges,94.0,78.0,1.06,8.1,165.5,1.8,1.86,-16.5,2.0,1.72
+2024-01-23,Brasil Nbb,20:00,Flamengo,Caxias do Sul,105.0,62.0,1.09,6.41,156.5,1.84,1.86,-15.5,2.06,1.68
+2024-01-23,Brasil Nbb,20:00,São Paulo,Paulistano,90.0,71.0,2.09,1.69,153.5,1.84,1.86,1.5,1.94,1.77
+2024-01-23,Eua Ncaa,20:30,Georgetown,Butler,66.0,90.0,2.47,1.58,151.5,1.91,1.91,3.5,1.83,1.83
+2024-01-23,Eua Ncaa,20:30,La Salle,Dayton,54.0,66.0,4.67,1.21,142.5,1.91,1.91,7.5,2.1,1.67
+2024-01-23,Eua Ncaa,21:00,Minnesota,Wisconsin,59.0,61.0,2.64,1.51,142.5,1.8,1.95,3.5,2.1,1.67
+2024-01-23,Eua Nba,21:00,Indiana Pacers,Denver Nuggets,109.0,114.0,2.37,1.68,240.5,1.89,2.03,2.5,2.02,1.9
+2024-01-23,Eua Ncaa,21:00,Akron,Ohio,67.0,58.0,1.29,3.76,144.5,1.91,1.91,-8.5,2.0,1.71
+2024-01-23,Eua Ncaa,21:00,Bowling Green,Kent State,84.0,90.0,1.8,2.05,151.5,1.8,1.95,-2.5,2.0,1.71
+2024-01-23,Eua Ncaa,21:00,Buffalo,Ball State,59.0,87.0,2.1,1.77,142.5,1.8,1.95,1.5,1.95,1.74
+2024-01-23,Eua Ncaa,21:00,Central Michigan,Miami (Ohio),71.0,55.0,1.8,2.05,141.5,1.8,1.95,-2.5,2.0,1.71
+2024-01-23,Eua Ncaa,21:00,Charlotte,UAB,76.0,70.0,1.49,2.74,139.5,1.91,1.91,-6.5,2.1,1.67
+2024-01-23,Eua Ncaa,21:00,Duquesne,St. Bonaventure,54.0,50.0,1.63,2.38,142.5,1.91,1.91,-4.5,2.0,1.71
+2024-01-23,Eua Ncaa,21:00,Georgia Tech,Pittsburgh,64.0,72.0,2.28,1.67,144.5,1.91,1.91,1.5,2.1,1.67
+2024-01-23,Eua Ncaa,21:00,Louisville,Duke,69.0,83.0,10.5,1.06,152.5,1.8,1.95,12.5,2.1,1.67
+2024-01-23,Eua Ncaa,21:00,VCU Rams,Loyola (Ill).,74.0,67.0,1.49,2.74,137.5,1.91,1.91,-6.5,2.1,1.67
+2024-01-23,Eua Ncaa,21:00,Nebraska,Ohio State,83.0,69.0,1.73,2.18,149.5,1.91,1.91,-3.5,2.0,1.71
+2024-01-23,Eua Ncaa,21:00,Western Michigan,Eastern Michigan,73.0,56.0,1.4,3.08,147.5,1.87,1.95,-7.5,2.1,1.67
+2024-01-23,Eua Ncaa,21:00,South Carolina,Kentucky,79.0,62.0,2.56,1.55,155.5,1.8,1.95,3.5,2.0,1.71
+2024-01-23,Eua Ncaa,21:00,Syracuse,Florida State,69.0,85.0,1.58,2.47,149.5,1.8,1.95,-5.5,2.05,1.71
+2024-01-23,Eua Ncaa,21:00,UCF Knights,West Virginia,72.0,59.0,1.25,4.19,138.5,1.91,1.91,-9.5,2.1,1.67
+2024-01-23,Eua Ncaa,21:00,UMass,Saint Josephs,77.0,78.0,1.77,2.1,153.5,1.8,1.95,-3.5,2.05,1.71
+2024-01-23,Eua Ncaa,21:00,Oklahoma,Texas,60.0,75.0,1.63,2.38,145.5,1.8,1.95,-4.5,2.0,1.71
+2024-01-23,Eua Nba,21:30,Brooklyn Nets,New York Knicks,103.0,108.0,2.56,1.6,223.5,1.81,2.0,2.5,2.1,1.74
+2024-01-23,Eua Ncaa,22:00,Northern Iowa,Evansville,70.0,63.0,1.08,8.8,141.5,1.8,1.95,-14.5,2.1,1.67
+2024-01-23,Eua Ncaa,22:00,Northern Illinois,Toledo,73.0,89.0,2.56,1.55,159.5,1.91,1.91,3.5,2.0,1.71
+2024-01-23,Eua Nba,22:00,New Orleans Pelicans,Utah Jazz,153.0,124.0,1.4,3.35,238.5,1.86,1.94,-7.5,2.03,1.79
+2024-01-23,Eua Nba,22:00,Oklahoma City Thunder,Portland Trail Blazers,111.0,109.0,1.11,8.7,235.5,1.82,1.99,-15.5,2.08,1.75
+2024-01-23,Argentina Liga A,22:00,Penarol,Union De Santa Fe,103.0,75.0,1.3,3.31,160.5,1.8,1.86,-8.5,2.01,1.72
+2024-01-23,Eua Ncaa,22:00,Illinois State,Belmont,77.0,67.0,1.8,2.05,144.5,1.91,1.91,-2.5,2.0,1.71
+2024-01-23,Eua Ncaa,22:30,Creighton,Xavier,85.0,78.0,1.25,4.19,147.5,1.91,1.91,-9.5,2.1,1.67
+2024-01-23,Eua Ncaa,23:00,Brigham Young,Houston,68.0,75.0,2.18,1.73,135.5,1.91,1.91,1.5,2.0,1.69
+2024-01-23,Eua Ncaa,23:00,Portland,San Diego Toreros,81.0,85.0,1.55,2.56,158.5,1.91,1.91,-5.5,2.0,1.71
+2024-01-23,Eua Ncaa,23:00,Purdue,Michigan,99.0,67.0,1.03,17.0,152.5,1.91,1.91,-18.5,2.0,1.71
+2024-01-23,Eua Ncaa,23:00,San Diego State,Wyoming,81.0,65.0,1.03,16.0,144.5,1.91,1.91,-18.5,2.05,1.71
+2024-01-23,Eua Ncaa,23:00,Texas A&M,Missouri,63.0,57.0,1.13,6.6,143.5,1.91,1.91,-12.5,2.1,1.67
+2024-01-23,Eua Ncaa,23:00,Virginia Tech,Boston College,76.0,71.0,1.49,2.74,149.5,1.91,1.91,-6.5,2.05,1.71
+2024-01-23,Eua Ncaa,23:00,Oklahoma State,TCU,69.0,74.0,2.56,1.55,144.5,1.8,1.95,3.5,2.0,1.71
