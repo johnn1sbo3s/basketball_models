@@ -60,6 +60,8 @@ else:
         output_path='jogos_do_dia.ipynb',
         parameters={'dia': 'amanha'}
     )
+    print(f'Commitando jogos do dia...')
+    git_commit(f'Jogos do dia {amanha}')
 
 print('Pushing...')
 repo.git.push('origin', 'main')
