@@ -15,6 +15,7 @@ def atualiza_ultimos_jogos(id_jogos):
     options.add_argument('--headless')
     options.add_argument('--no-sandbox') 
     options.add_argument('--disable-dev-shm-usage')
+    options.add_argument('--log-level=3')
     wd_Chrome = webdriver.Edge(options=options)
     
     # Com o WebDrive a gente consegue a pedir a página (URL)
