@@ -12,17 +12,16 @@ amanha = (datetime.now() + timedelta(days=1)).strftime('%Y-%m-%d')
 ontem = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d')
 
 def git_commit(commit_message):
-    try:
-        repo.git.add('--all')
-        repo.git.commit('-m', commit_message)
-    except:
-        pass
+    # try:
+    #     repo.git.add('--all')
+    #     repo.git.commit('-m', commit_message)
+    # except:
+    pass
 
 # get hour
 hour = tm.localtime().tm_hour
-print(f'\nHora: {hour}\n\n')
 
-if hour < 12:
+if hour < 17:
     print('Pegando últimos resultados...')
     pm.execute_notebook(
         input_path='update_last_games.ipynb',
