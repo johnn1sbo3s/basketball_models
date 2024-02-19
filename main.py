@@ -12,11 +12,11 @@ amanha = (datetime.now() + timedelta(days=1)).strftime('%Y-%m-%d')
 ontem = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d')
 
 def git_commit(commit_message):
-    # try:
-    #     repo.git.add('--all')
-    #     repo.git.commit('-m', commit_message)
-    # except:
-    pass
+    try:
+        repo.git.add('--all')
+        repo.git.commit('-m', commit_message)
+    except:
+        pass
 
 # get hour
 hour = tm.localtime().tm_hour
@@ -62,7 +62,7 @@ else:
     )
 
 print('Pushing...')
-# repo.git.push('origin', 'main')
+repo.git.push('origin', 'main')
 
 print('Finalizando...')
 tm.sleep(7)
