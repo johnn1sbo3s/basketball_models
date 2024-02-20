@@ -1,5 +1,4 @@
 import papermill as pm
-import subprocess
 import os
 from datetime import datetime, timedelta
 import time as tm
@@ -24,8 +23,8 @@ hour = tm.localtime().tm_hour
 if hour < 17:
     print('Pegando últimos resultados...')
     pm.execute_notebook(
-        input_path='update_last_games.ipynb',
-        output_path='update_last_games.ipynb',
+        input_path='atualiza_ultimos_jogos.ipynb',
+        output_path='atualiza_ultimos_jogos.ipynb',
         parameters={'data_var': ontem}
     )
     print(f'\nCommitando resultados...')
