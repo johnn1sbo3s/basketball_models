@@ -25,7 +25,7 @@ if hour < 17:
     pm.execute_notebook(
         input_path='atualiza_ultimos_jogos.ipynb',
         output_path='atualiza_ultimos_jogos.ipynb',
-        parameters={'data_var': ontem}
+        parameters={'dia': ontem}
     )
     print(f'\nCommitando resultados...')
     git_commit(f'Resultados do dia {ontem}')
