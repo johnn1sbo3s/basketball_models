@@ -1,4 +1,5 @@
 import papermill as pm
+import subprocess
 import os
 from datetime import datetime, timedelta
 import time as tm
@@ -31,11 +32,7 @@ if hour < 17:
     git_commit(f'Resultados do dia {ontem}')
 
     print(f'Pegando jogos de hoje...')
-    pm.execute_notebook(
-        input_path='jogos_do_dia.ipynb',
-        output_path='jogos_do_dia.ipynb',
-        parameters={'dia': 'hoje'}
-    )
+    subprocess.run(["python", f"jogos_do_dia.py"])
     print(f'Commitando jogos do dia...')
     git_commit(f'Jogos do dia {data_var}')
 
@@ -54,11 +51,7 @@ if hour < 17:
     git_commit(f'Apostas do dia {data_var}')
 else:
     print(f'Pegando jogos de amanhã...')
-    pm.execute_notebook(
-        input_path='jogos_do_dia.ipynb',
-        output_path='jogos_do_dia.ipynb',
-        parameters={'dia': 'amanha'}
-    )
+    subprocess.run(["python", f"jogos_do_dia.py"])
     print(f'Commitando jogos do dia...')
     git_commit(f'Jogos do dia {amanha}')
 
