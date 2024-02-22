@@ -154,6 +154,9 @@ for link in tqdm(id_jogos, total=len(id_jogos)):
             elif (((bookie == BOOKIE_2) and (Odds_Over >= 1.90) and find_point_five(Over_Line))):
                 Odds_Under = float(celula.find_elements(By.TAG_NAME,'span')[2].text)
                 break
+            elif ((((bookie == BOOKIE_1) or (bookie == BOOKIE_2)) and (Odds_Over >= 1.80) and find_point_five(Over_Line))):
+                Odds_Under = float(celula.find_elements(By.TAG_NAME,'span')[2].text)
+                break
             else:
                 Over_Line, Odds_Over, Odds_Under = 0, 0, 0                   
                 pass
