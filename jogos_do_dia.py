@@ -75,7 +75,7 @@ jogos = wd_Chrome.find_elements(By.CSS_SELECTOR,'div.event__match--scheduled')
 for i in jogos:
     id_jogos.append(i.get_attribute("id"))
 
-# Exemplo de ID de um jogo: 'g_1_Gb7buXVt'    
+# Exemplo de ID de um jogo: 'g_1_Gb7buXVt'
 id_jogos = [i[4:] for i in id_jogos]
 
 # Separando apenas os IDs de jogos que eu não peguei ainda
@@ -147,16 +147,16 @@ for link in tqdm(id_jogos, total=len(id_jogos)):
             bookie = celula.find_element(By.CSS_SELECTOR, 'img.prematchLogo').get_attribute('title')
             Odds_Over = float(celula.find_elements(By.TAG_NAME,'span')[1].text)
             Over_Line = float(celula.find_elements(By.TAG_NAME,'span')[0].text)
-            if (((bookie == BOOKIE_1) and (Odds_Over >= 1.80) and find_point_five(Over_Line))):
+
+            if (((bookie == BOOKIE_1) and (Odds_Over >= 1.90) and find_point_five(Over_Line))):
                 Odds_Under = float(celula.find_elements(By.TAG_NAME,'span')[2].text)
                 break
-            elif (((bookie == BOOKIE_2) and (Odds_Over >= 1.80) and find_point_five(Over_Line))):
+            elif (((bookie == BOOKIE_2) and (Odds_Over >= 1.90) and find_point_five(Over_Line))):
                 Odds_Under = float(celula.find_elements(By.TAG_NAME,'span')[2].text)
                 break
             else:
                 Over_Line, Odds_Over, Odds_Under = 0, 0, 0                   
                 pass
-
 
         # Handicap
         wd_Chrome.get(f'https://www.flashscore.com.br/jogo/{link}/#/comparacao-de-odds/handicap-asiatico/tr-incluindo-prol')
@@ -170,16 +170,17 @@ for link in tqdm(id_jogos, total=len(id_jogos)):
             HA_Odds_A = celula.find_elements(By.TAG_NAME,'span')[2].text
 
             if (HA_Odds_H == '-') or (HA_Odds_A == '-'):
-                HA_Odds_H, HA_Odds_A = 0, 0
+                HA_Odds_H, HA_Odds_A, HA_Line = 0, 0, 0
+                pass
             else:
                 HA_Odds_H, HA_Odds_A = float(HA_Odds_H), float(HA_Odds_A)
 
             bookie = celula.find_element(By.CSS_SELECTOR, 'img.prematchLogo').get_attribute('title')
-            if ((bookie == BOOKIE_1 and HA_Odds_H >= 1.80) and (bookie == BOOKIE_1 and HA_Odds_H <= 2.10) and (find_point_five(HA_Line))):
+            if ((bookie == BOOKIE_1) and (HA_Odds_H >= 1.80) and (HA_Odds_H <= 2.05) and (find_point_five(HA_Line))):
                 break
-            elif ((bookie == BOOKIE_2 and HA_Odds_H >= 1.80) and (bookie == BOOKIE_2 and HA_Odds_H <= 2.10) and (find_point_five(HA_Line))):
+            elif ((bookie == BOOKIE_2) and (HA_Odds_H >= 1.80) and (HA_Odds_H <= 2.05) and (find_point_five(HA_Line))):
                 break
-            elif ((bookie == BOOKIE_3 and HA_Odds_H >= 1.80) and (bookie == BOOKIE_2 and HA_Odds_H <= 2.10) and (find_point_five(HA_Line))):
+            elif ((bookie == BOOKIE_3) and (HA_Odds_H >= 1.80) and (HA_Odds_H <= 2.05) and (find_point_five(HA_Line))):
                 break
             else:
                 pass
