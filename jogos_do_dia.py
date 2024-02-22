@@ -36,6 +36,7 @@ amanha = hoje + timedelta(days=1)
 
 BOOKIE_1 = 'Bet365'
 BOOKIE_2 = '1xBet'
+BOOKIE_3 = 'Betano'
 
 try:
     if dia != 'amanha':
@@ -114,7 +115,7 @@ for link in tqdm(id_jogos, total=len(id_jogos)):
         # if League_name not in lista_ligas:
         #     # Condição satisfeita, pula para a próxima iteração do loop
         #     continue
-    
+
         # Match Odds
         wd_Chrome.get(f'https://www.flashscore.com.br/jogo/{link}/#/comparacao-de-odds/home-away/tr-incluindo-prol')
         time.sleep(1)
@@ -165,14 +166,20 @@ for link in tqdm(id_jogos, total=len(id_jogos)):
         for celula in celulas:
             
             HA_Line = float(celula.find_elements(By.TAG_NAME,'span')[0].text)
-            HA_Odds_H = float(celula.find_elements(By.TAG_NAME,'span')[1].text)
+            HA_Odds_H = celula.find_elements(By.TAG_NAME,'span')[1].text
+            HA_Odds_A = celula.find_elements(By.TAG_NAME,'span')[2].text
+
+            if (HA_Odds_H == '-') or (HA_Odds_A == '-'):
+                HA_Odds_H, HA_Odds_A = 0, 0
+            else:
+                HA_Odds_H, HA_Odds_A = float(HA_Odds_H), float(HA_Odds_A)
 
             bookie = celula.find_element(By.CSS_SELECTOR, 'img.prematchLogo').get_attribute('title')
             if ((bookie == BOOKIE_1 and HA_Odds_H >= 1.80) and (bookie == BOOKIE_1 and HA_Odds_H <= 2.10) and (find_point_five(HA_Line))):
-                HA_Odds_A = float(celula.find_elements(By.TAG_NAME,'span')[2].text)
                 break
             elif ((bookie == BOOKIE_2 and HA_Odds_H >= 1.80) and (bookie == BOOKIE_2 and HA_Odds_H <= 2.10) and (find_point_five(HA_Line))):
-                HA_Odds_A = float(celula.find_elements(By.TAG_NAME,'span')[2].text)
+                break
+            elif ((bookie == BOOKIE_3 and HA_Odds_H >= 1.80) and (bookie == BOOKIE_2 and HA_Odds_H <= 2.10) and (find_point_five(HA_Line))):
                 break
             else:
                 pass
@@ -211,6 +218,6 @@ if len(base_jogos) > 0:
         print(f'{n_jogos_depois - n_jogos_antes} jogos adicionados aos jogos do dia.')
     except:
         base_jogos.to_csv(f'jogos_do_dia/{dia_jogos}.csv', index=False)
-        print(len(base_jogos))
+        print(f'{len(base_jogos)} jogos')
 
 
