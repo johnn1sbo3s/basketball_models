@@ -21876,3 +21876,101 @@ Date,League,Time,Home,Away,Home_Pts,Away_Pts,Odds_H,Odds_A,Over_Line,Odds_Over,O
 2024-02-28,Eua Ncaa,23:00,Ole Miss,Alabama,88.0,103.0,2.87,1.41,167.5,1.83,1.83,0.0,0.0,0.0
 2024-02-28,Eua Nba,23:00,Denver Nuggets,Sacramento Kings,117.0,96.0,1.37,3.28,229.5,1.8,2.08,0.0,0.0,0.0
 2024-02-28,Eua Ncaa,23:00,Illinois,Minnesota,105.0,97.0,1.18,4.89,155.5,1.8,1.91,0.0,0.0,0.0
+2024-02-29,Eua Nba,00:00,Los Angeles Clippers,Los Angeles Lakers,112.0,116.0,1.63,2.36,233.5,1.88,2.04,-3.5,1.97,2.9
+2024-02-29,Eua Ncaa,00:00,Arizona State,Arizona,67.0,85.0,6.4,1.13,158.5,1.8,1.95,0.0,0.0,0.0
+2024-02-29,Eua Ncaa,01:00,Oregon,Oregon State,78.0,71.0,1.09,8.2,135.5,1.8,1.95,0.0,0.0,0.0
+2024-02-29,Austrália Liga Feminina Wnbl,05:00,Townsville F,Perth Lynx F,87.0,88.0,1.54,2.41,162.5,1.86,1.87,0.0,0.0,0.0
+2024-02-29,Rússia Superliga,06:30,Dynamo Vladivostok,University-Ugra,73.0,77.0,1.22,3.98,154.5,1.83,1.87,0.0,0.0,0.0
+2024-02-29,Coreia Do Sul Wkbl Feminina,07:00,S-Birds F,KB Stars F,83.0,89.0,2.29,1.59,136.5,1.85,1.89,0.0,0.0,0.0
+2024-02-29,Coreia Do Sul Kbl,07:00,KCC Egis,Wonju DB,78.0,92.0,2.59,1.49,171.5,1.83,1.91,0.0,0.0,0.0
+2024-02-29,Coreia Do Sul Kbl,07:00,Seoul Thunders,Suwon KT,86.0,106.0,4.76,1.18,167.5,1.83,1.89,0.0,0.0,0.0
+2024-02-29,China Cba,08:35,Jiangsu Dragons,Shanxi Zhongyu,86.0,107.0,3.27,1.32,208.5,1.85,1.89,0.0,0.0,0.0
+2024-02-29,Rússia Superliga,11:00,MBA Moscow 2,CSKA Moscow 2,80.0,76.0,1.41,2.76,150.5,1.87,1.83,0.0,0.0,0.0
+2024-02-29,Rússia Superliga,11:00,Chelyabinsk,Barnaul,73.0,65.0,2.65,1.44,149.5,1.81,1.89,0.0,0.0,0.0
+2024-02-29,Rússia Liga Vtb United,11:00,Uralmash Ekaterinburg,Nizhny Novgorod,83.0,78.0,1.38,3.08,153.5,1.82,1.94,0.0,0.0,0.0
+2024-02-29,Rússia Superliga,12:00,Zenit Petersburg 2,Dome-Springs Izhevsk,86.0,62.0,1.6,2.24,152.5,1.85,1.85,0.0,0.0,0.0
+2024-02-29,Lituânia Moteru Lyga Feminina,13:00,Kibirkstis Vilnius F,Siauliai F,80.0,52.0,1.14,5.19,139.5,1.85,1.85,0.0,0.0,0.0
+2024-02-29,Lituânia Nkl,13:00,Vytis VDU,Vilkaviskis,88.0,85.0,1.59,2.26,173.5,1.87,1.79,0.0,0.0,0.0
+2024-02-29,Lituânia Nkl,13:00,Klaipedos Neptunas,Silute,83.0,94.0,1.45,2.61,161.5,1.85,1.85,0.0,0.0,0.0
+2024-02-29,Lituânia Nkl,13:00,Zalgiris Kaunas 2,Telsiai,65.0,79.0,2.76,1.41,148.5,1.85,1.85,0.0,0.0,0.0
+2024-02-29,Rússia Superliga,13:00,Tambov,Lokomotiv Kuban 2,79.0,64.0,1.3,3.31,156.5,1.8,1.9,0.0,0.0,0.0
+2024-02-29,Lituânia Nkl,13:00,Suduva-Mantinga,BC Olimpas Palanga,80.0,76.0,1.5,2.47,152.5,1.85,1.85,0.0,0.0,0.0
+2024-02-29,Grécia A1 Feminina,13:30,Panathinaikos F,Athinaikos F,106.0,42.0,1.84,1.84,143.5,1.84,1.84,0.0,0.0,0.0
+2024-02-29,Israel Superliga,13:30,Galil Elyon,Hapoel Eilat,69.0,72.0,1.44,2.7,170.5,1.87,1.79,0.0,0.0,0.0
+2024-02-29,Polônia Liga De Basquete,13:30,Dabrowa Gornicza,Czarni Slupsk,77.0,84.0,1.39,2.89,174.5,1.86,1.87,0.0,0.0,0.0
+2024-02-29,Lituânia Nkl,14:00,Kretinga,Rytas 2,89.0,74.0,1.63,2.19,174.5,1.85,1.85,0.0,0.0,0.0
+2024-02-29,Lituânia Nkl,14:00,Ukmerges Stekas,Delikatesas Joniskis,67.0,80.0,1.45,2.61,160.5,1.8,1.86,0.0,0.0,0.0
+2024-02-29,Europa Eurocopa Feminina,14:00,Galatasaray F,Uni Girona F,81.0,83.0,1.56,2.31,145.5,1.88,1.79,0.0,0.0,0.0
+2024-02-29,Lituânia Moteru Lyga Feminina,14:00,LCC F,Panevezys F,91.0,65.0,1.03,23.0,144.5,1.85,1.85,0.0,0.0,0.0
+2024-02-29,Polônia Liga Feminina De Basquete,14:00,Sosnowiec F,Sleza Wroclaw F,75.0,68.0,2.54,1.49,145.5,1.87,1.87,0.0,0.0,0.0
+2024-02-29,Eslovênia Liga Nova Kbm,14:00,Krka,Podcetrtek,96.0,71.0,1.03,10.1,168.5,1.84,1.86,0.0,0.0,0.0
+2024-02-29,Romênia Liga Nacional Feminina,14:00,Sepsi S. F,CSM Constanta F,79.0,70.0,1.25,3.69,151.5,1.88,1.78,0.0,0.0,0.0
+2024-02-29,Polônia Liga Feminina De Basquete,14:00,Torun F,Polkowice F,53.0,96.0,8.6,1.06,152.5,1.81,1.85,0.0,0.0,0.0
+2024-02-29,Finlândia I Divisão A,14:30,Pyrinto Tampere 2,ToPo,93.0,85.0,4.46,1.18,166.5,1.85,1.85,0.0,0.0,0.0
+2024-02-29,Hungria Nacional,15:00,Budapesti Honved Se,Kaposvari,100.0,91.0,1.51,2.45,162.5,1.8,1.86,0.0,0.0,0.0
+2024-02-29,Noruega Blno,15:00,Centrum Tigers,Oppsal,81.0,69.0,1.01,12.5,157.5,1.83,1.87,0.0,0.0,0.0
+2024-02-29,Europa Bibl,15:00,Peja,Sigal Prishtina,87.0,84.0,1.77,1.95,157.5,1.81,1.85,-2.5,2.04,2.35
+2024-02-29,Suécia Basketligan,15:04,Uppsala,BC Lulea,68.0,71.0,3.02,1.35,174.5,1.86,1.8,0.0,0.0,0.0
+2024-02-29,Suécia Basketligan,15:04,Jamtland,Sodertalje,106.0,72.0,1.31,3.25,161.5,1.86,1.84,0.0,0.0,0.0
+2024-02-29,Europa Eurocopa Feminina,15:30,Venezia F,TTT Riga F,88.0,78.0,1.12,5.57,142.5,1.82,1.84,0.0,0.0,0.0
+2024-02-29,Polônia Liga De Basquete,15:30,Zielona Gora,Slask Wroclaw,76.0,80.0,3.03,1.36,173.5,1.87,1.87,0.0,0.0,0.0
+2024-02-29,Polônia Liga Feminina De Basquete,16:00,Lublin F,Arka Gdynia F,71.0,75.0,2.04,1.73,142.5,1.87,1.87,1.5,1.91,1.56
+2024-02-29,Europa Eurocopa Feminina,16:00,Lattes Montpellier F,Besiktas F,72.0,75.0,2.33,1.55,144.5,1.81,1.85,-2.5,2.05,1.76
+2024-02-29,Polônia Liga Feminina De Basquete,16:00,AZS Poznan F,Gorzow F,71.0,97.0,6.53,1.1,154.5,1.88,1.86,0.0,0.0,0.0
+2024-02-29,Europa Euroliga,16:00,Alba Berlin,Maccabi Tel Aviv,71.0,106.0,2.99,1.42,172.5,1.91,1.91,4.5,2.0,1.18
+2024-02-29,Europa Euroliga,16:30,Virtus Bologna,Valencia,87.0,74.0,1.45,2.88,156.5,1.91,1.91,0.0,0.0,0.0
+2024-02-29,Europa Euroliga,16:30,Partizan,Anadolu Efes,100.0,90.0,1.45,2.88,166.5,1.87,1.95,0.0,0.0,0.0
+2024-02-29,Europa Euroliga,16:45,Real Madrid,Panathinaikos,86.0,97.0,1.34,3.37,163.5,1.91,1.91,-7.5,1.95,7.0
+2024-02-29,Reino Unido Bbl,16:45,Sheffield Sharks,Plymouth City Patriots,97.0,60.0,1.45,2.62,163.5,1.83,1.87,0.0,0.0,0.0
+2024-02-29,Brasil Nbb,20:00,Botafogo,São José,90.0,93.0,3.31,1.3,163.5,1.86,1.84,0.0,0.0,0.0
+2024-02-29,Brasil Nbb,20:00,São Paulo,Pinheiros,79.0,74.0,1.32,3.2,159.5,1.86,1.8,0.0,0.0,0.0
+2024-02-29,Brasil Nbb,20:00,Franca,Minas,95.0,94.0,1.47,2.56,166.5,1.8,1.86,0.0,0.0,0.0
+2024-02-29,Eua Ncaa,20:07,Binghamton,Maine,76.0,74.0,1.64,2.23,131.5,1.8,1.91,0.0,0.0,0.0
+2024-02-29,Eua Ncaa,20:30,Ohio State,Nebraska,78.0,69.0,1.73,2.1,143.5,1.8,1.91,0.0,0.0,0.0
+2024-02-29,Eua Ncaa,20:30,UMass Lowell,Bryant University,89.0,67.0,1.55,2.47,160.5,1.83,1.83,0.0,0.0,0.0
+2024-02-29,Brasil Nbb,20:30,Flamengo,Mogi,77.0,49.0,1.04,9.85,160.5,1.85,1.85,0.0,0.0,0.0
+2024-02-29,Eua Ncaa,21:00,Albany,New Hampshire,91.0,67.0,1.8,2.0,163.5,1.8,1.91,-1.5,1.91,2.0
+2024-02-29,Eua Ncaa,21:00,Central Conn. St.,LIU Sharks,78.0,64.0,1.11,6.62,141.5,1.8,1.91,0.0,0.0,0.0
+2024-02-29,Eua Ncaa,21:00,Coll Of Charltn,Campbell,96.0,73.0,1.05,9.3,154.5,1.8,1.91,0.0,0.0,0.0
+2024-02-29,Eua Ncaa,21:00,Drexel,Stony Brook,90.0,86.0,1.2,4.8,139.5,1.91,1.91,-10.5,1.95,11.0
+2024-02-29,Eua Ncaa,21:00,Gardner Webb,Longwood,72.0,69.0,1.64,2.23,146.5,1.8,1.91,0.0,0.0,0.0
+2024-02-29,Eua Ncaa,21:00,Hampton,Monmouth (N.J.),64.0,56.0,2.99,1.37,152.5,1.8,1.91,0.0,0.0,0.0
+2024-02-29,Eua Ncaa,21:00,Le Moyne,Wagner,70.0,56.0,1.83,1.91,131.5,1.83,1.83,-1.5,2.0,2.0
+2024-02-29,Eua Ncaa,21:00,N. Carolina A&T,Towson,58.0,84.0,6.12,1.12,129.5,1.83,1.83,0.0,0.0,0.0
+2024-02-29,Eua Ncaa,21:00,NJIT,UMBC Retrievers,60.0,79.0,2.47,1.55,150.5,1.8,1.91,0.0,0.0,0.0
+2024-02-29,Eua Ncaa,21:00,Stonehill,Sacred Heart,51.0,79.0,2.61,1.51,143.5,1.8,1.91,0.0,0.0,0.0
+2024-02-29,Eua Ncaa,21:00,Fairleigh Dickinson,Merrimack Warriors,55.0,74.0,2.23,1.64,146.5,1.83,1.83,0.0,0.0,0.0
+2024-02-29,Eua Nba,21:00,Orlando Magic,Utah Jazz,115.0,107.0,1.32,2.99,218.5,1.82,1.99,0.0,0.0,0.0
+2024-02-29,Eua Nba,21:00,Charlotte Hornets,Milwaukee Bucks,99.0,111.0,6.54,1.13,218.5,1.97,1.97,0.0,0.0,0.0
+2024-02-29,Argentina Liga A,21:00,Independiente de Oliva,Quimsa,86.0,90.0,3.2,1.32,163.5,1.87,1.79,0.0,0.0,0.0
+2024-02-29,Eua Ncaa,21:00,Delaware,Northeastern,73.0,67.0,1.41,2.87,142.5,1.8,1.91,0.0,0.0,0.0
+2024-02-29,Eua Ncaa,21:00,East Carolina,Memphis,58.0,82.0,2.47,1.55,145.5,1.83,1.83,0.0,0.0,0.0
+2024-02-29,Eua Ncaa,21:00,Elon,William & Mary,76.0,71.0,1.59,2.35,143.5,1.83,1.83,0.0,0.0,0.0
+2024-02-29,Eua Ncaa,21:00,Jacksonville St.,UTEP,65.0,72.0,1.64,2.23,132.5,1.83,1.83,0.0,0.0,0.0
+2024-02-29,Eua Ncaa,21:00,NC Wilmington,Hofstra,58.0,69.0,1.51,2.61,142.5,1.8,1.91,0.0,0.0,0.0
+2024-02-29,Eua Nba,21:30,Brooklyn Nets,Atlanta Hawks,124.0,97.0,1.66,2.04,227.5,1.97,1.97,0.0,0.0,0.0
+2024-02-29,Eua Nba,21:30,New York Knicks,Golden State Warriors,99.0,110.0,1.98,1.71,224.5,1.97,1.97,0.0,0.0,0.0
+2024-02-29,Eua Ncaa,21:30,Morehead State,SE Missouri State,72.0,50.0,1.05,12.5,139.5,1.8,1.95,0.0,0.0,0.0
+2024-02-29,Eua Ncaa,22:00,St. Thomas (Minn.),Nebraska O.,88.0,61.0,1.3,3.47,142.5,1.83,1.83,0.0,0.0,0.0
+2024-02-29,Argentina Liga A,22:00,San Martin,Riachuelo,81.0,67.0,1.48,2.53,155.5,1.88,1.79,0.0,0.0,0.0
+2024-02-29,Eua Ncaa,22:00,South Dakota Coyotes,North Dakota St.,88.0,68.0,2.35,1.59,146.5,1.8,1.91,0.0,0.0,0.0
+2024-02-29,Eua Ncaa,22:00,North Dakota,South Dakota St.,62.0,72.0,1.9,1.9,149.5,1.91,1.8,-1.5,2.0,2.0
+2024-02-29,Eua Ncaa,22:30,Southern Utah,Abilene Christian,68.0,77.0,1.67,2.28,153.5,1.91,1.91,-4.5,2.0,3.3
+2024-02-29,Eua Ncaa,22:30,Southern Indiana,Lindenwood,63.0,67.0,1.23,4.44,143.5,1.91,1.91,-10.5,2.0,11.0
+2024-02-29,Eua Ncaa,22:30,Rutgers,Michigan,82.0,52.0,1.37,2.99,138.5,1.8,1.91,0.0,0.0,0.0
+2024-02-29,Eua Ncaa,22:30,Utah Utes,Stanford,90.0,68.0,1.31,3.38,153.5,1.8,1.91,0.0,0.0,0.0
+2024-02-29,Eua Ncaa,22:30,Tenn. Martin,Tennessee Tech,80.0,69.0,1.14,5.6,151.5,1.8,1.91,0.0,0.0,0.0
+2024-02-29,Eua Nba,22:30,San Antonio Spurs,Oklahoma City Thunder,132.0,118.0,5.88,1.15,236.5,1.82,1.94,0.0,0.0,0.0
+2024-02-29,Eua Ncaa,22:30,Western Illinois,Eastern Illinois,70.0,66.0,1.34,3.23,133.5,1.8,1.91,0.0,0.0,0.0
+2024-02-29,Eua Ncaa,23:00,Idaho State,Northern Arizona,88.0,92.0,1.26,3.72,140.5,1.91,1.8,0.0,0.0,0.0
+2024-02-29,Eua Ncaa,23:00,Grand Canyon,UTRGV,72.0,43.0,1.02,12.5,153.5,1.8,1.91,0.0,0.0,0.0
+2024-02-29,Eua Ncaa,23:00,AR Little Rock,Tennessee State,85.0,60.0,1.26,3.72,146.5,1.8,1.91,0.0,0.0,0.0
+2024-02-29,Eua Ncaa,23:00,Denver,UMKC,69.0,84.0,1.59,2.35,152.5,1.8,1.91,0.0,0.0,0.0
+2024-02-29,Eua Ncaa,23:00,Idaho,Montana State,48.0,62.0,1.8,2.0,141.5,1.8,1.91,0.0,0.0,0.0
+2024-02-29,Eua Ncaa,23:00,UC Davis,Hawaii,75.0,63.0,1.8,2.0,138.5,1.83,1.83,0.0,0.0,0.0
+2024-02-29,Eua Nba,23:00,Phoenix Suns,Houston Rockets,110.0,105.0,1.32,2.99,233.5,1.97,1.97,0.0,0.0,0.0
+2024-02-29,Eua Ncaa,23:00,East. Washington,Montana,89.0,79.0,1.55,2.47,157.5,1.8,1.91,0.0,0.0,0.0
+2024-02-29,Eua Ncaa,23:00,Liberty,New Mexico State,83.0,58.0,1.08,7.7,135.5,1.83,1.83,0.0,0.0,0.0
+2024-02-29,Eua Ncaa,23:00,Portland,Santa Clara,80.0,75.0,4.89,1.18,153.5,1.8,1.91,0.0,0.0,0.0
+2024-02-29,Eua Ncaa,23:00,Utah Tech,Tarleton,74.0,85.0,2.47,1.55,142.5,1.8,1.91,0.0,0.0,0.0
+2024-02-29,Eua Ncaa,23:00,Weber State,Northern Colorado,85.0,81.0,1.45,2.74,150.5,1.8,1.91,0.0,0.0,0.0
