@@ -10,6 +10,28 @@ repo = git.Repo(REPO_PATH)
 data_var = datetime.now().strftime('%Y-%m-%d')
 amanha = (datetime.now() + timedelta(days=1)).strftime('%Y-%m-%d')
 ontem = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d')
+hour = tm.localtime().tm_hour
+
+def atualizar_repo():
+    origin = repo.remote(name='origin')
+
+    # Obtém as informações mais recentes do repositório remoto
+    origin.fetch()
+    print("\nVerificando se o repositório tem atualizações...")
+
+    # Verifica se há alterações no repositório local
+    if repo.is_dirty():
+        print("\nO repositório local tem alterações. Realizando um commit genérico antes de atualizar.")
+        git_commit('Commit genérico para atualizar o repositório')
+        repo.git.push('origin', 'main')
+    else:
+        # Verifica se há atualizações disponíveis
+        if origin.refs:
+            print("\nAtualizando o repositório...")
+            origin.pull()
+            print("Atualização concluída.")
+        else:
+            print("\nNão há atualizações disponíveis.")
 
 def git_commit(commit_message):
     try:
@@ -18,8 +40,8 @@ def git_commit(commit_message):
     except:
         pass
 
-# get hour
-hour = tm.localtime().tm_hour
+
+atualizar_repo()
 
 if hour < 17:
     print('Pegando últimos resultados...')
