@@ -1,0 +1,66 @@
+Fixture ID,Date,League,Time,Home,Away,Odds_H,Odds_A,Over_Line,Odds_Over,Odds_Under,HA_Line,HA_Odds_H,HA_Odds_A
+0M3WyCKT,2024-03-19,Brasil Nbb,20:00,Bauru,Flamengo,3.08,1.34,160.5,1.83,1.87,0.0,0.0,0.0
+2VkbXVSp,2024-03-19,Brasil Nbb,20:00,Franca,Botafogo,1.02,8.8,170.5,1.8,1.9,0.0,0.0,0.0
+KYGqligt,2024-03-19,Brasil Lbf Feminina,19:00,Sodie Mesquita F,Santo André F,2.76,1.41,139.5,1.85,1.85,0.0,0.0,0.0
+2c6lmB8n,2024-03-19,Brasil Lbf Feminina,20:00,Blumenau F,Campinas F,3.61,1.26,142.5,1.82,1.84,0.0,0.0,0.0
+tl5hnVNh,2024-03-19,Brasil Lbf Feminina,20:30,SESI Araraquara F,Corinthians F,1.14,5.08,133.5,1.8,1.86,0.0,0.0,0.0
+trQsSidG,2024-03-19,Eua Nba,20:00,Orlando Magic,Charlotte Hornets,1.09,5.63,203.5,1.89,1.97,0.0,0.0,0.0
+I7mBAPQr,2024-03-19,Eua Nba,20:00,Washington Wizards,Houston Rockets,2.99,1.32,228.5,1.85,1.95,0.0,0.0,0.0
+zqrG9qtk,2024-03-19,Eua Nba,20:30,Brooklyn Nets,New Orleans Pelicans,3.1,1.3,215.5,1.82,1.99,0.0,0.0,0.0
+EZtK83ee,2024-03-19,Eua Nba,21:00,San Antonio Spurs,Dallas Mavericks,2.99,1.32,232.5,1.85,1.96,0.0,0.0,0.0
+8dtO7NA1,2024-03-19,Eua Nba,22:00,Minnesota Timberwolves,Denver Nuggets,2.26,1.54,212.5,1.89,1.97,1.5,2.05,1.59
+EBdrv4g3,2024-03-19,Europa Euroliga,14:30,Anadolu Efes,Olympiakos,2.05,1.8,157.5,1.91,1.91,1.5,1.91,1.63
+MydnwO89,2024-03-19,Europa Euroliga,15:00,Zalgiris Kaunas,Virtus Bologna,1.63,2.38,157.5,1.91,1.91,-4.5,2.0,3.25
+0SfjxrOF,2024-03-19,Europa Euroliga,16:00,Alba Berlin,Real Madrid,6.4,1.13,167.5,1.91,1.91,0.0,0.0,0.0
+ripey2wM,2024-03-19,Europa Euroliga,16:05,Maccabi Tel Aviv,Lyon-Villeurbanne,1.13,6.4,167.5,1.91,1.91,0.0,0.0,0.0
+dflazMhS,2024-03-19,Europa Euroliga,16:30,Partizan,Baskonia,1.38,3.17,168.5,1.91,1.91,0.0,0.0,0.0
+WlS5jdyR,2024-03-19,Alemanha Pro B,14:30,Bayern 2,Coburg,1.58,2.29,170.5,1.85,1.85,0.0,0.0,0.0
+dArbG35G,2024-03-19,Argentina Liga A,22:10,Quimsa,Instituto de Cordoba,1.39,2.84,161.5,1.83,1.85,0.0,0.0,0.0
+xQe8jEBN,2024-03-19,China Cba,08:35,Guangzhou,Jiangsu Dragons,1.11,6.06,199.5,1.87,1.87,0.0,0.0,0.0
+WneCkYQT,2024-03-19,China Cba,08:35,Liaoning,Shanxi Zhongyu,1.09,6.85,213.5,1.83,1.89,0.0,0.0,0.0
+INu7hzsB,2024-03-19,China Cba,08:35,Ningbo Rockets,Shenzhen,5.47,1.14,201.5,1.8,1.92,0.0,0.0,0.0
+bZd4ifdH,2024-03-19,China Cba,08:35,Sichuan,Jilin,3.53,1.28,209.5,1.8,1.92,0.0,0.0,0.0
+vXt3gGR4,2024-03-19,China Cba,08:35,Tianjin,Beijing Royal Fighters,2.27,1.6,217.5,1.87,1.87,0.0,0.0,0.0
+88nvohZp,2024-03-19,China Cba,08:35,Zhejiang Guangsha,Fujian,1.09,7.01,206.5,1.83,1.89,0.0,0.0,0.0
+fJcH7vKI,2024-03-19,Coreia Do Sul Kbl,07:00,LG Sakers,Anyang JungKwanJang,1.13,5.9,163.5,1.85,1.89,0.0,0.0,0.0
+Y9dL6bZO,2024-03-19,Coreia Do Sul Kbl,07:00,Seoul Knights,Goyang Sono,1.19,4.62,160.5,1.89,1.89,0.0,0.0,0.0
+URWs1DcQ,2024-03-19,Eua Ncaa,19:40,Howard,Wagner,1.63,2.38,127.5,1.8,1.95,-4.5,2.05,3.3
+lCDEeiLm,2024-03-19,Eua Ncaa,22:10,Virginia,Colorado State,2.28,1.67,120.5,1.91,1.91,1.5,2.0,1.5
+x82mZc99,2024-03-19,Eua Nit,20:00,Georgia,Xavier,1.83,2.0,151.5,1.8,1.95,-2.5,2.0,2.3
+Us3qzvf3,2024-03-19,Eua Nit,20:00,LSU,North Texas,1.69,2.22,135.5,1.8,1.95,-3.5,2.0,2.9
+zqMhDGnj,2024-03-19,Eua Nit,20:00,Ohio State,Cornell,1.18,5.4,154.5,1.91,1.91,0.0,0.0,0.0
+MytIJI9M,2024-03-19,Eua Nit,20:00,Providence,Boston College,1.64,2.23,137.5,1.83,1.83,0.0,0.0,0.0
+ji4uyKvc,2024-03-19,Eua Nit,22:00,Iowa,Kansas State,1.38,3.17,156.5,1.8,1.95,0.0,0.0,0.0
+U5sSRF1q,2024-03-19,Eua Nit,22:00,UCF Knights,South Florida,1.49,2.74,139.5,1.8,1.95,0.0,0.0,0.0
+8dtWQZGk,2024-03-19,Eua Nit,22:00,Virginia Tech,Richmond,1.41,3.03,143.5,1.91,1.91,0.0,0.0,0.0
+rPk6sMGQ,2024-03-19,Europa Liga Dos Campeões,14:30,Peristeri,Tenerife,2.16,1.68,157.5,1.84,1.88,1.5,1.99,1.52
+ljpnzH25,2024-03-19,Europa Liga Dos Campeões,14:30,Pinar Karsiyaka,Hapoel Jerusalem,3.55,1.29,161.5,1.89,1.89,0.0,0.0,0.0
+tYOvIGbd,2024-03-19,Europa Liga Dos Campeões,16:30,Strasbourg,Tofas,1.88,1.89,162.5,1.87,1.87,-1.5,1.99,1.99
+tvQt5j4O,2024-03-19,Europa Liga Dos Campeões,16:30,Unicaja,Cholet,1.24,4.01,160.5,1.89,1.89,0.0,0.0,0.0
+OKnjVNh5,2024-03-19,Europa Liga Aba 2,11:00,Cedevita,Podgorica,2.5,1.49,158.5,1.87,1.83,0.0,0.0,0.0
+pUmnW3wa,2024-03-19,Europa Liga Aba 2,14:00,Siroki Brijeg,Subotica,2.56,1.47,155.5,1.83,1.87,0.0,0.0,0.0
+x4pvYP8n,2024-03-19,Europa Liga Aba 2,17:00,TFT Skopje,MZT Skopje,4.42,1.18,150.5,1.8,1.9,0.0,0.0,0.0
+t0gZpKDo,2024-03-19,Europa Liga Bnxt,16:00,Antwerp Giants,Groningen,1.14,5.24,145.5,1.85,1.85,0.0,0.0,0.0
+phMFrEjJ,2024-03-19,Europa Liga Letônia,14:00,BC Kalev,Ventspils,1.15,4.98,169.5,1.86,1.84,0.0,0.0,0.0
+hnaHy3EK,2024-03-19,Europa Liga Feminina Unike,13:00,Penza F,Partizani F,1.07,7.22,147.5,1.85,1.85,0.0,0.0,0.0
+WxbLzNTQ,2024-03-19,Europa Liga Feminina Unike,13:00,Tirana F,Bashkimi F,7.0,1.08,137.5,1.85,1.85,0.0,0.0,0.0
+8QJUAmN2,2024-03-19,Finlândia Korisliiga,13:30,Karhu Basket,Kataja,1.31,3.32,163.5,1.87,1.79,0.0,0.0,0.0
+CACI0Y2L,2024-03-19,Geórgia Superliga,07:00,Orbi,Kavkasia,1.49,2.5,175.5,1.85,1.85,0.0,0.0,0.0
+6XBMahIR,2024-03-19,Geórgia Superliga,12:00,Kutaisi,Iverioni,1.22,3.98,178.5,1.86,1.84,0.0,0.0,0.0
+htO9AjQl,2024-03-19,Israel Liga Leumit,13:30,Gilboa Galil,Hapoel Bnei Kfar Kasem,1.43,2.68,161.5,1.85,1.85,0.0,0.0,0.0
+0rmZGhmL,2024-03-19,Israel Liga Leumit,14:00,Maccabi Maale Adumim,Elitzor Netania,2.68,1.43,160.5,1.85,1.85,0.0,0.0,0.0
+AHY4BWAr,2024-03-19,Israel Liga Leumit,14:30,Ironi Nahariya,Maccabi Haifa,1.27,3.53,168.5,1.85,1.85,0.0,0.0,0.0
+88nwGC2R,2024-03-19,Israel Liga Leumit,14:30,Ramat Hasharon,Safed,1.75,1.98,161.5,1.85,1.85,-2.5,2.01,2.39
+2glcjFzm,2024-03-19,Itália Série A1 Feminina,15:00,Oxygen Roma F,Virtus Bologna F,5.99,1.11,129.5,1.8,1.86,0.0,0.0,0.0
+8CfFrDUa,2024-03-19,Japão B2.League,07:00,Shiga,Iwate,1.17,4.56,155.5,1.82,1.86,0.0,0.0,0.0
+Gdx6qq7M,2024-03-19,Lituânia Nkl,13:00,Telsiai,Kretinga,1.08,6.69,157.5,1.8,1.86,0.0,0.0,0.0
+zyfHppMa,2024-03-19,Lituânia Nkl,14:00,BC Olimpas Palanga,Delikatesas Joniskis,1.1,6.15,160.5,1.84,1.86,0.0,0.0,0.0
+IsCUWUgr,2024-03-19,Noruega Blno,14:30,Kongsberg Miners,Bærum,1.11,5.77,164.5,1.81,1.85,0.0,0.0,0.0
+t0ZaFJk9,2024-03-19,Suécia Basketligan,15:04,Borås,BC Lulea,1.43,2.68,173.5,1.87,1.79,0.0,0.0,0.0
+KjY3Ew5F,2024-03-19,Suécia Basketligan,15:04,Nassjo,Uppsala,1.42,2.72,172.5,1.85,1.85,0.0,0.0,0.0
+xSS8DcKL,2024-03-19,Suécia Basketligan,15:04,Umeå IK,Sodertalje,2.45,1.51,176.5,1.8,1.86,3.5,1.93,1.55
+lO9YWwpO,2024-03-19,Suécia Superettan,14:45,Hogsbo,RIG Mark,1.04,9.85,158.5,1.83,1.87,0.0,0.0,0.0
+hzkHzI4t,2024-03-19,Suíça Liga Sb,15:30,Fribourg Olympic,Neuchatel,1.02,11.1,156.5,1.81,1.85,0.0,0.0,0.0
+MFtYWZ35,2024-03-19,Suíça Liga Sb,16:00,Lausanne Basket,Geneva Lions,3.12,1.33,152.5,1.87,1.79,0.0,0.0,0.0
+SUEdKpkE,2024-03-19,Taiwan P. League+,08:00,Kaohsiung Steelers,Taoyuan Pauian Pilots,3.2,1.32,187.5,1.84,1.84,0.0,0.0,0.0
+KxNvMvVL,2024-03-19,Ucrânia Superliga Da Fbu,06:00,Stariy Lutsk,BK Zaporozhye,2.14,1.64,146.5,1.87,1.87,0.0,0.0,0.0
