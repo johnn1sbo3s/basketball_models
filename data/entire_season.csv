@@ -25314,3 +25314,277 @@ Date,League,Time,Home,Away,Home_Pts,Away_Pts,Odds_H,Odds_A,Over_Line,Odds_Over,O
 2024-03-22,México Cibacopa,23:15,Halcones de Obregon,Venados de Mazatlan,100.0,86.0,1.47,2.56,175.5,1.85,1.85,0.0,0.0,0.0
 2024-03-22,México Cibacopa,23:15,Astros,Rayos de Hermosillo,73.0,88.0,1.46,2.59,176.5,1.85,1.83,0.0,0.0,0.0
 2024-03-22,Eua Nba,23:30,Los Angeles Lakers,Philadelphia 76ers,101.0,94.0,1.27,3.27,227.5,1.93,1.93,0.0,0.0,0.0
+2024-03-23,México Cibacopa,00:15,Halcones de Obregon,Venados de Mazatlan,100.0,86.0,1.47,2.56,179.5,1.87,1.79,0.0,0.0,0.0
+2024-03-23,México Cibacopa,00:15,Ostioneros de Guaymas,Pioneros de Los Mochis,95.0,83.0,1.84,1.88,182.5,1.85,1.85,-1.5,1.98,2.04
+2024-03-23,México Cibacopa,00:30,Caballeros de Culiacan,Frayles de Guasave,87.0,91.0,1.56,2.32,176.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Taiwan Wsbl Feminina,02:00,Cathay Life F,Taipower F,72.0,70.0,1.13,5.45,139.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Japão B.League,02:05,Hiroshima D.,Diamond Dolphins,79.0,70.0,2.05,1.7,158.5,1.83,1.85,-2.5,1.98,1.93
+2024-03-23,Japão B.League,02:05,Shinshu,Osaka,86.0,89.0,3.25,1.31,158.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Japão B2.League,03:00,Iwate,Koshigaya Alphas,72.0,82.0,2.97,1.36,146.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Coreia Do Sul Kbl,03:00,Suwon KT,KoGas,85.0,81.0,1.17,4.95,170.5,1.85,1.89,0.0,0.0,0.0
+2024-03-23,Japão B2.League,03:00,Aomori,Yamagata Wyverns,78.0,96.0,1.43,2.68,171.5,1.87,1.79,0.0,0.0,0.0
+2024-03-23,Taiwan Liga T1,03:00,Taipei Taishin Mars,Kaohsiung Aquas,100.0,94.0,2.84,1.39,203.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Japão B2.League,03:00,Kumamoto,Altiri Chiba,83.0,109.0,6.95,1.08,177.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Japão B.League,03:05,Utsunomiya Brex,Sendai,104.0,83.0,1.15,5.03,150.5,1.84,1.86,0.0,0.0,0.0
+2024-03-23,Japão B.League,03:05,SeaHorses Mikawa,Kyoto,87.0,71.0,1.23,3.86,159.5,1.85,1.83,0.0,0.0,0.0
+2024-03-23,Japão B.League,03:05,NeoPhoenix,Sun Rockers Shibuya,94.0,78.0,1.35,3.02,157.5,1.8,1.9,0.0,0.0,0.0
+2024-03-23,Japão B.League,03:05,Hokkaido,Ibaraki Robots,96.0,81.0,1.63,2.19,159.5,1.86,1.84,0.0,0.0,0.0
+2024-03-23,Japão B.League,03:05,Yokohama,Nagasaki,76.0,90.0,1.42,2.72,160.5,1.81,1.89,0.0,0.0,0.0
+2024-03-23,Taiwan P. League+,03:30,Taoyuan Pauian Pilots,Formosa Dreamers,89.0,85.0,2.18,1.64,179.5,1.87,1.79,1.5,2.02,1.49
+2024-03-23,Japão B.League,03:35,Nagoya Fighting Eagles,Shimane,76.0,82.0,2.26,1.59,157.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Taiwan Wsbl Feminina,04:00,Taiyuan F,Chunghua Telecom F,77.0,49.0,1.08,6.9,137.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Japão B.League,04:05,Alvark,Chiba,81.0,62.0,1.51,2.45,160.5,1.83,1.85,0.0,0.0,0.0
+2024-03-23,Japão B.League,04:05,Brave Thunders,Saga,74.0,65.0,1.33,3.12,155.5,1.83,1.87,0.0,0.0,0.0
+2024-03-23,Japão B2.League,05:00,Nara,Ehime Orange Vikings,74.0,81.0,1.44,2.65,154.5,1.8,1.86,0.0,0.0,0.0
+2024-03-23,Austrália Nbl1 Central,05:00,Woodville Warriors F,West Adelaide Bearcats F,59.0,85.0,2.93,1.37,146.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Austrália Nbl1 Central,05:00,Sturt Sabres F,Forestville Eagles F,66.0,53.0,1.4,2.8,142.5,1.86,1.84,0.0,0.0,0.0
+2024-03-23,Austrália Nbl1 Central,05:00,Eastern Mavericks F,Central Districts Lions F,54.0,83.0,12.0,1.01,152.5,1.88,1.82,0.0,0.0,0.0
+2024-03-23,Japão B2.League,05:00,Shizuoka,Shiga,94.0,82.0,2.84,1.39,163.5,1.83,1.85,0.0,0.0,0.0
+2024-03-23,Taiwan Liga T1,05:30,New Taipei CTBC DEA,Taiwan Beer Leopards,97.0,104.0,1.54,2.37,195.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Japão B.League,05:35,Toyama,Gunma,69.0,84.0,4.56,1.17,163.5,1.8,1.88,0.0,0.0,0.0
+2024-03-23,Japão B2.League,05:40,Niigata,Fukuoka,85.0,81.0,5.77,1.11,157.5,1.88,1.79,0.0,0.0,0.0
+2024-03-23,Coreia Do Sul Kbl,06:00,Wonju DB,Anyang JungKwanJang,68.0,96.0,1.24,4.01,173.5,1.82,1.92,0.0,0.0,0.0
+2024-03-23,Coreia Do Sul Kbl,06:00,Seoul Knights,Seoul Thunders,84.0,75.0,1.21,4.38,160.5,1.89,1.89,0.0,0.0,0.0
+2024-03-23,Taiwan Sbl,06:00,Bank of Taiwan,Yulon Luxgen Dinos,73.0,81.0,1.76,1.97,157.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Taiwan P. League+,06:00,Kaohsiung Steelers,New Taipei Kings,102.0,109.0,3.06,1.34,193.5,1.83,1.87,0.0,0.0,0.0
+2024-03-23,Japão B.League,06:05,Ryukyu,Akita,78.0,81.0,1.18,4.46,155.5,1.82,1.88,0.0,0.0,0.0
+2024-03-23,Austrália Nbl1 Central,06:45,Eastern Mavericks,Central Districts Lions,82.0,80.0,2.93,1.37,178.5,1.87,1.79,0.0,0.0,0.0
+2024-03-23,Austrália Nbl1 Central,06:45,Sturt Sabres,Forestville Eagles,100.0,84.0,4.37,1.19,175.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Austrália Nbl1 Central,06:45,Woodville Warriors,West Adelaide Bearcats,104.0,93.0,1.36,2.97,176.5,1.87,1.79,0.0,0.0,0.0
+2024-03-23,Turquia Tbl,07:00,Alagoz,Ankara Kolejliler,63.0,75.0,1.68,2.1,158.5,1.87,1.83,0.0,0.0,0.0
+2024-03-23,Turquia Kbsl Feminina,08:00,Ormanspor F,CBK Mersin F,75.0,80.0,3.02,1.35,155.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Europa Liga Aba 2,08:00,Pelister,Subotica,81.0,88.0,4.3,1.19,159.5,1.87,1.79,0.0,0.0,0.0
+2024-03-23,Espanha Copa Da Espanha (Feminina),08:00,Valencia F,Estudiantes F,77.0,50.0,1.18,4.56,125.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Suécia Superettan,08:00,RIG Mark,Eskilstuna,70.0,86.0,1.49,2.5,149.5,1.87,1.8,0.0,0.0,0.0
+2024-03-23,Taiwan Sbl,08:00,Taiwan Beer,Changhua,80.0,84.0,1.2,4.22,158.5,1.81,1.87,0.0,0.0,0.0
+2024-03-23,Turquia Tb2L,08:00,CO Basket,Uskudar,51.0,37.0,1.12,5.61,135.5,1.83,1.87,0.0,0.0,0.0
+2024-03-23,China Cba,08:35,Jilin,Sichuan,105.0,86.0,1.06,8.6,197.5,1.87,1.87,0.0,0.0,0.0
+2024-03-23,China Cba,08:35,Qingdao,Shanxi Zhongyu,118.0,113.0,1.47,2.6,211.5,1.8,1.92,0.0,0.0,0.0
+2024-03-23,China Cba,08:35,Zhejiang Guangsha,Ningbo Rockets,95.0,71.0,1.04,9.9,201.5,1.86,1.88,0.0,0.0,0.0
+2024-03-23,Turquia Tbl,08:45,Konyaspor,Gaziantep,84.0,104.0,2.24,1.6,165.5,1.82,1.88,0.0,0.0,0.0
+2024-03-23,Turquia Kbsl Feminina,09:00,Fenerbahce F,Botas F,89.0,56.0,1.03,10.5,158.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Turquia Kbsl Feminina,09:00,Besiktas F,Nesibe Aydin F,89.0,71.0,1.24,3.77,158.5,1.87,1.83,0.0,0.0,0.0
+2024-03-23,Suécia Superettan,09:00,AIK Basket,IK Eos,81.0,67.0,1.4,2.8,162.5,1.87,1.79,0.0,0.0,0.0
+2024-03-23,Finlândia Divisão I Feminina,09:00,Tapiolan Honka II F,BC Nokia F,72.0,83.0,3.69,1.25,141.5,1.87,1.83,0.0,0.0,0.0
+2024-03-23,Indonésia Ibl,09:30,Tangerang Hawks,Hangtuah,75.0,85.0,1.55,2.34,153.5,1.87,1.79,0.0,0.0,0.0
+2024-03-23,Turquia Superliga,09:30,Merkezefendi,Turk Telekom,95.0,81.0,2.34,1.57,163.5,1.86,1.88,0.0,0.0,0.0
+2024-03-23,Dinamarca Kvindebasketligaen Feminina,10:00,BMS Herlev F,Falcon F,68.0,57.0,3.31,1.3,138.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Finlândia Divisão I Feminina,10:00,Lappeenranta F,Puhuttaret F,61.0,55.0,2.88,1.38,126.5,1.81,1.89,0.0,0.0,0.0
+2024-03-23,Turquia Tb2L,10:00,Sakarya BB,Tesvikiye,82.0,77.0,1.18,4.47,153.5,1.8,1.9,0.0,0.0,0.0
+2024-03-23,Dinamarca Kvindebasketligaen Feminina,10:00,Aabyhoj F,Amager F,60.0,66.0,1.47,2.56,135.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Indonésia Ibl,10:00,RANS PIK,Pelita Jaya,67.0,85.0,3.84,1.23,158.5,1.82,1.88,0.0,0.0,0.0
+2024-03-23,Finlândia Korisliiga Feminina,10:00,Torpan Pojat Helsinki F,HBA-Marsky Helsinki F,110.0,58.0,29.0,16.5,156.5,1.8,1.9,0.0,0.0,0.0
+2024-03-23,Turquia Tbl,10:30,Cayirova,Harem Spor,78.0,77.0,1.44,2.65,160.5,1.8,1.9,0.0,0.0,0.0
+2024-03-23,Polônia Liga De Basquete,10:30,Spojnia Stargard,Slask Wroclaw,93.0,67.0,1.57,2.34,157.5,1.88,1.79,0.0,0.0,0.0
+2024-03-23,Alemanha Pro B,11:00,Berlin Braves,Bernau,81.0,73.0,1.3,3.31,152.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Europa Liga Letônia,11:00,Prometey,Pärnu,101.0,74.0,1.01,16.0,162.5,1.83,1.87,0.0,0.0,0.0
+2024-03-23,Grécia Liga De Elite,11:00,Amyntas,Iraklis,58.0,84.0,2.32,1.56,147.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Suécia Superettan,11:00,Sloga Uppsala,KFUM Fryshuset,94.0,100.0,2.09,1.69,161.5,1.85,1.85,-2.5,1.95,1.89
+2024-03-23,Libano Divisão 1,11:00,Sagesse Al Hekmeh Beirut,Hoops,97.0,56.0,1.07,7.23,158.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Grécia Liga De Elite,11:00,Psychikou,Esperos,79.0,66.0,1.38,2.88,148.5,1.83,1.87,0.0,0.0,0.0
+2024-03-23,Espanha Copa Da Espanha (Feminina),11:00,Perfumerias Avenida F,Zaragoza F,61.0,73.0,1.41,2.76,133.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Grécia Liga De Elite,11:00,Papagou,Ermis Schimatari,90.0,66.0,1.56,2.32,157.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Grécia Liga De Elite,11:00,Panionios,Aias Evosmou,78.0,46.0,1.01,9.35,148.5,1.87,1.83,0.0,0.0,0.0
+2024-03-23,Grécia Liga De Elite,11:00,Eleftheroupoli,Koroivos,82.0,72.0,1.48,2.53,153.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Lituânia Nkl,11:00,Vilkaviskis,Suduva-Mantinga,69.0,76.0,3.02,1.35,150.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Europa Liga Aba 2,11:00,Helios Domzale,Podgorica,76.0,75.0,1.72,2.02,155.5,1.86,1.8,-2.5,1.98,2.43
+2024-03-23,Turquia Kbsl Feminina,11:30,Izmit Bld. F,Galatasaray F,64.0,90.0,2.53,1.48,164.5,1.83,1.83,0.0,0.0,0.0
+2024-03-23,Finlândia Korisliiga,12:00,Kobrat,KTP Basket,83.0,74.0,1.57,2.34,166.5,1.86,1.87,0.0,0.0,0.0
+2024-03-23,Finlândia Divisão I Feminina,12:00,Lahti Basketball F,Torpan Pojat Helsinki II F,74.0,81.0,3.12,1.33,127.5,1.83,1.87,0.0,0.0,0.0
+2024-03-23,Finlândia Korisliiga Feminina,12:00,Tapiolan Honka F,Kouvottaret F,66.0,85.0,2.22,1.61,153.5,1.84,1.86,0.0,0.0,0.0
+2024-03-23,Turquia Superliga,12:00,Bahcesehir Kol.,Çağdaş Bodrum Spor,89.0,86.0,1.31,3.32,166.5,1.8,1.92,0.0,0.0,0.0
+2024-03-23,Finlândia Korisliiga Feminina,12:00,PeKa F,Vimpelin Veto F,70.0,61.0,1.14,5.13,158.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Europa Liga Letônia,12:00,Latvijas Universitate,Viimsi,84.0,71.0,1.78,1.94,147.5,1.86,1.8,-1.5,1.92,2.1
+2024-03-23,França Lnb,12:00,Le Portel,Ada Blois,94.0,89.0,1.41,2.94,163.5,1.87,1.92,0.0,0.0,0.0
+2024-03-23,Finlândia Korisliiga Feminina,12:00,Pyrinto F,Forssan Alku F,71.0,82.0,2.19,1.63,157.5,1.86,1.84,0.0,0.0,0.0
+2024-03-23,Portugal Lpb,12:00,Imortal,FC Porto,85.0,108.0,5.4,1.13,160.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Portugal Proliga,12:00,Académica,Barreirense,59.0,64.0,2.13,1.66,144.5,1.85,1.85,-1.5,1.83,1.74
+2024-03-23,Reino Unido Wbbl (Fem.),12:00,Oaklands Wolves F,Durham Palatinates F,84.0,71.0,1.35,3.02,146.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Suécia Liga De Basquete,12:00,Sjuharads F,Uppsala F,66.0,75.0,6.47,1.09,140.5,1.8,1.9,0.0,0.0,0.0
+2024-03-23,Suécia Liga De Basquete,12:00,Visby F,Lund F,86.0,64.0,1.99,1.74,147.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Portugal Taça De Portugal,12:00,Quinta Dos Lombos F,Benfica F,52.0,66.0,2.56,1.47,128.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Noruega Blno,12:00,Bærum,Kongsberg Miners,79.0,93.0,2.68,1.43,163.5,1.8,1.86,0.0,0.0,0.0
+2024-03-23,Eslováquia Extraliga Feminina,12:00,CBK Kosice F,Samorin F,69.0,66.0,1.99,1.74,130.5,1.86,1.84,-1.5,1.87,1.85
+2024-03-23,Portugal Lpb,12:00,Ovarense,Benfica,79.0,87.0,5.93,1.11,160.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Suécia Liga De Basquete,12:00,Norrkoping F,Lulea F,88.0,75.0,1.77,1.91,144.5,1.85,1.81,-1.5,2.03,1.88
+2024-03-23,Croácia Premijer Liga,12:00,Bosco,Dubrava,82.0,99.0,6.52,1.09,165.5,1.87,1.83,0.0,0.0,0.0
+2024-03-23,Suécia Liga De Basquete,12:00,Marbo F,Sodertalje F,83.0,79.0,10.4,23.0,149.5,1.81,1.89,0.0,0.0,0.0
+2024-03-23,Suécia Liga De Basquete,12:00,Hogsbo F,Ostersund F,87.0,95.0,2.12,1.67,141.5,1.83,1.83,0.0,0.0,0.0
+2024-03-23,Portugal Lpb,12:00,CD Póvoa,Vitória SC,75.0,73.0,1.55,2.34,162.5,1.83,1.87,0.0,0.0,0.0
+2024-03-23,Suécia Liga De Basquete,12:00,AIK Basket F,Alvik F,67.0,85.0,3.77,1.24,146.5,1.82,1.88,0.0,0.0,0.0
+2024-03-23,Polônia 1. Liga,12:00,Niedzwiadki Chemart Przemysl,WKK Wroclaw,77.0,50.0,1.78,1.94,165.5,1.81,1.89,0.0,0.0,0.0
+2024-03-23,Suécia Superettan,12:00,KFUM Kalmar,Hogsbo,81.0,90.0,3.77,1.24,168.5,1.83,1.83,0.0,0.0,0.0
+2024-03-23,Suécia Superettan,12:00,Norrort,Helsingborg,67.0,88.0,2.39,1.53,158.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Portugal Lpb,12:00,Galomar,Esgueira,68.0,80.0,1.19,4.37,154.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Romênia Divisão A,12:15,Brasov,CSM Oradea,75.0,81.0,3.53,1.27,166.5,1.8,1.86,0.0,0.0,0.0
+2024-03-23,Grécia Liga De Basquete,12:15,Aris,Lavrio,84.0,60.0,1.24,4.01,151.5,1.87,1.91,0.0,0.0,0.0
+2024-03-23,Reino Unido Wbbl (Fem.),12:15,Cardiff Met Archers F,Nottingham Wildcats F,58.0,76.0,5.99,1.11,152.5,1.87,1.79,0.0,0.0,0.0
+2024-03-23,Lituânia Lkl,12:20,Pieno Zvaigzdes,Nevezis,74.0,76.0,2.24,1.6,180.5,1.85,1.85,2.5,1.93,1.61
+2024-03-23,Eua Nit,12:30,Seton Hall,North Texas,72.0,58.0,1.58,2.47,135.5,1.91,1.91,0.0,0.0,0.0
+2024-03-23,Europa Liga Waba Feminina,12:30,Cinkarna Celje F,Orlovi F,77.0,61.0,1.08,26.0,154.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Romênia Divisão A,13:00,Petrolul Ploiesti,Laguna Bucuresti,82.0,68.0,1.05,8.8,152.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Itália Série A2,13:00,Luiss Roma,Cividale,68.0,88.0,1.58,2.29,152.5,1.83,1.87,-4.5,2.03,2.39
+2024-03-23,Islândia Copa Da Islândia,13:00,Tindastoll,Keflavik,79.0,92.0,1.65,2.15,177.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Áustria Liga Zweite,13:00,Mistelbach,Kufstein,76.0,68.0,1.17,4.66,156.5,1.84,1.84,0.0,0.0,0.0
+2024-03-23,Romênia Divisão A,13:00,CSM Targu Mures,Rapid Bucuresti,76.0,79.0,2.07,1.7,163.5,1.84,1.86,1.5,1.92,1.63
+2024-03-23,Romênia Divisão A,13:00,Valcea,CSM Targu Jiu,96.0,100.0,1.26,3.61,168.5,1.8,1.88,0.0,0.0,0.0
+2024-03-23,Romênia Divisão A,13:00,CSM Constanta,Voluntari,74.0,93.0,1.91,1.81,164.5,1.85,1.85,3.5,1.55,1.47
+2024-03-23,Reino Unido Wbbl (Fem.),13:00,Essex Rebels F,Caledonia Gladiators F,56.0,66.0,8.45,1.05,140.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Bulgária Nbl,13:00,Cherno More,Rilski Sportist,60.0,107.0,3.53,1.27,166.5,1.81,1.89,0.0,0.0,0.0
+2024-03-23,Bulgária Nbl,13:00,Yambol,Levski,79.0,80.0,1.42,2.72,155.5,1.83,1.87,2.5,2.01,1.94
+2024-03-23,Europa Liga Bnxt,13:00,Feyenoord,Spotter Leuven,75.0,80.0,2.93,1.37,154.5,1.86,1.84,0.0,0.0,0.0
+2024-03-23,Europa Liga Aba,13:00,Cedevita Olimpija,Mornar Bar,105.0,89.0,1.12,5.56,172.5,1.87,1.79,0.0,0.0,0.0
+2024-03-23,Espanha Leb Ouro,13:00,Real Bétis,Clavijo,94.0,85.0,1.09,6.63,153.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Suíça Liga Sb Feminina,13:00,Helios VS F,Riva Basket F,87.0,90.0,1.93,1.79,135.5,1.82,1.84,5.5,1.39,1.53
+2024-03-23,Espanha Leb Plata,13:30,Basquet L'Horta Godella,Mataro,70.0,63.0,1.35,3.02,147.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Suíça Liga Sb,13:30,BBC Monthey,SAM Massagno,82.0,97.0,2.93,1.37,166.5,1.83,1.87,0.0,0.0,0.0
+2024-03-23,Suíça Liga Sb,13:30,Vevey Riviera,Lugano,97.0,71.0,1.15,5.03,177.5,1.85,1.83,0.0,0.0,0.0
+2024-03-23,Polônia Liga De Basquete,13:30,Trefl Sopot,Gdynia,85.0,69.0,1.1,6.48,171.5,1.81,1.85,0.0,0.0,0.0
+2024-03-23,Suíça Liga Sb Feminina,13:30,Fribourg F,Pully F,88.0,69.0,1.06,21.0,141.5,1.82,1.88,0.0,0.0,0.0
+2024-03-23,Suíça Liga Sb Feminina,13:30,Nyon F,Alte Kanti Aarau F,90.0,52.0,1.06,7.7,135.5,1.81,1.89,0.0,0.0,0.0
+2024-03-23,Eua Ncaa,13:45,Arizona,Dayton,78.0,68.0,1.21,4.67,148.5,1.8,1.95,-10.5,2.0,11.0
+2024-03-23,Espanha Leb Plata,13:45,Prat Joventut,Tarragona,100.0,84.0,1.07,7.7,151.5,1.83,1.83,0.0,0.0,0.0
+2024-03-23,Hungria Nacional Feminino,14:00,Szekszard F,DVTK F,81.0,78.0,1.85,1.87,134.5,1.8,1.9,-1.5,1.9,1.99
+2024-03-23,Hungria Nacional Feminino,14:00,Ujbuda BEAC F,PEAC-Pecs F,71.0,81.0,8.65,1.05,148.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Hungria Nacional Feminino,14:00,Szigetszentmiklos F,Vasas Csata F,76.0,85.0,2.39,1.53,132.5,1.82,1.88,0.0,0.0,0.0
+2024-03-23,Suíça Liga Sb Feminina,14:00,Baden F,BBC Troistorrents F,57.0,69.0,5.61,1.12,128.5,1.8,1.9,0.0,0.0,0.0
+2024-03-23,Romênia Divisão A,14:00,BC Timisoara,SCM Craiova,71.0,86.0,1.46,2.59,152.5,1.86,1.8,0.0,0.0,0.0
+2024-03-23,Suíça Liga Sb,14:00,Neuchatel,Lausanne Basket,87.0,71.0,1.18,4.47,147.5,1.8,1.86,0.0,0.0,0.0
+2024-03-23,Reino Unido Bbl,14:00,Cheshire Phoenix,Bristol Flyers,96.0,73.0,1.31,3.25,171.5,1.87,1.83,0.0,0.0,0.0
+2024-03-23,Polônia 1. Liga,14:00,HydroTruck Radom,Krosno,73.0,74.0,2.24,1.6,160.5,1.84,1.86,0.0,0.0,0.0
+2024-03-23,Hungria Nacional Feminino,14:00,Sopron F,UNI Gyor F,75.0,74.0,1.74,1.99,143.5,1.86,1.84,0.0,0.0,0.0
+2024-03-23,Hungria Nacional,14:00,Zalakeramia,Alba Fehervar,89.0,83.0,2.32,1.56,177.5,1.84,1.86,0.0,0.0,0.0
+2024-03-23,Alemanha Pro B,14:00,RSV Eintracht,Itzehoe,75.0,73.0,1.41,2.76,152.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Eslovênia 1. Skl Feminino,14:00,Triglav F,ZKK Domzale F,77.0,50.0,1.17,16.0,139.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Hungria Nacional Feminino,14:00,Cegledi F,TFSE-MTK F,65.0,73.0,16.0,1.01,137.5,1.81,1.87,0.0,0.0,0.0
+2024-03-23,Eslováquia Extraliga,14:00,Prievidza,Inter Bratislava,96.0,67.0,1.26,3.61,157.5,1.8,1.86,0.0,0.0,0.0
+2024-03-23,Eslováquia Extraliga,14:00,Levice,Iskra Svit,92.0,91.0,1.19,4.37,162.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Eslováquia Extraliga,14:00,Handlova,BC Komarno,70.0,72.0,2.03,1.71,161.5,1.85,1.83,1.5,1.9,1.57
+2024-03-23,Dinamarca Liga De Basquete,14:00,Copenhagen,Herlev Wolfpack,85.0,73.0,1.09,6.8,165.5,1.88,1.79,0.0,0.0,0.0
+2024-03-23,Eua Cbi,14:00,Arkansas State,Bethune Cookman,86.0,85.0,1.11,7.5,152.5,1.91,1.91,0.0,0.0,0.0
+2024-03-23,Espanha Acb,14:00,Basquet Girona,Manresa,83.0,84.0,1.79,2.03,168.5,1.88,1.92,-2.5,2.02,2.32
+2024-03-23,Áustria Liga Zweite,14:00,Worthersee Piraten,Wagram,77.0,75.0,1.67,2.12,143.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Europa Liga Aba 2,14:00,TFT Skopje,GKK Sibenka,76.0,89.0,1.94,1.78,154.5,1.87,1.79,1.5,1.81,1.64
+2024-03-23,Eslovênia 1. Skl Feminino,14:00,Jezica F,Ilirija F,60.0,51.0,2.32,1.56,137.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Europa Liga Letônia,14:00,Rigas Zelli,BK Liepaja,81.0,79.0,1.15,5.03,153.5,1.87,1.83,0.0,0.0,0.0
+2024-03-23,Alemanha Pro A,14:00,Bremerhaven,Kirchheim,78.0,87.0,1.63,2.19,168.5,1.83,1.87,0.0,0.0,0.0
+2024-03-23,Eslováquia Extraliga Feminina,14:00,Young Angels Kosice F,Ruzomberok F,67.0,98.0,10.9,26.0,136.5,1.91,1.77,0.0,0.0,0.0
+2024-03-23,Espanha Acb,14:00,Granada,Unicaja,62.0,90.0,3.66,1.29,165.5,1.86,1.9,0.0,0.0,0.0
+2024-03-23,Sérvia 1. Zls Feminino,14:00,Mega MIS F,Duga F,108.0,36.0,1.83,1.83,146.5,1.83,1.83,0.0,0.0,0.0
+2024-03-23,Hungria Nacional,14:00,DEAC,Budapesti Honved Se,73.0,75.0,1.6,2.24,153.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Hungria Nacional,14:00,KTE-Duna,Kaposvari,104.0,89.0,1.51,2.45,165.5,1.82,1.88,0.0,0.0,0.0
+2024-03-23,Hungria Nacional,14:00,Szolnoki Olaj,NKA Pecs,68.0,64.0,1.4,2.8,167.5,1.83,1.87,0.0,0.0,0.0
+2024-03-23,Eua Nba,14:00,New York Knicks,Brooklyn Nets,105.0,93.0,1.37,3.28,203.5,1.85,1.93,0.0,0.0,0.0
+2024-03-23,Hungria Nacional,14:00,OSE Lions,Atomeromu Paks,84.0,73.0,1.28,3.44,166.5,1.81,1.89,0.0,0.0,0.0
+2024-03-23,Turquia Superliga,14:30,Besiktas,Pinar Karsiyaka,115.0,66.0,1.48,2.57,165.5,1.83,1.91,0.0,0.0,0.0
+2024-03-23,Espanha Leb Plata,14:30,Zornotza ST,La Roda,70.0,66.0,1.22,3.98,156.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Espanha Leb Plata,14:30,Ponferrada,Juventud Alcala,74.0,67.0,1.25,3.69,151.5,1.8,1.86,0.0,0.0,0.0
+2024-03-23,Portugal Taça De Portugal,14:30,Uniao Sportiva F,Gdessa Barreiro F,55.0,60.0,1.53,2.39,128.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Alemanha Bbl,14:30,Ulm,Wurzburg,87.0,79.0,1.58,2.4,170.5,1.81,1.95,0.0,0.0,0.0
+2024-03-23,Alemanha Pro A,14:30,Nurnberger,Vechta 2,78.0,90.0,1.6,2.24,166.5,1.87,1.79,0.0,0.0,0.0
+2024-03-23,França Lnb,14:30,Boulogne-Levallois,Dijon,82.0,77.0,3.19,1.36,159.5,1.84,1.94,7.5,1.82,1.08
+2024-03-23,França Lnb,14:30,Chalon/Saone,Nancy,70.0,74.0,1.49,2.65,164.5,1.8,1.96,0.0,0.0,0.0
+2024-03-23,França Lnb,14:30,Nanterre,JL Bourg,105.0,98.0,1.94,1.87,161.5,1.8,1.94,1.5,1.8,1.73
+2024-03-23,França Lnb,14:30,Paris,Limoges,101.0,77.0,1.1,6.97,161.5,1.85,1.91,0.0,0.0,0.0
+2024-03-23,Alemanha Bbl,14:30,Oldenburg,Heidelberg,99.0,77.0,1.24,4.15,175.5,1.82,1.94,0.0,0.0,0.0
+2024-03-23,Espanha Leb Ouro,15:00,Ourense,Estudiantes,92.0,71.0,2.2,1.62,153.5,1.85,1.85,1.5,2.05,1.48
+2024-03-23,Portugal Proliga,15:00,Galitos Barreiro,Maia,83.0,71.0,1.36,2.97,158.5,1.84,1.86,0.0,0.0,0.0
+2024-03-23,Espanha Leb Plata,15:00,Huelva,Moron,71.0,80.0,2.53,1.48,158.5,1.83,1.83,0.0,0.0,0.0
+2024-03-23,Eslováquia Extraliga,15:00,Spisski Rytieri,BKM Lucenec,101.0,69.0,1.19,4.37,168.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,França Lfb Feminina,15:00,Landes F,Charnay Bourgogne Sud F,92.0,76.0,1.12,5.56,142.5,1.84,1.86,0.0,0.0,0.0
+2024-03-23,Itália Série A1 Feminina,15:00,Battipaglia F,Sassari F,72.0,83.0,4.22,1.2,144.5,1.82,1.88,0.0,0.0,0.0
+2024-03-23,Eslovênia Liga Nova Kbm,15:00,Hopsi Polzela,Tajfun Sentjur,100.0,86.0,1.92,1.8,163.5,1.82,1.88,0.0,0.0,0.0
+2024-03-23,Sérvia Primeira Liga,15:00,Joker,Metalac,105.0,72.0,1.37,2.9,177.5,1.83,1.83,0.0,0.0,0.0
+2024-03-23,Israel Superliga,15:00,Nes Ziona,Hapoel Holon,74.0,76.0,1.8,1.95,161.5,1.86,1.88,-1.5,1.91,2.11
+2024-03-23,Eua Nit,15:00,Cincinnati,Bradley,74.0,57.0,1.45,2.85,141.5,1.8,1.95,0.0,0.0,0.0
+2024-03-23,Itália Liga A,15:00,Pistoia,Treviso,83.0,84.0,1.53,2.53,159.5,1.84,1.92,-4.5,1.9,4.2
+2024-03-23,Europa Liga Aba,15:00,Igokea,Krka,90.0,84.0,1.25,3.69,155.5,1.86,1.84,0.0,0.0,0.0
+2024-03-23,Itália Série A2,15:00,Latina,Fortitudo Bologna,63.0,77.0,3.25,1.31,148.5,1.83,1.85,0.0,0.0,0.0
+2024-03-23,Alemanha Pro A,15:00,Giessen,Munster,98.0,94.0,1.33,3.12,168.5,1.84,1.86,0.0,0.0,0.0
+2024-03-23,Alemanha Pro A,15:00,Bochum,Dresden,81.0,98.0,1.95,1.77,176.5,1.84,1.86,1.5,1.81,1.64
+2024-03-23,Alemanha Pro A,15:00,Bayreuth,Trier,76.0,99.0,2.76,1.41,168.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Macedônia Do Norte Prva Liga,15:00,Gostivar,Kozuv,104.0,73.0,1.51,2.5,162.5,1.83,1.83,0.0,0.0,0.0
+2024-03-23,Bósnia E Herzegovina Prvenstvo Bih,15:00,Promo,Sloboda,73.0,78.0,2.76,1.41,156.5,1.8,1.9,0.0,0.0,0.0
+2024-03-23,Hungria Nacional,15:15,Szombathely,Kormend,91.0,46.0,1.03,9.65,173.5,1.82,1.88,0.0,0.0,0.0
+2024-03-23,Grécia Liga De Basquete,15:15,AEK Athens,Peristeri,97.0,101.0,1.8,1.98,165.5,1.8,1.86,-1.5,1.92,1.97
+2024-03-23,Alemanha Pro A,15:30,Paderborn,Jena,77.0,73.0,3.86,1.23,159.5,1.84,1.86,0.0,0.0,0.0
+2024-03-23,Alemanha Pro A,15:30,PS Karlsruhe,Artland,76.0,73.0,1.3,3.31,165.5,1.86,1.8,0.0,0.0,0.0
+2024-03-23,Europa Liga Bnxt,15:30,Den Helder,Okapi Aalst,69.0,81.0,3.61,1.26,152.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Bahrein Premier League,15:30,Al Ittihad,Al Najma,92.0,87.0,1.26,3.61,177.5,1.8,1.86,0.0,0.0,0.0
+2024-03-23,Sérvia Primeira Liga,15:30,Sloga,Leskovac Zdravlje,81.0,79.0,1.37,2.9,170.5,1.83,1.83,0.0,0.0,0.0
+2024-03-23,Sérvia Primeira Liga,15:30,Sloboda,Vrsac,82.0,84.0,1.77,1.91,173.5,1.83,1.83,0.0,0.0,0.0
+2024-03-23,Europa Liga Waba Feminina,15:30,Buducnost F,Sloga Pozega F,78.0,57.0,1.01,18.0,139.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Espanha Leb Ouro,15:30,Hestia Menorca,Estela,84.0,68.0,1.42,2.72,146.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Bósnia E Herzegovina Prvenstvo Bih,15:30,Slavija,Orlovik,89.0,92.0,1.66,2.13,163.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Espanha Leb Plata,15:30,L'Hospitalet,Sant Antoni,60.0,77.0,3.06,1.34,150.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Espanha Leb Plata,15:30,Benicarlo,Cartagena,77.0,71.0,2.55,1.49,150.5,1.83,1.83,0.0,0.0,0.0
+2024-03-23,Polônia Liga De Basquete,15:30,Dziki Warszawa,Anwil Wloclawek,67.0,95.0,2.51,1.5,158.5,1.87,1.79,0.0,0.0,0.0
+2024-03-23,Portugal Proliga,15:45,Galitos Aveiro,Ginasio Olhanense,94.0,91.0,1.3,3.31,153.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Israel Superliga,15:45,Hapoel Tel-Aviv,H. Haifa,87.0,88.0,1.05,8.7,177.5,1.81,1.86,0.0,0.0,0.0
+2024-03-23,Israel Liga Leumit,16:00,Elitzor Netania,Maccabi Rishon,85.0,78.0,1.35,3.02,164.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,França Lfb Feminina,16:00,Angers F,La Roche F,65.0,61.0,1.33,3.12,146.5,1.84,1.84,0.0,0.0,0.0
+2024-03-23,Alemanha Bbl,16:00,Crailsheim Merlins,Gottingen,80.0,76.0,1.83,1.98,176.5,1.8,1.94,-1.5,1.94,2.11
+2024-03-23,França Lfb Feminina,16:00,Union Hainaut F,Lyon F,70.0,59.0,7.7,1.06,144.5,1.8,1.9,0.0,0.0,0.0
+2024-03-23,Brasil Lbf Feminina,16:00,São José F,Catanduva F,74.0,55.0,1.19,4.37,136.5,1.83,1.87,0.0,0.0,0.0
+2024-03-23,Europa Liga Bnxt,16:00,Leiden,Limburg,75.0,61.0,1.63,2.19,147.5,1.85,1.83,0.0,0.0,0.0
+2024-03-23,Kosovo Superliga,16:00,Peja,Sigal Prishtina,88.0,98.0,1.48,2.53,169.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Europa Liga Bnxt,16:00,Groningen,Spirou Charleroi,78.0,72.0,1.61,2.22,144.5,1.86,1.84,0.0,0.0,0.0
+2024-03-23,Espanha Leb Ouro,16:00,San Pablo Burgos,Gipuzkoa,75.0,70.0,1.26,3.61,162.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Polônia 1. Liga,16:00,Alstom Krakow,AWF Katowice,96.0,80.0,1.44,2.65,166.5,1.81,1.89,0.0,0.0,0.0
+2024-03-23,Espanha Leb Plata,16:00,Zamora,Albacete,92.0,69.0,1.19,4.37,144.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Croácia Premijer Liga,16:00,Skrljevo,Alkar,71.0,99.0,2.2,1.62,169.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Europa Liga Bnxt,16:00,BAL Weert,Liege,86.0,84.0,2.93,1.37,153.5,1.82,1.88,0.0,0.0,0.0
+2024-03-23,Áustria Superliga Feminina,16:15,UBI Graz F,Duches Klosterneuburg F,54.0,74.0,4.46,1.18,124.5,1.83,1.83,0.0,0.0,0.0
+2024-03-23,Espanha Leb Plata,16:15,Huesca,Ciudad de Huelva,64.0,82.0,1.56,2.32,152.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Eua Ncaa,16:15,Kansas,Gonzaga,68.0,89.0,2.56,1.55,151.5,1.91,1.91,3.5,2.0,1.3
+2024-03-23,Bósnia E Herzegovina Prvenstvo Bih Feminina,16:15,Jumper F,Mladi Krajisnik F,85.0,73.0,1.04,9.9,134.5,1.83,1.83,0.0,0.0,0.0
+2024-03-23,Macedônia Do Norte Prva Liga,16:30,Feniks 2010,Rabotnicki,69.0,98.0,3.19,1.32,164.5,1.83,1.83,0.0,0.0,0.0
+2024-03-23,Bósnia E Herzegovina Prvenstvo Bih Feminina,16:30,Lavovi F,Leotar Trebinje F,87.0,60.0,1.02,12.6,139.5,1.83,1.83,0.0,0.0,0.0
+2024-03-23,Eua Cbi,16:30,UC San Diego,Chicago St,75.0,77.0,1.21,4.67,138.5,1.8,1.95,0.0,0.0,0.0
+2024-03-23,Itália Série A2,16:30,Monferrato,Forli,75.0,77.0,2.5,1.49,152.5,1.87,1.79,0.0,0.0,0.0
+2024-03-23,Itália Série A2,16:30,Treviglio,Pallacanestro Nardo,76.0,62.0,1.27,3.53,152.5,1.87,1.83,0.0,0.0,0.0
+2024-03-23,Bélgica Top Division Feminina,16:30,Kortrijk F,Liege F,56.0,49.0,1.56,2.32,136.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Itália Série A1 Feminina,16:30,Brixia F,Schio F,68.0,87.0,7.5,1.04,137.5,1.83,1.83,0.0,0.0,0.0
+2024-03-23,Itália Liga A,16:30,Trento,Sassari,87.0,76.0,1.71,2.15,160.5,1.83,1.93,-3.5,2.0,2.75
+2024-03-23,Reino Unido Wbbl (Fem.),16:30,Newcastle Eagles F,Sheffield Hatters F,74.0,76.0,6.68,1.09,155.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Espanha Acb,16:45,Obradoiro CAB,Breogan,83.0,72.0,1.58,2.4,157.5,1.81,1.93,0.0,0.0,0.0
+2024-03-23,Espanha Acb,16:45,MoraBanc Andorra,Zaragoza,85.0,80.0,1.39,3.03,166.5,1.85,1.91,0.0,0.0,0.0
+2024-03-23,Brasil Nbb,17:00,Pinheiros,Corinthians Paulista,77.0,90.0,1.76,1.97,156.5,1.87,1.79,-2.5,2.03,2.37
+2024-03-23,Macedônia Do Norte Prva Liga,17:00,Euro Nickel,Cair 2030,93.0,94.0,1.37,2.9,164.5,1.83,1.83,0.0,0.0,0.0
+2024-03-23,França Lnb,17:00,Cholet,Saint Quentin,73.0,69.0,1.6,2.36,153.5,1.8,1.94,0.0,0.0,0.0
+2024-03-23,Eua Cit,17:00,Norfolk State,Alabama A&M,81.0,66.0,1.21,4.67,142.5,1.91,1.91,0.0,0.0,0.0
+2024-03-23,Brasil Nbb,17:10,Franca,R10 Score Vasco da Gama,93.0,67.0,1.23,3.86,162.5,1.87,1.79,0.0,0.0,0.0
+2024-03-23,Portugal Proliga,18:00,Sampaense,Benfica B,69.0,71.0,2.19,1.63,147.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Portugal Lpb,18:15,Lusitania,Portimonense,75.0,92.0,3.08,1.34,156.5,1.82,1.86,0.0,0.0,0.0
+2024-03-23,Eua Cbi,18:30,Seattle,Delaware State,79.0,66.0,1.12,6.9,136.5,1.8,1.95,0.0,0.0,0.0
+2024-03-23,Brasil Lbf Feminina,18:30,Sampaio F,SESI Araraquara F,68.0,59.0,1.71,2.03,130.5,1.81,1.89,0.0,0.0,0.0
+2024-03-23,Eua Ncaa,18:30,North Carolina,Michigan State,85.0,69.0,1.61,2.42,139.5,1.8,1.95,-4.5,1.95,3.3
+2024-03-23,Argentina Liga Feminina,18:30,Instituto F,Riachuelo F,52.0,57.0,1.65,2.15,132.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Uruguai Liga Uruguaia,19:00,Hebraica y Macabi,Defensor Sporting,103.0,96.0,1.29,3.37,162.5,1.87,1.83,0.0,0.0,0.0
+2024-03-23,Chile Lnb,19:00,Sportiva Italiana,Ancud,71.0,82.0,2.53,1.48,160.5,1.82,1.88,0.0,0.0,0.0
+2024-03-23,Eua Ncaa,19:10,Iowa State,Washington State,67.0,56.0,1.36,3.33,128.5,1.82,1.94,-7.5,2.0,7.5
+2024-03-23,Chile Lnb,19:15,Puente Alto,Deportes Castro,87.0,64.0,1.63,2.19,149.5,1.87,1.83,0.0,0.0,0.0
+2024-03-23,Chile Lnb,19:30,CD Puerto Varas,Puerto Montt,73.0,76.0,1.11,5.93,155.5,1.84,1.86,0.0,0.0,0.0
+2024-03-23,Chile Lnb,19:45,Liceo Pablo Neruda,U. De Concepcion,57.0,95.0,6.31,1.1,153.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Eua Nit,20:00,Ohio State,Virginia Tech,81.0,73.0,1.58,2.47,149.5,1.8,1.95,0.0,0.0,0.0
+2024-03-23,Eua Nba,20:00,Orlando Magic,Sacramento Kings,107.0,109.0,1.54,2.26,215.5,1.89,1.97,-3.5,1.89,2.65
+2024-03-23,Chile Lnb,20:00,Valdivia,Espanol de Talca,98.0,65.0,1.16,4.71,172.5,1.85,1.83,0.0,0.0,0.0
+2024-03-23,Argentina Liga Feminina,20:00,Quimsa F,Berazategui F,72.0,61.0,1.4,2.8,118.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Argentina Liga A,20:00,Platense,Boca Juniors,82.0,69.0,2.07,1.7,154.5,1.86,1.8,1.5,1.92,1.56
+2024-03-23,Eua Ncaa,20:10,N.C. State,Oakland,79.0,73.0,1.38,3.17,146.5,1.91,1.91,0.0,0.0,0.0
+2024-03-23,Chile Lnb,20:15,Catolica,Espanol Osorno,59.0,78.0,5.46,1.13,149.5,1.86,1.84,0.0,0.0,0.0
+2024-03-23,Chile Lnb,20:30,Leones Quilpue,Las Animas,74.0,54.0,1.1,6.04,152.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Eua Nba,20:30,Atlanta Hawks,Charlotte Hornets,132.0,91.0,1.22,3.65,213.5,1.83,1.97,0.0,0.0,0.0
+2024-03-23,Eua Nba,21:00,Chicago Bulls,Boston Celtics,113.0,124.0,3.6,1.32,221.5,1.93,1.93,0.0,0.0,0.0
+2024-03-23,Eua Nba,21:00,Houston Rockets,Utah Jazz,147.0,119.0,1.22,4.62,226.5,1.93,1.93,0.0,0.0,0.0
+2024-03-23,Eua Nba,21:00,San Antonio Spurs,Phoenix Suns,106.0,131.0,4.62,1.22,227.5,1.81,2.0,0.0,0.0,0.0
+2024-03-23,Argentina Liga A,21:00,Comunicaciones Mercedes,Independiente de Oliva,87.0,91.0,1.61,2.22,162.5,1.8,1.86,0.0,0.0,0.0
+2024-03-23,Eua Ncaa,21:00,Tennessee,Texas,62.0,58.0,1.38,3.17,145.5,1.8,1.95,0.0,0.0,0.0
+2024-03-23,Eua Nba,21:00,Washington Wizards,Toronto Raptors,112.0,109.0,1.43,2.95,230.5,1.83,1.97,0.0,0.0,0.0
+2024-03-23,Uruguai Liga Uruguaia,21:00,Cordon,Penarol,68.0,84.0,3.31,1.3,145.5,1.85,1.85,0.0,0.0,0.0
+2024-03-23,Uruguai Liga Uruguaia,21:15,Aguada,Nacional,103.0,89.0,1.21,4.16,169.5,1.83,1.83,0.0,0.0,0.0
+2024-03-23,Eua Ncaa,21:40,Illinois,Duquesne,89.0,63.0,1.19,4.91,147.5,1.8,1.95,-10.5,1.95,11.0
+2024-03-23,Argentina Liga A,22:00,Instituto de Cordoba,La Union,74.0,72.0,1.15,4.98,157.5,1.86,1.84,0.0,0.0,0.0
+2024-03-23,Eua Ncaa,22:40,Creighton,Oregon,86.0,73.0,1.51,2.74,145.5,1.8,1.91,0.0,0.0,0.0
+2024-03-23,Eua Nba,23:00,Portland Trail Blazers,Denver Nuggets,111.0,114.0,7.38,1.11,210.5,1.89,1.97,0.0,0.0,0.0
+2024-03-23,Austrália Nbl1 Central,23:30,Norwood Flames F,North Adelaide Rockets F,66.0,75.0,9.1,1.04,150.5,1.82,1.85,0.0,0.0,0.0
