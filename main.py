@@ -43,7 +43,7 @@ def git_commit(commit_message):
 
 atualizar_repo()
 
-if hour < 17:
+if hour < 19:
     print('Pegando últimos resultados...')
     pm.execute_notebook(
         input_path='atualiza_ultimos_jogos.ipynb',
