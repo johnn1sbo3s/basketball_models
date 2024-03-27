@@ -25834,3 +25834,83 @@ Date,League,Time,Home,Away,Home_Pts,Away_Pts,Odds_H,Odds_A,Over_Line,Odds_Over,O
 2024-03-25,Eua Nba,22:00,Denver Nuggets,Memphis Grizzlies,128.0,103.0,1.15,6.13,213.5,1.81,1.95,0.0,0.0,0.0
 2024-03-25,Eua Nba,22:00,Utah Jazz,Dallas Mavericks,105.0,115.0,3.6,1.32,233.5,1.82,1.94,0.0,0.0,0.0
 2024-03-25,Eua Nba,23:00,Sacramento Kings,Philadelphia 76ers,108.0,96.0,1.29,3.86,217.5,1.81,1.95,0.0,0.0,0.0
+2024-03-26,Coreia Do Sul Wkbl Feminina,07:00,KB Stars F,Woori WON F,64.0,60.0,1.48,2.62,126.5,1.85,1.89,0.0,0.0,0.0
+2024-03-26,Coreia Do Sul Kbl,07:00,KCC Egis,Anyang JungKwanJang,91.0,88.0,1.49,2.59,177.5,1.85,1.89,0.0,0.0,0.0
+2024-03-26,Geórgia Superliga,07:00,Orbi,TSU,89.0,101.0,2.13,1.66,176.5,1.81,1.87,0.0,0.0,0.0
+2024-03-26,Coreia Do Sul Kbl,07:00,KoGas,Mobis Phoebus,82.0,78.0,1.98,1.8,167.5,1.8,1.92,1.5,1.86,1.66
+2024-03-26,Taiwan P. League+,08:00,New Taipei Kings,Formosa Dreamers,101.0,103.0,1.69,2.09,189.5,1.8,1.9,1.5,1.8,1.94
+2024-03-26,China Wcba Feminina,08:30,Sichuan F,Shanxi Xing Rui F,77.0,96.0,1.03,10.5,158.5,1.83,1.87,0.0,0.0,0.0
+2024-03-26,China Wcba Feminina,08:30,Jiangsu Phoenix F,Zhejiang Golden Bulls F,82.0,69.0,1.59,2.26,149.5,1.85,1.85,0.0,0.0,0.0
+2024-03-26,China Wcba Feminina,08:30,Guangdong F,Shanghai F,81.0,89.0,1.42,2.72,151.5,1.82,1.88,0.0,0.0,0.0
+2024-03-26,China Cba,08:35,Shanghai,Shenzhen,111.0,97.0,1.67,2.15,208.5,1.81,1.91,0.0,0.0,0.0
+2024-03-26,China Cba,08:35,Shandong,Beijing Royal Fighters,111.0,85.0,1.86,1.88,217.5,1.81,1.91,-1.5,1.95,1.98
+2024-03-26,China Cba,08:35,Liaoning,Xinjiang,96.0,85.0,1.69,2.12,198.5,1.86,1.88,0.0,0.0,0.0
+2024-03-26,China Cba,08:35,Jiangsu Dragons,Tianjin,111.0,129.0,3.14,1.34,201.5,1.83,1.89,0.0,0.0,0.0
+2024-03-26,China Cba,08:35,Guangzhou,Zhejiang Guangsha,120.0,103.0,1.75,2.01,197.5,1.83,1.91,-1.5,1.86,2.12
+2024-03-26,China Cba,08:35,Fujian,Zhejiang Chouzhou,81.0,105.0,4.54,1.19,213.5,1.81,1.89,0.0,0.0,0.0
+2024-03-26,Geórgia Superliga,12:00,Kutaisi,Mega Tbilisi,91.0,85.0,1.27,3.53,182.5,1.85,1.85,0.0,0.0,0.0
+2024-03-26,República Tcheca Zbl Feminina,12:30,Slovanka F,Brandys nad Labem F,62.0,82.0,1.34,3.08,148.5,1.81,1.89,0.0,0.0,0.0
+2024-03-26,Rússia Superliga,12:30,M. Khimki,Chelyabinsk,96.0,63.0,1.07,7.28,137.5,1.8,1.9,0.0,0.0,0.0
+2024-03-26,Lituânia Moteru Lyga Feminina,12:30,Siauliai F,Aistes LSU Kaunas F,88.0,52.0,1.18,4.47,140.5,1.85,1.85,0.0,0.0,0.0
+2024-03-26,Ucrânia Superliga Da Fbu,13:00,BK Zaporozhye,Cherkaski Mavpy,81.0,90.0,3.1,1.33,147.5,1.88,1.86,0.0,0.0,0.0
+2024-03-26,Europa Liga Feminina Unike,13:00,Prishtina F,Tirana F,76.0,74.0,1.1,6.09,136.5,1.85,1.85,0.0,0.0,0.0
+2024-03-26,Lituânia Moteru Lyga Feminina,13:00,Kibirkstis Vilnius F,Panevezys F,81.0,58.0,1.08,20.0,142.5,1.85,1.85,0.0,0.0,0.0
+2024-03-26,Finlândia Korisliiga,13:30,Salon Vilpas,Helsinki Seagulls,78.0,88.0,1.99,1.77,166.5,1.87,1.79,1.5,1.83,1.63
+2024-03-26,Finlândia Divisão I Feminina,13:30,Puhuttaret F,Lappeenranta F,74.0,65.0,1.53,2.39,125.5,1.85,1.85,0.0,0.0,0.0
+2024-03-26,Finlândia Korisliiga,13:30,BC Nokia,UU-Korihait,75.0,86.0,1.3,3.42,170.5,1.8,1.86,0.0,0.0,0.0
+2024-03-26,Sérvia Primeira Liga,13:30,Radnicki,Subotica,64.0,83.0,3.25,1.31,157.5,1.87,1.79,0.0,0.0,0.0
+2024-03-26,Israel Liga Leumit,14:00,Elitzur Ashkelon,Hapoel Bnei Kfar Kasem,115.0,70.0,1.36,2.97,162.5,1.85,1.85,0.0,0.0,0.0
+2024-03-26,Israel Liga Leumit,14:00,Ramat Hasharon,Maccabi Haifa,80.0,69.0,1.63,2.19,164.5,1.85,1.85,0.0,0.0,0.0
+2024-03-26,Ucrânia Superliga Da Fbu,14:00,Kyiv Basket,Goverla,84.0,73.0,1.2,4.18,146.5,1.89,1.86,0.0,0.0,0.0
+2024-03-26,República Tcheca Zbl Feminina,14:00,USK Prague F,Trutnov F,100.0,37.0,1.63,2.09,143.5,1.85,1.85,0.0,0.0,0.0
+2024-03-26,Rússia Liga Vtb United,14:00,Lokomotiv Kuban,Unics Kazan,90.0,82.0,1.78,2.04,165.5,1.89,1.9,-2.5,2.03,2.33
+2024-03-26,Eslovênia Liga Nova Kbm,14:00,Podcetrtek,Helios Domzale,99.0,96.0,2.76,1.41,162.5,1.85,1.85,0.0,0.0,0.0
+2024-03-26,Europa Enbl,14:00,Voluntari,Tartu Ulikool,92.0,69.0,1.34,3.01,155.5,1.85,1.85,0.0,0.0,0.0
+2024-03-26,Israel Liga Leumit,14:15,Maccabi Maale Adumim,Safed,65.0,73.0,1.77,1.95,157.5,1.81,1.87,-1.5,1.87,2.24
+2024-03-26,Israel Liga Leumit,14:30,Maccabi Rishon,Elitzur Shomron,106.0,79.0,1.47,2.56,169.5,1.81,1.89,0.0,0.0,0.0
+2024-03-26,Israel Liga Leumit,14:30,Ironi Nahariya,Gilboa Galil,85.0,74.0,1.35,3.02,160.5,1.84,1.86,0.0,0.0,0.0
+2024-03-26,Suécia Superettan,15:00,Norrort,KFUM Fryshuset,77.0,89.0,2.34,1.55,165.5,1.83,1.85,0.0,0.0,0.0
+2024-03-26,Noruega Blno,15:00,Kongsberg Miners,Bærum,89.0,95.0,1.13,5.35,167.5,1.85,1.85,0.0,0.0,0.0
+2024-03-26,Bósnia E Herzegovina Prvenstvo Bih,15:00,Borac Banja Luka,Prijedor,72.0,74.0,1.09,6.47,151.5,1.82,1.84,0.0,0.0,0.0
+2024-03-26,Europa Eurocopa,15:00,JL Bourg,Besiktas,86.0,74.0,1.41,2.76,159.5,1.85,1.85,0.0,0.0,0.0
+2024-03-26,Dinamarca Liga De Basquete,15:00,Holbaek-Stenhus,Herlev Wolfpack,78.0,74.0,2.01,1.75,166.5,1.86,1.86,1.5,1.87,1.61
+2024-03-26,Suécia Basketligan,15:04,Umeå IK,Norrkoping,72.0,95.0,9.85,1.04,178.5,1.84,1.86,0.0,0.0,0.0
+2024-03-26,Suécia Basketligan,15:04,Koping Stars,Nassjo,87.0,98.0,2.62,1.45,174.5,1.85,1.85,0.0,0.0,0.0
+2024-03-26,Suécia Basketligan,15:04,Borås,Sodertalje,82.0,76.0,1.15,5.03,165.5,1.85,1.85,0.0,0.0,0.0
+2024-03-26,Suécia Basketligan,15:04,Uppsala,Jamtland,70.0,77.0,3.53,1.27,163.5,1.87,1.79,0.0,0.0,0.0
+2024-03-26,Suíça Liga Sb,15:30,Vevey Riviera,Neuchatel,80.0,83.0,1.32,3.2,157.5,1.87,1.83,0.0,0.0,0.0
+2024-03-26,Dinamarca Liga De Basquete,15:30,Copenhagen,Amager,88.0,83.0,1.06,8.4,171.5,1.86,1.87,0.0,0.0,0.0
+2024-03-26,França Pro B,16:00,Lille,Denain-Voltaire,87.0,66.0,1.37,2.93,150.5,1.85,1.85,0.0,0.0,0.0
+2024-03-26,França Pro B,16:00,ASA,Chalons-Reims,70.0,73.0,1.74,1.99,154.5,1.81,1.85,-2.5,2.01,2.39
+2024-03-26,Ásia Wasl,16:00,Kuwait SC,Kazma,101.0,87.0,1.17,4.56,179.5,1.83,1.85,0.0,0.0,0.0
+2024-03-26,Alemanha Bbl,16:00,Bonn,Oldenburg,100.0,85.0,1.33,3.38,170.5,1.8,1.96,0.0,0.0,0.0
+2024-03-26,França Pro B,16:00,Rouen,Pau-Orthez,91.0,88.0,1.56,2.32,161.5,1.85,1.81,0.0,0.0,0.0
+2024-03-26,França Pro B,16:00,Poitiers,Nantes,81.0,74.0,1.45,2.62,165.5,1.87,1.79,-5.5,1.93,2.01
+2024-03-26,França Pro B,16:00,Fos-sur-Mer,Boulazac,68.0,69.0,1.63,2.19,153.5,1.86,1.84,0.0,0.0,0.0
+2024-03-26,França Pro B,16:00,Evreux,Vichy,76.0,79.0,2.34,1.55,162.5,1.87,1.83,0.0,0.0,0.0
+2024-03-26,França Lnb,16:00,Le Portel,Saint Quentin,85.0,76.0,1.4,2.98,154.5,1.85,1.95,0.0,0.0,0.0
+2024-03-26,França Pro B,16:00,Aix-Maurienne,Angers,88.0,79.0,1.32,3.2,167.5,1.86,1.84,0.0,0.0,0.0
+2024-03-26,Islândia Premier League Feminina,16:15,Snaefell F,Valur F,41.0,92.0,6.68,1.09,140.5,1.81,1.89,0.0,0.0,0.0
+2024-03-26,Islândia Premier League Feminina,16:15,Fjolnir F,Thor AK Akureyri F,65.0,88.0,2.24,1.6,152.5,1.84,1.86,0.0,0.0,0.0
+2024-03-26,França Pro B,16:30,Antibes,La Rochelle,72.0,69.0,1.95,1.77,153.5,1.86,1.8,1.5,1.82,1.62
+2024-03-26,Bósnia E Herzegovina Prvenstvo Bih Feminina,16:30,Banovici F,Play Off Sarajevo F,78.0,68.0,1.47,2.56,140.5,1.85,1.85,0.0,0.0,0.0
+2024-03-26,França Pro B,16:30,Orleans,St. Chamond,81.0,72.0,1.35,3.02,161.5,1.86,1.84,0.0,0.0,0.0
+2024-03-26,Europa Eurocopa,16:45,Paris,London Lions,99.0,86.0,1.27,3.53,172.5,1.84,1.86,0.0,0.0,0.0
+2024-03-26,Brasil Lbf Feminina,18:30,Ponta Grossa F,Ituano F,63.0,86.0,7.8,1.06,130.5,1.8,1.9,0.0,0.0,0.0
+2024-03-26,Eua Cbi,20:00,Arkansas State,High Point,80.0,81.0,2.18,1.73,161.5,1.91,1.91,1.5,2.0,1.56
+2024-03-26,Brasil Nbb,20:00,Cerrado,Bauru,69.0,86.0,2.37,1.54,157.5,1.87,1.83,0.0,0.0,0.0
+2024-03-26,Eua Nit,20:00,Ohio State,Georgia,77.0,79.0,1.26,3.72,150.5,1.8,1.91,0.0,0.0,0.0
+2024-03-26,Brasil Lbf Feminina,20:00,Corinthians F,Sodie Mesquita F,75.0,61.0,1.08,6.84,131.5,1.85,1.85,0.0,0.0,0.0
+2024-03-26,Brasil Nbb,20:00,Flamengo,Paulistano,81.0,68.0,1.23,3.86,152.5,1.87,1.79,0.0,0.0,0.0
+2024-03-26,Argentina Liga A,20:10,Argentino,Olimpico,78.0,83.0,3.77,1.24,157.5,1.83,1.87,0.0,0.0,0.0
+2024-03-26,Eua Nba,20:30,Milwaukee Bucks,Los Angeles Lakers,124.0,128.0,1.24,3.47,231.5,1.81,2.0,0.0,0.0,0.0
+2024-03-26,Eua Nba,20:30,Miami Heat,Golden State Warriors,92.0,113.0,1.74,1.93,0.0,0.0,0.0,0.0,0.0,0.0
+2024-03-26,Uruguai Liga Uruguaia,21:00,Defensor Sporting,Nacional,58.0,95.0,1.49,2.5,162.5,1.85,1.85,0.0,0.0,0.0
+2024-03-26,Argentina Liga A,21:00,Comunicaciones Mercedes,San Martin,67.0,79.0,1.78,1.94,157.5,1.82,1.88,-2.5,2.0,2.3
+2024-03-26,Eua Nba,21:00,New Orleans Pelicans,Oklahoma City Thunder,112.0,119.0,2.04,1.66,227.5,1.85,1.95,1.5,1.94,1.73
+2024-03-26,Uruguai Liga Uruguaia,21:00,Aguada,Cordon,82.0,88.0,1.32,3.2,154.5,1.84,1.86,0.0,0.0,0.0
+2024-03-26,Uruguai Liga Uruguaia,21:15,Penarol,Hebraica y Macabi,99.0,74.0,1.49,2.5,159.5,1.85,1.85,0.0,0.0,0.0
+2024-03-26,Eua Nit,22:00,Indiana State,Cincinnati,85.0,81.0,1.64,2.23,154.5,1.8,1.95,-3.5,1.91,2.8
+2024-03-26,Eua Cbi,22:00,Fairfield,Seattle,58.0,75.0,3.08,1.4,145.5,1.91,1.91,0.0,0.0,0.0
+2024-03-26,Eua Nba,23:00,Sacramento Kings,Dallas Mavericks,96.0,132.0,1.83,2.04,236.5,1.86,1.94,-2.5,1.98,2.16
+2024-03-26,México Cibacopa,23:45,Zonkeys de Tijuana,Ostioneros de Guaymas,96.0,94.0,1.27,3.53,178.5,1.85,1.85,0.0,0.0,0.0
