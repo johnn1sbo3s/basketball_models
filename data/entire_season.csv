@@ -31058,3 +31058,44 @@ Date,League,Time,Home,Away,Home_Pts,Away_Pts,Odds_H,Odds_A,Over_Line,Odds_Over,O
 2024-05-21,Argentina Liga A,22:00,Olimpico,Gimnasia,94.0,88.0,1.36,2.97,160.5,1.84,1.86,0.0,0.0,0.0
 2024-05-21,Eua Wnba,23:00,Las Vegas Aces F,Phoenix Mercury F,88.0,98.0,1.06,11.5,169.5,1.84,1.97,0.0,0.0,0.0
 2024-05-21,Eua Wnba,23:00,Los Angeles Sparks F,Washington Mystics F,70.0,68.0,1.63,2.37,158.5,1.81,2.0,-3.5,1.92,2.93
+2024-05-22,Nova Zelândia Nbl,04:30,Taranaki Airs,Bay Hawks,103.0,76.0,1.09,6.58,187.5,1.87,1.79,0.0,0.0,0.0
+2024-05-22,Filipinas Copa Das Filipinas,05:30,Rain Or Shine Paint.,San Miguel Beermen,107.0,117.0,2.83,1.42,209.5,1.86,1.8,0.0,0.0,0.0
+2024-05-22,Filipinas Copa Das Filipinas,08:30,Meralco Bolts,Ginebra Kings,87.0,80.0,2.1,1.71,177.5,1.86,1.8,1.5,1.93,1.54
+2024-05-22,China Cba,08:35,Xinjiang,Liaoning,95.0,104.0,1.6,2.27,197.5,1.8,1.86,-4.5,1.93,2.6
+2024-05-22,Geórgia Superliga,12:00,Kutaisi,Kavkasia,82.0,97.0,1.3,3.34,176.5,1.83,1.83,0.0,0.0,0.0
+2024-05-22,Israel Superliga,12:45,Hapoel Jerusalem,Hapoel Holon,94.0,76.0,1.4,2.85,159.5,1.87,1.87,0.0,0.0,0.0
+2024-05-22,Lituânia Lkl,12:50,Rytas,BC Wolves,85.0,96.0,1.35,3.09,173.5,1.88,1.85,0.0,0.0,0.0
+2024-05-22,Rússia Liga Vtb United,13:00,Unics Kazan,Lokomotiv Kuban,92.0,87.0,1.58,2.4,158.5,1.81,1.95,-3.5,1.91,2.6
+2024-05-22,Bulgária Nbl,13:00,Chernomorets,Spartak Pleven,92.0,81.0,1.66,2.13,163.5,1.84,1.86,0.0,0.0,0.0
+2024-05-22,República Tcheca Nbl,13:00,Nymburk,Usti n. Labem,93.0,71.0,1.11,5.77,162.5,1.8,1.9,0.0,0.0,0.0
+2024-05-22,Albânia Superliga,13:00,Beselidhja,Teuta Durres,106.0,65.0,1.02,11.5,170.5,1.85,1.85,0.0,0.0,0.0
+2024-05-22,Alemanha Bbl,13:30,Ludwigsburg,Bayern,73.0,84.0,3.75,1.28,161.5,1.83,1.95,7.5,1.96,1.08
+2024-05-22,Eslováquia Extraliga,13:30,Spisski Rytieri,Levice,64.0,104.0,1.82,1.9,162.5,1.84,1.86,-1.5,1.94,2.08
+2024-05-22,Bósnia E Herzegovina Prvenstvo Bih,13:30,KK Bosna,Borac Banja Luka,74.0,60.0,1.58,2.29,149.5,1.85,1.85,0.0,0.0,0.0
+2024-05-22,Estônia Korvpalli Meistriliiga,13:30,BC Kalev,Tartu Ulikool,73.0,67.0,1.11,5.77,153.5,1.88,1.79,0.0,0.0,0.0
+2024-05-22,Israel Liga Leumit,14:00,Gilboa Galil,Maccabi Rehovot,64.0,72.0,1.5,2.47,149.5,1.85,1.85,0.0,0.0,0.0
+2024-05-22,Letônia Lbl,14:00,VEF Riga,Rigas Zelli,80.0,74.0,1.3,3.38,154.5,1.84,1.9,0.0,0.0,0.0
+2024-05-22,Polônia 1. Liga,14:00,Starogard Gdanski,GKS Tychy,89.0,88.0,1.43,2.7,165.5,1.84,1.86,0.0,0.0,0.0
+2024-05-22,Bósnia E Herzegovina Prvenstvo Bih,14:00,Siroki Brijeg,Igokea,70.0,77.0,2.91,1.37,153.5,1.86,1.84,0.0,0.0,0.0
+2024-05-22,Alemanha Pro A,14:30,Trier,Frankfurt,89.0,68.0,1.41,2.76,157.5,1.87,1.79,0.0,0.0,0.0
+2024-05-22,Países Baixos Dbl,14:30,Groningen,Den Bosch,88.0,80.0,2.5,1.49,154.5,1.85,1.85,0.0,0.0,0.0
+2024-05-22,França Pro B,15:00,La Rochelle,ASA,75.0,54.0,1.33,3.12,148.5,1.87,1.79,0.0,0.0,0.0
+2024-05-22,Bélgica Liga Pro De Basquete,15:00,Liege,Oostende,63.0,83.0,2.5,1.49,160.5,1.87,1.79,4.5,1.83,1.24
+2024-05-22,França Pro B,15:00,Orleans,Rouen,82.0,101.0,1.6,2.24,161.5,1.87,1.79,0.0,0.0,0.0
+2024-05-22,Israel Superliga,15:05,Maccabi Tel Aviv,Hapoel Tel-Aviv,88.0,82.0,1.55,2.39,173.5,1.87,1.79,0.0,0.0,0.0
+2024-05-22,Bélgica Liga Pro De Basquete,15:30,Limburg,Antwerp Giants,71.0,70.0,2.22,1.61,151.5,1.84,1.86,2.5,1.92,1.46
+2024-05-22,Itália Série A2,15:30,Chiusi,Luiss Roma,89.0,76.0,1.32,3.2,151.5,1.88,1.79,0.0,0.0,0.0
+2024-05-22,Alemanha Bbl,15:30,Wurzburg,Ulm,82.0,79.0,3.03,1.39,161.5,1.85,1.91,0.0,0.0,0.0
+2024-05-22,Espanha Acb,15:30,Murcia,Valencia,72.0,83.0,1.66,2.24,166.5,1.87,1.89,-3.5,1.98,2.51
+2024-05-22,Islândia Premier League Feminina,16:15,Keflavik F,Njardvik F,72.0,56.0,1.45,2.62,147.5,1.85,1.85,0.0,0.0,0.0
+2024-05-22,Portugal Lpb,17:00,Benfica,Oliveirense,100.0,55.0,1.05,8.25,156.5,1.81,1.85,0.0,0.0,0.0
+2024-05-22,Brasil Nbb,19:00,Minas,Franca,72.0,82.0,1.81,1.91,161.5,1.8,1.86,-1.5,1.92,2.1
+2024-05-22,Venezuela Superliga,20:00,Brillantes,Spartans,85.0,76.0,1.93,1.79,167.5,1.85,1.85,0.0,0.0,0.0
+2024-05-22,Venezuela Superliga,20:00,Toros de Aragua,Pioneros,77.0,89.0,2.29,1.58,158.5,1.85,1.85,0.0,0.0,0.0
+2024-05-22,Bolívia Libobasquet,20:00,Leones de Potosi,Saracho,103.0,69.0,1.09,6.68,162.5,1.81,1.87,0.0,0.0,0.0
+2024-05-22,Colômbia Lbp,20:40,Cimarrones del Choco,Bucaros,83.0,78.0,2.59,1.46,154.5,1.86,1.84,0.0,0.0,0.0
+2024-05-22,Colômbia Lbp,21:00,Piratas de Bogota,Titanes de Barranquilla,94.0,95.0,3.69,1.25,150.5,1.8,1.9,0.0,0.0,0.0
+2024-05-22,Porto Rico Bsn,21:00,Vaqueros de Bayamon,Criollos de Caguas,96.0,85.0,1.94,1.78,176.5,1.84,1.86,0.0,0.0,0.0
+2024-05-22,Bolívia Libobasquet,21:30,Univ. Sucre,Carl A-Z,80.0,78.0,1.61,2.22,167.5,1.85,1.85,0.0,0.0,0.0
+2024-05-22,Eua Nba,21:30,Minnesota Timberwolves,Dallas Mavericks,105.0,108.0,1.57,2.52,206.5,1.84,2.0,-3.5,1.84,3.2
+2024-05-22,Eua Wnba,23:00,Seattle Storm F,Indiana Fever F,85.0,83.0,1.5,2.61,164.5,1.8,1.94,0.0,0.0,0.0
