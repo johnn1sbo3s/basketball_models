@@ -35198,3 +35198,70 @@ Date,League,Time,Home,Away,Home_Pts,Away_Pts,Odds_H,Odds_A,Over_Line,Odds_Over,O
 2024-10-23,Eua Nba,22:00,Utah Jazz,Memphis Grizzlies,124.0,126.0,2.27,1.68,226.5,1.81,2.04,2.5,2.01,1.86
 2024-10-23,Eua Nba,23:00,Portland Trail Blazers,Golden State Warriors,104.0,139.0,2.92,1.44,221.5,1.84,2.0,5.5,2.01,1.86
 2024-10-23,Eua Nba,23:00,Los Angeles Clippers,Phoenix Suns,113.0,116.0,2.61,1.53,223.5,1.84,2.0,4.5,1.93,1.93
+2024-10-24,Austrália Nbl,03:30,NZ Breakers,South East Melbourne,62.0,88.0,1.48,2.68,175.5,1.8,1.86,-5.5,1.94,1.77
+2024-10-24,Austrália Nbl,05:30,Illawarra Hawks,Melbourne United,87.0,92.0,1.59,2.38,184.5,1.87,1.87,-4.5,2.0,1.72
+2024-10-24,Coreia Do Sul Kbl,07:00,Wonju DB,KoGas,62.0,92.0,1.36,3.11,159.5,1.81,1.89,-7.5,1.98,1.81
+2024-10-24,Coreia Do Sul Kbl,07:00,LG Sakers,Anyang JungKwanJang,82.0,75.0,1.22,4.24,161.5,1.9,1.88,-10.5,1.98,1.81
+2024-10-24,China Cba,08:35,Sichuan,Zhejiang Chouzhou,122.0,107.0,7.16,1.05,213.5,1.83,1.83,14.5,1.97,1.71
+2024-10-24,China Cba,08:35,Shanghai,Ningbo Rockets,99.0,114.0,1.08,6.08,216.5,1.88,1.78,-15.5,2.03,1.67
+2024-10-24,China Cba,08:35,Shandong,Shenzhen,121.0,118.0,1.35,2.86,212.5,1.81,1.85,-7.5,1.96,1.72
+2024-10-24,China Cba,08:35,Liaoning,Shanxi Zhongyu,100.0,103.0,1.14,4.61,213.5,1.8,1.86,-12.5,2.0,1.69
+2024-10-24,China Cba,08:35,Jilin,Qingdao,85.0,92.0,2.1,1.62,212.5,1.85,1.81,1.5,1.98,1.7
+2024-10-24,Ucrânia Superliga Da Fbu,09:00,Kryvbas,Kyiv Basket,65.0,75.0,3.07,1.32,144.5,1.88,1.78,5.5,2.0,1.69
+2024-10-24,China Cba,09:00,Xinjiang,Jiangsu Dragons,106.0,104.0,1.01,9.35,205.5,1.85,1.81,-19.5,1.93,1.74
+2024-10-24,Irã Superliga,09:30,Petro Novin Mahshahr,Ayandeh Sazan Tehran,73.0,59.0,2.56,1.47,145.5,1.85,1.85,3.5,1.95,1.72
+2024-10-24,Irã Superliga,09:30,Palayesh Naft Abadan,Sanaye Hormozgan,107.0,87.0,1.72,1.95,151.5,1.83,1.83,-2.5,1.99,1.7
+2024-10-24,Europa Eurocopa Feminina,10:00,Panathinaikos F,Lublin F,62.0,63.0,2.1,1.62,145.5,1.83,1.83,-2.5,2.01,1.68
+2024-10-24,Brasil Nbb,11:00,Botafogo,Pinheiros,67.0,80.0,1.92,1.75,145.5,1.86,1.8,-1.5,2.05,1.65
+2024-10-24,Irã Superliga,11:30,Mahgol Alborz,Kalleh,85.0,89.0,2.56,1.42,143.5,1.81,1.85,-1.5,1.83,1.83
+2024-10-24,Lituânia Nkl,12:00,Delikatesas Joniskis,Vilkaviskis,80.0,88.0,3.07,1.3,162.5,1.83,1.83,6.5,2.02,1.67
+2024-10-24,Lituânia Nkl,12:00,Omega-Tauras,Plunges Olimpas,80.0,72.0,1.04,7.5,157.5,1.84,1.82,-16.5,1.98,1.7
+2024-10-24,Lituânia Nkl,12:00,Suduva-Mantinga,Alytaus Alytus,101.0,71.0,1.03,8.3,161.5,1.84,1.82,-17.5,1.97,1.71
+2024-10-24,Europa Eurocopa Feminina,12:00,Crvena zvezda F,Sepsi S. F,76.0,70.0,1.03,8.3,141.5,1.8,1.86,-16.5,2.04,1.66
+2024-10-24,Lituânia Nkl,12:00,Vytis VDU,Zalgiris Kaunas 2,90.0,100.0,1.29,3.15,165.5,1.85,1.81,-8.5,1.94,1.73
+2024-10-24,Ucrânia Superliga Da Fbu,12:00,Cherkaski Mavpy,Goverla,96.0,71.0,1.11,5.42,142.5,1.86,1.8,-12.5,1.94,1.73
+2024-10-24,Polônia Liga De Basquete,12:30,GTK Gliwice,Lublin,110.0,105.0,1.56,2.21,169.5,1.83,1.83,-4.5,1.99,1.7
+2024-10-24,Europa Eurocopa Feminina,13:00,Yerevan F,Campobasso F,71.0,99.0,1.64,2.07,158.5,1.8,1.86,51.5,1.99,1.69
+2024-10-24,Europa Eurocopa Feminina,13:00,Klaipedos Neptunas F,Caledonia Gladiators F,88.0,56.0,1.23,3.55,130.5,1.83,1.83,-9.5,1.94,1.73
+2024-10-24,Europa Eurocopa Feminina,13:00,Bodrum F,Charnay Bourgogne Sud F,66.0,76.0,1.18,4.1,143.5,1.87,1.79,-10.5,1.94,1.73
+2024-10-24,Romênia Divisão A,13:00,BC Timisoara,Brasov,62.0,99.0,1.42,2.56,154.5,1.82,1.84,-5.5,2.0,1.69
+2024-10-24,Lituânia Nkl,13:00,BC Olimpas Palanga,Kretinga,66.0,48.0,1.56,2.2,163.5,1.84,1.82,-4.5,2.0,1.69
+2024-10-24,Rússia Liga Vtb United,13:00,Nizhny Novgorod,Lokomotiv Kuban,72.0,95.0,2.71,1.47,163.5,1.87,1.92,4.5,2.02,1.92
+2024-10-24,Lituânia Nkl,13:00,Ukmerges Stekas,Telsiai,94.0,92.0,3.64,1.22,158.5,1.82,1.84,8.5,1.95,1.72
+2024-10-24,Lituânia Nkl,13:00,Rytas 2,Silute,102.0,66.0,2.62,1.41,164.5,1.83,1.83,4.5,1.97,1.71
+2024-10-24,Europa Liga Da Aba 2,13:00,Sutjeska,Vojvodina Novi Sad,96.0,79.0,3.24,1.28,153.5,1.83,1.83,5.5,1.97,1.71
+2024-10-24,Europa Euroliga Feminina,13:00,DVTK F,Perfumerias Avenida F,64.0,68.0,1.65,2.22,134.5,1.9,1.88,-3.5,2.02,1.71
+2024-10-24,Dinamarca Liga De Basquete,13:30,Randers,Amager,110.0,73.0,1.06,6.56,179.5,1.8,1.86,-13.5,2.03,1.67
+2024-10-24,Dinamarca Liga De Basquete,14:00,Holbaek-Stenhus,Horsens,79.0,88.0,10.5,1.03,164.5,1.82,1.84,18.5,2.01,1.68
+2024-10-24,Europa Euroliga,14:00,Monaco,Paris,80.0,87.0,1.34,3.37,166.5,1.83,1.98,-8.5,2.05,1.65
+2024-10-24,Croácia Premijer Liga,14:00,Zadar,Cibona,78.0,68.0,1.04,7.85,153.5,1.83,1.83,-17.5,1.95,1.72
+2024-10-24,Hungria Nacional,14:00,Budapesti Honved Se,KTE-Duna,58.0,87.0,1.67,2.02,151.5,1.83,1.83,-3.5,2.03,1.66
+2024-10-24,Europa Euroliga,14:00,Zalgiris Kaunas,Maccabi Tel Aviv,78.0,63.0,1.37,3.15,159.5,1.8,1.94,-8.5,2.02,1.67
+2024-10-24,Rússia Liga Vtb United,14:00,MBA Moscow,Uralmash Ekaterinburg,85.0,68.0,2.61,1.5,155.5,1.86,1.94,3.5,2.03,1.73
+2024-10-24,Europa Enbl,14:00,Dziki Warszawa,Spisski Rytieri,102.0,70.0,1.21,3.74,171.5,1.84,1.82,-10.5,1.95,1.72
+2024-10-24,Suécia Basketligan,14:04,Jamtland,Uppsala,69.0,76.0,1.3,3.07,158.5,1.83,1.83,-8.5,1.98,1.7
+2024-10-24,Europa Eurocopa Feminina,14:05,Arka Gdynia F,Elitzur Ramla F,80.0,67.0,1.36,2.81,150.5,1.83,1.83,-6.5,1.92,1.75
+2024-10-24,Europa Eurocopa Feminina,14:15,Iraklis F,Tarbes GB F,33.0,119.0,1.67,2.03,142.5,1.83,1.83,58.5,2.01,1.68
+2024-10-24,Europa Eurocopa Feminina,14:30,Fribourg F,Lattes Montpellier F,58.0,78.0,7.5,1.04,143.5,1.83,1.83,9.5,1.95,1.72
+2024-10-24,Europa Euroliga Feminina,14:30,Venezia F,USK Prague F,66.0,86.0,1.64,2.24,143.5,1.9,1.88,-3.5,1.99,1.73
+2024-10-24,Europa Eurocopa Feminina,15:00,Angers F,Jairis F,66.0,80.0,1.97,1.71,146.5,1.85,1.81,-2.5,2.01,1.68
+2024-10-24,Europa Euroliga Feminina,15:00,Bourges F,Zabiny Brno F,91.0,70.0,1.17,4.91,147.5,1.82,1.84,-12.5,2.05,1.69
+2024-10-24,Europa Copa Europeia Da Fiba,15:30,Dnipro,Sassari,55.0,98.0,13.7,1.01,157.5,1.86,1.88,27.5,1.99,1.73
+2024-10-24,Europa Euroliga,15:30,Milano,Anadolu Efes,84.0,96.0,1.8,2.05,158.5,1.91,1.91,-2.5,2.0,1.71
+2024-10-24,Europa Eurocopa Feminina,15:30,San Giovanni F,Benfica F,92.0,58.0,1.02,10.6,129.5,1.83,1.83,-18.5,1.95,1.72
+2024-10-24,Europa Eurocopa Feminina,15:30,Mechelen F,TTT Riga F,63.0,64.0,1.76,1.91,139.5,1.83,1.83,-2.5,2.01,1.68
+2024-10-24,Europa Euroliga,15:30,Baskonia,Alba Berlin,80.0,57.0,1.26,3.95,164.5,1.91,1.91,-10.5,2.03,1.73
+2024-10-24,Europa Liga Bnxt,15:30,Spotter Leuven,Den Helder,91.0,67.0,1.03,8.3,148.5,1.83,1.83,-17.5,1.98,1.7
+2024-10-24,Europa Euroliga,15:45,Real Madrid,Crvena zvezda,95.0,72.0,1.23,4.28,165.5,1.9,1.9,-9.5,2.01,1.8
+2024-10-24,Islândia Premier League,16:15,IR Reykjavik,Thorl,73.0,84.0,4.2,1.17,185.5,1.85,1.81,9.5,1.99,1.69
+2024-10-24,Islândia Premier League,16:15,Valur,Keflavik,104.0,80.0,1.64,2.06,183.5,1.8,1.86,-3.5,1.95,1.73
+2024-10-24,Islândia Premier League,16:15,KR Basket,Alftanes,72.0,84.0,1.42,2.57,179.5,1.8,1.86,-6.5,2.01,1.68
+2024-10-24,Brasil Nbb,19:00,Minas,Mogi,91.0,61.0,1.04,7.5,152.5,1.88,1.79,-16.5,1.95,1.72
+2024-10-24,Brasil Nbb,19:30,Paulistano,Franca,90.0,100.0,1.93,1.74,150.5,1.83,1.83,1.5,1.81,1.85
+2024-10-24,Eua Nba,20:00,Washington Wizards,Boston Celtics,102.0,122.0,6.54,1.13,233.5,1.86,1.98,12.5,1.99,1.87
+2024-10-24,Brasil Nbb,20:00,Flamengo,Corinthians Paulista,70.0,83.0,1.08,5.91,155.5,1.88,1.78,-14.5,1.95,1.72
+2024-10-24,Uruguai Liga Uruguaia,20:15,Bigua,Malvin,73.0,86.0,1.71,1.97,162.5,1.88,1.79,-2.5,1.93,1.74
+2024-10-24,Eua Nba,20:30,Dallas Mavericks,San Antonio Spurs,120.0,109.0,1.33,3.54,228.5,1.87,1.97,-8.5,2.04,1.81
+2024-10-24,Argentina Liga A,21:05,San Lorenzo,Gimnasia,78.0,74.0,1.54,2.25,156.5,1.85,1.81,-4.5,1.96,1.71
+2024-10-24,Eua Nba,23:00,Denver Nuggets,Oklahoma City Thunder,87.0,102.0,1.74,2.17,224.5,1.84,2.0,-2.5,1.95,1.91
+2024-10-24,Eua Nba,23:00,Sacramento Kings,Minnesota Timberwolves,115.0,117.0,1.92,1.94,226.5,1.85,1.99,-1.5,2.05,1.82
