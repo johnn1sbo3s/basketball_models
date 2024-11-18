@@ -4,8 +4,10 @@ import pandas as pd; pd.set_option('display.max_columns', None)
 import time
 from datetime import date, timedelta
 from tqdm import tqdm
-from selenium.webdriver.common.by import By
 from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.service import Service
+from webdriver_manager.microsoft import EdgeChromiumDriverManager
 from selenium.webdriver.common.keys import Keys
 import re
 import os
@@ -57,7 +59,7 @@ options.add_argument('--disable-dev-shm-usage')
 options.add_argument('--log-level=3')
 
 # Criação do WebDriver do Chrome
-wd_Chrome = webdriver.Edge(options=options)
+wd_Chrome = webdriver.Edge(service=Service(EdgeChromiumDriverManager().install()), options=options)
 
 # Com o WebDrive a gente consegue a pedir a página (URL)
 wd_Chrome.get("https://www.flashscore.com.br/basquete/")
