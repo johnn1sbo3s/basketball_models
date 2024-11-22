@@ -38066,3 +38066,102 @@ Date,League,Time,Home,Away,Home_Pts,Away_Pts,Odds_H,Odds_A,Over_Line,Odds_Over,O
 2024-11-20,Eua Ncaa,23:00,Grand Canyon,UC Davis,68.0,75.0,1.06,9.2,152.5,1.8,1.91,-15.5,1.8,1.91
 2024-11-20,Eua Ncaa,23:00,Arizona State,Cal Poly,93.0,89.0,1.03,11.5,151.5,1.83,1.83,-19.5,1.91,1.8
 2024-11-20,Eua Ncaa,23:00,Illinois,Alabama,87.0,100.0,3.47,1.3,165.5,1.8,1.91,4.5,2.0,1.73
+2024-11-21,Eua Nba,00:00,Golden State Warriors,Atlanta Hawks,120.0,97.0,1.3,3.72,238.5,1.84,2.0,-8.5,2.02,1.83
+2024-11-21,Eua Ncaa,00:00,Fresno State,Prairie View A&M,94.0,83.0,1.11,7.5,154.5,1.8,1.95,-14.5,1.95,1.77
+2024-11-21,Eua Ncaa,00:00,Stanford,Norfolk State,70.0,63.0,1.02,18.0,142.5,1.91,1.91,-21.5,2.0,1.74
+2024-11-21,Eua Ncaa,00:00,UC Santa Barbara,UTEP,76.0,79.0,1.4,3.08,146.5,1.91,1.91,-6.5,2.0,1.71
+2024-11-21,Eua Ncaa,00:00,USC,San Jose State,82.0,68.0,1.05,11.5,140.5,1.91,1.91,-18.5,2.05,1.71
+2024-11-21,Eua Ncaa,00:00,UNLV,Pepperdine,80.0,59.0,1.06,10.5,146.5,1.8,1.95,-15.5,2.0,1.71
+2024-11-21,Eua Nba,00:00,Phoenix Suns,New York Knicks,122.0,138.0,2.67,1.51,221.5,1.8,2.03,4.5,1.97,1.89
+2024-11-21,Eua Ncaa,00:30,California Baptist,Northern Colorado,68.0,79.0,1.49,2.74,150.5,1.8,1.95,-6.5,2.05,1.71
+2024-11-21,Eua Nba,00:30,Los Angeles Clippers,Orlando Magic,104.0,93.0,2.46,1.59,204.5,1.93,1.93,3.5,1.97,1.89
+2024-11-21,Eua Ncaa,01:00,UCLA,Idaho State,84.0,70.0,1.01,21.0,130.5,1.91,1.91,-25.5,2.0,1.77
+2024-11-21,Nova Zelândia Tauihi,03:30,Southern Hoiho F,Northern Kahu F,70.0,91.0,2.03,1.66,152.5,1.88,1.78,1.5,1.92,1.75
+2024-11-21,Austrália Liga Feminina Wnbl,04:30,Canberra Capitals F,Townsville F,81.0,80.0,3.69,1.26,164.5,1.8,1.86,7.5,1.97,1.74
+2024-11-21,Coreia Do Sul Wkbl Feminina,07:00,Busan BNK Sum F,Woori WON F,66.0,68.0,1.35,3.09,124.5,1.87,1.86,-7.5,2.0,1.72
+2024-11-21,China Wcba Feminina,08:30,Guangdong F,Inner Mongolia F,98.0,93.0,4.1,1.18,150.5,1.83,1.83,5.5,1.95,1.72
+2024-11-21,Ásia Copa Asiática,08:30,China,Guam,101.0,53.0,1.01,12.8,146.5,1.83,1.87,-28.5,1.99,1.73
+2024-11-21,China Wcba Feminina,08:30,Wuhan F,Tianjin F,106.0,52.0,1.01,14.0,154.5,1.83,1.83,-20.5,1.83,1.83
+2024-11-21,Ásia Copa Asiática,08:30,Filipinas,Nova Zelândia,93.0,89.0,1.55,2.21,163.5,1.86,1.8,-4.5,1.98,1.7
+2024-11-21,China Wcba Feminina,08:30,Ganzhou F,Liaoning F,57.0,88.0,3.19,1.32,153.5,1.83,1.83,5.5,1.83,1.83
+2024-11-21,China Wcba Feminina,08:30,Shaanxi Tianze F,Henan F,66.0,82.0,1.34,3.09,153.5,1.83,1.83,-7.5,1.83,1.83
+2024-11-21,China Wcba Feminina,09:00,Xinjiang F,Zhejiang Golden Bulls F,77.0,83.0,5.17,1.11,149.5,1.83,1.83,11.5,1.95,1.72
+2024-11-21,Rússia Superliga,11:00,Chelyabinsk,M. Khimki,59.0,89.0,3.07,1.3,147.5,1.83,1.83,6.5,1.97,1.71
+2024-11-21,Rússia Copa Da Rússia,12:00,Samara F,Novosibirsk F,74.0,57.0,1.11,18.5,139.5,1.83,1.83,-14.5,1.95,1.72
+2024-11-21,Rússia Copa Da Rússia,12:00,Spartak Moscow F,Spartak St. Petersburg F,86.0,70.0,1.14,19.0,145.5,1.88,1.79,-28.5,2.03,1.67
+2024-11-21,Europa Eurocopa Feminina,13:00,Bodrum F,Piestanske Cajky F,78.0,73.0,2.97,1.32,127.5,1.83,1.83,3.5,1.95,1.72
+2024-11-21,Lituânia Nkl,13:00,Alytaus Alytus,Rytas 2,90.0,82.0,1.71,1.97,168.5,1.83,1.83,-2.5,1.97,1.71
+2024-11-21,Lituânia Nkl,13:00,Neptunas 2,Vilkaviskis,73.0,64.0,1.78,1.89,159.5,1.87,1.79,-2.5,2.05,1.65
+2024-11-21,Lituânia Nkl,13:00,Silute,Delikatesas Joniskis,106.0,75.0,1.27,3.26,166.5,1.81,1.85,-9.5,2.05,1.65
+2024-11-21,Europa Eurocopa Feminina,13:00,Yerevan F,NKA Pecs F,42.0,102.0,1.67,2.03,148.5,1.83,1.83,50.5,1.95,1.72
+2024-11-21,Lituânia Nkl,13:00,Zalgiris Kaunas 2,Plunges Olimpas,89.0,82.0,1.21,3.74,156.5,1.86,1.8,-10.5,1.94,1.73
+2024-11-21,Eua Ncaa,13:00,Illinois (Chi.),James Madison,81.0,99.0,2.23,1.64,144.5,1.83,1.83,2.5,2.0,1.73
+2024-11-21,Lituânia Nkl,13:00,Suduva-Mantinga,Kretinga,113.0,71.0,1.12,4.97,163.5,1.86,1.8,-12.5,1.95,1.73
+2024-11-21,Finlândia I Divisão A,13:30,Lappeenrannan,Pyrinto Tampere 2,67.0,84.0,2.86,1.35,153.5,1.83,1.83,5.5,1.95,1.72
+2024-11-21,Europa Eurobasket,13:30,Finlândia,Geórgia,83.0,90.0,1.83,1.91,154.5,1.82,1.92,-1.5,1.97,1.78
+2024-11-21,Europa Eurocopa Feminina,14:00,Sosnowiec F,TTT Riga F,81.0,56.0,1.07,6.23,144.5,1.83,1.83,-15.5,2.01,1.68
+2024-11-21,Europa Euroliga Feminina,14:00,UNI Gyor F,USK Prague F,76.0,81.0,4.9,1.17,145.5,1.9,1.88,9.5,2.0,1.72
+2024-11-21,Europa Eurobasket,14:00,Republica Checa,Países Baixos,96.0,74.0,1.3,3.42,155.5,1.85,1.89,-9.5,2.0,1.63
+2024-11-21,Europa Eurobasket,14:00,Polónia,Estônia,78.0,82.0,1.43,2.74,149.5,1.86,1.88,-6.5,2.01,1.69
+2024-11-21,Europa Eurobasket,14:00,Macedônia do Norte,Lituânia,67.0,82.0,9.7,1.01,150.5,1.84,1.9,20.5,2.0,1.63
+2024-11-21,Europa Eurobasket,14:00,Dinamarca,Sérvia,52.0,72.0,6.8,1.09,154.5,1.83,1.9,11.5,2.05,1.67
+2024-11-21,Europa Eurobasket,14:00,Chipre,França,59.0,75.0,9.7,1.01,148.5,1.82,1.88,21.5,1.98,1.71
+2024-11-21,Europa Campeonato Mundial,14:00,Irlanda,Azerbaijan,91.0,67.0,2.14,1.68,152.5,1.87,1.87,1.5,1.96,1.73
+2024-11-21,Europa Eurocopa Feminina,14:00,Klaipedos Neptunas F,Fribourg F,68.0,55.0,1.47,2.41,132.5,1.83,1.83,-5.5,1.95,1.72
+2024-11-21,Eua Ncaa,14:00,Drake,Miami,80.0,69.0,4.42,1.21,143.5,1.8,1.91,10.5,1.73,2.0
+2024-11-21,Eua Ncaa,14:00,Middle Tenn. St.,Ohio,83.0,81.0,2.0,1.8,148.5,1.83,1.83,1.5,1.83,1.83
+2024-11-21,Lituânia Nkl,14:00,BC Olimpas Palanga,Telsiai,81.0,78.0,1.74,1.93,153.5,1.83,1.83,-2.5,2.02,1.67
+2024-11-21,Lituânia Nkl,14:00,Ukmerges Stekas,Omega-Tauras,81.0,78.0,1.66,2.03,153.5,1.88,1.79,-3.5,2.02,1.68
+2024-11-21,Europa Euroliga,14:30,Anadolu Efes,Paris,84.0,93.0,1.51,2.64,171.5,1.91,1.91,-5.5,2.0,1.71
+2024-11-21,Europa Eurocopa Feminina,14:30,Keltern F,CSM Constanta F,86.0,67.0,1.56,2.21,149.5,1.83,1.83,-4.5,1.95,1.72
+2024-11-21,Europa Euroliga,15:00,Monaco,Lyon-Villeurbanne,103.0,92.0,1.21,4.67,164.5,1.91,1.91,-10.5,2.0,1.71
+2024-11-21,Eua Ncaa,15:00,UC San Diego,La Salle,72.0,67.0,2.0,1.8,140.5,1.8,1.91,1.5,1.73,2.0
+2024-11-21,Europa Campeonato Mundial,15:00,Noruega,Roménia,62.0,75.0,1.74,2.03,144.5,1.87,1.87,-3.5,2.05,1.6
+2024-11-21,Europa Campeonato Mundial,15:30,Albânia,Áustria,63.0,99.0,6.16,1.11,155.5,1.87,1.87,11.5,1.96,1.73
+2024-11-21,Europa Campeonato Mundial,15:30,Suiça,Kosovo,75.0,43.0,1.4,2.85,151.5,1.81,1.89,-7.5,2.03,1.61
+2024-11-21,Europa Eurobasket,16:00,Croácia,Bósnia e Herzegovina,89.0,76.0,1.19,4.54,154.5,1.81,1.93,-11.5,2.0,1.63
+2024-11-21,Europa Euroliga,16:00,Crvena zvezda,Partizan,77.0,89.0,1.45,2.88,163.5,1.91,1.91,-6.5,2.0,1.71
+2024-11-21,Europa Euroliga Feminina,16:00,Schio F,DVTK F,71.0,57.0,1.19,4.57,133.5,1.9,1.88,-10.5,1.99,1.73
+2024-11-21,Europa Euroliga,16:15,Olympiakos,Baskonia,92.0,69.0,1.13,6.4,161.5,1.83,1.95,-12.5,2.0,1.71
+2024-11-21,Europa Eurocopa Feminina,16:30,San Giovanni F,Namur F,81.0,49.0,1.03,8.3,130.5,1.83,1.83,-17.5,1.95,1.72
+2024-11-21,Eua Ncaa,16:30,Florida Atlantic,Oklahoma State,86.0,78.0,2.1,1.73,162.5,1.83,1.83,1.5,1.83,1.83
+2024-11-21,Europa Euroliga,16:30,Milano,Maccabi Tel Aviv,98.0,86.0,1.45,2.88,168.5,1.91,1.91,-6.5,2.03,1.67
+2024-11-21,Europa Eurobasket,16:30,Reino Unido,Grécia,73.0,72.0,2.17,1.66,156.5,1.86,1.88,1.5,1.98,1.71
+2024-11-21,Europa Eurocopa Feminina,16:30,Proteas Voulas F,Crvena zvezda F,38.0,73.0,14.7,1.01,142.5,1.83,1.83,20.5,2.01,1.71
+2024-11-21,Eua Ncaa,16:30,Portland,South Florida,68.0,74.0,3.72,1.26,145.5,1.83,1.83,8.5,1.83,1.83
+2024-11-21,Europa Euroliga,16:45,Real Madrid,Alba Berlin,98.0,84.0,1.03,13.0,169.5,1.82,1.92,-19.5,1.97,1.78
+2024-11-21,Eua Ncaa,17:30,East Carolina,Jacksonville St.,78.0,86.0,1.59,2.35,132.5,1.8,1.91,-3.5,1.83,1.83
+2024-11-21,Eua Ncaa,19:00,Seton Hall,VCU Rams,69.0,66.0,2.99,1.37,125.5,1.83,1.83,6.5,1.83,1.83
+2024-11-21,Eua Ncaa,19:00,Youngstown State,Monmouth (N.J.),72.0,62.0,1.45,2.72,148.5,1.86,1.92,-6.5,2.05,1.69
+2024-11-21,Eua Ncaa,19:30,Toledo,Stetson,103.0,78.0,1.1,7.2,154.5,1.83,1.83,-13.5,2.0,1.73
+2024-11-21,Eua Ncaa,19:30,Texas State,Bradley,68.0,82.0,3.29,1.33,137.5,1.86,1.92,5.5,2.01,1.71
+2024-11-21,Mundo Americup,19:40,Paraguai,Panamá,79.0,116.0,4.78,1.13,143.5,1.8,1.86,12.5,1.89,1.77
+2024-11-21,Mundo Americup,20:00,Brasil,Uruguai,71.0,65.0,1.17,4.16,153.5,1.8,1.86,-11.5,1.94,1.73
+2024-11-21,Eua Ncaa,20:00,Cornell,Robert Morris,76.0,86.0,1.23,4.1,152.5,1.89,1.89,-9.5,1.95,1.76
+2024-11-21,Argentina Liga Feminina,20:30,Rocamora F,Lanus F,59.0,55.0,1.41,2.62,118.5,1.83,1.83,-6.5,1.94,1.73
+2024-11-21,Eua Ncaa,20:30,Indiana,NC Greensboro,69.0,58.0,1.03,11.5,147.5,1.8,1.91,-17.5,1.91,1.8
+2024-11-21,Eua Ncaa,21:00,Stonehill,Bryant University,67.0,66.0,4.77,1.13,149.5,1.8,1.86,10.5,1.95,1.72
+2024-11-21,Eua Ncaa,21:00,Oakland,Eastern Michigan,64.0,68.0,1.3,3.7,131.5,1.91,1.91,-8.5,1.95,1.77
+2024-11-21,Eua Ncaa,21:00,Clemson,Radford,79.0,51.0,1.02,12.5,147.5,1.83,1.83,-20.5,2.03,1.67
+2024-11-21,Eua Ncaa,21:00,Bucknell,NJIT,81.0,64.0,1.08,5.91,133.5,1.83,1.83,-14.5,1.95,1.72
+2024-11-21,Eua Ncaa,21:00,St. Johns,Baylor,98.0,99.0,2.1,1.73,151.5,1.83,1.83,1.5,1.91,1.8
+2024-11-21,Eua Ncaa,21:00,South Carolina,Mercer,84.0,72.0,1.03,11.5,149.5,1.83,1.83,-17.5,1.83,1.83
+2024-11-21,Eua Ncaa,21:00,Texas,Syracuse,70.0,66.0,1.23,3.97,154.5,1.83,1.83,-8.5,1.73,2.0
+2024-11-21,Eua Ncaa,21:00,Kent State,Niagara,76.0,73.0,1.05,9.3,136.5,1.8,1.91,-14.5,1.8,2.0
+2024-11-21,Eua Nba,21:00,Charlotte Hornets,Detroit Pistons,123.0,121.0,1.88,1.78,219.5,1.81,1.85,-1.5,2.01,1.68
+2024-11-21,Eua Nba,21:30,Toronto Raptors,Minnesota Timberwolves,110.0,105.0,3.52,1.33,224.5,1.8,1.86,5.5,2.01,1.68
+2024-11-21,Eua Ncaa,21:30,Central Arkansas,SE Missouri State,73.0,77.0,1.95,1.72,147.5,1.8,1.86,1.5,1.83,1.83
+2024-11-21,Eua Ncaa,21:30,Stephen F. Austin,Presbyterian,55.0,58.0,1.24,3.52,137.5,1.83,1.83,-10.5,2.03,1.67
+2024-11-21,Eua Ncaa,21:30,Nevada,Vanderbilt,71.0,73.0,1.55,2.47,147.5,1.8,1.91,-4.5,1.91,1.8
+2024-11-21,Eua Ncaa,22:00,Ole Miss,Oral Roberts,100.0,68.0,1.02,13.5,0.0,0.0,0.0,-20.5,1.8,1.91
+2024-11-21,Eua Nba,22:00,San Antonio Spurs,Utah Jazz,126.0,118.0,1.57,2.51,221.5,1.83,1.98,-4.5,1.96,1.9
+2024-11-21,Eua Ncaa,22:00,Sacred Heart,Central Conn. St.,67.0,54.0,2.12,1.61,142.5,1.86,1.8,1.5,2.01,1.68
+2024-11-21,Eua Ncaa,22:00,Texas A&M-CC,Tenn. Martin,81.0,77.0,1.21,3.74,152.5,1.8,1.86,-10.5,1.95,1.72
+2024-11-21,Eua Ncaa,22:00,Valparaiso,Lindenwood,77.0,64.0,1.19,4.91,144.5,1.91,1.91,-11.5,2.0,1.71
+2024-11-21,Eua Ncaa,22:00,Wright State,Princeton,80.0,62.0,3.37,1.34,152.5,1.91,1.91,6.5,1.95,1.77
+2024-11-21,Mundo Americup,22:10,Nicarágua,México,77.0,86.0,7.85,1.04,146.5,1.81,1.85,18.5,1.92,1.75
+2024-11-21,Mundo Americup,22:10,Canadá,República Dominicana,88.0,71.0,1.04,7.85,169.5,1.88,1.78,-18.5,2.01,1.68
+2024-11-21,Eua Ncaa,23:00,Saint Josephs Hawks,Texas Tech,78.0,77.0,6.12,1.12,146.5,1.83,1.83,11.5,1.83,1.83
+2024-11-21,Eua Ncaa,23:00,New Mexico,Grambling St.,80.0,58.0,1.01,9.7,150.5,1.83,1.83,-19.5,1.95,1.72
+2024-11-21,Eua Ncaa,23:30,Washington State,East. Washington,96.0,81.0,1.16,4.31,159.5,1.8,1.86,-12.5,2.01,1.68
+2024-11-21,Eua Ncaa,23:30,Tennessee,Virginia,64.0,42.0,1.14,5.6,126.5,1.8,1.91,-10.5,1.8,1.91
