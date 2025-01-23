@@ -36,7 +36,7 @@ def find_point_five(number):
 hoje = date.today()
 amanha = hoje + timedelta(days=1)
 
-BOOKIE_1 = 'Bet365'
+BOOKIE_1 = 'Betano'
 BOOKIE_2 = '1xBet'
 BOOKIE_3 = 'Betano'
 
@@ -160,7 +160,7 @@ for link in tqdm(id_jogos, total=len(id_jogos)):
                 Odds_Under = float(celula.find_elements(By.TAG_NAME,'span')[2].text)
                 break
             else:
-                Over_Line, Odds_Over, Odds_Under = 0, 0, 0                   
+                Over_Line, Odds_Over, Odds_Under = 0, 0, 0
                 pass
 
         # Handicap
