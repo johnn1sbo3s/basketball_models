@@ -137,6 +137,8 @@ for link in tqdm(id_jogos, total=len(id_jogos)):
             else:
                 pass
 
+            print(Date, Home, Odds_H, Odds_A)
+
         if Odds_H == 0:
             continue
 
